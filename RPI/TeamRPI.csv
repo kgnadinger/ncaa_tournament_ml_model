@@ -1,0 +1,7061 @@
+,Season,TeamName,RPI
+0,1999,Duke,0.67
+1,1999,Kansas,0.657
+2,1999,Virginia,0.655
+3,1999,North Carolina,0.653
+4,1999,Houston,0.648
+5,1999,Michigan St,0.647
+6,1999,Tennessee,0.645
+7,1999,Gonzaga,0.644
+8,1999,Kentucky,0.643
+9,1999,Buffalo,0.641
+10,1999,Michigan,0.635
+11,1999,Florida St,0.634
+12,1999,Cincinnati,0.628
+13,1999,LSU,0.626
+14,1999,Purdue,0.62
+15,1999,Villanova,0.62
+16,1999,Kansas St,0.62
+17,1999,Auburn,0.619
+18,1999,Texas Tech,0.619
+19,1999,Nevada,0.615
+20,1999,Wofford,0.613
+21,1999,Washington,0.609
+22,1999,VA Commonwealth,0.609
+23,1999,Mississippi St,0.608
+24,1999,UCF,0.605
+25,1999,Wisconsin,0.605
+26,1999,Virginia Tech,0.605
+27,1999,Utah St,0.604
+28,1999,Maryland,0.602
+29,1999,UNC Greensboro,0.6
+30,1999,Iowa St,0.6
+31,1999,Marquette,0.599
+32,1999,Louisville,0.593
+33,1999,Temple,0.588
+34,1999,St Mary's CA,0.587
+35,1999,Murray St,0.582
+36,1999,Syracuse,0.581
+37,1999,New Mexico St,0.581
+38,1999,Oklahoma,0.58
+39,1999,Seton Hall,0.58
+40,1999,Toledo,0.579
+41,1999,Belmont,0.579
+42,1999,Arizona St,0.578
+43,1999,Minnesota,0.577
+44,1999,Yale,0.577
+45,1999,Oregon,0.575
+46,1999,Georgia St,0.575
+47,1999,Northeastern,0.574
+48,1999,Davidson,0.571
+49,1999,Hofstra,0.57
+50,1999,Harvard,0.569
+51,1999,TCU,0.569
+52,1999,Memphis,0.568
+53,1999,St John's,0.567
+54,1999,Iowa,0.567
+55,1999,Alabama,0.566
+56,1999,Furman,0.566
+57,1999,Baylor,0.565
+58,1999,Florida,0.565
+59,1999,Utah Valley,0.564
+60,1999,Clemson,0.563
+61,1999,Creighton,0.562
+62,1999,Old Dominion,0.562
+63,1999,UC Irvine,0.561
+64,1999,Vermont,0.561
+65,1999,Mississippi,0.561
+66,1999,BYU,0.56
+67,1999,Tennessee St,0.559
+68,1999,Texas,0.559
+69,1999,Lipscomb,0.557
+70,1999,Drake,0.557
+71,1999,Wichita St,0.557
+72,1999,Ohio St,0.555
+73,1999,Dayton,0.553
+74,1999,Montana,0.551
+75,1999,San Diego,0.551
+76,1999,Xavier,0.551
+77,1999,Ga Southern,0.551
+78,1999,Colorado,0.551
+79,1999,Bowling Green,0.551
+80,1999,St Louis,0.551
+81,1999,WKU,0.55
+82,1999,Kent,0.55
+83,1999,Liberty,0.549
+84,1999,San Diego St,0.548
+85,1999,Col Charleston,0.547
+86,1999,San Francisco,0.547
+87,1999,Colgate,0.547
+88,1999,Providence,0.547
+89,1999,Bucknell,0.545
+90,1999,Georgetown,0.545
+91,1999,Nebraska,0.545
+92,1999,Southern Miss,0.543
+93,1999,N Kentucky,0.542
+94,1999,Penn St,0.542
+95,1999,Butler,0.542
+96,1999,NC State,0.542
+97,1999,Indiana,0.541
+98,1999,South Carolina,0.539
+99,1999,Marshall,0.539
+100,1999,Radford,0.538
+101,1999,Arkansas,0.538
+102,1999,Fresno St,0.537
+103,1999,Louisiana Tech,0.537
+104,1999,UCLA,0.536
+105,1999,Oregon St,0.536
+106,1999,Tulsa,0.535
+107,1999,Lehigh,0.535
+108,1999,West Virginia,0.534
+109,1999,Penn,0.533
+110,1999,Utah,0.532
+111,1999,Stony Brook,0.532
+112,1999,C Michigan,0.532
+113,1999,Rhode Island,0.532
+114,1999,Texas St,0.531
+115,1999,Austin Peay,0.531
+116,1999,Princeton,0.531
+117,1999,Arizona,0.529
+118,1999,Brown,0.529
+119,1999,Oklahoma St,0.529
+120,1999,Loyola MD,0.528
+121,1999,Grand Canyon,0.528
+122,1999,Jacksonville St,0.528
+123,1999,St Bonaventure,0.526
+124,1999,Texas A&M,0.525
+125,1999,Abilene Chr,0.525
+126,1999,NE Omaha,0.525
+127,1999,S Dakota St,0.523
+128,1999,Missouri,0.523
+129,1999,Miami FL,0.522
+130,1999,Loyola-Chicago,0.522
+131,1999,S Illinois,0.52
+132,1999,Gardner Webb,0.518
+133,1999,NJIT,0.517
+134,1999,South Florida,0.516
+135,1999,E Michigan,0.515
+136,1999,Connecticut,0.515
+137,1999,SMU,0.514
+138,1999,UT San Antonio,0.514
+139,1999,Prairie View,0.513
+140,1999,TX-Pan Am,0.513
+141,1999,Stanford,0.512
+142,1999,Sam Houston St,0.512
+143,1999,Rutgers,0.512
+144,1999,Lafayette,0.512
+145,1999,UAB,0.511
+146,1999,Wright St,0.511
+147,1999,Northern Iowa,0.511
+148,1999,Ohio,0.511
+149,1999,Miami OH,0.509
+150,1999,UT Arlington,0.509
+151,1999,George Mason,0.508
+152,1999,Akron,0.507
+153,1999,Georgia Tech,0.506
+154,1999,USC,0.505
+155,1999,N Colorado,0.505
+156,1999,Santa Barbara,0.504
+157,1999,Bradley,0.504
+158,1999,North Texas,0.503
+159,1999,Cornell,0.503
+160,1999,Florida Intl,0.503
+161,1999,Winthrop,0.501
+162,1999,N Illinois,0.501
+163,1999,Hartford,0.5
+164,1999,Boston College,0.5
+165,1999,Duquesne,0.499
+166,1999,DePaul,0.499
+167,1999,Holy Cross,0.498
+168,1999,North Florida,0.497
+169,1999,UNLV,0.497
+170,1999,Notre Dame,0.496
+171,1999,ULM,0.496
+172,1999,N Dakota St,0.495
+173,1999,St Joseph's PA,0.495
+174,1999,CS Fullerton,0.495
+175,1999,Ball St,0.495
+176,1999,Illinois,0.495
+177,1999,Illinois St,0.495
+178,1999,Pepperdine,0.495
+179,1999,Wake Forest,0.494
+180,1999,Campbell,0.494
+181,1999,WI Green Bay,0.493
+182,1999,St Francis PA,0.493
+183,1999,Pittsburgh,0.493
+184,1999,Missouri St,0.492
+185,1999,Pacific,0.491
+186,1999,William & Mary,0.491
+187,1999,FL Atlantic,0.491
+188,1999,Indiana St,0.49
+189,1999,Santa Clara,0.49
+190,1999,UMBC,0.49
+191,1999,Georgia,0.49
+192,1999,Rider,0.488
+193,1999,E Washington,0.487
+194,1999,TX Southern,0.487
+195,1999,F Dickinson,0.486
+196,1999,CS Bakersfield,0.486
+197,1999,Northwestern,0.485
+198,1999,Iona,0.485
+199,1999,Samford,0.485
+200,1999,New Mexico,0.485
+201,1999,Delaware,0.484
+202,1999,Cal Baptist,0.484
+203,1999,Seattle,0.484
+204,1999,Weber St,0.482
+205,1999,Lamar,0.482
+206,1999,Coastal Car,0.482
+207,1999,Canisius,0.481
+208,1999,Norfolk St,0.479
+209,1999,Siena,0.479
+210,1999,Long Beach St,0.479
+211,1999,New Orleans,0.475
+212,1999,Navy,0.474
+213,1999,Oakland,0.472
+214,1999,FL Gulf Coast,0.472
+215,1999,Boise St,0.469
+216,1999,NC A&T,0.468
+217,1999,IPFW,0.468
+218,1999,Hawaii,0.468
+219,1999,IL Chicago,0.468
+220,1999,Monmouth NJ,0.467
+221,1999,SE Louisiana,0.467
+222,1999,Presbyterian,0.467
+223,1999,Morehead St,0.467
+224,1999,Vanderbilt,0.466
+225,1999,Boston Univ,0.466
+226,1999,High Point,0.466
+227,1999,Air Force,0.466
+228,1999,Robert Morris,0.465
+229,1999,Valparaiso,0.464
+230,1999,Southern Utah,0.464
+231,1999,Colorado St,0.464
+232,1999,E Kentucky,0.463
+233,1999,St Francis NY,0.462
+234,1999,Arkansas St,0.461
+235,1999,Rice,0.461
+236,1999,Drexel,0.46
+237,1999,Hampton,0.46
+238,1999,Charleston So,0.46
+239,1999,Detroit,0.46
+240,1999,Quinnipiac,0.459
+241,1999,Montana St,0.459
+242,1999,Citadel,0.458
+243,1999,American Univ,0.458
+244,1999,Army,0.458
+245,1999,IUPUI,0.458
+246,1999,MTSU,0.458
+247,1999,Richmond,0.457
+248,1999,Missouri KC,0.457
+249,1999,Brooklyn,0.457
+250,1999,Troy,0.456
+251,1999,MA Lowell,0.455
+252,1999,Mercer,0.455
+253,1999,Sacred Heart,0.455
+254,1999,Chattanooga,0.454
+255,1999,South Alabama,0.454
+256,1999,California,0.452
+257,1999,Portland St,0.452
+258,1999,James Madison,0.452
+259,1999,Columbia,0.452
+260,1999,CS Sacramento,0.451
+261,1999,Washington St,0.451
+262,1999,UNC Wilmington,0.45
+263,1999,G Washington,0.449
+264,1999,Dartmouth,0.448
+265,1999,La Salle,0.448
+266,1999,Wagner,0.448
+267,1999,Massachusetts,0.445
+268,1999,South Dakota,0.445
+269,1999,E Illinois,0.444
+270,1999,East Carolina,0.444
+271,1999,Evansville,0.444
+272,1999,Lafayette,0.444
+273,1999,Appalachian St,0.443
+274,1999,Idaho St,0.442
+275,1999,Elon,0.441
+276,1999,Loyola MD,0.441
+277,1999,NC Central,0.441
+278,1999,Grambling,0.439
+279,1999,TAM C. Christi,0.439
+280,1999,CS Northridge,0.438
+281,1999,Cent Arkansas,0.436
+282,1999,VMI,0.436
+283,1999,North Alabama,0.436
+284,1999,Ark Little Rock,0.436
+285,1999,W Michigan,0.435
+286,1999,Marist,0.435
+287,1999,Central Conn,0.434
+288,1999,UC Davis,0.434
+289,1999,Albany NY,0.434
+290,1999,Ark Pine Bluff,0.432
+291,1999,W Carolina,0.431
+292,1999,TN Martin,0.43
+293,1999,Florida A&M,0.43
+294,1999,SF Austin,0.43
+295,1999,Youngstown St,0.429
+296,1999,Mt St Mary's,0.429
+297,1999,Towson,0.429
+298,1999,North Dakota,0.429
+299,1999,Tulane,0.429
+300,1999,Northern Arizona,0.429
+301,1999,Howard,0.427
+302,1999,Oral Roberts,0.427
+303,1999,Houston Bap,0.427
+304,1999,Charlotte,0.426
+305,1999,SE Missouri St,0.424
+306,1999,Jacksonville,0.423
+307,1999,Alabama St,0.422
+308,1999,Niagara,0.422
+309,1999,Binghamton,0.422
+310,1999,Tennessee St,0.421
+311,1999,Fordham,0.421
+312,1999,Nicholls St,0.421
+313,1999,Cleveland St,0.42
+314,1999,Longwood,0.419
+315,1999,Manhattan,0.419
+316,1999,Tennessee Tech,0.414
+317,1999,Bryant,0.413
+318,1999,WI Milwaukee,0.412
+319,1999,Denver,0.411
+320,1999,St Peter's,0.41
+321,1999,Jackson St,0.41
+322,1999,Portland,0.408
+323,1999,Bethune-Cookman,0.408
+324,1999,Edwardsville,0.406
+325,1999,UC Riverside,0.406
+326,1999,Coppin St,0.406
+327,1999,Wyoming,0.404
+328,1999,Fairfield,0.403
+329,1999,UTEP,0.4
+330,1999,Northwestern LA,0.4
+331,1999,Savannah St,0.4
+332,1999,McNeese St,0.398
+333,1999,Kennesaw,0.394
+334,1999,W Illinois,0.392
+335,1999,Maine,0.389
+336,1999,Chicago St,0.386
+337,1999,San Jose St,0.38
+338,1999,Cal Poly SLO,0.374
+339,1999,Stetson,0.373
+340,1999,S Carolina St,0.373
+341,1999,Morgan St,0.371
+342,1999,Southern Univ,0.371
+343,1999,Idaho,0.369
+344,1999,Incarnate Word,0.369
+345,1999,UNC Asheville,0.366
+346,1999,Alcorn St,0.365
+347,1999,MD E Shore,0.364
+348,1999,New Hampshire,0.36
+349,1999,MS Valley St,0.356
+350,1999,Delaware St,0.349
+351,1999,SC Upstate,0.347
+352,1999,Alabama A&M,0.345
+353,2000,Duke,0.67
+354,2000,Kansas,0.657
+355,2000,Virginia,0.655
+356,2000,North Carolina,0.653
+357,2000,Houston,0.648
+358,2000,Michigan St,0.647
+359,2000,Tennessee,0.645
+360,2000,Gonzaga,0.644
+361,2000,Kentucky,0.643
+362,2000,Buffalo,0.641
+363,2000,Michigan,0.635
+364,2000,Florida St,0.634
+365,2000,Cincinnati,0.628
+366,2000,LSU,0.626
+367,2000,Purdue,0.62
+368,2000,Villanova,0.62
+369,2000,Kansas St,0.62
+370,2000,Auburn,0.619
+371,2000,Texas Tech,0.619
+372,2000,Nevada,0.615
+373,2000,Wofford,0.613
+374,2000,Washington,0.609
+375,2000,VA Commonwealth,0.609
+376,2000,Mississippi St,0.608
+377,2000,UCF,0.605
+378,2000,Wisconsin,0.605
+379,2000,Virginia Tech,0.605
+380,2000,Utah St,0.604
+381,2000,Maryland,0.602
+382,2000,UNC Greensboro,0.6
+383,2000,Iowa St,0.6
+384,2000,Marquette,0.599
+385,2000,Louisville,0.593
+386,2000,Temple,0.588
+387,2000,St Mary's CA,0.587
+388,2000,Murray St,0.582
+389,2000,Syracuse,0.581
+390,2000,New Mexico St,0.581
+391,2000,Oklahoma,0.58
+392,2000,Seton Hall,0.58
+393,2000,Toledo,0.579
+394,2000,Belmont,0.579
+395,2000,Arizona St,0.578
+396,2000,Minnesota,0.577
+397,2000,Yale,0.577
+398,2000,Oregon,0.575
+399,2000,Georgia St,0.575
+400,2000,Northeastern,0.574
+401,2000,Davidson,0.571
+402,2000,Hofstra,0.57
+403,2000,Harvard,0.569
+404,2000,TCU,0.569
+405,2000,Memphis,0.568
+406,2000,St John's,0.567
+407,2000,Iowa,0.567
+408,2000,Alabama,0.566
+409,2000,Furman,0.566
+410,2000,Baylor,0.565
+411,2000,Florida,0.565
+412,2000,Utah Valley,0.564
+413,2000,Clemson,0.563
+414,2000,Creighton,0.562
+415,2000,Old Dominion,0.562
+416,2000,UC Irvine,0.561
+417,2000,Vermont,0.561
+418,2000,Mississippi,0.561
+419,2000,BYU,0.56
+420,2000,Tennessee St,0.559
+421,2000,Texas,0.559
+422,2000,Lipscomb,0.557
+423,2000,Drake,0.557
+424,2000,Wichita St,0.557
+425,2000,Ohio St,0.555
+426,2000,Dayton,0.553
+427,2000,Montana,0.551
+428,2000,San Diego,0.551
+429,2000,Xavier,0.551
+430,2000,Ga Southern,0.551
+431,2000,Colorado,0.551
+432,2000,Bowling Green,0.551
+433,2000,St Louis,0.551
+434,2000,WKU,0.55
+435,2000,Kent,0.55
+436,2000,Liberty,0.549
+437,2000,San Diego St,0.548
+438,2000,Col Charleston,0.547
+439,2000,San Francisco,0.547
+440,2000,Colgate,0.547
+441,2000,Providence,0.547
+442,2000,Bucknell,0.545
+443,2000,Georgetown,0.545
+444,2000,Nebraska,0.545
+445,2000,Southern Miss,0.543
+446,2000,N Kentucky,0.542
+447,2000,Penn St,0.542
+448,2000,Butler,0.542
+449,2000,NC State,0.542
+450,2000,Indiana,0.541
+451,2000,South Carolina,0.539
+452,2000,Marshall,0.539
+453,2000,Radford,0.538
+454,2000,Arkansas,0.538
+455,2000,Fresno St,0.537
+456,2000,Louisiana Tech,0.537
+457,2000,UCLA,0.536
+458,2000,Oregon St,0.536
+459,2000,Tulsa,0.535
+460,2000,Lehigh,0.535
+461,2000,West Virginia,0.534
+462,2000,Penn,0.533
+463,2000,Utah,0.532
+464,2000,Stony Brook,0.532
+465,2000,C Michigan,0.532
+466,2000,Rhode Island,0.532
+467,2000,Texas St,0.531
+468,2000,Austin Peay,0.531
+469,2000,Princeton,0.531
+470,2000,Arizona,0.529
+471,2000,Brown,0.529
+472,2000,Oklahoma St,0.529
+473,2000,Loyola MD,0.528
+474,2000,Grand Canyon,0.528
+475,2000,Jacksonville St,0.528
+476,2000,St Bonaventure,0.526
+477,2000,Texas A&M,0.525
+478,2000,Abilene Chr,0.525
+479,2000,NE Omaha,0.525
+480,2000,S Dakota St,0.523
+481,2000,Missouri,0.523
+482,2000,Miami FL,0.522
+483,2000,Loyola-Chicago,0.522
+484,2000,S Illinois,0.52
+485,2000,Gardner Webb,0.518
+486,2000,NJIT,0.517
+487,2000,South Florida,0.516
+488,2000,E Michigan,0.515
+489,2000,Connecticut,0.515
+490,2000,SMU,0.514
+491,2000,UT San Antonio,0.514
+492,2000,Prairie View,0.513
+493,2000,TX-Pan Am,0.513
+494,2000,Stanford,0.512
+495,2000,Sam Houston St,0.512
+496,2000,Rutgers,0.512
+497,2000,Lafayette,0.512
+498,2000,UAB,0.511
+499,2000,Wright St,0.511
+500,2000,Northern Iowa,0.511
+501,2000,Ohio,0.511
+502,2000,Miami OH,0.509
+503,2000,UT Arlington,0.509
+504,2000,George Mason,0.508
+505,2000,Akron,0.507
+506,2000,Georgia Tech,0.506
+507,2000,USC,0.505
+508,2000,N Colorado,0.505
+509,2000,Santa Barbara,0.504
+510,2000,Bradley,0.504
+511,2000,North Texas,0.503
+512,2000,Cornell,0.503
+513,2000,Florida Intl,0.503
+514,2000,Winthrop,0.501
+515,2000,N Illinois,0.501
+516,2000,Hartford,0.5
+517,2000,Boston College,0.5
+518,2000,Duquesne,0.499
+519,2000,DePaul,0.499
+520,2000,Holy Cross,0.498
+521,2000,North Florida,0.497
+522,2000,UNLV,0.497
+523,2000,Notre Dame,0.496
+524,2000,ULM,0.496
+525,2000,N Dakota St,0.495
+526,2000,St Joseph's PA,0.495
+527,2000,CS Fullerton,0.495
+528,2000,Ball St,0.495
+529,2000,Illinois,0.495
+530,2000,Illinois St,0.495
+531,2000,Pepperdine,0.495
+532,2000,Wake Forest,0.494
+533,2000,Campbell,0.494
+534,2000,WI Green Bay,0.493
+535,2000,St Francis PA,0.493
+536,2000,Pittsburgh,0.493
+537,2000,Missouri St,0.492
+538,2000,Pacific,0.491
+539,2000,William & Mary,0.491
+540,2000,FL Atlantic,0.491
+541,2000,Indiana St,0.49
+542,2000,Santa Clara,0.49
+543,2000,UMBC,0.49
+544,2000,Georgia,0.49
+545,2000,Rider,0.488
+546,2000,E Washington,0.487
+547,2000,TX Southern,0.487
+548,2000,F Dickinson,0.486
+549,2000,CS Bakersfield,0.486
+550,2000,Northwestern,0.485
+551,2000,Iona,0.485
+552,2000,Samford,0.485
+553,2000,New Mexico,0.485
+554,2000,Delaware,0.484
+555,2000,Cal Baptist,0.484
+556,2000,Seattle,0.484
+557,2000,Weber St,0.482
+558,2000,Lamar,0.482
+559,2000,Coastal Car,0.482
+560,2000,Canisius,0.481
+561,2000,Norfolk St,0.479
+562,2000,Siena,0.479
+563,2000,Long Beach St,0.479
+564,2000,New Orleans,0.475
+565,2000,Navy,0.474
+566,2000,Oakland,0.472
+567,2000,FL Gulf Coast,0.472
+568,2000,Boise St,0.469
+569,2000,NC A&T,0.468
+570,2000,IPFW,0.468
+571,2000,Hawaii,0.468
+572,2000,IL Chicago,0.468
+573,2000,Monmouth NJ,0.467
+574,2000,SE Louisiana,0.467
+575,2000,Presbyterian,0.467
+576,2000,Morehead St,0.467
+577,2000,Vanderbilt,0.466
+578,2000,Boston Univ,0.466
+579,2000,High Point,0.466
+580,2000,Air Force,0.466
+581,2000,Robert Morris,0.465
+582,2000,Valparaiso,0.464
+583,2000,Southern Utah,0.464
+584,2000,Colorado St,0.464
+585,2000,E Kentucky,0.463
+586,2000,St Francis NY,0.462
+587,2000,Arkansas St,0.461
+588,2000,Rice,0.461
+589,2000,Drexel,0.46
+590,2000,Hampton,0.46
+591,2000,Charleston So,0.46
+592,2000,Detroit,0.46
+593,2000,Quinnipiac,0.459
+594,2000,Montana St,0.459
+595,2000,Citadel,0.458
+596,2000,American Univ,0.458
+597,2000,Army,0.458
+598,2000,IUPUI,0.458
+599,2000,MTSU,0.458
+600,2000,Richmond,0.457
+601,2000,Missouri KC,0.457
+602,2000,Brooklyn,0.457
+603,2000,Troy,0.456
+604,2000,MA Lowell,0.455
+605,2000,Mercer,0.455
+606,2000,Sacred Heart,0.455
+607,2000,Chattanooga,0.454
+608,2000,South Alabama,0.454
+609,2000,California,0.452
+610,2000,Portland St,0.452
+611,2000,James Madison,0.452
+612,2000,Columbia,0.452
+613,2000,CS Sacramento,0.451
+614,2000,Washington St,0.451
+615,2000,UNC Wilmington,0.45
+616,2000,G Washington,0.449
+617,2000,Dartmouth,0.448
+618,2000,La Salle,0.448
+619,2000,Wagner,0.448
+620,2000,Massachusetts,0.445
+621,2000,South Dakota,0.445
+622,2000,E Illinois,0.444
+623,2000,East Carolina,0.444
+624,2000,Evansville,0.444
+625,2000,Lafayette,0.444
+626,2000,Appalachian St,0.443
+627,2000,Idaho St,0.442
+628,2000,Elon,0.441
+629,2000,Loyola MD,0.441
+630,2000,NC Central,0.441
+631,2000,Grambling,0.439
+632,2000,TAM C. Christi,0.439
+633,2000,CS Northridge,0.438
+634,2000,Cent Arkansas,0.436
+635,2000,VMI,0.436
+636,2000,North Alabama,0.436
+637,2000,Ark Little Rock,0.436
+638,2000,W Michigan,0.435
+639,2000,Marist,0.435
+640,2000,Central Conn,0.434
+641,2000,UC Davis,0.434
+642,2000,Albany NY,0.434
+643,2000,Ark Pine Bluff,0.432
+644,2000,W Carolina,0.431
+645,2000,TN Martin,0.43
+646,2000,Florida A&M,0.43
+647,2000,SF Austin,0.43
+648,2000,Youngstown St,0.429
+649,2000,Mt St Mary's,0.429
+650,2000,Towson,0.429
+651,2000,North Dakota,0.429
+652,2000,Tulane,0.429
+653,2000,Northern Arizona,0.429
+654,2000,Howard,0.427
+655,2000,Oral Roberts,0.427
+656,2000,Houston Bap,0.427
+657,2000,Charlotte,0.426
+658,2000,SE Missouri St,0.424
+659,2000,Jacksonville,0.423
+660,2000,Alabama St,0.422
+661,2000,Niagara,0.422
+662,2000,Binghamton,0.422
+663,2000,Tennessee St,0.421
+664,2000,Fordham,0.421
+665,2000,Nicholls St,0.421
+666,2000,Cleveland St,0.42
+667,2000,Longwood,0.419
+668,2000,Manhattan,0.419
+669,2000,Tennessee Tech,0.414
+670,2000,Bryant,0.413
+671,2000,WI Milwaukee,0.412
+672,2000,Denver,0.411
+673,2000,St Peter's,0.41
+674,2000,Jackson St,0.41
+675,2000,Portland,0.408
+676,2000,Bethune-Cookman,0.408
+677,2000,Edwardsville,0.406
+678,2000,UC Riverside,0.406
+679,2000,Coppin St,0.406
+680,2000,Wyoming,0.404
+681,2000,Fairfield,0.403
+682,2000,UTEP,0.4
+683,2000,Northwestern LA,0.4
+684,2000,Savannah St,0.4
+685,2000,McNeese St,0.398
+686,2000,Kennesaw,0.394
+687,2000,W Illinois,0.392
+688,2000,Maine,0.389
+689,2000,Chicago St,0.386
+690,2000,San Jose St,0.38
+691,2000,Cal Poly SLO,0.374
+692,2000,Stetson,0.373
+693,2000,S Carolina St,0.373
+694,2000,Morgan St,0.371
+695,2000,Southern Univ,0.371
+696,2000,Idaho,0.369
+697,2000,Incarnate Word,0.369
+698,2000,UNC Asheville,0.366
+699,2000,Alcorn St,0.365
+700,2000,MD E Shore,0.364
+701,2000,New Hampshire,0.36
+702,2000,MS Valley St,0.356
+703,2000,Delaware St,0.349
+704,2000,SC Upstate,0.347
+705,2000,Alabama A&M,0.345
+706,2001,Duke,0.67
+707,2001,Kansas,0.657
+708,2001,Virginia,0.655
+709,2001,North Carolina,0.653
+710,2001,Houston,0.648
+711,2001,Michigan St,0.647
+712,2001,Tennessee,0.645
+713,2001,Gonzaga,0.644
+714,2001,Kentucky,0.643
+715,2001,Buffalo,0.641
+716,2001,Michigan,0.635
+717,2001,Florida St,0.634
+718,2001,Cincinnati,0.628
+719,2001,LSU,0.626
+720,2001,Purdue,0.62
+721,2001,Villanova,0.62
+722,2001,Kansas St,0.62
+723,2001,Auburn,0.619
+724,2001,Texas Tech,0.619
+725,2001,Nevada,0.615
+726,2001,Wofford,0.613
+727,2001,Washington,0.609
+728,2001,VA Commonwealth,0.609
+729,2001,Mississippi St,0.608
+730,2001,UCF,0.605
+731,2001,Wisconsin,0.605
+732,2001,Virginia Tech,0.605
+733,2001,Utah St,0.604
+734,2001,Maryland,0.602
+735,2001,UNC Greensboro,0.6
+736,2001,Iowa St,0.6
+737,2001,Marquette,0.599
+738,2001,Louisville,0.593
+739,2001,Temple,0.588
+740,2001,St Mary's CA,0.587
+741,2001,Murray St,0.582
+742,2001,Syracuse,0.581
+743,2001,New Mexico St,0.581
+744,2001,Oklahoma,0.58
+745,2001,Seton Hall,0.58
+746,2001,Toledo,0.579
+747,2001,Belmont,0.579
+748,2001,Arizona St,0.578
+749,2001,Minnesota,0.577
+750,2001,Yale,0.577
+751,2001,Oregon,0.575
+752,2001,Georgia St,0.575
+753,2001,Northeastern,0.574
+754,2001,Davidson,0.571
+755,2001,Hofstra,0.57
+756,2001,Harvard,0.569
+757,2001,TCU,0.569
+758,2001,Memphis,0.568
+759,2001,St John's,0.567
+760,2001,Iowa,0.567
+761,2001,Alabama,0.566
+762,2001,Furman,0.566
+763,2001,Baylor,0.565
+764,2001,Florida,0.565
+765,2001,Utah Valley,0.564
+766,2001,Clemson,0.563
+767,2001,Creighton,0.562
+768,2001,Old Dominion,0.562
+769,2001,UC Irvine,0.561
+770,2001,Vermont,0.561
+771,2001,Mississippi,0.561
+772,2001,BYU,0.56
+773,2001,Tennessee St,0.559
+774,2001,Texas,0.559
+775,2001,Lipscomb,0.557
+776,2001,Drake,0.557
+777,2001,Wichita St,0.557
+778,2001,Ohio St,0.555
+779,2001,Dayton,0.553
+780,2001,Montana,0.551
+781,2001,San Diego,0.551
+782,2001,Xavier,0.551
+783,2001,Ga Southern,0.551
+784,2001,Colorado,0.551
+785,2001,Bowling Green,0.551
+786,2001,St Louis,0.551
+787,2001,WKU,0.55
+788,2001,Kent,0.55
+789,2001,Liberty,0.549
+790,2001,San Diego St,0.548
+791,2001,Col Charleston,0.547
+792,2001,San Francisco,0.547
+793,2001,Colgate,0.547
+794,2001,Providence,0.547
+795,2001,Bucknell,0.545
+796,2001,Georgetown,0.545
+797,2001,Nebraska,0.545
+798,2001,Southern Miss,0.543
+799,2001,N Kentucky,0.542
+800,2001,Penn St,0.542
+801,2001,Butler,0.542
+802,2001,NC State,0.542
+803,2001,Indiana,0.541
+804,2001,South Carolina,0.539
+805,2001,Marshall,0.539
+806,2001,Radford,0.538
+807,2001,Arkansas,0.538
+808,2001,Fresno St,0.537
+809,2001,Louisiana Tech,0.537
+810,2001,UCLA,0.536
+811,2001,Oregon St,0.536
+812,2001,Tulsa,0.535
+813,2001,Lehigh,0.535
+814,2001,West Virginia,0.534
+815,2001,Penn,0.533
+816,2001,Utah,0.532
+817,2001,Stony Brook,0.532
+818,2001,C Michigan,0.532
+819,2001,Rhode Island,0.532
+820,2001,Texas St,0.531
+821,2001,Austin Peay,0.531
+822,2001,Princeton,0.531
+823,2001,Arizona,0.529
+824,2001,Brown,0.529
+825,2001,Oklahoma St,0.529
+826,2001,Loyola MD,0.528
+827,2001,Grand Canyon,0.528
+828,2001,Jacksonville St,0.528
+829,2001,St Bonaventure,0.526
+830,2001,Texas A&M,0.525
+831,2001,Abilene Chr,0.525
+832,2001,NE Omaha,0.525
+833,2001,S Dakota St,0.523
+834,2001,Missouri,0.523
+835,2001,Miami FL,0.522
+836,2001,Loyola-Chicago,0.522
+837,2001,S Illinois,0.52
+838,2001,Gardner Webb,0.518
+839,2001,NJIT,0.517
+840,2001,South Florida,0.516
+841,2001,E Michigan,0.515
+842,2001,Connecticut,0.515
+843,2001,SMU,0.514
+844,2001,UT San Antonio,0.514
+845,2001,Prairie View,0.513
+846,2001,TX-Pan Am,0.513
+847,2001,Stanford,0.512
+848,2001,Sam Houston St,0.512
+849,2001,Rutgers,0.512
+850,2001,Lafayette,0.512
+851,2001,UAB,0.511
+852,2001,Wright St,0.511
+853,2001,Northern Iowa,0.511
+854,2001,Ohio,0.511
+855,2001,Miami OH,0.509
+856,2001,UT Arlington,0.509
+857,2001,George Mason,0.508
+858,2001,Akron,0.507
+859,2001,Georgia Tech,0.506
+860,2001,USC,0.505
+861,2001,N Colorado,0.505
+862,2001,Santa Barbara,0.504
+863,2001,Bradley,0.504
+864,2001,North Texas,0.503
+865,2001,Cornell,0.503
+866,2001,Florida Intl,0.503
+867,2001,Winthrop,0.501
+868,2001,N Illinois,0.501
+869,2001,Hartford,0.5
+870,2001,Boston College,0.5
+871,2001,Duquesne,0.499
+872,2001,DePaul,0.499
+873,2001,Holy Cross,0.498
+874,2001,North Florida,0.497
+875,2001,UNLV,0.497
+876,2001,Notre Dame,0.496
+877,2001,ULM,0.496
+878,2001,N Dakota St,0.495
+879,2001,St Joseph's PA,0.495
+880,2001,CS Fullerton,0.495
+881,2001,Ball St,0.495
+882,2001,Illinois,0.495
+883,2001,Illinois St,0.495
+884,2001,Pepperdine,0.495
+885,2001,Wake Forest,0.494
+886,2001,Campbell,0.494
+887,2001,WI Green Bay,0.493
+888,2001,St Francis PA,0.493
+889,2001,Pittsburgh,0.493
+890,2001,Missouri St,0.492
+891,2001,Pacific,0.491
+892,2001,William & Mary,0.491
+893,2001,FL Atlantic,0.491
+894,2001,Indiana St,0.49
+895,2001,Santa Clara,0.49
+896,2001,UMBC,0.49
+897,2001,Georgia,0.49
+898,2001,Rider,0.488
+899,2001,E Washington,0.487
+900,2001,TX Southern,0.487
+901,2001,F Dickinson,0.486
+902,2001,CS Bakersfield,0.486
+903,2001,Northwestern,0.485
+904,2001,Iona,0.485
+905,2001,Samford,0.485
+906,2001,New Mexico,0.485
+907,2001,Delaware,0.484
+908,2001,Cal Baptist,0.484
+909,2001,Seattle,0.484
+910,2001,Weber St,0.482
+911,2001,Lamar,0.482
+912,2001,Coastal Car,0.482
+913,2001,Canisius,0.481
+914,2001,Norfolk St,0.479
+915,2001,Siena,0.479
+916,2001,Long Beach St,0.479
+917,2001,New Orleans,0.475
+918,2001,Navy,0.474
+919,2001,Oakland,0.472
+920,2001,FL Gulf Coast,0.472
+921,2001,Boise St,0.469
+922,2001,NC A&T,0.468
+923,2001,IPFW,0.468
+924,2001,Hawaii,0.468
+925,2001,IL Chicago,0.468
+926,2001,Monmouth NJ,0.467
+927,2001,SE Louisiana,0.467
+928,2001,Presbyterian,0.467
+929,2001,Morehead St,0.467
+930,2001,Vanderbilt,0.466
+931,2001,Boston Univ,0.466
+932,2001,High Point,0.466
+933,2001,Air Force,0.466
+934,2001,Robert Morris,0.465
+935,2001,Valparaiso,0.464
+936,2001,Southern Utah,0.464
+937,2001,Colorado St,0.464
+938,2001,E Kentucky,0.463
+939,2001,St Francis NY,0.462
+940,2001,Arkansas St,0.461
+941,2001,Rice,0.461
+942,2001,Drexel,0.46
+943,2001,Hampton,0.46
+944,2001,Charleston So,0.46
+945,2001,Detroit,0.46
+946,2001,Quinnipiac,0.459
+947,2001,Montana St,0.459
+948,2001,Citadel,0.458
+949,2001,American Univ,0.458
+950,2001,Army,0.458
+951,2001,IUPUI,0.458
+952,2001,MTSU,0.458
+953,2001,Richmond,0.457
+954,2001,Missouri KC,0.457
+955,2001,Brooklyn,0.457
+956,2001,Troy,0.456
+957,2001,MA Lowell,0.455
+958,2001,Mercer,0.455
+959,2001,Sacred Heart,0.455
+960,2001,Chattanooga,0.454
+961,2001,South Alabama,0.454
+962,2001,California,0.452
+963,2001,Portland St,0.452
+964,2001,James Madison,0.452
+965,2001,Columbia,0.452
+966,2001,CS Sacramento,0.451
+967,2001,Washington St,0.451
+968,2001,UNC Wilmington,0.45
+969,2001,G Washington,0.449
+970,2001,Dartmouth,0.448
+971,2001,La Salle,0.448
+972,2001,Wagner,0.448
+973,2001,Massachusetts,0.445
+974,2001,South Dakota,0.445
+975,2001,E Illinois,0.444
+976,2001,East Carolina,0.444
+977,2001,Evansville,0.444
+978,2001,Lafayette,0.444
+979,2001,Appalachian St,0.443
+980,2001,Idaho St,0.442
+981,2001,Elon,0.441
+982,2001,Loyola MD,0.441
+983,2001,NC Central,0.441
+984,2001,Grambling,0.439
+985,2001,TAM C. Christi,0.439
+986,2001,CS Northridge,0.438
+987,2001,Cent Arkansas,0.436
+988,2001,VMI,0.436
+989,2001,North Alabama,0.436
+990,2001,Ark Little Rock,0.436
+991,2001,W Michigan,0.435
+992,2001,Marist,0.435
+993,2001,Central Conn,0.434
+994,2001,UC Davis,0.434
+995,2001,Albany NY,0.434
+996,2001,Ark Pine Bluff,0.432
+997,2001,W Carolina,0.431
+998,2001,TN Martin,0.43
+999,2001,Florida A&M,0.43
+1000,2001,SF Austin,0.43
+1001,2001,Youngstown St,0.429
+1002,2001,Mt St Mary's,0.429
+1003,2001,Towson,0.429
+1004,2001,North Dakota,0.429
+1005,2001,Tulane,0.429
+1006,2001,Northern Arizona,0.429
+1007,2001,Howard,0.427
+1008,2001,Oral Roberts,0.427
+1009,2001,Houston Bap,0.427
+1010,2001,Charlotte,0.426
+1011,2001,SE Missouri St,0.424
+1012,2001,Jacksonville,0.423
+1013,2001,Alabama St,0.422
+1014,2001,Niagara,0.422
+1015,2001,Binghamton,0.422
+1016,2001,Tennessee St,0.421
+1017,2001,Fordham,0.421
+1018,2001,Nicholls St,0.421
+1019,2001,Cleveland St,0.42
+1020,2001,Longwood,0.419
+1021,2001,Manhattan,0.419
+1022,2001,Tennessee Tech,0.414
+1023,2001,Bryant,0.413
+1024,2001,WI Milwaukee,0.412
+1025,2001,Denver,0.411
+1026,2001,St Peter's,0.41
+1027,2001,Jackson St,0.41
+1028,2001,Portland,0.408
+1029,2001,Bethune-Cookman,0.408
+1030,2001,Edwardsville,0.406
+1031,2001,UC Riverside,0.406
+1032,2001,Coppin St,0.406
+1033,2001,Wyoming,0.404
+1034,2001,Fairfield,0.403
+1035,2001,UTEP,0.4
+1036,2001,Northwestern LA,0.4
+1037,2001,Savannah St,0.4
+1038,2001,McNeese St,0.398
+1039,2001,Kennesaw,0.394
+1040,2001,W Illinois,0.392
+1041,2001,Maine,0.389
+1042,2001,Chicago St,0.386
+1043,2001,San Jose St,0.38
+1044,2001,Cal Poly SLO,0.374
+1045,2001,Stetson,0.373
+1046,2001,S Carolina St,0.373
+1047,2001,Morgan St,0.371
+1048,2001,Southern Univ,0.371
+1049,2001,Idaho,0.369
+1050,2001,Incarnate Word,0.369
+1051,2001,UNC Asheville,0.366
+1052,2001,Alcorn St,0.365
+1053,2001,MD E Shore,0.364
+1054,2001,New Hampshire,0.36
+1055,2001,MS Valley St,0.356
+1056,2001,Delaware St,0.349
+1057,2001,SC Upstate,0.347
+1058,2001,Alabama A&M,0.345
+1059,2002,Duke,0.67
+1060,2002,Kansas,0.657
+1061,2002,Virginia,0.655
+1062,2002,North Carolina,0.653
+1063,2002,Houston,0.648
+1064,2002,Michigan St,0.647
+1065,2002,Tennessee,0.645
+1066,2002,Gonzaga,0.644
+1067,2002,Kentucky,0.643
+1068,2002,Buffalo,0.641
+1069,2002,Michigan,0.635
+1070,2002,Florida St,0.634
+1071,2002,Cincinnati,0.628
+1072,2002,LSU,0.626
+1073,2002,Purdue,0.62
+1074,2002,Villanova,0.62
+1075,2002,Kansas St,0.62
+1076,2002,Auburn,0.619
+1077,2002,Texas Tech,0.619
+1078,2002,Nevada,0.615
+1079,2002,Wofford,0.613
+1080,2002,Washington,0.609
+1081,2002,VA Commonwealth,0.609
+1082,2002,Mississippi St,0.608
+1083,2002,UCF,0.605
+1084,2002,Wisconsin,0.605
+1085,2002,Virginia Tech,0.605
+1086,2002,Utah St,0.604
+1087,2002,Maryland,0.602
+1088,2002,UNC Greensboro,0.6
+1089,2002,Iowa St,0.6
+1090,2002,Marquette,0.599
+1091,2002,Louisville,0.593
+1092,2002,Temple,0.588
+1093,2002,St Mary's CA,0.587
+1094,2002,Murray St,0.582
+1095,2002,Syracuse,0.581
+1096,2002,New Mexico St,0.581
+1097,2002,Oklahoma,0.58
+1098,2002,Seton Hall,0.58
+1099,2002,Toledo,0.579
+1100,2002,Belmont,0.579
+1101,2002,Arizona St,0.578
+1102,2002,Minnesota,0.577
+1103,2002,Yale,0.577
+1104,2002,Oregon,0.575
+1105,2002,Georgia St,0.575
+1106,2002,Northeastern,0.574
+1107,2002,Davidson,0.571
+1108,2002,Hofstra,0.57
+1109,2002,Harvard,0.569
+1110,2002,TCU,0.569
+1111,2002,Memphis,0.568
+1112,2002,St John's,0.567
+1113,2002,Iowa,0.567
+1114,2002,Alabama,0.566
+1115,2002,Furman,0.566
+1116,2002,Baylor,0.565
+1117,2002,Florida,0.565
+1118,2002,Utah Valley,0.564
+1119,2002,Clemson,0.563
+1120,2002,Creighton,0.562
+1121,2002,Old Dominion,0.562
+1122,2002,UC Irvine,0.561
+1123,2002,Vermont,0.561
+1124,2002,Mississippi,0.561
+1125,2002,BYU,0.56
+1126,2002,Tennessee St,0.559
+1127,2002,Texas,0.559
+1128,2002,Lipscomb,0.557
+1129,2002,Drake,0.557
+1130,2002,Wichita St,0.557
+1131,2002,Ohio St,0.555
+1132,2002,Dayton,0.553
+1133,2002,Montana,0.551
+1134,2002,San Diego,0.551
+1135,2002,Xavier,0.551
+1136,2002,Ga Southern,0.551
+1137,2002,Colorado,0.551
+1138,2002,Bowling Green,0.551
+1139,2002,St Louis,0.551
+1140,2002,WKU,0.55
+1141,2002,Kent,0.55
+1142,2002,Liberty,0.549
+1143,2002,San Diego St,0.548
+1144,2002,Col Charleston,0.547
+1145,2002,San Francisco,0.547
+1146,2002,Colgate,0.547
+1147,2002,Providence,0.547
+1148,2002,Bucknell,0.545
+1149,2002,Georgetown,0.545
+1150,2002,Nebraska,0.545
+1151,2002,Southern Miss,0.543
+1152,2002,N Kentucky,0.542
+1153,2002,Penn St,0.542
+1154,2002,Butler,0.542
+1155,2002,NC State,0.542
+1156,2002,Indiana,0.541
+1157,2002,South Carolina,0.539
+1158,2002,Marshall,0.539
+1159,2002,Radford,0.538
+1160,2002,Arkansas,0.538
+1161,2002,Fresno St,0.537
+1162,2002,Louisiana Tech,0.537
+1163,2002,UCLA,0.536
+1164,2002,Oregon St,0.536
+1165,2002,Tulsa,0.535
+1166,2002,Lehigh,0.535
+1167,2002,West Virginia,0.534
+1168,2002,Penn,0.533
+1169,2002,Utah,0.532
+1170,2002,Stony Brook,0.532
+1171,2002,C Michigan,0.532
+1172,2002,Rhode Island,0.532
+1173,2002,Texas St,0.531
+1174,2002,Austin Peay,0.531
+1175,2002,Princeton,0.531
+1176,2002,Arizona,0.529
+1177,2002,Brown,0.529
+1178,2002,Oklahoma St,0.529
+1179,2002,Loyola MD,0.528
+1180,2002,Grand Canyon,0.528
+1181,2002,Jacksonville St,0.528
+1182,2002,St Bonaventure,0.526
+1183,2002,Texas A&M,0.525
+1184,2002,Abilene Chr,0.525
+1185,2002,NE Omaha,0.525
+1186,2002,S Dakota St,0.523
+1187,2002,Missouri,0.523
+1188,2002,Miami FL,0.522
+1189,2002,Loyola-Chicago,0.522
+1190,2002,S Illinois,0.52
+1191,2002,Gardner Webb,0.518
+1192,2002,NJIT,0.517
+1193,2002,South Florida,0.516
+1194,2002,E Michigan,0.515
+1195,2002,Connecticut,0.515
+1196,2002,SMU,0.514
+1197,2002,UT San Antonio,0.514
+1198,2002,Prairie View,0.513
+1199,2002,TX-Pan Am,0.513
+1200,2002,Stanford,0.512
+1201,2002,Sam Houston St,0.512
+1202,2002,Rutgers,0.512
+1203,2002,Lafayette,0.512
+1204,2002,UAB,0.511
+1205,2002,Wright St,0.511
+1206,2002,Northern Iowa,0.511
+1207,2002,Ohio,0.511
+1208,2002,Miami OH,0.509
+1209,2002,UT Arlington,0.509
+1210,2002,George Mason,0.508
+1211,2002,Akron,0.507
+1212,2002,Georgia Tech,0.506
+1213,2002,USC,0.505
+1214,2002,N Colorado,0.505
+1215,2002,Santa Barbara,0.504
+1216,2002,Bradley,0.504
+1217,2002,North Texas,0.503
+1218,2002,Cornell,0.503
+1219,2002,Florida Intl,0.503
+1220,2002,Winthrop,0.501
+1221,2002,N Illinois,0.501
+1222,2002,Hartford,0.5
+1223,2002,Boston College,0.5
+1224,2002,Duquesne,0.499
+1225,2002,DePaul,0.499
+1226,2002,Holy Cross,0.498
+1227,2002,North Florida,0.497
+1228,2002,UNLV,0.497
+1229,2002,Notre Dame,0.496
+1230,2002,ULM,0.496
+1231,2002,N Dakota St,0.495
+1232,2002,St Joseph's PA,0.495
+1233,2002,CS Fullerton,0.495
+1234,2002,Ball St,0.495
+1235,2002,Illinois,0.495
+1236,2002,Illinois St,0.495
+1237,2002,Pepperdine,0.495
+1238,2002,Wake Forest,0.494
+1239,2002,Campbell,0.494
+1240,2002,WI Green Bay,0.493
+1241,2002,St Francis PA,0.493
+1242,2002,Pittsburgh,0.493
+1243,2002,Missouri St,0.492
+1244,2002,Pacific,0.491
+1245,2002,William & Mary,0.491
+1246,2002,FL Atlantic,0.491
+1247,2002,Indiana St,0.49
+1248,2002,Santa Clara,0.49
+1249,2002,UMBC,0.49
+1250,2002,Georgia,0.49
+1251,2002,Rider,0.488
+1252,2002,E Washington,0.487
+1253,2002,TX Southern,0.487
+1254,2002,F Dickinson,0.486
+1255,2002,CS Bakersfield,0.486
+1256,2002,Northwestern,0.485
+1257,2002,Iona,0.485
+1258,2002,Samford,0.485
+1259,2002,New Mexico,0.485
+1260,2002,Delaware,0.484
+1261,2002,Cal Baptist,0.484
+1262,2002,Seattle,0.484
+1263,2002,Weber St,0.482
+1264,2002,Lamar,0.482
+1265,2002,Coastal Car,0.482
+1266,2002,Canisius,0.481
+1267,2002,Norfolk St,0.479
+1268,2002,Siena,0.479
+1269,2002,Long Beach St,0.479
+1270,2002,New Orleans,0.475
+1271,2002,Navy,0.474
+1272,2002,Oakland,0.472
+1273,2002,FL Gulf Coast,0.472
+1274,2002,Boise St,0.469
+1275,2002,NC A&T,0.468
+1276,2002,IPFW,0.468
+1277,2002,Hawaii,0.468
+1278,2002,IL Chicago,0.468
+1279,2002,Monmouth NJ,0.467
+1280,2002,SE Louisiana,0.467
+1281,2002,Presbyterian,0.467
+1282,2002,Morehead St,0.467
+1283,2002,Vanderbilt,0.466
+1284,2002,Boston Univ,0.466
+1285,2002,High Point,0.466
+1286,2002,Air Force,0.466
+1287,2002,Robert Morris,0.465
+1288,2002,Valparaiso,0.464
+1289,2002,Southern Utah,0.464
+1290,2002,Colorado St,0.464
+1291,2002,E Kentucky,0.463
+1292,2002,St Francis NY,0.462
+1293,2002,Arkansas St,0.461
+1294,2002,Rice,0.461
+1295,2002,Drexel,0.46
+1296,2002,Hampton,0.46
+1297,2002,Charleston So,0.46
+1298,2002,Detroit,0.46
+1299,2002,Quinnipiac,0.459
+1300,2002,Montana St,0.459
+1301,2002,Citadel,0.458
+1302,2002,American Univ,0.458
+1303,2002,Army,0.458
+1304,2002,IUPUI,0.458
+1305,2002,MTSU,0.458
+1306,2002,Richmond,0.457
+1307,2002,Missouri KC,0.457
+1308,2002,Brooklyn,0.457
+1309,2002,Troy,0.456
+1310,2002,MA Lowell,0.455
+1311,2002,Mercer,0.455
+1312,2002,Sacred Heart,0.455
+1313,2002,Chattanooga,0.454
+1314,2002,South Alabama,0.454
+1315,2002,California,0.452
+1316,2002,Portland St,0.452
+1317,2002,James Madison,0.452
+1318,2002,Columbia,0.452
+1319,2002,CS Sacramento,0.451
+1320,2002,Washington St,0.451
+1321,2002,UNC Wilmington,0.45
+1322,2002,G Washington,0.449
+1323,2002,Dartmouth,0.448
+1324,2002,La Salle,0.448
+1325,2002,Wagner,0.448
+1326,2002,Massachusetts,0.445
+1327,2002,South Dakota,0.445
+1328,2002,E Illinois,0.444
+1329,2002,East Carolina,0.444
+1330,2002,Evansville,0.444
+1331,2002,Lafayette,0.444
+1332,2002,Appalachian St,0.443
+1333,2002,Idaho St,0.442
+1334,2002,Elon,0.441
+1335,2002,Loyola MD,0.441
+1336,2002,NC Central,0.441
+1337,2002,Grambling,0.439
+1338,2002,TAM C. Christi,0.439
+1339,2002,CS Northridge,0.438
+1340,2002,Cent Arkansas,0.436
+1341,2002,VMI,0.436
+1342,2002,North Alabama,0.436
+1343,2002,Ark Little Rock,0.436
+1344,2002,W Michigan,0.435
+1345,2002,Marist,0.435
+1346,2002,Central Conn,0.434
+1347,2002,UC Davis,0.434
+1348,2002,Albany NY,0.434
+1349,2002,Ark Pine Bluff,0.432
+1350,2002,W Carolina,0.431
+1351,2002,TN Martin,0.43
+1352,2002,Florida A&M,0.43
+1353,2002,SF Austin,0.43
+1354,2002,Youngstown St,0.429
+1355,2002,Mt St Mary's,0.429
+1356,2002,Towson,0.429
+1357,2002,North Dakota,0.429
+1358,2002,Tulane,0.429
+1359,2002,Northern Arizona,0.429
+1360,2002,Howard,0.427
+1361,2002,Oral Roberts,0.427
+1362,2002,Houston Bap,0.427
+1363,2002,Charlotte,0.426
+1364,2002,SE Missouri St,0.424
+1365,2002,Jacksonville,0.423
+1366,2002,Alabama St,0.422
+1367,2002,Niagara,0.422
+1368,2002,Binghamton,0.422
+1369,2002,Tennessee St,0.421
+1370,2002,Fordham,0.421
+1371,2002,Nicholls St,0.421
+1372,2002,Cleveland St,0.42
+1373,2002,Longwood,0.419
+1374,2002,Manhattan,0.419
+1375,2002,Tennessee Tech,0.414
+1376,2002,Bryant,0.413
+1377,2002,WI Milwaukee,0.412
+1378,2002,Denver,0.411
+1379,2002,St Peter's,0.41
+1380,2002,Jackson St,0.41
+1381,2002,Portland,0.408
+1382,2002,Bethune-Cookman,0.408
+1383,2002,Edwardsville,0.406
+1384,2002,UC Riverside,0.406
+1385,2002,Coppin St,0.406
+1386,2002,Wyoming,0.404
+1387,2002,Fairfield,0.403
+1388,2002,UTEP,0.4
+1389,2002,Northwestern LA,0.4
+1390,2002,Savannah St,0.4
+1391,2002,McNeese St,0.398
+1392,2002,Kennesaw,0.394
+1393,2002,W Illinois,0.392
+1394,2002,Maine,0.389
+1395,2002,Chicago St,0.386
+1396,2002,San Jose St,0.38
+1397,2002,Cal Poly SLO,0.374
+1398,2002,Stetson,0.373
+1399,2002,S Carolina St,0.373
+1400,2002,Morgan St,0.371
+1401,2002,Southern Univ,0.371
+1402,2002,Idaho,0.369
+1403,2002,Incarnate Word,0.369
+1404,2002,UNC Asheville,0.366
+1405,2002,Alcorn St,0.365
+1406,2002,MD E Shore,0.364
+1407,2002,New Hampshire,0.36
+1408,2002,MS Valley St,0.356
+1409,2002,Delaware St,0.349
+1410,2002,SC Upstate,0.347
+1411,2002,Alabama A&M,0.345
+1412,2003,Duke,0.67
+1413,2003,Kansas,0.657
+1414,2003,Virginia,0.655
+1415,2003,North Carolina,0.653
+1416,2003,Houston,0.648
+1417,2003,Michigan St,0.647
+1418,2003,Tennessee,0.645
+1419,2003,Gonzaga,0.644
+1420,2003,Kentucky,0.643
+1421,2003,Buffalo,0.641
+1422,2003,Michigan,0.635
+1423,2003,Florida St,0.634
+1424,2003,Cincinnati,0.628
+1425,2003,LSU,0.626
+1426,2003,Purdue,0.62
+1427,2003,Villanova,0.62
+1428,2003,Kansas St,0.62
+1429,2003,Auburn,0.619
+1430,2003,Texas Tech,0.619
+1431,2003,Nevada,0.615
+1432,2003,Wofford,0.613
+1433,2003,Washington,0.609
+1434,2003,VA Commonwealth,0.609
+1435,2003,Mississippi St,0.608
+1436,2003,UCF,0.605
+1437,2003,Wisconsin,0.605
+1438,2003,Virginia Tech,0.605
+1439,2003,Utah St,0.604
+1440,2003,Maryland,0.602
+1441,2003,UNC Greensboro,0.6
+1442,2003,Iowa St,0.6
+1443,2003,Marquette,0.599
+1444,2003,Louisville,0.593
+1445,2003,Temple,0.588
+1446,2003,St Mary's CA,0.587
+1447,2003,Murray St,0.582
+1448,2003,Syracuse,0.581
+1449,2003,New Mexico St,0.581
+1450,2003,Oklahoma,0.58
+1451,2003,Seton Hall,0.58
+1452,2003,Toledo,0.579
+1453,2003,Belmont,0.579
+1454,2003,Arizona St,0.578
+1455,2003,Minnesota,0.577
+1456,2003,Yale,0.577
+1457,2003,Oregon,0.575
+1458,2003,Georgia St,0.575
+1459,2003,Northeastern,0.574
+1460,2003,Davidson,0.571
+1461,2003,Hofstra,0.57
+1462,2003,Harvard,0.569
+1463,2003,TCU,0.569
+1464,2003,Memphis,0.568
+1465,2003,St John's,0.567
+1466,2003,Iowa,0.567
+1467,2003,Alabama,0.566
+1468,2003,Furman,0.566
+1469,2003,Baylor,0.565
+1470,2003,Florida,0.565
+1471,2003,Utah Valley,0.564
+1472,2003,Clemson,0.563
+1473,2003,Creighton,0.562
+1474,2003,Old Dominion,0.562
+1475,2003,UC Irvine,0.561
+1476,2003,Vermont,0.561
+1477,2003,Mississippi,0.561
+1478,2003,BYU,0.56
+1479,2003,Tennessee St,0.559
+1480,2003,Texas,0.559
+1481,2003,Lipscomb,0.557
+1482,2003,Drake,0.557
+1483,2003,Wichita St,0.557
+1484,2003,Ohio St,0.555
+1485,2003,Dayton,0.553
+1486,2003,Montana,0.551
+1487,2003,San Diego,0.551
+1488,2003,Xavier,0.551
+1489,2003,Ga Southern,0.551
+1490,2003,Colorado,0.551
+1491,2003,Bowling Green,0.551
+1492,2003,St Louis,0.551
+1493,2003,WKU,0.55
+1494,2003,Kent,0.55
+1495,2003,Liberty,0.549
+1496,2003,San Diego St,0.548
+1497,2003,Col Charleston,0.547
+1498,2003,San Francisco,0.547
+1499,2003,Colgate,0.547
+1500,2003,Providence,0.547
+1501,2003,Bucknell,0.545
+1502,2003,Georgetown,0.545
+1503,2003,Nebraska,0.545
+1504,2003,Southern Miss,0.543
+1505,2003,N Kentucky,0.542
+1506,2003,Penn St,0.542
+1507,2003,Butler,0.542
+1508,2003,NC State,0.542
+1509,2003,Indiana,0.541
+1510,2003,South Carolina,0.539
+1511,2003,Marshall,0.539
+1512,2003,Radford,0.538
+1513,2003,Arkansas,0.538
+1514,2003,Fresno St,0.537
+1515,2003,Louisiana Tech,0.537
+1516,2003,UCLA,0.536
+1517,2003,Oregon St,0.536
+1518,2003,Tulsa,0.535
+1519,2003,Lehigh,0.535
+1520,2003,West Virginia,0.534
+1521,2003,Penn,0.533
+1522,2003,Utah,0.532
+1523,2003,Stony Brook,0.532
+1524,2003,C Michigan,0.532
+1525,2003,Rhode Island,0.532
+1526,2003,Texas St,0.531
+1527,2003,Austin Peay,0.531
+1528,2003,Princeton,0.531
+1529,2003,Arizona,0.529
+1530,2003,Brown,0.529
+1531,2003,Oklahoma St,0.529
+1532,2003,Loyola MD,0.528
+1533,2003,Grand Canyon,0.528
+1534,2003,Jacksonville St,0.528
+1535,2003,St Bonaventure,0.526
+1536,2003,Texas A&M,0.525
+1537,2003,Abilene Chr,0.525
+1538,2003,NE Omaha,0.525
+1539,2003,S Dakota St,0.523
+1540,2003,Missouri,0.523
+1541,2003,Miami FL,0.522
+1542,2003,Loyola-Chicago,0.522
+1543,2003,S Illinois,0.52
+1544,2003,Gardner Webb,0.518
+1545,2003,NJIT,0.517
+1546,2003,South Florida,0.516
+1547,2003,E Michigan,0.515
+1548,2003,Connecticut,0.515
+1549,2003,SMU,0.514
+1550,2003,UT San Antonio,0.514
+1551,2003,Prairie View,0.513
+1552,2003,TX-Pan Am,0.513
+1553,2003,Stanford,0.512
+1554,2003,Sam Houston St,0.512
+1555,2003,Rutgers,0.512
+1556,2003,Lafayette,0.512
+1557,2003,UAB,0.511
+1558,2003,Wright St,0.511
+1559,2003,Northern Iowa,0.511
+1560,2003,Ohio,0.511
+1561,2003,Miami OH,0.509
+1562,2003,UT Arlington,0.509
+1563,2003,George Mason,0.508
+1564,2003,Akron,0.507
+1565,2003,Georgia Tech,0.506
+1566,2003,USC,0.505
+1567,2003,N Colorado,0.505
+1568,2003,Santa Barbara,0.504
+1569,2003,Bradley,0.504
+1570,2003,North Texas,0.503
+1571,2003,Cornell,0.503
+1572,2003,Florida Intl,0.503
+1573,2003,Winthrop,0.501
+1574,2003,N Illinois,0.501
+1575,2003,Hartford,0.5
+1576,2003,Boston College,0.5
+1577,2003,Duquesne,0.499
+1578,2003,DePaul,0.499
+1579,2003,Holy Cross,0.498
+1580,2003,North Florida,0.497
+1581,2003,UNLV,0.497
+1582,2003,Notre Dame,0.496
+1583,2003,ULM,0.496
+1584,2003,N Dakota St,0.495
+1585,2003,St Joseph's PA,0.495
+1586,2003,CS Fullerton,0.495
+1587,2003,Ball St,0.495
+1588,2003,Illinois,0.495
+1589,2003,Illinois St,0.495
+1590,2003,Pepperdine,0.495
+1591,2003,Wake Forest,0.494
+1592,2003,Campbell,0.494
+1593,2003,WI Green Bay,0.493
+1594,2003,St Francis PA,0.493
+1595,2003,Pittsburgh,0.493
+1596,2003,Missouri St,0.492
+1597,2003,Pacific,0.491
+1598,2003,William & Mary,0.491
+1599,2003,FL Atlantic,0.491
+1600,2003,Indiana St,0.49
+1601,2003,Santa Clara,0.49
+1602,2003,UMBC,0.49
+1603,2003,Georgia,0.49
+1604,2003,Rider,0.488
+1605,2003,E Washington,0.487
+1606,2003,TX Southern,0.487
+1607,2003,F Dickinson,0.486
+1608,2003,CS Bakersfield,0.486
+1609,2003,Northwestern,0.485
+1610,2003,Iona,0.485
+1611,2003,Samford,0.485
+1612,2003,New Mexico,0.485
+1613,2003,Delaware,0.484
+1614,2003,Cal Baptist,0.484
+1615,2003,Seattle,0.484
+1616,2003,Weber St,0.482
+1617,2003,Lamar,0.482
+1618,2003,Coastal Car,0.482
+1619,2003,Canisius,0.481
+1620,2003,Norfolk St,0.479
+1621,2003,Siena,0.479
+1622,2003,Long Beach St,0.479
+1623,2003,New Orleans,0.475
+1624,2003,Navy,0.474
+1625,2003,Oakland,0.472
+1626,2003,FL Gulf Coast,0.472
+1627,2003,Boise St,0.469
+1628,2003,NC A&T,0.468
+1629,2003,IPFW,0.468
+1630,2003,Hawaii,0.468
+1631,2003,IL Chicago,0.468
+1632,2003,Monmouth NJ,0.467
+1633,2003,SE Louisiana,0.467
+1634,2003,Presbyterian,0.467
+1635,2003,Morehead St,0.467
+1636,2003,Vanderbilt,0.466
+1637,2003,Boston Univ,0.466
+1638,2003,High Point,0.466
+1639,2003,Air Force,0.466
+1640,2003,Robert Morris,0.465
+1641,2003,Valparaiso,0.464
+1642,2003,Southern Utah,0.464
+1643,2003,Colorado St,0.464
+1644,2003,E Kentucky,0.463
+1645,2003,St Francis NY,0.462
+1646,2003,Arkansas St,0.461
+1647,2003,Rice,0.461
+1648,2003,Drexel,0.46
+1649,2003,Hampton,0.46
+1650,2003,Charleston So,0.46
+1651,2003,Detroit,0.46
+1652,2003,Quinnipiac,0.459
+1653,2003,Montana St,0.459
+1654,2003,Citadel,0.458
+1655,2003,American Univ,0.458
+1656,2003,Army,0.458
+1657,2003,IUPUI,0.458
+1658,2003,MTSU,0.458
+1659,2003,Richmond,0.457
+1660,2003,Missouri KC,0.457
+1661,2003,Brooklyn,0.457
+1662,2003,Troy,0.456
+1663,2003,MA Lowell,0.455
+1664,2003,Mercer,0.455
+1665,2003,Sacred Heart,0.455
+1666,2003,Chattanooga,0.454
+1667,2003,South Alabama,0.454
+1668,2003,California,0.452
+1669,2003,Portland St,0.452
+1670,2003,James Madison,0.452
+1671,2003,Columbia,0.452
+1672,2003,CS Sacramento,0.451
+1673,2003,Washington St,0.451
+1674,2003,UNC Wilmington,0.45
+1675,2003,G Washington,0.449
+1676,2003,Dartmouth,0.448
+1677,2003,La Salle,0.448
+1678,2003,Wagner,0.448
+1679,2003,Massachusetts,0.445
+1680,2003,South Dakota,0.445
+1681,2003,E Illinois,0.444
+1682,2003,East Carolina,0.444
+1683,2003,Evansville,0.444
+1684,2003,Lafayette,0.444
+1685,2003,Appalachian St,0.443
+1686,2003,Idaho St,0.442
+1687,2003,Elon,0.441
+1688,2003,Loyola MD,0.441
+1689,2003,NC Central,0.441
+1690,2003,Grambling,0.439
+1691,2003,TAM C. Christi,0.439
+1692,2003,CS Northridge,0.438
+1693,2003,Cent Arkansas,0.436
+1694,2003,VMI,0.436
+1695,2003,North Alabama,0.436
+1696,2003,Ark Little Rock,0.436
+1697,2003,W Michigan,0.435
+1698,2003,Marist,0.435
+1699,2003,Central Conn,0.434
+1700,2003,UC Davis,0.434
+1701,2003,Albany NY,0.434
+1702,2003,Ark Pine Bluff,0.432
+1703,2003,W Carolina,0.431
+1704,2003,TN Martin,0.43
+1705,2003,Florida A&M,0.43
+1706,2003,SF Austin,0.43
+1707,2003,Youngstown St,0.429
+1708,2003,Mt St Mary's,0.429
+1709,2003,Towson,0.429
+1710,2003,North Dakota,0.429
+1711,2003,Tulane,0.429
+1712,2003,Northern Arizona,0.429
+1713,2003,Howard,0.427
+1714,2003,Oral Roberts,0.427
+1715,2003,Houston Bap,0.427
+1716,2003,Charlotte,0.426
+1717,2003,SE Missouri St,0.424
+1718,2003,Jacksonville,0.423
+1719,2003,Alabama St,0.422
+1720,2003,Niagara,0.422
+1721,2003,Binghamton,0.422
+1722,2003,Tennessee St,0.421
+1723,2003,Fordham,0.421
+1724,2003,Nicholls St,0.421
+1725,2003,Cleveland St,0.42
+1726,2003,Longwood,0.419
+1727,2003,Manhattan,0.419
+1728,2003,Tennessee Tech,0.414
+1729,2003,Bryant,0.413
+1730,2003,WI Milwaukee,0.412
+1731,2003,Denver,0.411
+1732,2003,St Peter's,0.41
+1733,2003,Jackson St,0.41
+1734,2003,Portland,0.408
+1735,2003,Bethune-Cookman,0.408
+1736,2003,Edwardsville,0.406
+1737,2003,UC Riverside,0.406
+1738,2003,Coppin St,0.406
+1739,2003,Wyoming,0.404
+1740,2003,Fairfield,0.403
+1741,2003,UTEP,0.4
+1742,2003,Northwestern LA,0.4
+1743,2003,Savannah St,0.4
+1744,2003,McNeese St,0.398
+1745,2003,Kennesaw,0.394
+1746,2003,W Illinois,0.392
+1747,2003,Maine,0.389
+1748,2003,Chicago St,0.386
+1749,2003,San Jose St,0.38
+1750,2003,Cal Poly SLO,0.374
+1751,2003,Stetson,0.373
+1752,2003,S Carolina St,0.373
+1753,2003,Morgan St,0.371
+1754,2003,Southern Univ,0.371
+1755,2003,Idaho,0.369
+1756,2003,Incarnate Word,0.369
+1757,2003,UNC Asheville,0.366
+1758,2003,Alcorn St,0.365
+1759,2003,MD E Shore,0.364
+1760,2003,New Hampshire,0.36
+1761,2003,MS Valley St,0.356
+1762,2003,Delaware St,0.349
+1763,2003,SC Upstate,0.347
+1764,2003,Alabama A&M,0.345
+1765,2004,Duke,0.67
+1766,2004,Kansas,0.657
+1767,2004,Virginia,0.655
+1768,2004,North Carolina,0.653
+1769,2004,Houston,0.648
+1770,2004,Michigan St,0.647
+1771,2004,Tennessee,0.645
+1772,2004,Gonzaga,0.644
+1773,2004,Kentucky,0.643
+1774,2004,Buffalo,0.641
+1775,2004,Michigan,0.635
+1776,2004,Florida St,0.634
+1777,2004,Cincinnati,0.628
+1778,2004,LSU,0.626
+1779,2004,Purdue,0.62
+1780,2004,Villanova,0.62
+1781,2004,Kansas St,0.62
+1782,2004,Auburn,0.619
+1783,2004,Texas Tech,0.619
+1784,2004,Nevada,0.615
+1785,2004,Wofford,0.613
+1786,2004,Washington,0.609
+1787,2004,VA Commonwealth,0.609
+1788,2004,Mississippi St,0.608
+1789,2004,UCF,0.605
+1790,2004,Wisconsin,0.605
+1791,2004,Virginia Tech,0.605
+1792,2004,Utah St,0.604
+1793,2004,Maryland,0.602
+1794,2004,UNC Greensboro,0.6
+1795,2004,Iowa St,0.6
+1796,2004,Marquette,0.599
+1797,2004,Louisville,0.593
+1798,2004,Temple,0.588
+1799,2004,St Mary's CA,0.587
+1800,2004,Murray St,0.582
+1801,2004,Syracuse,0.581
+1802,2004,New Mexico St,0.581
+1803,2004,Oklahoma,0.58
+1804,2004,Seton Hall,0.58
+1805,2004,Toledo,0.579
+1806,2004,Belmont,0.579
+1807,2004,Arizona St,0.578
+1808,2004,Minnesota,0.577
+1809,2004,Yale,0.577
+1810,2004,Oregon,0.575
+1811,2004,Georgia St,0.575
+1812,2004,Northeastern,0.574
+1813,2004,Davidson,0.571
+1814,2004,Hofstra,0.57
+1815,2004,Harvard,0.569
+1816,2004,TCU,0.569
+1817,2004,Memphis,0.568
+1818,2004,St John's,0.567
+1819,2004,Iowa,0.567
+1820,2004,Alabama,0.566
+1821,2004,Furman,0.566
+1822,2004,Baylor,0.565
+1823,2004,Florida,0.565
+1824,2004,Utah Valley,0.564
+1825,2004,Clemson,0.563
+1826,2004,Creighton,0.562
+1827,2004,Old Dominion,0.562
+1828,2004,UC Irvine,0.561
+1829,2004,Vermont,0.561
+1830,2004,Mississippi,0.561
+1831,2004,BYU,0.56
+1832,2004,Tennessee St,0.559
+1833,2004,Texas,0.559
+1834,2004,Lipscomb,0.557
+1835,2004,Drake,0.557
+1836,2004,Wichita St,0.557
+1837,2004,Ohio St,0.555
+1838,2004,Dayton,0.553
+1839,2004,Montana,0.551
+1840,2004,San Diego,0.551
+1841,2004,Xavier,0.551
+1842,2004,Ga Southern,0.551
+1843,2004,Colorado,0.551
+1844,2004,Bowling Green,0.551
+1845,2004,St Louis,0.551
+1846,2004,WKU,0.55
+1847,2004,Kent,0.55
+1848,2004,Liberty,0.549
+1849,2004,San Diego St,0.548
+1850,2004,Col Charleston,0.547
+1851,2004,San Francisco,0.547
+1852,2004,Colgate,0.547
+1853,2004,Providence,0.547
+1854,2004,Bucknell,0.545
+1855,2004,Georgetown,0.545
+1856,2004,Nebraska,0.545
+1857,2004,Southern Miss,0.543
+1858,2004,N Kentucky,0.542
+1859,2004,Penn St,0.542
+1860,2004,Butler,0.542
+1861,2004,NC State,0.542
+1862,2004,Indiana,0.541
+1863,2004,South Carolina,0.539
+1864,2004,Marshall,0.539
+1865,2004,Radford,0.538
+1866,2004,Arkansas,0.538
+1867,2004,Fresno St,0.537
+1868,2004,Louisiana Tech,0.537
+1869,2004,UCLA,0.536
+1870,2004,Oregon St,0.536
+1871,2004,Tulsa,0.535
+1872,2004,Lehigh,0.535
+1873,2004,West Virginia,0.534
+1874,2004,Penn,0.533
+1875,2004,Utah,0.532
+1876,2004,Stony Brook,0.532
+1877,2004,C Michigan,0.532
+1878,2004,Rhode Island,0.532
+1879,2004,Texas St,0.531
+1880,2004,Austin Peay,0.531
+1881,2004,Princeton,0.531
+1882,2004,Arizona,0.529
+1883,2004,Brown,0.529
+1884,2004,Oklahoma St,0.529
+1885,2004,Loyola MD,0.528
+1886,2004,Grand Canyon,0.528
+1887,2004,Jacksonville St,0.528
+1888,2004,St Bonaventure,0.526
+1889,2004,Texas A&M,0.525
+1890,2004,Abilene Chr,0.525
+1891,2004,NE Omaha,0.525
+1892,2004,S Dakota St,0.523
+1893,2004,Missouri,0.523
+1894,2004,Miami FL,0.522
+1895,2004,Loyola-Chicago,0.522
+1896,2004,S Illinois,0.52
+1897,2004,Gardner Webb,0.518
+1898,2004,NJIT,0.517
+1899,2004,South Florida,0.516
+1900,2004,E Michigan,0.515
+1901,2004,Connecticut,0.515
+1902,2004,SMU,0.514
+1903,2004,UT San Antonio,0.514
+1904,2004,Prairie View,0.513
+1905,2004,TX-Pan Am,0.513
+1906,2004,Stanford,0.512
+1907,2004,Sam Houston St,0.512
+1908,2004,Rutgers,0.512
+1909,2004,Lafayette,0.512
+1910,2004,UAB,0.511
+1911,2004,Wright St,0.511
+1912,2004,Northern Iowa,0.511
+1913,2004,Ohio,0.511
+1914,2004,Miami OH,0.509
+1915,2004,UT Arlington,0.509
+1916,2004,George Mason,0.508
+1917,2004,Akron,0.507
+1918,2004,Georgia Tech,0.506
+1919,2004,USC,0.505
+1920,2004,N Colorado,0.505
+1921,2004,Santa Barbara,0.504
+1922,2004,Bradley,0.504
+1923,2004,North Texas,0.503
+1924,2004,Cornell,0.503
+1925,2004,Florida Intl,0.503
+1926,2004,Winthrop,0.501
+1927,2004,N Illinois,0.501
+1928,2004,Hartford,0.5
+1929,2004,Boston College,0.5
+1930,2004,Duquesne,0.499
+1931,2004,DePaul,0.499
+1932,2004,Holy Cross,0.498
+1933,2004,North Florida,0.497
+1934,2004,UNLV,0.497
+1935,2004,Notre Dame,0.496
+1936,2004,ULM,0.496
+1937,2004,N Dakota St,0.495
+1938,2004,St Joseph's PA,0.495
+1939,2004,CS Fullerton,0.495
+1940,2004,Ball St,0.495
+1941,2004,Illinois,0.495
+1942,2004,Illinois St,0.495
+1943,2004,Pepperdine,0.495
+1944,2004,Wake Forest,0.494
+1945,2004,Campbell,0.494
+1946,2004,WI Green Bay,0.493
+1947,2004,St Francis PA,0.493
+1948,2004,Pittsburgh,0.493
+1949,2004,Missouri St,0.492
+1950,2004,Pacific,0.491
+1951,2004,William & Mary,0.491
+1952,2004,FL Atlantic,0.491
+1953,2004,Indiana St,0.49
+1954,2004,Santa Clara,0.49
+1955,2004,UMBC,0.49
+1956,2004,Georgia,0.49
+1957,2004,Rider,0.488
+1958,2004,E Washington,0.487
+1959,2004,TX Southern,0.487
+1960,2004,F Dickinson,0.486
+1961,2004,CS Bakersfield,0.486
+1962,2004,Northwestern,0.485
+1963,2004,Iona,0.485
+1964,2004,Samford,0.485
+1965,2004,New Mexico,0.485
+1966,2004,Delaware,0.484
+1967,2004,Cal Baptist,0.484
+1968,2004,Seattle,0.484
+1969,2004,Weber St,0.482
+1970,2004,Lamar,0.482
+1971,2004,Coastal Car,0.482
+1972,2004,Canisius,0.481
+1973,2004,Norfolk St,0.479
+1974,2004,Siena,0.479
+1975,2004,Long Beach St,0.479
+1976,2004,New Orleans,0.475
+1977,2004,Navy,0.474
+1978,2004,Oakland,0.472
+1979,2004,FL Gulf Coast,0.472
+1980,2004,Boise St,0.469
+1981,2004,NC A&T,0.468
+1982,2004,IPFW,0.468
+1983,2004,Hawaii,0.468
+1984,2004,IL Chicago,0.468
+1985,2004,Monmouth NJ,0.467
+1986,2004,SE Louisiana,0.467
+1987,2004,Presbyterian,0.467
+1988,2004,Morehead St,0.467
+1989,2004,Vanderbilt,0.466
+1990,2004,Boston Univ,0.466
+1991,2004,High Point,0.466
+1992,2004,Air Force,0.466
+1993,2004,Robert Morris,0.465
+1994,2004,Valparaiso,0.464
+1995,2004,Southern Utah,0.464
+1996,2004,Colorado St,0.464
+1997,2004,E Kentucky,0.463
+1998,2004,St Francis NY,0.462
+1999,2004,Arkansas St,0.461
+2000,2004,Rice,0.461
+2001,2004,Drexel,0.46
+2002,2004,Hampton,0.46
+2003,2004,Charleston So,0.46
+2004,2004,Detroit,0.46
+2005,2004,Quinnipiac,0.459
+2006,2004,Montana St,0.459
+2007,2004,Citadel,0.458
+2008,2004,American Univ,0.458
+2009,2004,Army,0.458
+2010,2004,IUPUI,0.458
+2011,2004,MTSU,0.458
+2012,2004,Richmond,0.457
+2013,2004,Missouri KC,0.457
+2014,2004,Brooklyn,0.457
+2015,2004,Troy,0.456
+2016,2004,MA Lowell,0.455
+2017,2004,Mercer,0.455
+2018,2004,Sacred Heart,0.455
+2019,2004,Chattanooga,0.454
+2020,2004,South Alabama,0.454
+2021,2004,California,0.452
+2022,2004,Portland St,0.452
+2023,2004,James Madison,0.452
+2024,2004,Columbia,0.452
+2025,2004,CS Sacramento,0.451
+2026,2004,Washington St,0.451
+2027,2004,UNC Wilmington,0.45
+2028,2004,G Washington,0.449
+2029,2004,Dartmouth,0.448
+2030,2004,La Salle,0.448
+2031,2004,Wagner,0.448
+2032,2004,Massachusetts,0.445
+2033,2004,South Dakota,0.445
+2034,2004,E Illinois,0.444
+2035,2004,East Carolina,0.444
+2036,2004,Evansville,0.444
+2037,2004,Lafayette,0.444
+2038,2004,Appalachian St,0.443
+2039,2004,Idaho St,0.442
+2040,2004,Elon,0.441
+2041,2004,Loyola MD,0.441
+2042,2004,NC Central,0.441
+2043,2004,Grambling,0.439
+2044,2004,TAM C. Christi,0.439
+2045,2004,CS Northridge,0.438
+2046,2004,Cent Arkansas,0.436
+2047,2004,VMI,0.436
+2048,2004,North Alabama,0.436
+2049,2004,Ark Little Rock,0.436
+2050,2004,W Michigan,0.435
+2051,2004,Marist,0.435
+2052,2004,Central Conn,0.434
+2053,2004,UC Davis,0.434
+2054,2004,Albany NY,0.434
+2055,2004,Ark Pine Bluff,0.432
+2056,2004,W Carolina,0.431
+2057,2004,TN Martin,0.43
+2058,2004,Florida A&M,0.43
+2059,2004,SF Austin,0.43
+2060,2004,Youngstown St,0.429
+2061,2004,Mt St Mary's,0.429
+2062,2004,Towson,0.429
+2063,2004,North Dakota,0.429
+2064,2004,Tulane,0.429
+2065,2004,Northern Arizona,0.429
+2066,2004,Howard,0.427
+2067,2004,Oral Roberts,0.427
+2068,2004,Houston Bap,0.427
+2069,2004,Charlotte,0.426
+2070,2004,SE Missouri St,0.424
+2071,2004,Jacksonville,0.423
+2072,2004,Alabama St,0.422
+2073,2004,Niagara,0.422
+2074,2004,Binghamton,0.422
+2075,2004,Tennessee St,0.421
+2076,2004,Fordham,0.421
+2077,2004,Nicholls St,0.421
+2078,2004,Cleveland St,0.42
+2079,2004,Longwood,0.419
+2080,2004,Manhattan,0.419
+2081,2004,Tennessee Tech,0.414
+2082,2004,Bryant,0.413
+2083,2004,WI Milwaukee,0.412
+2084,2004,Denver,0.411
+2085,2004,St Peter's,0.41
+2086,2004,Jackson St,0.41
+2087,2004,Portland,0.408
+2088,2004,Bethune-Cookman,0.408
+2089,2004,Edwardsville,0.406
+2090,2004,UC Riverside,0.406
+2091,2004,Coppin St,0.406
+2092,2004,Wyoming,0.404
+2093,2004,Fairfield,0.403
+2094,2004,UTEP,0.4
+2095,2004,Northwestern LA,0.4
+2096,2004,Savannah St,0.4
+2097,2004,McNeese St,0.398
+2098,2004,Kennesaw,0.394
+2099,2004,W Illinois,0.392
+2100,2004,Maine,0.389
+2101,2004,Chicago St,0.386
+2102,2004,San Jose St,0.38
+2103,2004,Cal Poly SLO,0.374
+2104,2004,Stetson,0.373
+2105,2004,S Carolina St,0.373
+2106,2004,Morgan St,0.371
+2107,2004,Southern Univ,0.371
+2108,2004,Idaho,0.369
+2109,2004,Incarnate Word,0.369
+2110,2004,UNC Asheville,0.366
+2111,2004,Alcorn St,0.365
+2112,2004,MD E Shore,0.364
+2113,2004,New Hampshire,0.36
+2114,2004,MS Valley St,0.356
+2115,2004,Delaware St,0.349
+2116,2004,SC Upstate,0.347
+2117,2004,Alabama A&M,0.345
+2118,2005,Duke,0.67
+2119,2005,Kansas,0.657
+2120,2005,Virginia,0.655
+2121,2005,North Carolina,0.653
+2122,2005,Houston,0.648
+2123,2005,Michigan St,0.647
+2124,2005,Tennessee,0.645
+2125,2005,Gonzaga,0.644
+2126,2005,Kentucky,0.643
+2127,2005,Buffalo,0.641
+2128,2005,Michigan,0.635
+2129,2005,Florida St,0.634
+2130,2005,Cincinnati,0.628
+2131,2005,LSU,0.626
+2132,2005,Purdue,0.62
+2133,2005,Villanova,0.62
+2134,2005,Kansas St,0.62
+2135,2005,Auburn,0.619
+2136,2005,Texas Tech,0.619
+2137,2005,Nevada,0.615
+2138,2005,Wofford,0.613
+2139,2005,Washington,0.609
+2140,2005,VA Commonwealth,0.609
+2141,2005,Mississippi St,0.608
+2142,2005,UCF,0.605
+2143,2005,Wisconsin,0.605
+2144,2005,Virginia Tech,0.605
+2145,2005,Utah St,0.604
+2146,2005,Maryland,0.602
+2147,2005,UNC Greensboro,0.6
+2148,2005,Iowa St,0.6
+2149,2005,Marquette,0.599
+2150,2005,Louisville,0.593
+2151,2005,Temple,0.588
+2152,2005,St Mary's CA,0.587
+2153,2005,Murray St,0.582
+2154,2005,Syracuse,0.581
+2155,2005,New Mexico St,0.581
+2156,2005,Oklahoma,0.58
+2157,2005,Seton Hall,0.58
+2158,2005,Toledo,0.579
+2159,2005,Belmont,0.579
+2160,2005,Arizona St,0.578
+2161,2005,Minnesota,0.577
+2162,2005,Yale,0.577
+2163,2005,Oregon,0.575
+2164,2005,Georgia St,0.575
+2165,2005,Northeastern,0.574
+2166,2005,Davidson,0.571
+2167,2005,Hofstra,0.57
+2168,2005,Harvard,0.569
+2169,2005,TCU,0.569
+2170,2005,Memphis,0.568
+2171,2005,St John's,0.567
+2172,2005,Iowa,0.567
+2173,2005,Alabama,0.566
+2174,2005,Furman,0.566
+2175,2005,Baylor,0.565
+2176,2005,Florida,0.565
+2177,2005,Utah Valley,0.564
+2178,2005,Clemson,0.563
+2179,2005,Creighton,0.562
+2180,2005,Old Dominion,0.562
+2181,2005,UC Irvine,0.561
+2182,2005,Vermont,0.561
+2183,2005,Mississippi,0.561
+2184,2005,BYU,0.56
+2185,2005,Tennessee St,0.559
+2186,2005,Texas,0.559
+2187,2005,Lipscomb,0.557
+2188,2005,Drake,0.557
+2189,2005,Wichita St,0.557
+2190,2005,Ohio St,0.555
+2191,2005,Dayton,0.553
+2192,2005,Montana,0.551
+2193,2005,San Diego,0.551
+2194,2005,Xavier,0.551
+2195,2005,Ga Southern,0.551
+2196,2005,Colorado,0.551
+2197,2005,Bowling Green,0.551
+2198,2005,St Louis,0.551
+2199,2005,WKU,0.55
+2200,2005,Kent,0.55
+2201,2005,Liberty,0.549
+2202,2005,San Diego St,0.548
+2203,2005,Col Charleston,0.547
+2204,2005,San Francisco,0.547
+2205,2005,Colgate,0.547
+2206,2005,Providence,0.547
+2207,2005,Bucknell,0.545
+2208,2005,Georgetown,0.545
+2209,2005,Nebraska,0.545
+2210,2005,Southern Miss,0.543
+2211,2005,N Kentucky,0.542
+2212,2005,Penn St,0.542
+2213,2005,Butler,0.542
+2214,2005,NC State,0.542
+2215,2005,Indiana,0.541
+2216,2005,South Carolina,0.539
+2217,2005,Marshall,0.539
+2218,2005,Radford,0.538
+2219,2005,Arkansas,0.538
+2220,2005,Fresno St,0.537
+2221,2005,Louisiana Tech,0.537
+2222,2005,UCLA,0.536
+2223,2005,Oregon St,0.536
+2224,2005,Tulsa,0.535
+2225,2005,Lehigh,0.535
+2226,2005,West Virginia,0.534
+2227,2005,Penn,0.533
+2228,2005,Utah,0.532
+2229,2005,Stony Brook,0.532
+2230,2005,C Michigan,0.532
+2231,2005,Rhode Island,0.532
+2232,2005,Texas St,0.531
+2233,2005,Austin Peay,0.531
+2234,2005,Princeton,0.531
+2235,2005,Arizona,0.529
+2236,2005,Brown,0.529
+2237,2005,Oklahoma St,0.529
+2238,2005,Loyola MD,0.528
+2239,2005,Grand Canyon,0.528
+2240,2005,Jacksonville St,0.528
+2241,2005,St Bonaventure,0.526
+2242,2005,Texas A&M,0.525
+2243,2005,Abilene Chr,0.525
+2244,2005,NE Omaha,0.525
+2245,2005,S Dakota St,0.523
+2246,2005,Missouri,0.523
+2247,2005,Miami FL,0.522
+2248,2005,Loyola-Chicago,0.522
+2249,2005,S Illinois,0.52
+2250,2005,Gardner Webb,0.518
+2251,2005,NJIT,0.517
+2252,2005,South Florida,0.516
+2253,2005,E Michigan,0.515
+2254,2005,Connecticut,0.515
+2255,2005,SMU,0.514
+2256,2005,UT San Antonio,0.514
+2257,2005,Prairie View,0.513
+2258,2005,TX-Pan Am,0.513
+2259,2005,Stanford,0.512
+2260,2005,Sam Houston St,0.512
+2261,2005,Rutgers,0.512
+2262,2005,Lafayette,0.512
+2263,2005,UAB,0.511
+2264,2005,Wright St,0.511
+2265,2005,Northern Iowa,0.511
+2266,2005,Ohio,0.511
+2267,2005,Miami OH,0.509
+2268,2005,UT Arlington,0.509
+2269,2005,George Mason,0.508
+2270,2005,Akron,0.507
+2271,2005,Georgia Tech,0.506
+2272,2005,USC,0.505
+2273,2005,N Colorado,0.505
+2274,2005,Santa Barbara,0.504
+2275,2005,Bradley,0.504
+2276,2005,North Texas,0.503
+2277,2005,Cornell,0.503
+2278,2005,Florida Intl,0.503
+2279,2005,Winthrop,0.501
+2280,2005,N Illinois,0.501
+2281,2005,Hartford,0.5
+2282,2005,Boston College,0.5
+2283,2005,Duquesne,0.499
+2284,2005,DePaul,0.499
+2285,2005,Holy Cross,0.498
+2286,2005,North Florida,0.497
+2287,2005,UNLV,0.497
+2288,2005,Notre Dame,0.496
+2289,2005,ULM,0.496
+2290,2005,N Dakota St,0.495
+2291,2005,St Joseph's PA,0.495
+2292,2005,CS Fullerton,0.495
+2293,2005,Ball St,0.495
+2294,2005,Illinois,0.495
+2295,2005,Illinois St,0.495
+2296,2005,Pepperdine,0.495
+2297,2005,Wake Forest,0.494
+2298,2005,Campbell,0.494
+2299,2005,WI Green Bay,0.493
+2300,2005,St Francis PA,0.493
+2301,2005,Pittsburgh,0.493
+2302,2005,Missouri St,0.492
+2303,2005,Pacific,0.491
+2304,2005,William & Mary,0.491
+2305,2005,FL Atlantic,0.491
+2306,2005,Indiana St,0.49
+2307,2005,Santa Clara,0.49
+2308,2005,UMBC,0.49
+2309,2005,Georgia,0.49
+2310,2005,Rider,0.488
+2311,2005,E Washington,0.487
+2312,2005,TX Southern,0.487
+2313,2005,F Dickinson,0.486
+2314,2005,CS Bakersfield,0.486
+2315,2005,Northwestern,0.485
+2316,2005,Iona,0.485
+2317,2005,Samford,0.485
+2318,2005,New Mexico,0.485
+2319,2005,Delaware,0.484
+2320,2005,Cal Baptist,0.484
+2321,2005,Seattle,0.484
+2322,2005,Weber St,0.482
+2323,2005,Lamar,0.482
+2324,2005,Coastal Car,0.482
+2325,2005,Canisius,0.481
+2326,2005,Norfolk St,0.479
+2327,2005,Siena,0.479
+2328,2005,Long Beach St,0.479
+2329,2005,New Orleans,0.475
+2330,2005,Navy,0.474
+2331,2005,Oakland,0.472
+2332,2005,FL Gulf Coast,0.472
+2333,2005,Boise St,0.469
+2334,2005,NC A&T,0.468
+2335,2005,IPFW,0.468
+2336,2005,Hawaii,0.468
+2337,2005,IL Chicago,0.468
+2338,2005,Monmouth NJ,0.467
+2339,2005,SE Louisiana,0.467
+2340,2005,Presbyterian,0.467
+2341,2005,Morehead St,0.467
+2342,2005,Vanderbilt,0.466
+2343,2005,Boston Univ,0.466
+2344,2005,High Point,0.466
+2345,2005,Air Force,0.466
+2346,2005,Robert Morris,0.465
+2347,2005,Valparaiso,0.464
+2348,2005,Southern Utah,0.464
+2349,2005,Colorado St,0.464
+2350,2005,E Kentucky,0.463
+2351,2005,St Francis NY,0.462
+2352,2005,Arkansas St,0.461
+2353,2005,Rice,0.461
+2354,2005,Drexel,0.46
+2355,2005,Hampton,0.46
+2356,2005,Charleston So,0.46
+2357,2005,Detroit,0.46
+2358,2005,Quinnipiac,0.459
+2359,2005,Montana St,0.459
+2360,2005,Citadel,0.458
+2361,2005,American Univ,0.458
+2362,2005,Army,0.458
+2363,2005,IUPUI,0.458
+2364,2005,MTSU,0.458
+2365,2005,Richmond,0.457
+2366,2005,Missouri KC,0.457
+2367,2005,Brooklyn,0.457
+2368,2005,Troy,0.456
+2369,2005,MA Lowell,0.455
+2370,2005,Mercer,0.455
+2371,2005,Sacred Heart,0.455
+2372,2005,Chattanooga,0.454
+2373,2005,South Alabama,0.454
+2374,2005,California,0.452
+2375,2005,Portland St,0.452
+2376,2005,James Madison,0.452
+2377,2005,Columbia,0.452
+2378,2005,CS Sacramento,0.451
+2379,2005,Washington St,0.451
+2380,2005,UNC Wilmington,0.45
+2381,2005,G Washington,0.449
+2382,2005,Dartmouth,0.448
+2383,2005,La Salle,0.448
+2384,2005,Wagner,0.448
+2385,2005,Massachusetts,0.445
+2386,2005,South Dakota,0.445
+2387,2005,E Illinois,0.444
+2388,2005,East Carolina,0.444
+2389,2005,Evansville,0.444
+2390,2005,Lafayette,0.444
+2391,2005,Appalachian St,0.443
+2392,2005,Idaho St,0.442
+2393,2005,Elon,0.441
+2394,2005,Loyola MD,0.441
+2395,2005,NC Central,0.441
+2396,2005,Grambling,0.439
+2397,2005,TAM C. Christi,0.439
+2398,2005,CS Northridge,0.438
+2399,2005,Cent Arkansas,0.436
+2400,2005,VMI,0.436
+2401,2005,North Alabama,0.436
+2402,2005,Ark Little Rock,0.436
+2403,2005,W Michigan,0.435
+2404,2005,Marist,0.435
+2405,2005,Central Conn,0.434
+2406,2005,UC Davis,0.434
+2407,2005,Albany NY,0.434
+2408,2005,Ark Pine Bluff,0.432
+2409,2005,W Carolina,0.431
+2410,2005,TN Martin,0.43
+2411,2005,Florida A&M,0.43
+2412,2005,SF Austin,0.43
+2413,2005,Youngstown St,0.429
+2414,2005,Mt St Mary's,0.429
+2415,2005,Towson,0.429
+2416,2005,North Dakota,0.429
+2417,2005,Tulane,0.429
+2418,2005,Northern Arizona,0.429
+2419,2005,Howard,0.427
+2420,2005,Oral Roberts,0.427
+2421,2005,Houston Bap,0.427
+2422,2005,Charlotte,0.426
+2423,2005,SE Missouri St,0.424
+2424,2005,Jacksonville,0.423
+2425,2005,Alabama St,0.422
+2426,2005,Niagara,0.422
+2427,2005,Binghamton,0.422
+2428,2005,Tennessee St,0.421
+2429,2005,Fordham,0.421
+2430,2005,Nicholls St,0.421
+2431,2005,Cleveland St,0.42
+2432,2005,Longwood,0.419
+2433,2005,Manhattan,0.419
+2434,2005,Tennessee Tech,0.414
+2435,2005,Bryant,0.413
+2436,2005,WI Milwaukee,0.412
+2437,2005,Denver,0.411
+2438,2005,St Peter's,0.41
+2439,2005,Jackson St,0.41
+2440,2005,Portland,0.408
+2441,2005,Bethune-Cookman,0.408
+2442,2005,Edwardsville,0.406
+2443,2005,UC Riverside,0.406
+2444,2005,Coppin St,0.406
+2445,2005,Wyoming,0.404
+2446,2005,Fairfield,0.403
+2447,2005,UTEP,0.4
+2448,2005,Northwestern LA,0.4
+2449,2005,Savannah St,0.4
+2450,2005,McNeese St,0.398
+2451,2005,Kennesaw,0.394
+2452,2005,W Illinois,0.392
+2453,2005,Maine,0.389
+2454,2005,Chicago St,0.386
+2455,2005,San Jose St,0.38
+2456,2005,Cal Poly SLO,0.374
+2457,2005,Stetson,0.373
+2458,2005,S Carolina St,0.373
+2459,2005,Morgan St,0.371
+2460,2005,Southern Univ,0.371
+2461,2005,Idaho,0.369
+2462,2005,Incarnate Word,0.369
+2463,2005,UNC Asheville,0.366
+2464,2005,Alcorn St,0.365
+2465,2005,MD E Shore,0.364
+2466,2005,New Hampshire,0.36
+2467,2005,MS Valley St,0.356
+2468,2005,Delaware St,0.349
+2469,2005,SC Upstate,0.347
+2470,2005,Alabama A&M,0.345
+2471,2006,Duke,0.67
+2472,2006,Kansas,0.657
+2473,2006,Virginia,0.655
+2474,2006,North Carolina,0.653
+2475,2006,Houston,0.648
+2476,2006,Michigan St,0.647
+2477,2006,Tennessee,0.645
+2478,2006,Gonzaga,0.644
+2479,2006,Kentucky,0.643
+2480,2006,Buffalo,0.641
+2481,2006,Michigan,0.635
+2482,2006,Florida St,0.634
+2483,2006,Cincinnati,0.628
+2484,2006,LSU,0.626
+2485,2006,Purdue,0.62
+2486,2006,Villanova,0.62
+2487,2006,Kansas St,0.62
+2488,2006,Auburn,0.619
+2489,2006,Texas Tech,0.619
+2490,2006,Nevada,0.615
+2491,2006,Wofford,0.613
+2492,2006,Washington,0.609
+2493,2006,VA Commonwealth,0.609
+2494,2006,Mississippi St,0.608
+2495,2006,UCF,0.605
+2496,2006,Wisconsin,0.605
+2497,2006,Virginia Tech,0.605
+2498,2006,Utah St,0.604
+2499,2006,Maryland,0.602
+2500,2006,UNC Greensboro,0.6
+2501,2006,Iowa St,0.6
+2502,2006,Marquette,0.599
+2503,2006,Louisville,0.593
+2504,2006,Temple,0.588
+2505,2006,St Mary's CA,0.587
+2506,2006,Murray St,0.582
+2507,2006,Syracuse,0.581
+2508,2006,New Mexico St,0.581
+2509,2006,Oklahoma,0.58
+2510,2006,Seton Hall,0.58
+2511,2006,Toledo,0.579
+2512,2006,Belmont,0.579
+2513,2006,Arizona St,0.578
+2514,2006,Minnesota,0.577
+2515,2006,Yale,0.577
+2516,2006,Oregon,0.575
+2517,2006,Georgia St,0.575
+2518,2006,Northeastern,0.574
+2519,2006,Davidson,0.571
+2520,2006,Hofstra,0.57
+2521,2006,Harvard,0.569
+2522,2006,TCU,0.569
+2523,2006,Memphis,0.568
+2524,2006,St John's,0.567
+2525,2006,Iowa,0.567
+2526,2006,Alabama,0.566
+2527,2006,Furman,0.566
+2528,2006,Baylor,0.565
+2529,2006,Florida,0.565
+2530,2006,Utah Valley,0.564
+2531,2006,Clemson,0.563
+2532,2006,Creighton,0.562
+2533,2006,Old Dominion,0.562
+2534,2006,UC Irvine,0.561
+2535,2006,Vermont,0.561
+2536,2006,Mississippi,0.561
+2537,2006,BYU,0.56
+2538,2006,Tennessee St,0.559
+2539,2006,Texas,0.559
+2540,2006,Lipscomb,0.557
+2541,2006,Drake,0.557
+2542,2006,Wichita St,0.557
+2543,2006,Ohio St,0.555
+2544,2006,Dayton,0.553
+2545,2006,Montana,0.551
+2546,2006,San Diego,0.551
+2547,2006,Xavier,0.551
+2548,2006,Ga Southern,0.551
+2549,2006,Colorado,0.551
+2550,2006,Bowling Green,0.551
+2551,2006,St Louis,0.551
+2552,2006,WKU,0.55
+2553,2006,Kent,0.55
+2554,2006,Liberty,0.549
+2555,2006,San Diego St,0.548
+2556,2006,Col Charleston,0.547
+2557,2006,San Francisco,0.547
+2558,2006,Colgate,0.547
+2559,2006,Providence,0.547
+2560,2006,Bucknell,0.545
+2561,2006,Georgetown,0.545
+2562,2006,Nebraska,0.545
+2563,2006,Southern Miss,0.543
+2564,2006,N Kentucky,0.542
+2565,2006,Penn St,0.542
+2566,2006,Butler,0.542
+2567,2006,NC State,0.542
+2568,2006,Indiana,0.541
+2569,2006,South Carolina,0.539
+2570,2006,Marshall,0.539
+2571,2006,Radford,0.538
+2572,2006,Arkansas,0.538
+2573,2006,Fresno St,0.537
+2574,2006,Louisiana Tech,0.537
+2575,2006,UCLA,0.536
+2576,2006,Oregon St,0.536
+2577,2006,Tulsa,0.535
+2578,2006,Lehigh,0.535
+2579,2006,West Virginia,0.534
+2580,2006,Penn,0.533
+2581,2006,Utah,0.532
+2582,2006,Stony Brook,0.532
+2583,2006,C Michigan,0.532
+2584,2006,Rhode Island,0.532
+2585,2006,Texas St,0.531
+2586,2006,Austin Peay,0.531
+2587,2006,Princeton,0.531
+2588,2006,Arizona,0.529
+2589,2006,Brown,0.529
+2590,2006,Oklahoma St,0.529
+2591,2006,Loyola MD,0.528
+2592,2006,Grand Canyon,0.528
+2593,2006,Jacksonville St,0.528
+2594,2006,St Bonaventure,0.526
+2595,2006,Texas A&M,0.525
+2596,2006,Abilene Chr,0.525
+2597,2006,NE Omaha,0.525
+2598,2006,S Dakota St,0.523
+2599,2006,Missouri,0.523
+2600,2006,Miami FL,0.522
+2601,2006,Loyola-Chicago,0.522
+2602,2006,S Illinois,0.52
+2603,2006,Gardner Webb,0.518
+2604,2006,NJIT,0.517
+2605,2006,South Florida,0.516
+2606,2006,E Michigan,0.515
+2607,2006,Connecticut,0.515
+2608,2006,SMU,0.514
+2609,2006,UT San Antonio,0.514
+2610,2006,Prairie View,0.513
+2611,2006,TX-Pan Am,0.513
+2612,2006,Stanford,0.512
+2613,2006,Sam Houston St,0.512
+2614,2006,Rutgers,0.512
+2615,2006,Lafayette,0.512
+2616,2006,UAB,0.511
+2617,2006,Wright St,0.511
+2618,2006,Northern Iowa,0.511
+2619,2006,Ohio,0.511
+2620,2006,Miami OH,0.509
+2621,2006,UT Arlington,0.509
+2622,2006,George Mason,0.508
+2623,2006,Akron,0.507
+2624,2006,Georgia Tech,0.506
+2625,2006,USC,0.505
+2626,2006,N Colorado,0.505
+2627,2006,Santa Barbara,0.504
+2628,2006,Bradley,0.504
+2629,2006,North Texas,0.503
+2630,2006,Cornell,0.503
+2631,2006,Florida Intl,0.503
+2632,2006,Winthrop,0.501
+2633,2006,N Illinois,0.501
+2634,2006,Hartford,0.5
+2635,2006,Boston College,0.5
+2636,2006,Duquesne,0.499
+2637,2006,DePaul,0.499
+2638,2006,Holy Cross,0.498
+2639,2006,North Florida,0.497
+2640,2006,UNLV,0.497
+2641,2006,Notre Dame,0.496
+2642,2006,ULM,0.496
+2643,2006,N Dakota St,0.495
+2644,2006,St Joseph's PA,0.495
+2645,2006,CS Fullerton,0.495
+2646,2006,Ball St,0.495
+2647,2006,Illinois,0.495
+2648,2006,Illinois St,0.495
+2649,2006,Pepperdine,0.495
+2650,2006,Wake Forest,0.494
+2651,2006,Campbell,0.494
+2652,2006,WI Green Bay,0.493
+2653,2006,St Francis PA,0.493
+2654,2006,Pittsburgh,0.493
+2655,2006,Missouri St,0.492
+2656,2006,Pacific,0.491
+2657,2006,William & Mary,0.491
+2658,2006,FL Atlantic,0.491
+2659,2006,Indiana St,0.49
+2660,2006,Santa Clara,0.49
+2661,2006,UMBC,0.49
+2662,2006,Georgia,0.49
+2663,2006,Rider,0.488
+2664,2006,E Washington,0.487
+2665,2006,TX Southern,0.487
+2666,2006,F Dickinson,0.486
+2667,2006,CS Bakersfield,0.486
+2668,2006,Northwestern,0.485
+2669,2006,Iona,0.485
+2670,2006,Samford,0.485
+2671,2006,New Mexico,0.485
+2672,2006,Delaware,0.484
+2673,2006,Cal Baptist,0.484
+2674,2006,Seattle,0.484
+2675,2006,Weber St,0.482
+2676,2006,Lamar,0.482
+2677,2006,Coastal Car,0.482
+2678,2006,Canisius,0.481
+2679,2006,Norfolk St,0.479
+2680,2006,Siena,0.479
+2681,2006,Long Beach St,0.479
+2682,2006,New Orleans,0.475
+2683,2006,Navy,0.474
+2684,2006,Oakland,0.472
+2685,2006,FL Gulf Coast,0.472
+2686,2006,Boise St,0.469
+2687,2006,NC A&T,0.468
+2688,2006,IPFW,0.468
+2689,2006,Hawaii,0.468
+2690,2006,IL Chicago,0.468
+2691,2006,Monmouth NJ,0.467
+2692,2006,SE Louisiana,0.467
+2693,2006,Presbyterian,0.467
+2694,2006,Morehead St,0.467
+2695,2006,Vanderbilt,0.466
+2696,2006,Boston Univ,0.466
+2697,2006,High Point,0.466
+2698,2006,Air Force,0.466
+2699,2006,Robert Morris,0.465
+2700,2006,Valparaiso,0.464
+2701,2006,Southern Utah,0.464
+2702,2006,Colorado St,0.464
+2703,2006,E Kentucky,0.463
+2704,2006,St Francis NY,0.462
+2705,2006,Arkansas St,0.461
+2706,2006,Rice,0.461
+2707,2006,Drexel,0.46
+2708,2006,Hampton,0.46
+2709,2006,Charleston So,0.46
+2710,2006,Detroit,0.46
+2711,2006,Quinnipiac,0.459
+2712,2006,Montana St,0.459
+2713,2006,Citadel,0.458
+2714,2006,American Univ,0.458
+2715,2006,Army,0.458
+2716,2006,IUPUI,0.458
+2717,2006,MTSU,0.458
+2718,2006,Richmond,0.457
+2719,2006,Missouri KC,0.457
+2720,2006,Brooklyn,0.457
+2721,2006,Troy,0.456
+2722,2006,MA Lowell,0.455
+2723,2006,Mercer,0.455
+2724,2006,Sacred Heart,0.455
+2725,2006,Chattanooga,0.454
+2726,2006,South Alabama,0.454
+2727,2006,California,0.452
+2728,2006,Portland St,0.452
+2729,2006,James Madison,0.452
+2730,2006,Columbia,0.452
+2731,2006,CS Sacramento,0.451
+2732,2006,Washington St,0.451
+2733,2006,UNC Wilmington,0.45
+2734,2006,G Washington,0.449
+2735,2006,Dartmouth,0.448
+2736,2006,La Salle,0.448
+2737,2006,Wagner,0.448
+2738,2006,Massachusetts,0.445
+2739,2006,South Dakota,0.445
+2740,2006,E Illinois,0.444
+2741,2006,East Carolina,0.444
+2742,2006,Evansville,0.444
+2743,2006,Lafayette,0.444
+2744,2006,Appalachian St,0.443
+2745,2006,Idaho St,0.442
+2746,2006,Elon,0.441
+2747,2006,Loyola MD,0.441
+2748,2006,NC Central,0.441
+2749,2006,Grambling,0.439
+2750,2006,TAM C. Christi,0.439
+2751,2006,CS Northridge,0.438
+2752,2006,Cent Arkansas,0.436
+2753,2006,VMI,0.436
+2754,2006,North Alabama,0.436
+2755,2006,Ark Little Rock,0.436
+2756,2006,W Michigan,0.435
+2757,2006,Marist,0.435
+2758,2006,Central Conn,0.434
+2759,2006,UC Davis,0.434
+2760,2006,Albany NY,0.434
+2761,2006,Ark Pine Bluff,0.432
+2762,2006,W Carolina,0.431
+2763,2006,TN Martin,0.43
+2764,2006,Florida A&M,0.43
+2765,2006,SF Austin,0.43
+2766,2006,Youngstown St,0.429
+2767,2006,Mt St Mary's,0.429
+2768,2006,Towson,0.429
+2769,2006,North Dakota,0.429
+2770,2006,Tulane,0.429
+2771,2006,Northern Arizona,0.429
+2772,2006,Howard,0.427
+2773,2006,Oral Roberts,0.427
+2774,2006,Houston Bap,0.427
+2775,2006,Charlotte,0.426
+2776,2006,SE Missouri St,0.424
+2777,2006,Jacksonville,0.423
+2778,2006,Alabama St,0.422
+2779,2006,Niagara,0.422
+2780,2006,Binghamton,0.422
+2781,2006,Tennessee St,0.421
+2782,2006,Fordham,0.421
+2783,2006,Nicholls St,0.421
+2784,2006,Cleveland St,0.42
+2785,2006,Longwood,0.419
+2786,2006,Manhattan,0.419
+2787,2006,Tennessee Tech,0.414
+2788,2006,Bryant,0.413
+2789,2006,WI Milwaukee,0.412
+2790,2006,Denver,0.411
+2791,2006,St Peter's,0.41
+2792,2006,Jackson St,0.41
+2793,2006,Portland,0.408
+2794,2006,Bethune-Cookman,0.408
+2795,2006,Edwardsville,0.406
+2796,2006,UC Riverside,0.406
+2797,2006,Coppin St,0.406
+2798,2006,Wyoming,0.404
+2799,2006,Fairfield,0.403
+2800,2006,UTEP,0.4
+2801,2006,Northwestern LA,0.4
+2802,2006,Savannah St,0.4
+2803,2006,McNeese St,0.398
+2804,2006,Kennesaw,0.394
+2805,2006,W Illinois,0.392
+2806,2006,Maine,0.389
+2807,2006,Chicago St,0.386
+2808,2006,San Jose St,0.38
+2809,2006,Cal Poly SLO,0.374
+2810,2006,Stetson,0.373
+2811,2006,S Carolina St,0.373
+2812,2006,Morgan St,0.371
+2813,2006,Southern Univ,0.371
+2814,2006,Idaho,0.369
+2815,2006,Incarnate Word,0.369
+2816,2006,UNC Asheville,0.366
+2817,2006,Alcorn St,0.365
+2818,2006,MD E Shore,0.364
+2819,2006,New Hampshire,0.36
+2820,2006,MS Valley St,0.356
+2821,2006,Delaware St,0.349
+2822,2006,SC Upstate,0.347
+2823,2006,Alabama A&M,0.345
+2824,2007,Duke,0.67
+2825,2007,Kansas,0.657
+2826,2007,Virginia,0.655
+2827,2007,North Carolina,0.653
+2828,2007,Houston,0.648
+2829,2007,Michigan St,0.647
+2830,2007,Tennessee,0.645
+2831,2007,Gonzaga,0.644
+2832,2007,Kentucky,0.643
+2833,2007,Buffalo,0.641
+2834,2007,Michigan,0.635
+2835,2007,Florida St,0.634
+2836,2007,Cincinnati,0.628
+2837,2007,LSU,0.626
+2838,2007,Purdue,0.62
+2839,2007,Villanova,0.62
+2840,2007,Kansas St,0.62
+2841,2007,Auburn,0.619
+2842,2007,Texas Tech,0.619
+2843,2007,Nevada,0.615
+2844,2007,Wofford,0.613
+2845,2007,Washington,0.609
+2846,2007,VA Commonwealth,0.609
+2847,2007,Mississippi St,0.608
+2848,2007,UCF,0.605
+2849,2007,Wisconsin,0.605
+2850,2007,Virginia Tech,0.605
+2851,2007,Utah St,0.604
+2852,2007,Maryland,0.602
+2853,2007,UNC Greensboro,0.6
+2854,2007,Iowa St,0.6
+2855,2007,Marquette,0.599
+2856,2007,Louisville,0.593
+2857,2007,Temple,0.588
+2858,2007,St Mary's CA,0.587
+2859,2007,Murray St,0.582
+2860,2007,Syracuse,0.581
+2861,2007,New Mexico St,0.581
+2862,2007,Oklahoma,0.58
+2863,2007,Seton Hall,0.58
+2864,2007,Toledo,0.579
+2865,2007,Belmont,0.579
+2866,2007,Arizona St,0.578
+2867,2007,Minnesota,0.577
+2868,2007,Yale,0.577
+2869,2007,Oregon,0.575
+2870,2007,Georgia St,0.575
+2871,2007,Northeastern,0.574
+2872,2007,Davidson,0.571
+2873,2007,Hofstra,0.57
+2874,2007,Harvard,0.569
+2875,2007,TCU,0.569
+2876,2007,Memphis,0.568
+2877,2007,St John's,0.567
+2878,2007,Iowa,0.567
+2879,2007,Alabama,0.566
+2880,2007,Furman,0.566
+2881,2007,Baylor,0.565
+2882,2007,Florida,0.565
+2883,2007,Utah Valley,0.564
+2884,2007,Clemson,0.563
+2885,2007,Creighton,0.562
+2886,2007,Old Dominion,0.562
+2887,2007,UC Irvine,0.561
+2888,2007,Vermont,0.561
+2889,2007,Mississippi,0.561
+2890,2007,BYU,0.56
+2891,2007,Tennessee St,0.559
+2892,2007,Texas,0.559
+2893,2007,Lipscomb,0.557
+2894,2007,Drake,0.557
+2895,2007,Wichita St,0.557
+2896,2007,Ohio St,0.555
+2897,2007,Dayton,0.553
+2898,2007,Montana,0.551
+2899,2007,San Diego,0.551
+2900,2007,Xavier,0.551
+2901,2007,Ga Southern,0.551
+2902,2007,Colorado,0.551
+2903,2007,Bowling Green,0.551
+2904,2007,St Louis,0.551
+2905,2007,WKU,0.55
+2906,2007,Kent,0.55
+2907,2007,Liberty,0.549
+2908,2007,San Diego St,0.548
+2909,2007,Col Charleston,0.547
+2910,2007,San Francisco,0.547
+2911,2007,Colgate,0.547
+2912,2007,Providence,0.547
+2913,2007,Bucknell,0.545
+2914,2007,Georgetown,0.545
+2915,2007,Nebraska,0.545
+2916,2007,Southern Miss,0.543
+2917,2007,N Kentucky,0.542
+2918,2007,Penn St,0.542
+2919,2007,Butler,0.542
+2920,2007,NC State,0.542
+2921,2007,Indiana,0.541
+2922,2007,South Carolina,0.539
+2923,2007,Marshall,0.539
+2924,2007,Radford,0.538
+2925,2007,Arkansas,0.538
+2926,2007,Fresno St,0.537
+2927,2007,Louisiana Tech,0.537
+2928,2007,UCLA,0.536
+2929,2007,Oregon St,0.536
+2930,2007,Tulsa,0.535
+2931,2007,Lehigh,0.535
+2932,2007,West Virginia,0.534
+2933,2007,Penn,0.533
+2934,2007,Utah,0.532
+2935,2007,Stony Brook,0.532
+2936,2007,C Michigan,0.532
+2937,2007,Rhode Island,0.532
+2938,2007,Texas St,0.531
+2939,2007,Austin Peay,0.531
+2940,2007,Princeton,0.531
+2941,2007,Arizona,0.529
+2942,2007,Brown,0.529
+2943,2007,Oklahoma St,0.529
+2944,2007,Loyola MD,0.528
+2945,2007,Grand Canyon,0.528
+2946,2007,Jacksonville St,0.528
+2947,2007,St Bonaventure,0.526
+2948,2007,Texas A&M,0.525
+2949,2007,Abilene Chr,0.525
+2950,2007,NE Omaha,0.525
+2951,2007,S Dakota St,0.523
+2952,2007,Missouri,0.523
+2953,2007,Miami FL,0.522
+2954,2007,Loyola-Chicago,0.522
+2955,2007,S Illinois,0.52
+2956,2007,Gardner Webb,0.518
+2957,2007,NJIT,0.517
+2958,2007,South Florida,0.516
+2959,2007,E Michigan,0.515
+2960,2007,Connecticut,0.515
+2961,2007,SMU,0.514
+2962,2007,UT San Antonio,0.514
+2963,2007,Prairie View,0.513
+2964,2007,TX-Pan Am,0.513
+2965,2007,Stanford,0.512
+2966,2007,Sam Houston St,0.512
+2967,2007,Rutgers,0.512
+2968,2007,Lafayette,0.512
+2969,2007,UAB,0.511
+2970,2007,Wright St,0.511
+2971,2007,Northern Iowa,0.511
+2972,2007,Ohio,0.511
+2973,2007,Miami OH,0.509
+2974,2007,UT Arlington,0.509
+2975,2007,George Mason,0.508
+2976,2007,Akron,0.507
+2977,2007,Georgia Tech,0.506
+2978,2007,USC,0.505
+2979,2007,N Colorado,0.505
+2980,2007,Santa Barbara,0.504
+2981,2007,Bradley,0.504
+2982,2007,North Texas,0.503
+2983,2007,Cornell,0.503
+2984,2007,Florida Intl,0.503
+2985,2007,Winthrop,0.501
+2986,2007,N Illinois,0.501
+2987,2007,Hartford,0.5
+2988,2007,Boston College,0.5
+2989,2007,Duquesne,0.499
+2990,2007,DePaul,0.499
+2991,2007,Holy Cross,0.498
+2992,2007,North Florida,0.497
+2993,2007,UNLV,0.497
+2994,2007,Notre Dame,0.496
+2995,2007,ULM,0.496
+2996,2007,N Dakota St,0.495
+2997,2007,St Joseph's PA,0.495
+2998,2007,CS Fullerton,0.495
+2999,2007,Ball St,0.495
+3000,2007,Illinois,0.495
+3001,2007,Illinois St,0.495
+3002,2007,Pepperdine,0.495
+3003,2007,Wake Forest,0.494
+3004,2007,Campbell,0.494
+3005,2007,WI Green Bay,0.493
+3006,2007,St Francis PA,0.493
+3007,2007,Pittsburgh,0.493
+3008,2007,Missouri St,0.492
+3009,2007,Pacific,0.491
+3010,2007,William & Mary,0.491
+3011,2007,FL Atlantic,0.491
+3012,2007,Indiana St,0.49
+3013,2007,Santa Clara,0.49
+3014,2007,UMBC,0.49
+3015,2007,Georgia,0.49
+3016,2007,Rider,0.488
+3017,2007,E Washington,0.487
+3018,2007,TX Southern,0.487
+3019,2007,F Dickinson,0.486
+3020,2007,CS Bakersfield,0.486
+3021,2007,Northwestern,0.485
+3022,2007,Iona,0.485
+3023,2007,Samford,0.485
+3024,2007,New Mexico,0.485
+3025,2007,Delaware,0.484
+3026,2007,Cal Baptist,0.484
+3027,2007,Seattle,0.484
+3028,2007,Weber St,0.482
+3029,2007,Lamar,0.482
+3030,2007,Coastal Car,0.482
+3031,2007,Canisius,0.481
+3032,2007,Norfolk St,0.479
+3033,2007,Siena,0.479
+3034,2007,Long Beach St,0.479
+3035,2007,New Orleans,0.475
+3036,2007,Navy,0.474
+3037,2007,Oakland,0.472
+3038,2007,FL Gulf Coast,0.472
+3039,2007,Boise St,0.469
+3040,2007,NC A&T,0.468
+3041,2007,IPFW,0.468
+3042,2007,Hawaii,0.468
+3043,2007,IL Chicago,0.468
+3044,2007,Monmouth NJ,0.467
+3045,2007,SE Louisiana,0.467
+3046,2007,Presbyterian,0.467
+3047,2007,Morehead St,0.467
+3048,2007,Vanderbilt,0.466
+3049,2007,Boston Univ,0.466
+3050,2007,High Point,0.466
+3051,2007,Air Force,0.466
+3052,2007,Robert Morris,0.465
+3053,2007,Valparaiso,0.464
+3054,2007,Southern Utah,0.464
+3055,2007,Colorado St,0.464
+3056,2007,E Kentucky,0.463
+3057,2007,St Francis NY,0.462
+3058,2007,Arkansas St,0.461
+3059,2007,Rice,0.461
+3060,2007,Drexel,0.46
+3061,2007,Hampton,0.46
+3062,2007,Charleston So,0.46
+3063,2007,Detroit,0.46
+3064,2007,Quinnipiac,0.459
+3065,2007,Montana St,0.459
+3066,2007,Citadel,0.458
+3067,2007,American Univ,0.458
+3068,2007,Army,0.458
+3069,2007,IUPUI,0.458
+3070,2007,MTSU,0.458
+3071,2007,Richmond,0.457
+3072,2007,Missouri KC,0.457
+3073,2007,Brooklyn,0.457
+3074,2007,Troy,0.456
+3075,2007,MA Lowell,0.455
+3076,2007,Mercer,0.455
+3077,2007,Sacred Heart,0.455
+3078,2007,Chattanooga,0.454
+3079,2007,South Alabama,0.454
+3080,2007,California,0.452
+3081,2007,Portland St,0.452
+3082,2007,James Madison,0.452
+3083,2007,Columbia,0.452
+3084,2007,CS Sacramento,0.451
+3085,2007,Washington St,0.451
+3086,2007,UNC Wilmington,0.45
+3087,2007,G Washington,0.449
+3088,2007,Dartmouth,0.448
+3089,2007,La Salle,0.448
+3090,2007,Wagner,0.448
+3091,2007,Massachusetts,0.445
+3092,2007,South Dakota,0.445
+3093,2007,E Illinois,0.444
+3094,2007,East Carolina,0.444
+3095,2007,Evansville,0.444
+3096,2007,Lafayette,0.444
+3097,2007,Appalachian St,0.443
+3098,2007,Idaho St,0.442
+3099,2007,Elon,0.441
+3100,2007,Loyola MD,0.441
+3101,2007,NC Central,0.441
+3102,2007,Grambling,0.439
+3103,2007,TAM C. Christi,0.439
+3104,2007,CS Northridge,0.438
+3105,2007,Cent Arkansas,0.436
+3106,2007,VMI,0.436
+3107,2007,North Alabama,0.436
+3108,2007,Ark Little Rock,0.436
+3109,2007,W Michigan,0.435
+3110,2007,Marist,0.435
+3111,2007,Central Conn,0.434
+3112,2007,UC Davis,0.434
+3113,2007,Albany NY,0.434
+3114,2007,Ark Pine Bluff,0.432
+3115,2007,W Carolina,0.431
+3116,2007,TN Martin,0.43
+3117,2007,Florida A&M,0.43
+3118,2007,SF Austin,0.43
+3119,2007,Youngstown St,0.429
+3120,2007,Mt St Mary's,0.429
+3121,2007,Towson,0.429
+3122,2007,North Dakota,0.429
+3123,2007,Tulane,0.429
+3124,2007,Northern Arizona,0.429
+3125,2007,Howard,0.427
+3126,2007,Oral Roberts,0.427
+3127,2007,Houston Bap,0.427
+3128,2007,Charlotte,0.426
+3129,2007,SE Missouri St,0.424
+3130,2007,Jacksonville,0.423
+3131,2007,Alabama St,0.422
+3132,2007,Niagara,0.422
+3133,2007,Binghamton,0.422
+3134,2007,Tennessee St,0.421
+3135,2007,Fordham,0.421
+3136,2007,Nicholls St,0.421
+3137,2007,Cleveland St,0.42
+3138,2007,Longwood,0.419
+3139,2007,Manhattan,0.419
+3140,2007,Tennessee Tech,0.414
+3141,2007,Bryant,0.413
+3142,2007,WI Milwaukee,0.412
+3143,2007,Denver,0.411
+3144,2007,St Peter's,0.41
+3145,2007,Jackson St,0.41
+3146,2007,Portland,0.408
+3147,2007,Bethune-Cookman,0.408
+3148,2007,Edwardsville,0.406
+3149,2007,UC Riverside,0.406
+3150,2007,Coppin St,0.406
+3151,2007,Wyoming,0.404
+3152,2007,Fairfield,0.403
+3153,2007,UTEP,0.4
+3154,2007,Northwestern LA,0.4
+3155,2007,Savannah St,0.4
+3156,2007,McNeese St,0.398
+3157,2007,Kennesaw,0.394
+3158,2007,W Illinois,0.392
+3159,2007,Maine,0.389
+3160,2007,Chicago St,0.386
+3161,2007,San Jose St,0.38
+3162,2007,Cal Poly SLO,0.374
+3163,2007,Stetson,0.373
+3164,2007,S Carolina St,0.373
+3165,2007,Morgan St,0.371
+3166,2007,Southern Univ,0.371
+3167,2007,Idaho,0.369
+3168,2007,Incarnate Word,0.369
+3169,2007,UNC Asheville,0.366
+3170,2007,Alcorn St,0.365
+3171,2007,MD E Shore,0.364
+3172,2007,New Hampshire,0.36
+3173,2007,MS Valley St,0.356
+3174,2007,Delaware St,0.349
+3175,2007,SC Upstate,0.347
+3176,2007,Alabama A&M,0.345
+3177,2008,Duke,0.67
+3178,2008,Kansas,0.657
+3179,2008,Virginia,0.655
+3180,2008,North Carolina,0.653
+3181,2008,Houston,0.648
+3182,2008,Michigan St,0.647
+3183,2008,Tennessee,0.645
+3184,2008,Gonzaga,0.644
+3185,2008,Kentucky,0.643
+3186,2008,Buffalo,0.641
+3187,2008,Michigan,0.635
+3188,2008,Florida St,0.634
+3189,2008,Cincinnati,0.628
+3190,2008,LSU,0.626
+3191,2008,Purdue,0.62
+3192,2008,Villanova,0.62
+3193,2008,Kansas St,0.62
+3194,2008,Auburn,0.619
+3195,2008,Texas Tech,0.619
+3196,2008,Nevada,0.615
+3197,2008,Wofford,0.613
+3198,2008,Washington,0.609
+3199,2008,VA Commonwealth,0.609
+3200,2008,Mississippi St,0.608
+3201,2008,UCF,0.605
+3202,2008,Wisconsin,0.605
+3203,2008,Virginia Tech,0.605
+3204,2008,Utah St,0.604
+3205,2008,Maryland,0.602
+3206,2008,UNC Greensboro,0.6
+3207,2008,Iowa St,0.6
+3208,2008,Marquette,0.599
+3209,2008,Louisville,0.593
+3210,2008,Temple,0.588
+3211,2008,St Mary's CA,0.587
+3212,2008,Murray St,0.582
+3213,2008,Syracuse,0.581
+3214,2008,New Mexico St,0.581
+3215,2008,Oklahoma,0.58
+3216,2008,Seton Hall,0.58
+3217,2008,Toledo,0.579
+3218,2008,Belmont,0.579
+3219,2008,Arizona St,0.578
+3220,2008,Minnesota,0.577
+3221,2008,Yale,0.577
+3222,2008,Oregon,0.575
+3223,2008,Georgia St,0.575
+3224,2008,Northeastern,0.574
+3225,2008,Davidson,0.571
+3226,2008,Hofstra,0.57
+3227,2008,Harvard,0.569
+3228,2008,TCU,0.569
+3229,2008,Memphis,0.568
+3230,2008,St John's,0.567
+3231,2008,Iowa,0.567
+3232,2008,Alabama,0.566
+3233,2008,Furman,0.566
+3234,2008,Baylor,0.565
+3235,2008,Florida,0.565
+3236,2008,Utah Valley,0.564
+3237,2008,Clemson,0.563
+3238,2008,Creighton,0.562
+3239,2008,Old Dominion,0.562
+3240,2008,UC Irvine,0.561
+3241,2008,Vermont,0.561
+3242,2008,Mississippi,0.561
+3243,2008,BYU,0.56
+3244,2008,Tennessee St,0.559
+3245,2008,Texas,0.559
+3246,2008,Lipscomb,0.557
+3247,2008,Drake,0.557
+3248,2008,Wichita St,0.557
+3249,2008,Ohio St,0.555
+3250,2008,Dayton,0.553
+3251,2008,Montana,0.551
+3252,2008,San Diego,0.551
+3253,2008,Xavier,0.551
+3254,2008,Ga Southern,0.551
+3255,2008,Colorado,0.551
+3256,2008,Bowling Green,0.551
+3257,2008,St Louis,0.551
+3258,2008,WKU,0.55
+3259,2008,Kent,0.55
+3260,2008,Liberty,0.549
+3261,2008,San Diego St,0.548
+3262,2008,Col Charleston,0.547
+3263,2008,San Francisco,0.547
+3264,2008,Colgate,0.547
+3265,2008,Providence,0.547
+3266,2008,Bucknell,0.545
+3267,2008,Georgetown,0.545
+3268,2008,Nebraska,0.545
+3269,2008,Southern Miss,0.543
+3270,2008,N Kentucky,0.542
+3271,2008,Penn St,0.542
+3272,2008,Butler,0.542
+3273,2008,NC State,0.542
+3274,2008,Indiana,0.541
+3275,2008,South Carolina,0.539
+3276,2008,Marshall,0.539
+3277,2008,Radford,0.538
+3278,2008,Arkansas,0.538
+3279,2008,Fresno St,0.537
+3280,2008,Louisiana Tech,0.537
+3281,2008,UCLA,0.536
+3282,2008,Oregon St,0.536
+3283,2008,Tulsa,0.535
+3284,2008,Lehigh,0.535
+3285,2008,West Virginia,0.534
+3286,2008,Penn,0.533
+3287,2008,Utah,0.532
+3288,2008,Stony Brook,0.532
+3289,2008,C Michigan,0.532
+3290,2008,Rhode Island,0.532
+3291,2008,Texas St,0.531
+3292,2008,Austin Peay,0.531
+3293,2008,Princeton,0.531
+3294,2008,Arizona,0.529
+3295,2008,Brown,0.529
+3296,2008,Oklahoma St,0.529
+3297,2008,Loyola MD,0.528
+3298,2008,Grand Canyon,0.528
+3299,2008,Jacksonville St,0.528
+3300,2008,St Bonaventure,0.526
+3301,2008,Texas A&M,0.525
+3302,2008,Abilene Chr,0.525
+3303,2008,NE Omaha,0.525
+3304,2008,S Dakota St,0.523
+3305,2008,Missouri,0.523
+3306,2008,Miami FL,0.522
+3307,2008,Loyola-Chicago,0.522
+3308,2008,S Illinois,0.52
+3309,2008,Gardner Webb,0.518
+3310,2008,NJIT,0.517
+3311,2008,South Florida,0.516
+3312,2008,E Michigan,0.515
+3313,2008,Connecticut,0.515
+3314,2008,SMU,0.514
+3315,2008,UT San Antonio,0.514
+3316,2008,Prairie View,0.513
+3317,2008,TX-Pan Am,0.513
+3318,2008,Stanford,0.512
+3319,2008,Sam Houston St,0.512
+3320,2008,Rutgers,0.512
+3321,2008,Lafayette,0.512
+3322,2008,UAB,0.511
+3323,2008,Wright St,0.511
+3324,2008,Northern Iowa,0.511
+3325,2008,Ohio,0.511
+3326,2008,Miami OH,0.509
+3327,2008,UT Arlington,0.509
+3328,2008,George Mason,0.508
+3329,2008,Akron,0.507
+3330,2008,Georgia Tech,0.506
+3331,2008,USC,0.505
+3332,2008,N Colorado,0.505
+3333,2008,Santa Barbara,0.504
+3334,2008,Bradley,0.504
+3335,2008,North Texas,0.503
+3336,2008,Cornell,0.503
+3337,2008,Florida Intl,0.503
+3338,2008,Winthrop,0.501
+3339,2008,N Illinois,0.501
+3340,2008,Hartford,0.5
+3341,2008,Boston College,0.5
+3342,2008,Duquesne,0.499
+3343,2008,DePaul,0.499
+3344,2008,Holy Cross,0.498
+3345,2008,North Florida,0.497
+3346,2008,UNLV,0.497
+3347,2008,Notre Dame,0.496
+3348,2008,ULM,0.496
+3349,2008,N Dakota St,0.495
+3350,2008,St Joseph's PA,0.495
+3351,2008,CS Fullerton,0.495
+3352,2008,Ball St,0.495
+3353,2008,Illinois,0.495
+3354,2008,Illinois St,0.495
+3355,2008,Pepperdine,0.495
+3356,2008,Wake Forest,0.494
+3357,2008,Campbell,0.494
+3358,2008,WI Green Bay,0.493
+3359,2008,St Francis PA,0.493
+3360,2008,Pittsburgh,0.493
+3361,2008,Missouri St,0.492
+3362,2008,Pacific,0.491
+3363,2008,William & Mary,0.491
+3364,2008,FL Atlantic,0.491
+3365,2008,Indiana St,0.49
+3366,2008,Santa Clara,0.49
+3367,2008,UMBC,0.49
+3368,2008,Georgia,0.49
+3369,2008,Rider,0.488
+3370,2008,E Washington,0.487
+3371,2008,TX Southern,0.487
+3372,2008,F Dickinson,0.486
+3373,2008,CS Bakersfield,0.486
+3374,2008,Northwestern,0.485
+3375,2008,Iona,0.485
+3376,2008,Samford,0.485
+3377,2008,New Mexico,0.485
+3378,2008,Delaware,0.484
+3379,2008,Cal Baptist,0.484
+3380,2008,Seattle,0.484
+3381,2008,Weber St,0.482
+3382,2008,Lamar,0.482
+3383,2008,Coastal Car,0.482
+3384,2008,Canisius,0.481
+3385,2008,Norfolk St,0.479
+3386,2008,Siena,0.479
+3387,2008,Long Beach St,0.479
+3388,2008,New Orleans,0.475
+3389,2008,Navy,0.474
+3390,2008,Oakland,0.472
+3391,2008,FL Gulf Coast,0.472
+3392,2008,Boise St,0.469
+3393,2008,NC A&T,0.468
+3394,2008,IPFW,0.468
+3395,2008,Hawaii,0.468
+3396,2008,IL Chicago,0.468
+3397,2008,Monmouth NJ,0.467
+3398,2008,SE Louisiana,0.467
+3399,2008,Presbyterian,0.467
+3400,2008,Morehead St,0.467
+3401,2008,Vanderbilt,0.466
+3402,2008,Boston Univ,0.466
+3403,2008,High Point,0.466
+3404,2008,Air Force,0.466
+3405,2008,Robert Morris,0.465
+3406,2008,Valparaiso,0.464
+3407,2008,Southern Utah,0.464
+3408,2008,Colorado St,0.464
+3409,2008,E Kentucky,0.463
+3410,2008,St Francis NY,0.462
+3411,2008,Arkansas St,0.461
+3412,2008,Rice,0.461
+3413,2008,Drexel,0.46
+3414,2008,Hampton,0.46
+3415,2008,Charleston So,0.46
+3416,2008,Detroit,0.46
+3417,2008,Quinnipiac,0.459
+3418,2008,Montana St,0.459
+3419,2008,Citadel,0.458
+3420,2008,American Univ,0.458
+3421,2008,Army,0.458
+3422,2008,IUPUI,0.458
+3423,2008,MTSU,0.458
+3424,2008,Richmond,0.457
+3425,2008,Missouri KC,0.457
+3426,2008,Brooklyn,0.457
+3427,2008,Troy,0.456
+3428,2008,MA Lowell,0.455
+3429,2008,Mercer,0.455
+3430,2008,Sacred Heart,0.455
+3431,2008,Chattanooga,0.454
+3432,2008,South Alabama,0.454
+3433,2008,California,0.452
+3434,2008,Portland St,0.452
+3435,2008,James Madison,0.452
+3436,2008,Columbia,0.452
+3437,2008,CS Sacramento,0.451
+3438,2008,Washington St,0.451
+3439,2008,UNC Wilmington,0.45
+3440,2008,G Washington,0.449
+3441,2008,Dartmouth,0.448
+3442,2008,La Salle,0.448
+3443,2008,Wagner,0.448
+3444,2008,Massachusetts,0.445
+3445,2008,South Dakota,0.445
+3446,2008,E Illinois,0.444
+3447,2008,East Carolina,0.444
+3448,2008,Evansville,0.444
+3449,2008,Lafayette,0.444
+3450,2008,Appalachian St,0.443
+3451,2008,Idaho St,0.442
+3452,2008,Elon,0.441
+3453,2008,Loyola MD,0.441
+3454,2008,NC Central,0.441
+3455,2008,Grambling,0.439
+3456,2008,TAM C. Christi,0.439
+3457,2008,CS Northridge,0.438
+3458,2008,Cent Arkansas,0.436
+3459,2008,VMI,0.436
+3460,2008,North Alabama,0.436
+3461,2008,Ark Little Rock,0.436
+3462,2008,W Michigan,0.435
+3463,2008,Marist,0.435
+3464,2008,Central Conn,0.434
+3465,2008,UC Davis,0.434
+3466,2008,Albany NY,0.434
+3467,2008,Ark Pine Bluff,0.432
+3468,2008,W Carolina,0.431
+3469,2008,TN Martin,0.43
+3470,2008,Florida A&M,0.43
+3471,2008,SF Austin,0.43
+3472,2008,Youngstown St,0.429
+3473,2008,Mt St Mary's,0.429
+3474,2008,Towson,0.429
+3475,2008,North Dakota,0.429
+3476,2008,Tulane,0.429
+3477,2008,Northern Arizona,0.429
+3478,2008,Howard,0.427
+3479,2008,Oral Roberts,0.427
+3480,2008,Houston Bap,0.427
+3481,2008,Charlotte,0.426
+3482,2008,SE Missouri St,0.424
+3483,2008,Jacksonville,0.423
+3484,2008,Alabama St,0.422
+3485,2008,Niagara,0.422
+3486,2008,Binghamton,0.422
+3487,2008,Tennessee St,0.421
+3488,2008,Fordham,0.421
+3489,2008,Nicholls St,0.421
+3490,2008,Cleveland St,0.42
+3491,2008,Longwood,0.419
+3492,2008,Manhattan,0.419
+3493,2008,Tennessee Tech,0.414
+3494,2008,Bryant,0.413
+3495,2008,WI Milwaukee,0.412
+3496,2008,Denver,0.411
+3497,2008,St Peter's,0.41
+3498,2008,Jackson St,0.41
+3499,2008,Portland,0.408
+3500,2008,Bethune-Cookman,0.408
+3501,2008,Edwardsville,0.406
+3502,2008,UC Riverside,0.406
+3503,2008,Coppin St,0.406
+3504,2008,Wyoming,0.404
+3505,2008,Fairfield,0.403
+3506,2008,UTEP,0.4
+3507,2008,Northwestern LA,0.4
+3508,2008,Savannah St,0.4
+3509,2008,McNeese St,0.398
+3510,2008,Kennesaw,0.394
+3511,2008,W Illinois,0.392
+3512,2008,Maine,0.389
+3513,2008,Chicago St,0.386
+3514,2008,San Jose St,0.38
+3515,2008,Cal Poly SLO,0.374
+3516,2008,Stetson,0.373
+3517,2008,S Carolina St,0.373
+3518,2008,Morgan St,0.371
+3519,2008,Southern Univ,0.371
+3520,2008,Idaho,0.369
+3521,2008,Incarnate Word,0.369
+3522,2008,UNC Asheville,0.366
+3523,2008,Alcorn St,0.365
+3524,2008,MD E Shore,0.364
+3525,2008,New Hampshire,0.36
+3526,2008,MS Valley St,0.356
+3527,2008,Delaware St,0.349
+3528,2008,SC Upstate,0.347
+3529,2008,Alabama A&M,0.345
+3530,2009,Duke,0.67
+3531,2009,Kansas,0.657
+3532,2009,Virginia,0.655
+3533,2009,North Carolina,0.653
+3534,2009,Houston,0.648
+3535,2009,Michigan St,0.647
+3536,2009,Tennessee,0.645
+3537,2009,Gonzaga,0.644
+3538,2009,Kentucky,0.643
+3539,2009,Buffalo,0.641
+3540,2009,Michigan,0.635
+3541,2009,Florida St,0.634
+3542,2009,Cincinnati,0.628
+3543,2009,LSU,0.626
+3544,2009,Purdue,0.62
+3545,2009,Villanova,0.62
+3546,2009,Kansas St,0.62
+3547,2009,Auburn,0.619
+3548,2009,Texas Tech,0.619
+3549,2009,Nevada,0.615
+3550,2009,Wofford,0.613
+3551,2009,Washington,0.609
+3552,2009,VA Commonwealth,0.609
+3553,2009,Mississippi St,0.608
+3554,2009,UCF,0.605
+3555,2009,Wisconsin,0.605
+3556,2009,Virginia Tech,0.605
+3557,2009,Utah St,0.604
+3558,2009,Maryland,0.602
+3559,2009,UNC Greensboro,0.6
+3560,2009,Iowa St,0.6
+3561,2009,Marquette,0.599
+3562,2009,Louisville,0.593
+3563,2009,Temple,0.588
+3564,2009,St Mary's CA,0.587
+3565,2009,Murray St,0.582
+3566,2009,Syracuse,0.581
+3567,2009,New Mexico St,0.581
+3568,2009,Oklahoma,0.58
+3569,2009,Seton Hall,0.58
+3570,2009,Toledo,0.579
+3571,2009,Belmont,0.579
+3572,2009,Arizona St,0.578
+3573,2009,Minnesota,0.577
+3574,2009,Yale,0.577
+3575,2009,Oregon,0.575
+3576,2009,Georgia St,0.575
+3577,2009,Northeastern,0.574
+3578,2009,Davidson,0.571
+3579,2009,Hofstra,0.57
+3580,2009,Harvard,0.569
+3581,2009,TCU,0.569
+3582,2009,Memphis,0.568
+3583,2009,St John's,0.567
+3584,2009,Iowa,0.567
+3585,2009,Alabama,0.566
+3586,2009,Furman,0.566
+3587,2009,Baylor,0.565
+3588,2009,Florida,0.565
+3589,2009,Utah Valley,0.564
+3590,2009,Clemson,0.563
+3591,2009,Creighton,0.562
+3592,2009,Old Dominion,0.562
+3593,2009,UC Irvine,0.561
+3594,2009,Vermont,0.561
+3595,2009,Mississippi,0.561
+3596,2009,BYU,0.56
+3597,2009,Tennessee St,0.559
+3598,2009,Texas,0.559
+3599,2009,Lipscomb,0.557
+3600,2009,Drake,0.557
+3601,2009,Wichita St,0.557
+3602,2009,Ohio St,0.555
+3603,2009,Dayton,0.553
+3604,2009,Montana,0.551
+3605,2009,San Diego,0.551
+3606,2009,Xavier,0.551
+3607,2009,Ga Southern,0.551
+3608,2009,Colorado,0.551
+3609,2009,Bowling Green,0.551
+3610,2009,St Louis,0.551
+3611,2009,WKU,0.55
+3612,2009,Kent,0.55
+3613,2009,Liberty,0.549
+3614,2009,San Diego St,0.548
+3615,2009,Col Charleston,0.547
+3616,2009,San Francisco,0.547
+3617,2009,Colgate,0.547
+3618,2009,Providence,0.547
+3619,2009,Bucknell,0.545
+3620,2009,Georgetown,0.545
+3621,2009,Nebraska,0.545
+3622,2009,Southern Miss,0.543
+3623,2009,N Kentucky,0.542
+3624,2009,Penn St,0.542
+3625,2009,Butler,0.542
+3626,2009,NC State,0.542
+3627,2009,Indiana,0.541
+3628,2009,South Carolina,0.539
+3629,2009,Marshall,0.539
+3630,2009,Radford,0.538
+3631,2009,Arkansas,0.538
+3632,2009,Fresno St,0.537
+3633,2009,Louisiana Tech,0.537
+3634,2009,UCLA,0.536
+3635,2009,Oregon St,0.536
+3636,2009,Tulsa,0.535
+3637,2009,Lehigh,0.535
+3638,2009,West Virginia,0.534
+3639,2009,Penn,0.533
+3640,2009,Utah,0.532
+3641,2009,Stony Brook,0.532
+3642,2009,C Michigan,0.532
+3643,2009,Rhode Island,0.532
+3644,2009,Texas St,0.531
+3645,2009,Austin Peay,0.531
+3646,2009,Princeton,0.531
+3647,2009,Arizona,0.529
+3648,2009,Brown,0.529
+3649,2009,Oklahoma St,0.529
+3650,2009,Loyola MD,0.528
+3651,2009,Grand Canyon,0.528
+3652,2009,Jacksonville St,0.528
+3653,2009,St Bonaventure,0.526
+3654,2009,Texas A&M,0.525
+3655,2009,Abilene Chr,0.525
+3656,2009,NE Omaha,0.525
+3657,2009,S Dakota St,0.523
+3658,2009,Missouri,0.523
+3659,2009,Miami FL,0.522
+3660,2009,Loyola-Chicago,0.522
+3661,2009,S Illinois,0.52
+3662,2009,Gardner Webb,0.518
+3663,2009,NJIT,0.517
+3664,2009,South Florida,0.516
+3665,2009,E Michigan,0.515
+3666,2009,Connecticut,0.515
+3667,2009,SMU,0.514
+3668,2009,UT San Antonio,0.514
+3669,2009,Prairie View,0.513
+3670,2009,TX-Pan Am,0.513
+3671,2009,Stanford,0.512
+3672,2009,Sam Houston St,0.512
+3673,2009,Rutgers,0.512
+3674,2009,Lafayette,0.512
+3675,2009,UAB,0.511
+3676,2009,Wright St,0.511
+3677,2009,Northern Iowa,0.511
+3678,2009,Ohio,0.511
+3679,2009,Miami OH,0.509
+3680,2009,UT Arlington,0.509
+3681,2009,George Mason,0.508
+3682,2009,Akron,0.507
+3683,2009,Georgia Tech,0.506
+3684,2009,USC,0.505
+3685,2009,N Colorado,0.505
+3686,2009,Santa Barbara,0.504
+3687,2009,Bradley,0.504
+3688,2009,North Texas,0.503
+3689,2009,Cornell,0.503
+3690,2009,Florida Intl,0.503
+3691,2009,Winthrop,0.501
+3692,2009,N Illinois,0.501
+3693,2009,Hartford,0.5
+3694,2009,Boston College,0.5
+3695,2009,Duquesne,0.499
+3696,2009,DePaul,0.499
+3697,2009,Holy Cross,0.498
+3698,2009,North Florida,0.497
+3699,2009,UNLV,0.497
+3700,2009,Notre Dame,0.496
+3701,2009,ULM,0.496
+3702,2009,N Dakota St,0.495
+3703,2009,St Joseph's PA,0.495
+3704,2009,CS Fullerton,0.495
+3705,2009,Ball St,0.495
+3706,2009,Illinois,0.495
+3707,2009,Illinois St,0.495
+3708,2009,Pepperdine,0.495
+3709,2009,Wake Forest,0.494
+3710,2009,Campbell,0.494
+3711,2009,WI Green Bay,0.493
+3712,2009,St Francis PA,0.493
+3713,2009,Pittsburgh,0.493
+3714,2009,Missouri St,0.492
+3715,2009,Pacific,0.491
+3716,2009,William & Mary,0.491
+3717,2009,FL Atlantic,0.491
+3718,2009,Indiana St,0.49
+3719,2009,Santa Clara,0.49
+3720,2009,UMBC,0.49
+3721,2009,Georgia,0.49
+3722,2009,Rider,0.488
+3723,2009,E Washington,0.487
+3724,2009,TX Southern,0.487
+3725,2009,F Dickinson,0.486
+3726,2009,CS Bakersfield,0.486
+3727,2009,Northwestern,0.485
+3728,2009,Iona,0.485
+3729,2009,Samford,0.485
+3730,2009,New Mexico,0.485
+3731,2009,Delaware,0.484
+3732,2009,Cal Baptist,0.484
+3733,2009,Seattle,0.484
+3734,2009,Weber St,0.482
+3735,2009,Lamar,0.482
+3736,2009,Coastal Car,0.482
+3737,2009,Canisius,0.481
+3738,2009,Norfolk St,0.479
+3739,2009,Siena,0.479
+3740,2009,Long Beach St,0.479
+3741,2009,New Orleans,0.475
+3742,2009,Navy,0.474
+3743,2009,Oakland,0.472
+3744,2009,FL Gulf Coast,0.472
+3745,2009,Boise St,0.469
+3746,2009,NC A&T,0.468
+3747,2009,IPFW,0.468
+3748,2009,Hawaii,0.468
+3749,2009,IL Chicago,0.468
+3750,2009,Monmouth NJ,0.467
+3751,2009,SE Louisiana,0.467
+3752,2009,Presbyterian,0.467
+3753,2009,Morehead St,0.467
+3754,2009,Vanderbilt,0.466
+3755,2009,Boston Univ,0.466
+3756,2009,High Point,0.466
+3757,2009,Air Force,0.466
+3758,2009,Robert Morris,0.465
+3759,2009,Valparaiso,0.464
+3760,2009,Southern Utah,0.464
+3761,2009,Colorado St,0.464
+3762,2009,E Kentucky,0.463
+3763,2009,St Francis NY,0.462
+3764,2009,Arkansas St,0.461
+3765,2009,Rice,0.461
+3766,2009,Drexel,0.46
+3767,2009,Hampton,0.46
+3768,2009,Charleston So,0.46
+3769,2009,Detroit,0.46
+3770,2009,Quinnipiac,0.459
+3771,2009,Montana St,0.459
+3772,2009,Citadel,0.458
+3773,2009,American Univ,0.458
+3774,2009,Army,0.458
+3775,2009,IUPUI,0.458
+3776,2009,MTSU,0.458
+3777,2009,Richmond,0.457
+3778,2009,Missouri KC,0.457
+3779,2009,Brooklyn,0.457
+3780,2009,Troy,0.456
+3781,2009,MA Lowell,0.455
+3782,2009,Mercer,0.455
+3783,2009,Sacred Heart,0.455
+3784,2009,Chattanooga,0.454
+3785,2009,South Alabama,0.454
+3786,2009,California,0.452
+3787,2009,Portland St,0.452
+3788,2009,James Madison,0.452
+3789,2009,Columbia,0.452
+3790,2009,CS Sacramento,0.451
+3791,2009,Washington St,0.451
+3792,2009,UNC Wilmington,0.45
+3793,2009,G Washington,0.449
+3794,2009,Dartmouth,0.448
+3795,2009,La Salle,0.448
+3796,2009,Wagner,0.448
+3797,2009,Massachusetts,0.445
+3798,2009,South Dakota,0.445
+3799,2009,E Illinois,0.444
+3800,2009,East Carolina,0.444
+3801,2009,Evansville,0.444
+3802,2009,Lafayette,0.444
+3803,2009,Appalachian St,0.443
+3804,2009,Idaho St,0.442
+3805,2009,Elon,0.441
+3806,2009,Loyola MD,0.441
+3807,2009,NC Central,0.441
+3808,2009,Grambling,0.439
+3809,2009,TAM C. Christi,0.439
+3810,2009,CS Northridge,0.438
+3811,2009,Cent Arkansas,0.436
+3812,2009,VMI,0.436
+3813,2009,North Alabama,0.436
+3814,2009,Ark Little Rock,0.436
+3815,2009,W Michigan,0.435
+3816,2009,Marist,0.435
+3817,2009,Central Conn,0.434
+3818,2009,UC Davis,0.434
+3819,2009,Albany NY,0.434
+3820,2009,Ark Pine Bluff,0.432
+3821,2009,W Carolina,0.431
+3822,2009,TN Martin,0.43
+3823,2009,Florida A&M,0.43
+3824,2009,SF Austin,0.43
+3825,2009,Youngstown St,0.429
+3826,2009,Mt St Mary's,0.429
+3827,2009,Towson,0.429
+3828,2009,North Dakota,0.429
+3829,2009,Tulane,0.429
+3830,2009,Northern Arizona,0.429
+3831,2009,Howard,0.427
+3832,2009,Oral Roberts,0.427
+3833,2009,Houston Bap,0.427
+3834,2009,Charlotte,0.426
+3835,2009,SE Missouri St,0.424
+3836,2009,Jacksonville,0.423
+3837,2009,Alabama St,0.422
+3838,2009,Niagara,0.422
+3839,2009,Binghamton,0.422
+3840,2009,Tennessee St,0.421
+3841,2009,Fordham,0.421
+3842,2009,Nicholls St,0.421
+3843,2009,Cleveland St,0.42
+3844,2009,Longwood,0.419
+3845,2009,Manhattan,0.419
+3846,2009,Tennessee Tech,0.414
+3847,2009,Bryant,0.413
+3848,2009,WI Milwaukee,0.412
+3849,2009,Denver,0.411
+3850,2009,St Peter's,0.41
+3851,2009,Jackson St,0.41
+3852,2009,Portland,0.408
+3853,2009,Bethune-Cookman,0.408
+3854,2009,Edwardsville,0.406
+3855,2009,UC Riverside,0.406
+3856,2009,Coppin St,0.406
+3857,2009,Wyoming,0.404
+3858,2009,Fairfield,0.403
+3859,2009,UTEP,0.4
+3860,2009,Northwestern LA,0.4
+3861,2009,Savannah St,0.4
+3862,2009,McNeese St,0.398
+3863,2009,Kennesaw,0.394
+3864,2009,W Illinois,0.392
+3865,2009,Maine,0.389
+3866,2009,Chicago St,0.386
+3867,2009,San Jose St,0.38
+3868,2009,Cal Poly SLO,0.374
+3869,2009,Stetson,0.373
+3870,2009,S Carolina St,0.373
+3871,2009,Morgan St,0.371
+3872,2009,Southern Univ,0.371
+3873,2009,Idaho,0.369
+3874,2009,Incarnate Word,0.369
+3875,2009,UNC Asheville,0.366
+3876,2009,Alcorn St,0.365
+3877,2009,MD E Shore,0.364
+3878,2009,New Hampshire,0.36
+3879,2009,MS Valley St,0.356
+3880,2009,Delaware St,0.349
+3881,2009,SC Upstate,0.347
+3882,2009,Alabama A&M,0.345
+3883,2010,Duke,0.67
+3884,2010,Kansas,0.657
+3885,2010,Virginia,0.655
+3886,2010,North Carolina,0.653
+3887,2010,Houston,0.648
+3888,2010,Michigan St,0.647
+3889,2010,Tennessee,0.645
+3890,2010,Gonzaga,0.644
+3891,2010,Kentucky,0.643
+3892,2010,Buffalo,0.641
+3893,2010,Michigan,0.635
+3894,2010,Florida St,0.634
+3895,2010,Cincinnati,0.628
+3896,2010,LSU,0.626
+3897,2010,Purdue,0.62
+3898,2010,Villanova,0.62
+3899,2010,Kansas St,0.62
+3900,2010,Auburn,0.619
+3901,2010,Texas Tech,0.619
+3902,2010,Nevada,0.615
+3903,2010,Wofford,0.613
+3904,2010,Washington,0.609
+3905,2010,VA Commonwealth,0.609
+3906,2010,Mississippi St,0.608
+3907,2010,UCF,0.605
+3908,2010,Wisconsin,0.605
+3909,2010,Virginia Tech,0.605
+3910,2010,Utah St,0.604
+3911,2010,Maryland,0.602
+3912,2010,UNC Greensboro,0.6
+3913,2010,Iowa St,0.6
+3914,2010,Marquette,0.599
+3915,2010,Louisville,0.593
+3916,2010,Temple,0.588
+3917,2010,St Mary's CA,0.587
+3918,2010,Murray St,0.582
+3919,2010,Syracuse,0.581
+3920,2010,New Mexico St,0.581
+3921,2010,Oklahoma,0.58
+3922,2010,Seton Hall,0.58
+3923,2010,Toledo,0.579
+3924,2010,Belmont,0.579
+3925,2010,Arizona St,0.578
+3926,2010,Minnesota,0.577
+3927,2010,Yale,0.577
+3928,2010,Oregon,0.575
+3929,2010,Georgia St,0.575
+3930,2010,Northeastern,0.574
+3931,2010,Davidson,0.571
+3932,2010,Hofstra,0.57
+3933,2010,Harvard,0.569
+3934,2010,TCU,0.569
+3935,2010,Memphis,0.568
+3936,2010,St John's,0.567
+3937,2010,Iowa,0.567
+3938,2010,Alabama,0.566
+3939,2010,Furman,0.566
+3940,2010,Baylor,0.565
+3941,2010,Florida,0.565
+3942,2010,Utah Valley,0.564
+3943,2010,Clemson,0.563
+3944,2010,Creighton,0.562
+3945,2010,Old Dominion,0.562
+3946,2010,UC Irvine,0.561
+3947,2010,Vermont,0.561
+3948,2010,Mississippi,0.561
+3949,2010,BYU,0.56
+3950,2010,Tennessee St,0.559
+3951,2010,Texas,0.559
+3952,2010,Lipscomb,0.557
+3953,2010,Drake,0.557
+3954,2010,Wichita St,0.557
+3955,2010,Ohio St,0.555
+3956,2010,Dayton,0.553
+3957,2010,Montana,0.551
+3958,2010,San Diego,0.551
+3959,2010,Xavier,0.551
+3960,2010,Ga Southern,0.551
+3961,2010,Colorado,0.551
+3962,2010,Bowling Green,0.551
+3963,2010,St Louis,0.551
+3964,2010,WKU,0.55
+3965,2010,Kent,0.55
+3966,2010,Liberty,0.549
+3967,2010,San Diego St,0.548
+3968,2010,Col Charleston,0.547
+3969,2010,San Francisco,0.547
+3970,2010,Colgate,0.547
+3971,2010,Providence,0.547
+3972,2010,Bucknell,0.545
+3973,2010,Georgetown,0.545
+3974,2010,Nebraska,0.545
+3975,2010,Southern Miss,0.543
+3976,2010,N Kentucky,0.542
+3977,2010,Penn St,0.542
+3978,2010,Butler,0.542
+3979,2010,NC State,0.542
+3980,2010,Indiana,0.541
+3981,2010,South Carolina,0.539
+3982,2010,Marshall,0.539
+3983,2010,Radford,0.538
+3984,2010,Arkansas,0.538
+3985,2010,Fresno St,0.537
+3986,2010,Louisiana Tech,0.537
+3987,2010,UCLA,0.536
+3988,2010,Oregon St,0.536
+3989,2010,Tulsa,0.535
+3990,2010,Lehigh,0.535
+3991,2010,West Virginia,0.534
+3992,2010,Penn,0.533
+3993,2010,Utah,0.532
+3994,2010,Stony Brook,0.532
+3995,2010,C Michigan,0.532
+3996,2010,Rhode Island,0.532
+3997,2010,Texas St,0.531
+3998,2010,Austin Peay,0.531
+3999,2010,Princeton,0.531
+4000,2010,Arizona,0.529
+4001,2010,Brown,0.529
+4002,2010,Oklahoma St,0.529
+4003,2010,Loyola MD,0.528
+4004,2010,Grand Canyon,0.528
+4005,2010,Jacksonville St,0.528
+4006,2010,St Bonaventure,0.526
+4007,2010,Texas A&M,0.525
+4008,2010,Abilene Chr,0.525
+4009,2010,NE Omaha,0.525
+4010,2010,S Dakota St,0.523
+4011,2010,Missouri,0.523
+4012,2010,Miami FL,0.522
+4013,2010,Loyola-Chicago,0.522
+4014,2010,S Illinois,0.52
+4015,2010,Gardner Webb,0.518
+4016,2010,NJIT,0.517
+4017,2010,South Florida,0.516
+4018,2010,E Michigan,0.515
+4019,2010,Connecticut,0.515
+4020,2010,SMU,0.514
+4021,2010,UT San Antonio,0.514
+4022,2010,Prairie View,0.513
+4023,2010,TX-Pan Am,0.513
+4024,2010,Stanford,0.512
+4025,2010,Sam Houston St,0.512
+4026,2010,Rutgers,0.512
+4027,2010,Lafayette,0.512
+4028,2010,UAB,0.511
+4029,2010,Wright St,0.511
+4030,2010,Northern Iowa,0.511
+4031,2010,Ohio,0.511
+4032,2010,Miami OH,0.509
+4033,2010,UT Arlington,0.509
+4034,2010,George Mason,0.508
+4035,2010,Akron,0.507
+4036,2010,Georgia Tech,0.506
+4037,2010,USC,0.505
+4038,2010,N Colorado,0.505
+4039,2010,Santa Barbara,0.504
+4040,2010,Bradley,0.504
+4041,2010,North Texas,0.503
+4042,2010,Cornell,0.503
+4043,2010,Florida Intl,0.503
+4044,2010,Winthrop,0.501
+4045,2010,N Illinois,0.501
+4046,2010,Hartford,0.5
+4047,2010,Boston College,0.5
+4048,2010,Duquesne,0.499
+4049,2010,DePaul,0.499
+4050,2010,Holy Cross,0.498
+4051,2010,North Florida,0.497
+4052,2010,UNLV,0.497
+4053,2010,Notre Dame,0.496
+4054,2010,ULM,0.496
+4055,2010,N Dakota St,0.495
+4056,2010,St Joseph's PA,0.495
+4057,2010,CS Fullerton,0.495
+4058,2010,Ball St,0.495
+4059,2010,Illinois,0.495
+4060,2010,Illinois St,0.495
+4061,2010,Pepperdine,0.495
+4062,2010,Wake Forest,0.494
+4063,2010,Campbell,0.494
+4064,2010,WI Green Bay,0.493
+4065,2010,St Francis PA,0.493
+4066,2010,Pittsburgh,0.493
+4067,2010,Missouri St,0.492
+4068,2010,Pacific,0.491
+4069,2010,William & Mary,0.491
+4070,2010,FL Atlantic,0.491
+4071,2010,Indiana St,0.49
+4072,2010,Santa Clara,0.49
+4073,2010,UMBC,0.49
+4074,2010,Georgia,0.49
+4075,2010,Rider,0.488
+4076,2010,E Washington,0.487
+4077,2010,TX Southern,0.487
+4078,2010,F Dickinson,0.486
+4079,2010,CS Bakersfield,0.486
+4080,2010,Northwestern,0.485
+4081,2010,Iona,0.485
+4082,2010,Samford,0.485
+4083,2010,New Mexico,0.485
+4084,2010,Delaware,0.484
+4085,2010,Cal Baptist,0.484
+4086,2010,Seattle,0.484
+4087,2010,Weber St,0.482
+4088,2010,Lamar,0.482
+4089,2010,Coastal Car,0.482
+4090,2010,Canisius,0.481
+4091,2010,Norfolk St,0.479
+4092,2010,Siena,0.479
+4093,2010,Long Beach St,0.479
+4094,2010,New Orleans,0.475
+4095,2010,Navy,0.474
+4096,2010,Oakland,0.472
+4097,2010,FL Gulf Coast,0.472
+4098,2010,Boise St,0.469
+4099,2010,NC A&T,0.468
+4100,2010,IPFW,0.468
+4101,2010,Hawaii,0.468
+4102,2010,IL Chicago,0.468
+4103,2010,Monmouth NJ,0.467
+4104,2010,SE Louisiana,0.467
+4105,2010,Presbyterian,0.467
+4106,2010,Morehead St,0.467
+4107,2010,Vanderbilt,0.466
+4108,2010,Boston Univ,0.466
+4109,2010,High Point,0.466
+4110,2010,Air Force,0.466
+4111,2010,Robert Morris,0.465
+4112,2010,Valparaiso,0.464
+4113,2010,Southern Utah,0.464
+4114,2010,Colorado St,0.464
+4115,2010,E Kentucky,0.463
+4116,2010,St Francis NY,0.462
+4117,2010,Arkansas St,0.461
+4118,2010,Rice,0.461
+4119,2010,Drexel,0.46
+4120,2010,Hampton,0.46
+4121,2010,Charleston So,0.46
+4122,2010,Detroit,0.46
+4123,2010,Quinnipiac,0.459
+4124,2010,Montana St,0.459
+4125,2010,Citadel,0.458
+4126,2010,American Univ,0.458
+4127,2010,Army,0.458
+4128,2010,IUPUI,0.458
+4129,2010,MTSU,0.458
+4130,2010,Richmond,0.457
+4131,2010,Missouri KC,0.457
+4132,2010,Brooklyn,0.457
+4133,2010,Troy,0.456
+4134,2010,MA Lowell,0.455
+4135,2010,Mercer,0.455
+4136,2010,Sacred Heart,0.455
+4137,2010,Chattanooga,0.454
+4138,2010,South Alabama,0.454
+4139,2010,California,0.452
+4140,2010,Portland St,0.452
+4141,2010,James Madison,0.452
+4142,2010,Columbia,0.452
+4143,2010,CS Sacramento,0.451
+4144,2010,Washington St,0.451
+4145,2010,UNC Wilmington,0.45
+4146,2010,G Washington,0.449
+4147,2010,Dartmouth,0.448
+4148,2010,La Salle,0.448
+4149,2010,Wagner,0.448
+4150,2010,Massachusetts,0.445
+4151,2010,South Dakota,0.445
+4152,2010,E Illinois,0.444
+4153,2010,East Carolina,0.444
+4154,2010,Evansville,0.444
+4155,2010,Lafayette,0.444
+4156,2010,Appalachian St,0.443
+4157,2010,Idaho St,0.442
+4158,2010,Elon,0.441
+4159,2010,Loyola MD,0.441
+4160,2010,NC Central,0.441
+4161,2010,Grambling,0.439
+4162,2010,TAM C. Christi,0.439
+4163,2010,CS Northridge,0.438
+4164,2010,Cent Arkansas,0.436
+4165,2010,VMI,0.436
+4166,2010,North Alabama,0.436
+4167,2010,Ark Little Rock,0.436
+4168,2010,W Michigan,0.435
+4169,2010,Marist,0.435
+4170,2010,Central Conn,0.434
+4171,2010,UC Davis,0.434
+4172,2010,Albany NY,0.434
+4173,2010,Ark Pine Bluff,0.432
+4174,2010,W Carolina,0.431
+4175,2010,TN Martin,0.43
+4176,2010,Florida A&M,0.43
+4177,2010,SF Austin,0.43
+4178,2010,Youngstown St,0.429
+4179,2010,Mt St Mary's,0.429
+4180,2010,Towson,0.429
+4181,2010,North Dakota,0.429
+4182,2010,Tulane,0.429
+4183,2010,Northern Arizona,0.429
+4184,2010,Howard,0.427
+4185,2010,Oral Roberts,0.427
+4186,2010,Houston Bap,0.427
+4187,2010,Charlotte,0.426
+4188,2010,SE Missouri St,0.424
+4189,2010,Jacksonville,0.423
+4190,2010,Alabama St,0.422
+4191,2010,Niagara,0.422
+4192,2010,Binghamton,0.422
+4193,2010,Tennessee St,0.421
+4194,2010,Fordham,0.421
+4195,2010,Nicholls St,0.421
+4196,2010,Cleveland St,0.42
+4197,2010,Longwood,0.419
+4198,2010,Manhattan,0.419
+4199,2010,Tennessee Tech,0.414
+4200,2010,Bryant,0.413
+4201,2010,WI Milwaukee,0.412
+4202,2010,Denver,0.411
+4203,2010,St Peter's,0.41
+4204,2010,Jackson St,0.41
+4205,2010,Portland,0.408
+4206,2010,Bethune-Cookman,0.408
+4207,2010,Edwardsville,0.406
+4208,2010,UC Riverside,0.406
+4209,2010,Coppin St,0.406
+4210,2010,Wyoming,0.404
+4211,2010,Fairfield,0.403
+4212,2010,UTEP,0.4
+4213,2010,Northwestern LA,0.4
+4214,2010,Savannah St,0.4
+4215,2010,McNeese St,0.398
+4216,2010,Kennesaw,0.394
+4217,2010,W Illinois,0.392
+4218,2010,Maine,0.389
+4219,2010,Chicago St,0.386
+4220,2010,San Jose St,0.38
+4221,2010,Cal Poly SLO,0.374
+4222,2010,Stetson,0.373
+4223,2010,S Carolina St,0.373
+4224,2010,Morgan St,0.371
+4225,2010,Southern Univ,0.371
+4226,2010,Idaho,0.369
+4227,2010,Incarnate Word,0.369
+4228,2010,UNC Asheville,0.366
+4229,2010,Alcorn St,0.365
+4230,2010,MD E Shore,0.364
+4231,2010,New Hampshire,0.36
+4232,2010,MS Valley St,0.356
+4233,2010,Delaware St,0.349
+4234,2010,SC Upstate,0.347
+4235,2010,Alabama A&M,0.345
+4236,2011,Duke,0.67
+4237,2011,Kansas,0.657
+4238,2011,Virginia,0.655
+4239,2011,North Carolina,0.653
+4240,2011,Houston,0.648
+4241,2011,Michigan St,0.647
+4242,2011,Tennessee,0.645
+4243,2011,Gonzaga,0.644
+4244,2011,Kentucky,0.643
+4245,2011,Buffalo,0.641
+4246,2011,Michigan,0.635
+4247,2011,Florida St,0.634
+4248,2011,Cincinnati,0.628
+4249,2011,LSU,0.626
+4250,2011,Purdue,0.62
+4251,2011,Villanova,0.62
+4252,2011,Kansas St,0.62
+4253,2011,Auburn,0.619
+4254,2011,Texas Tech,0.619
+4255,2011,Nevada,0.615
+4256,2011,Wofford,0.613
+4257,2011,Washington,0.609
+4258,2011,VA Commonwealth,0.609
+4259,2011,Mississippi St,0.608
+4260,2011,UCF,0.605
+4261,2011,Wisconsin,0.605
+4262,2011,Virginia Tech,0.605
+4263,2011,Utah St,0.604
+4264,2011,Maryland,0.602
+4265,2011,UNC Greensboro,0.6
+4266,2011,Iowa St,0.6
+4267,2011,Marquette,0.599
+4268,2011,Louisville,0.593
+4269,2011,Temple,0.588
+4270,2011,St Mary's CA,0.587
+4271,2011,Murray St,0.582
+4272,2011,Syracuse,0.581
+4273,2011,New Mexico St,0.581
+4274,2011,Oklahoma,0.58
+4275,2011,Seton Hall,0.58
+4276,2011,Toledo,0.579
+4277,2011,Belmont,0.579
+4278,2011,Arizona St,0.578
+4279,2011,Minnesota,0.577
+4280,2011,Yale,0.577
+4281,2011,Oregon,0.575
+4282,2011,Georgia St,0.575
+4283,2011,Northeastern,0.574
+4284,2011,Davidson,0.571
+4285,2011,Hofstra,0.57
+4286,2011,Harvard,0.569
+4287,2011,TCU,0.569
+4288,2011,Memphis,0.568
+4289,2011,St John's,0.567
+4290,2011,Iowa,0.567
+4291,2011,Alabama,0.566
+4292,2011,Furman,0.566
+4293,2011,Baylor,0.565
+4294,2011,Florida,0.565
+4295,2011,Utah Valley,0.564
+4296,2011,Clemson,0.563
+4297,2011,Creighton,0.562
+4298,2011,Old Dominion,0.562
+4299,2011,UC Irvine,0.561
+4300,2011,Vermont,0.561
+4301,2011,Mississippi,0.561
+4302,2011,BYU,0.56
+4303,2011,Tennessee St,0.559
+4304,2011,Texas,0.559
+4305,2011,Lipscomb,0.557
+4306,2011,Drake,0.557
+4307,2011,Wichita St,0.557
+4308,2011,Ohio St,0.555
+4309,2011,Dayton,0.553
+4310,2011,Montana,0.551
+4311,2011,San Diego,0.551
+4312,2011,Xavier,0.551
+4313,2011,Ga Southern,0.551
+4314,2011,Colorado,0.551
+4315,2011,Bowling Green,0.551
+4316,2011,St Louis,0.551
+4317,2011,WKU,0.55
+4318,2011,Kent,0.55
+4319,2011,Liberty,0.549
+4320,2011,San Diego St,0.548
+4321,2011,Col Charleston,0.547
+4322,2011,San Francisco,0.547
+4323,2011,Colgate,0.547
+4324,2011,Providence,0.547
+4325,2011,Bucknell,0.545
+4326,2011,Georgetown,0.545
+4327,2011,Nebraska,0.545
+4328,2011,Southern Miss,0.543
+4329,2011,N Kentucky,0.542
+4330,2011,Penn St,0.542
+4331,2011,Butler,0.542
+4332,2011,NC State,0.542
+4333,2011,Indiana,0.541
+4334,2011,South Carolina,0.539
+4335,2011,Marshall,0.539
+4336,2011,Radford,0.538
+4337,2011,Arkansas,0.538
+4338,2011,Fresno St,0.537
+4339,2011,Louisiana Tech,0.537
+4340,2011,UCLA,0.536
+4341,2011,Oregon St,0.536
+4342,2011,Tulsa,0.535
+4343,2011,Lehigh,0.535
+4344,2011,West Virginia,0.534
+4345,2011,Penn,0.533
+4346,2011,Utah,0.532
+4347,2011,Stony Brook,0.532
+4348,2011,C Michigan,0.532
+4349,2011,Rhode Island,0.532
+4350,2011,Texas St,0.531
+4351,2011,Austin Peay,0.531
+4352,2011,Princeton,0.531
+4353,2011,Arizona,0.529
+4354,2011,Brown,0.529
+4355,2011,Oklahoma St,0.529
+4356,2011,Loyola MD,0.528
+4357,2011,Grand Canyon,0.528
+4358,2011,Jacksonville St,0.528
+4359,2011,St Bonaventure,0.526
+4360,2011,Texas A&M,0.525
+4361,2011,Abilene Chr,0.525
+4362,2011,NE Omaha,0.525
+4363,2011,S Dakota St,0.523
+4364,2011,Missouri,0.523
+4365,2011,Miami FL,0.522
+4366,2011,Loyola-Chicago,0.522
+4367,2011,S Illinois,0.52
+4368,2011,Gardner Webb,0.518
+4369,2011,NJIT,0.517
+4370,2011,South Florida,0.516
+4371,2011,E Michigan,0.515
+4372,2011,Connecticut,0.515
+4373,2011,SMU,0.514
+4374,2011,UT San Antonio,0.514
+4375,2011,Prairie View,0.513
+4376,2011,TX-Pan Am,0.513
+4377,2011,Stanford,0.512
+4378,2011,Sam Houston St,0.512
+4379,2011,Rutgers,0.512
+4380,2011,Lafayette,0.512
+4381,2011,UAB,0.511
+4382,2011,Wright St,0.511
+4383,2011,Northern Iowa,0.511
+4384,2011,Ohio,0.511
+4385,2011,Miami OH,0.509
+4386,2011,UT Arlington,0.509
+4387,2011,George Mason,0.508
+4388,2011,Akron,0.507
+4389,2011,Georgia Tech,0.506
+4390,2011,USC,0.505
+4391,2011,N Colorado,0.505
+4392,2011,Santa Barbara,0.504
+4393,2011,Bradley,0.504
+4394,2011,North Texas,0.503
+4395,2011,Cornell,0.503
+4396,2011,Florida Intl,0.503
+4397,2011,Winthrop,0.501
+4398,2011,N Illinois,0.501
+4399,2011,Hartford,0.5
+4400,2011,Boston College,0.5
+4401,2011,Duquesne,0.499
+4402,2011,DePaul,0.499
+4403,2011,Holy Cross,0.498
+4404,2011,North Florida,0.497
+4405,2011,UNLV,0.497
+4406,2011,Notre Dame,0.496
+4407,2011,ULM,0.496
+4408,2011,N Dakota St,0.495
+4409,2011,St Joseph's PA,0.495
+4410,2011,CS Fullerton,0.495
+4411,2011,Ball St,0.495
+4412,2011,Illinois,0.495
+4413,2011,Illinois St,0.495
+4414,2011,Pepperdine,0.495
+4415,2011,Wake Forest,0.494
+4416,2011,Campbell,0.494
+4417,2011,WI Green Bay,0.493
+4418,2011,St Francis PA,0.493
+4419,2011,Pittsburgh,0.493
+4420,2011,Missouri St,0.492
+4421,2011,Pacific,0.491
+4422,2011,William & Mary,0.491
+4423,2011,FL Atlantic,0.491
+4424,2011,Indiana St,0.49
+4425,2011,Santa Clara,0.49
+4426,2011,UMBC,0.49
+4427,2011,Georgia,0.49
+4428,2011,Rider,0.488
+4429,2011,E Washington,0.487
+4430,2011,TX Southern,0.487
+4431,2011,F Dickinson,0.486
+4432,2011,CS Bakersfield,0.486
+4433,2011,Northwestern,0.485
+4434,2011,Iona,0.485
+4435,2011,Samford,0.485
+4436,2011,New Mexico,0.485
+4437,2011,Delaware,0.484
+4438,2011,Cal Baptist,0.484
+4439,2011,Seattle,0.484
+4440,2011,Weber St,0.482
+4441,2011,Lamar,0.482
+4442,2011,Coastal Car,0.482
+4443,2011,Canisius,0.481
+4444,2011,Norfolk St,0.479
+4445,2011,Siena,0.479
+4446,2011,Long Beach St,0.479
+4447,2011,New Orleans,0.475
+4448,2011,Navy,0.474
+4449,2011,Oakland,0.472
+4450,2011,FL Gulf Coast,0.472
+4451,2011,Boise St,0.469
+4452,2011,NC A&T,0.468
+4453,2011,IPFW,0.468
+4454,2011,Hawaii,0.468
+4455,2011,IL Chicago,0.468
+4456,2011,Monmouth NJ,0.467
+4457,2011,SE Louisiana,0.467
+4458,2011,Presbyterian,0.467
+4459,2011,Morehead St,0.467
+4460,2011,Vanderbilt,0.466
+4461,2011,Boston Univ,0.466
+4462,2011,High Point,0.466
+4463,2011,Air Force,0.466
+4464,2011,Robert Morris,0.465
+4465,2011,Valparaiso,0.464
+4466,2011,Southern Utah,0.464
+4467,2011,Colorado St,0.464
+4468,2011,E Kentucky,0.463
+4469,2011,St Francis NY,0.462
+4470,2011,Arkansas St,0.461
+4471,2011,Rice,0.461
+4472,2011,Drexel,0.46
+4473,2011,Hampton,0.46
+4474,2011,Charleston So,0.46
+4475,2011,Detroit,0.46
+4476,2011,Quinnipiac,0.459
+4477,2011,Montana St,0.459
+4478,2011,Citadel,0.458
+4479,2011,American Univ,0.458
+4480,2011,Army,0.458
+4481,2011,IUPUI,0.458
+4482,2011,MTSU,0.458
+4483,2011,Richmond,0.457
+4484,2011,Missouri KC,0.457
+4485,2011,Brooklyn,0.457
+4486,2011,Troy,0.456
+4487,2011,MA Lowell,0.455
+4488,2011,Mercer,0.455
+4489,2011,Sacred Heart,0.455
+4490,2011,Chattanooga,0.454
+4491,2011,South Alabama,0.454
+4492,2011,California,0.452
+4493,2011,Portland St,0.452
+4494,2011,James Madison,0.452
+4495,2011,Columbia,0.452
+4496,2011,CS Sacramento,0.451
+4497,2011,Washington St,0.451
+4498,2011,UNC Wilmington,0.45
+4499,2011,G Washington,0.449
+4500,2011,Dartmouth,0.448
+4501,2011,La Salle,0.448
+4502,2011,Wagner,0.448
+4503,2011,Massachusetts,0.445
+4504,2011,South Dakota,0.445
+4505,2011,E Illinois,0.444
+4506,2011,East Carolina,0.444
+4507,2011,Evansville,0.444
+4508,2011,Lafayette,0.444
+4509,2011,Appalachian St,0.443
+4510,2011,Idaho St,0.442
+4511,2011,Elon,0.441
+4512,2011,Loyola MD,0.441
+4513,2011,NC Central,0.441
+4514,2011,Grambling,0.439
+4515,2011,TAM C. Christi,0.439
+4516,2011,CS Northridge,0.438
+4517,2011,Cent Arkansas,0.436
+4518,2011,VMI,0.436
+4519,2011,North Alabama,0.436
+4520,2011,Ark Little Rock,0.436
+4521,2011,W Michigan,0.435
+4522,2011,Marist,0.435
+4523,2011,Central Conn,0.434
+4524,2011,UC Davis,0.434
+4525,2011,Albany NY,0.434
+4526,2011,Ark Pine Bluff,0.432
+4527,2011,W Carolina,0.431
+4528,2011,TN Martin,0.43
+4529,2011,Florida A&M,0.43
+4530,2011,SF Austin,0.43
+4531,2011,Youngstown St,0.429
+4532,2011,Mt St Mary's,0.429
+4533,2011,Towson,0.429
+4534,2011,North Dakota,0.429
+4535,2011,Tulane,0.429
+4536,2011,Northern Arizona,0.429
+4537,2011,Howard,0.427
+4538,2011,Oral Roberts,0.427
+4539,2011,Houston Bap,0.427
+4540,2011,Charlotte,0.426
+4541,2011,SE Missouri St,0.424
+4542,2011,Jacksonville,0.423
+4543,2011,Alabama St,0.422
+4544,2011,Niagara,0.422
+4545,2011,Binghamton,0.422
+4546,2011,Tennessee St,0.421
+4547,2011,Fordham,0.421
+4548,2011,Nicholls St,0.421
+4549,2011,Cleveland St,0.42
+4550,2011,Longwood,0.419
+4551,2011,Manhattan,0.419
+4552,2011,Tennessee Tech,0.414
+4553,2011,Bryant,0.413
+4554,2011,WI Milwaukee,0.412
+4555,2011,Denver,0.411
+4556,2011,St Peter's,0.41
+4557,2011,Jackson St,0.41
+4558,2011,Portland,0.408
+4559,2011,Bethune-Cookman,0.408
+4560,2011,Edwardsville,0.406
+4561,2011,UC Riverside,0.406
+4562,2011,Coppin St,0.406
+4563,2011,Wyoming,0.404
+4564,2011,Fairfield,0.403
+4565,2011,UTEP,0.4
+4566,2011,Northwestern LA,0.4
+4567,2011,Savannah St,0.4
+4568,2011,McNeese St,0.398
+4569,2011,Kennesaw,0.394
+4570,2011,W Illinois,0.392
+4571,2011,Maine,0.389
+4572,2011,Chicago St,0.386
+4573,2011,San Jose St,0.38
+4574,2011,Cal Poly SLO,0.374
+4575,2011,Stetson,0.373
+4576,2011,S Carolina St,0.373
+4577,2011,Morgan St,0.371
+4578,2011,Southern Univ,0.371
+4579,2011,Idaho,0.369
+4580,2011,Incarnate Word,0.369
+4581,2011,UNC Asheville,0.366
+4582,2011,Alcorn St,0.365
+4583,2011,MD E Shore,0.364
+4584,2011,New Hampshire,0.36
+4585,2011,MS Valley St,0.356
+4586,2011,Delaware St,0.349
+4587,2011,SC Upstate,0.347
+4588,2011,Alabama A&M,0.345
+4589,2012,Duke,0.67
+4590,2012,Kansas,0.657
+4591,2012,Virginia,0.655
+4592,2012,North Carolina,0.653
+4593,2012,Houston,0.648
+4594,2012,Michigan St,0.647
+4595,2012,Tennessee,0.645
+4596,2012,Gonzaga,0.644
+4597,2012,Kentucky,0.643
+4598,2012,Buffalo,0.641
+4599,2012,Michigan,0.635
+4600,2012,Florida St,0.634
+4601,2012,Cincinnati,0.628
+4602,2012,LSU,0.626
+4603,2012,Purdue,0.62
+4604,2012,Villanova,0.62
+4605,2012,Kansas St,0.62
+4606,2012,Auburn,0.619
+4607,2012,Texas Tech,0.619
+4608,2012,Nevada,0.615
+4609,2012,Wofford,0.613
+4610,2012,Washington,0.609
+4611,2012,VA Commonwealth,0.609
+4612,2012,Mississippi St,0.608
+4613,2012,UCF,0.605
+4614,2012,Wisconsin,0.605
+4615,2012,Virginia Tech,0.605
+4616,2012,Utah St,0.604
+4617,2012,Maryland,0.602
+4618,2012,UNC Greensboro,0.6
+4619,2012,Iowa St,0.6
+4620,2012,Marquette,0.599
+4621,2012,Louisville,0.593
+4622,2012,Temple,0.588
+4623,2012,St Mary's CA,0.587
+4624,2012,Murray St,0.582
+4625,2012,Syracuse,0.581
+4626,2012,New Mexico St,0.581
+4627,2012,Oklahoma,0.58
+4628,2012,Seton Hall,0.58
+4629,2012,Toledo,0.579
+4630,2012,Belmont,0.579
+4631,2012,Arizona St,0.578
+4632,2012,Minnesota,0.577
+4633,2012,Yale,0.577
+4634,2012,Oregon,0.575
+4635,2012,Georgia St,0.575
+4636,2012,Northeastern,0.574
+4637,2012,Davidson,0.571
+4638,2012,Hofstra,0.57
+4639,2012,Harvard,0.569
+4640,2012,TCU,0.569
+4641,2012,Memphis,0.568
+4642,2012,St John's,0.567
+4643,2012,Iowa,0.567
+4644,2012,Alabama,0.566
+4645,2012,Furman,0.566
+4646,2012,Baylor,0.565
+4647,2012,Florida,0.565
+4648,2012,Utah Valley,0.564
+4649,2012,Clemson,0.563
+4650,2012,Creighton,0.562
+4651,2012,Old Dominion,0.562
+4652,2012,UC Irvine,0.561
+4653,2012,Vermont,0.561
+4654,2012,Mississippi,0.561
+4655,2012,BYU,0.56
+4656,2012,Tennessee St,0.559
+4657,2012,Texas,0.559
+4658,2012,Lipscomb,0.557
+4659,2012,Drake,0.557
+4660,2012,Wichita St,0.557
+4661,2012,Ohio St,0.555
+4662,2012,Dayton,0.553
+4663,2012,Montana,0.551
+4664,2012,San Diego,0.551
+4665,2012,Xavier,0.551
+4666,2012,Ga Southern,0.551
+4667,2012,Colorado,0.551
+4668,2012,Bowling Green,0.551
+4669,2012,St Louis,0.551
+4670,2012,WKU,0.55
+4671,2012,Kent,0.55
+4672,2012,Liberty,0.549
+4673,2012,San Diego St,0.548
+4674,2012,Col Charleston,0.547
+4675,2012,San Francisco,0.547
+4676,2012,Colgate,0.547
+4677,2012,Providence,0.547
+4678,2012,Bucknell,0.545
+4679,2012,Georgetown,0.545
+4680,2012,Nebraska,0.545
+4681,2012,Southern Miss,0.543
+4682,2012,N Kentucky,0.542
+4683,2012,Penn St,0.542
+4684,2012,Butler,0.542
+4685,2012,NC State,0.542
+4686,2012,Indiana,0.541
+4687,2012,South Carolina,0.539
+4688,2012,Marshall,0.539
+4689,2012,Radford,0.538
+4690,2012,Arkansas,0.538
+4691,2012,Fresno St,0.537
+4692,2012,Louisiana Tech,0.537
+4693,2012,UCLA,0.536
+4694,2012,Oregon St,0.536
+4695,2012,Tulsa,0.535
+4696,2012,Lehigh,0.535
+4697,2012,West Virginia,0.534
+4698,2012,Penn,0.533
+4699,2012,Utah,0.532
+4700,2012,Stony Brook,0.532
+4701,2012,C Michigan,0.532
+4702,2012,Rhode Island,0.532
+4703,2012,Texas St,0.531
+4704,2012,Austin Peay,0.531
+4705,2012,Princeton,0.531
+4706,2012,Arizona,0.529
+4707,2012,Brown,0.529
+4708,2012,Oklahoma St,0.529
+4709,2012,Loyola MD,0.528
+4710,2012,Grand Canyon,0.528
+4711,2012,Jacksonville St,0.528
+4712,2012,St Bonaventure,0.526
+4713,2012,Texas A&M,0.525
+4714,2012,Abilene Chr,0.525
+4715,2012,NE Omaha,0.525
+4716,2012,S Dakota St,0.523
+4717,2012,Missouri,0.523
+4718,2012,Miami FL,0.522
+4719,2012,Loyola-Chicago,0.522
+4720,2012,S Illinois,0.52
+4721,2012,Gardner Webb,0.518
+4722,2012,NJIT,0.517
+4723,2012,South Florida,0.516
+4724,2012,E Michigan,0.515
+4725,2012,Connecticut,0.515
+4726,2012,SMU,0.514
+4727,2012,UT San Antonio,0.514
+4728,2012,Prairie View,0.513
+4729,2012,TX-Pan Am,0.513
+4730,2012,Stanford,0.512
+4731,2012,Sam Houston St,0.512
+4732,2012,Rutgers,0.512
+4733,2012,Lafayette,0.512
+4734,2012,UAB,0.511
+4735,2012,Wright St,0.511
+4736,2012,Northern Iowa,0.511
+4737,2012,Ohio,0.511
+4738,2012,Miami OH,0.509
+4739,2012,UT Arlington,0.509
+4740,2012,George Mason,0.508
+4741,2012,Akron,0.507
+4742,2012,Georgia Tech,0.506
+4743,2012,USC,0.505
+4744,2012,N Colorado,0.505
+4745,2012,Santa Barbara,0.504
+4746,2012,Bradley,0.504
+4747,2012,North Texas,0.503
+4748,2012,Cornell,0.503
+4749,2012,Florida Intl,0.503
+4750,2012,Winthrop,0.501
+4751,2012,N Illinois,0.501
+4752,2012,Hartford,0.5
+4753,2012,Boston College,0.5
+4754,2012,Duquesne,0.499
+4755,2012,DePaul,0.499
+4756,2012,Holy Cross,0.498
+4757,2012,North Florida,0.497
+4758,2012,UNLV,0.497
+4759,2012,Notre Dame,0.496
+4760,2012,ULM,0.496
+4761,2012,N Dakota St,0.495
+4762,2012,St Joseph's PA,0.495
+4763,2012,CS Fullerton,0.495
+4764,2012,Ball St,0.495
+4765,2012,Illinois,0.495
+4766,2012,Illinois St,0.495
+4767,2012,Pepperdine,0.495
+4768,2012,Wake Forest,0.494
+4769,2012,Campbell,0.494
+4770,2012,WI Green Bay,0.493
+4771,2012,St Francis PA,0.493
+4772,2012,Pittsburgh,0.493
+4773,2012,Missouri St,0.492
+4774,2012,Pacific,0.491
+4775,2012,William & Mary,0.491
+4776,2012,FL Atlantic,0.491
+4777,2012,Indiana St,0.49
+4778,2012,Santa Clara,0.49
+4779,2012,UMBC,0.49
+4780,2012,Georgia,0.49
+4781,2012,Rider,0.488
+4782,2012,E Washington,0.487
+4783,2012,TX Southern,0.487
+4784,2012,F Dickinson,0.486
+4785,2012,CS Bakersfield,0.486
+4786,2012,Northwestern,0.485
+4787,2012,Iona,0.485
+4788,2012,Samford,0.485
+4789,2012,New Mexico,0.485
+4790,2012,Delaware,0.484
+4791,2012,Cal Baptist,0.484
+4792,2012,Seattle,0.484
+4793,2012,Weber St,0.482
+4794,2012,Lamar,0.482
+4795,2012,Coastal Car,0.482
+4796,2012,Canisius,0.481
+4797,2012,Norfolk St,0.479
+4798,2012,Siena,0.479
+4799,2012,Long Beach St,0.479
+4800,2012,New Orleans,0.475
+4801,2012,Navy,0.474
+4802,2012,Oakland,0.472
+4803,2012,FL Gulf Coast,0.472
+4804,2012,Boise St,0.469
+4805,2012,NC A&T,0.468
+4806,2012,IPFW,0.468
+4807,2012,Hawaii,0.468
+4808,2012,IL Chicago,0.468
+4809,2012,Monmouth NJ,0.467
+4810,2012,SE Louisiana,0.467
+4811,2012,Presbyterian,0.467
+4812,2012,Morehead St,0.467
+4813,2012,Vanderbilt,0.466
+4814,2012,Boston Univ,0.466
+4815,2012,High Point,0.466
+4816,2012,Air Force,0.466
+4817,2012,Robert Morris,0.465
+4818,2012,Valparaiso,0.464
+4819,2012,Southern Utah,0.464
+4820,2012,Colorado St,0.464
+4821,2012,E Kentucky,0.463
+4822,2012,St Francis NY,0.462
+4823,2012,Arkansas St,0.461
+4824,2012,Rice,0.461
+4825,2012,Drexel,0.46
+4826,2012,Hampton,0.46
+4827,2012,Charleston So,0.46
+4828,2012,Detroit,0.46
+4829,2012,Quinnipiac,0.459
+4830,2012,Montana St,0.459
+4831,2012,Citadel,0.458
+4832,2012,American Univ,0.458
+4833,2012,Army,0.458
+4834,2012,IUPUI,0.458
+4835,2012,MTSU,0.458
+4836,2012,Richmond,0.457
+4837,2012,Missouri KC,0.457
+4838,2012,Brooklyn,0.457
+4839,2012,Troy,0.456
+4840,2012,MA Lowell,0.455
+4841,2012,Mercer,0.455
+4842,2012,Sacred Heart,0.455
+4843,2012,Chattanooga,0.454
+4844,2012,South Alabama,0.454
+4845,2012,California,0.452
+4846,2012,Portland St,0.452
+4847,2012,James Madison,0.452
+4848,2012,Columbia,0.452
+4849,2012,CS Sacramento,0.451
+4850,2012,Washington St,0.451
+4851,2012,UNC Wilmington,0.45
+4852,2012,G Washington,0.449
+4853,2012,Dartmouth,0.448
+4854,2012,La Salle,0.448
+4855,2012,Wagner,0.448
+4856,2012,Massachusetts,0.445
+4857,2012,South Dakota,0.445
+4858,2012,E Illinois,0.444
+4859,2012,East Carolina,0.444
+4860,2012,Evansville,0.444
+4861,2012,Lafayette,0.444
+4862,2012,Appalachian St,0.443
+4863,2012,Idaho St,0.442
+4864,2012,Elon,0.441
+4865,2012,Loyola MD,0.441
+4866,2012,NC Central,0.441
+4867,2012,Grambling,0.439
+4868,2012,TAM C. Christi,0.439
+4869,2012,CS Northridge,0.438
+4870,2012,Cent Arkansas,0.436
+4871,2012,VMI,0.436
+4872,2012,North Alabama,0.436
+4873,2012,Ark Little Rock,0.436
+4874,2012,W Michigan,0.435
+4875,2012,Marist,0.435
+4876,2012,Central Conn,0.434
+4877,2012,UC Davis,0.434
+4878,2012,Albany NY,0.434
+4879,2012,Ark Pine Bluff,0.432
+4880,2012,W Carolina,0.431
+4881,2012,TN Martin,0.43
+4882,2012,Florida A&M,0.43
+4883,2012,SF Austin,0.43
+4884,2012,Youngstown St,0.429
+4885,2012,Mt St Mary's,0.429
+4886,2012,Towson,0.429
+4887,2012,North Dakota,0.429
+4888,2012,Tulane,0.429
+4889,2012,Northern Arizona,0.429
+4890,2012,Howard,0.427
+4891,2012,Oral Roberts,0.427
+4892,2012,Houston Bap,0.427
+4893,2012,Charlotte,0.426
+4894,2012,SE Missouri St,0.424
+4895,2012,Jacksonville,0.423
+4896,2012,Alabama St,0.422
+4897,2012,Niagara,0.422
+4898,2012,Binghamton,0.422
+4899,2012,Tennessee St,0.421
+4900,2012,Fordham,0.421
+4901,2012,Nicholls St,0.421
+4902,2012,Cleveland St,0.42
+4903,2012,Longwood,0.419
+4904,2012,Manhattan,0.419
+4905,2012,Tennessee Tech,0.414
+4906,2012,Bryant,0.413
+4907,2012,WI Milwaukee,0.412
+4908,2012,Denver,0.411
+4909,2012,St Peter's,0.41
+4910,2012,Jackson St,0.41
+4911,2012,Portland,0.408
+4912,2012,Bethune-Cookman,0.408
+4913,2012,Edwardsville,0.406
+4914,2012,UC Riverside,0.406
+4915,2012,Coppin St,0.406
+4916,2012,Wyoming,0.404
+4917,2012,Fairfield,0.403
+4918,2012,UTEP,0.4
+4919,2012,Northwestern LA,0.4
+4920,2012,Savannah St,0.4
+4921,2012,McNeese St,0.398
+4922,2012,Kennesaw,0.394
+4923,2012,W Illinois,0.392
+4924,2012,Maine,0.389
+4925,2012,Chicago St,0.386
+4926,2012,San Jose St,0.38
+4927,2012,Cal Poly SLO,0.374
+4928,2012,Stetson,0.373
+4929,2012,S Carolina St,0.373
+4930,2012,Morgan St,0.371
+4931,2012,Southern Univ,0.371
+4932,2012,Idaho,0.369
+4933,2012,Incarnate Word,0.369
+4934,2012,UNC Asheville,0.366
+4935,2012,Alcorn St,0.365
+4936,2012,MD E Shore,0.364
+4937,2012,New Hampshire,0.36
+4938,2012,MS Valley St,0.356
+4939,2012,Delaware St,0.349
+4940,2012,SC Upstate,0.347
+4941,2012,Alabama A&M,0.345
+4942,2013,Duke,0.67
+4943,2013,Kansas,0.657
+4944,2013,Virginia,0.655
+4945,2013,North Carolina,0.653
+4946,2013,Houston,0.648
+4947,2013,Michigan St,0.647
+4948,2013,Tennessee,0.645
+4949,2013,Gonzaga,0.644
+4950,2013,Kentucky,0.643
+4951,2013,Buffalo,0.641
+4952,2013,Michigan,0.635
+4953,2013,Florida St,0.634
+4954,2013,Cincinnati,0.628
+4955,2013,LSU,0.626
+4956,2013,Purdue,0.62
+4957,2013,Villanova,0.62
+4958,2013,Kansas St,0.62
+4959,2013,Auburn,0.619
+4960,2013,Texas Tech,0.619
+4961,2013,Nevada,0.615
+4962,2013,Wofford,0.613
+4963,2013,Washington,0.609
+4964,2013,VA Commonwealth,0.609
+4965,2013,Mississippi St,0.608
+4966,2013,UCF,0.605
+4967,2013,Wisconsin,0.605
+4968,2013,Virginia Tech,0.605
+4969,2013,Utah St,0.604
+4970,2013,Maryland,0.602
+4971,2013,UNC Greensboro,0.6
+4972,2013,Iowa St,0.6
+4973,2013,Marquette,0.599
+4974,2013,Louisville,0.593
+4975,2013,Temple,0.588
+4976,2013,St Mary's CA,0.587
+4977,2013,Murray St,0.582
+4978,2013,Syracuse,0.581
+4979,2013,New Mexico St,0.581
+4980,2013,Oklahoma,0.58
+4981,2013,Seton Hall,0.58
+4982,2013,Toledo,0.579
+4983,2013,Belmont,0.579
+4984,2013,Arizona St,0.578
+4985,2013,Minnesota,0.577
+4986,2013,Yale,0.577
+4987,2013,Oregon,0.575
+4988,2013,Georgia St,0.575
+4989,2013,Northeastern,0.574
+4990,2013,Davidson,0.571
+4991,2013,Hofstra,0.57
+4992,2013,Harvard,0.569
+4993,2013,TCU,0.569
+4994,2013,Memphis,0.568
+4995,2013,St John's,0.567
+4996,2013,Iowa,0.567
+4997,2013,Alabama,0.566
+4998,2013,Furman,0.566
+4999,2013,Baylor,0.565
+5000,2013,Florida,0.565
+5001,2013,Utah Valley,0.564
+5002,2013,Clemson,0.563
+5003,2013,Creighton,0.562
+5004,2013,Old Dominion,0.562
+5005,2013,UC Irvine,0.561
+5006,2013,Vermont,0.561
+5007,2013,Mississippi,0.561
+5008,2013,BYU,0.56
+5009,2013,Tennessee St,0.559
+5010,2013,Texas,0.559
+5011,2013,Lipscomb,0.557
+5012,2013,Drake,0.557
+5013,2013,Wichita St,0.557
+5014,2013,Ohio St,0.555
+5015,2013,Dayton,0.553
+5016,2013,Montana,0.551
+5017,2013,San Diego,0.551
+5018,2013,Xavier,0.551
+5019,2013,Ga Southern,0.551
+5020,2013,Colorado,0.551
+5021,2013,Bowling Green,0.551
+5022,2013,St Louis,0.551
+5023,2013,WKU,0.55
+5024,2013,Kent,0.55
+5025,2013,Liberty,0.549
+5026,2013,San Diego St,0.548
+5027,2013,Col Charleston,0.547
+5028,2013,San Francisco,0.547
+5029,2013,Colgate,0.547
+5030,2013,Providence,0.547
+5031,2013,Bucknell,0.545
+5032,2013,Georgetown,0.545
+5033,2013,Nebraska,0.545
+5034,2013,Southern Miss,0.543
+5035,2013,N Kentucky,0.542
+5036,2013,Penn St,0.542
+5037,2013,Butler,0.542
+5038,2013,NC State,0.542
+5039,2013,Indiana,0.541
+5040,2013,South Carolina,0.539
+5041,2013,Marshall,0.539
+5042,2013,Radford,0.538
+5043,2013,Arkansas,0.538
+5044,2013,Fresno St,0.537
+5045,2013,Louisiana Tech,0.537
+5046,2013,UCLA,0.536
+5047,2013,Oregon St,0.536
+5048,2013,Tulsa,0.535
+5049,2013,Lehigh,0.535
+5050,2013,West Virginia,0.534
+5051,2013,Penn,0.533
+5052,2013,Utah,0.532
+5053,2013,Stony Brook,0.532
+5054,2013,C Michigan,0.532
+5055,2013,Rhode Island,0.532
+5056,2013,Texas St,0.531
+5057,2013,Austin Peay,0.531
+5058,2013,Princeton,0.531
+5059,2013,Arizona,0.529
+5060,2013,Brown,0.529
+5061,2013,Oklahoma St,0.529
+5062,2013,Loyola MD,0.528
+5063,2013,Grand Canyon,0.528
+5064,2013,Jacksonville St,0.528
+5065,2013,St Bonaventure,0.526
+5066,2013,Texas A&M,0.525
+5067,2013,Abilene Chr,0.525
+5068,2013,NE Omaha,0.525
+5069,2013,S Dakota St,0.523
+5070,2013,Missouri,0.523
+5071,2013,Miami FL,0.522
+5072,2013,Loyola-Chicago,0.522
+5073,2013,S Illinois,0.52
+5074,2013,Gardner Webb,0.518
+5075,2013,NJIT,0.517
+5076,2013,South Florida,0.516
+5077,2013,E Michigan,0.515
+5078,2013,Connecticut,0.515
+5079,2013,SMU,0.514
+5080,2013,UT San Antonio,0.514
+5081,2013,Prairie View,0.513
+5082,2013,TX-Pan Am,0.513
+5083,2013,Stanford,0.512
+5084,2013,Sam Houston St,0.512
+5085,2013,Rutgers,0.512
+5086,2013,Lafayette,0.512
+5087,2013,UAB,0.511
+5088,2013,Wright St,0.511
+5089,2013,Northern Iowa,0.511
+5090,2013,Ohio,0.511
+5091,2013,Miami OH,0.509
+5092,2013,UT Arlington,0.509
+5093,2013,George Mason,0.508
+5094,2013,Akron,0.507
+5095,2013,Georgia Tech,0.506
+5096,2013,USC,0.505
+5097,2013,N Colorado,0.505
+5098,2013,Santa Barbara,0.504
+5099,2013,Bradley,0.504
+5100,2013,North Texas,0.503
+5101,2013,Cornell,0.503
+5102,2013,Florida Intl,0.503
+5103,2013,Winthrop,0.501
+5104,2013,N Illinois,0.501
+5105,2013,Hartford,0.5
+5106,2013,Boston College,0.5
+5107,2013,Duquesne,0.499
+5108,2013,DePaul,0.499
+5109,2013,Holy Cross,0.498
+5110,2013,North Florida,0.497
+5111,2013,UNLV,0.497
+5112,2013,Notre Dame,0.496
+5113,2013,ULM,0.496
+5114,2013,N Dakota St,0.495
+5115,2013,St Joseph's PA,0.495
+5116,2013,CS Fullerton,0.495
+5117,2013,Ball St,0.495
+5118,2013,Illinois,0.495
+5119,2013,Illinois St,0.495
+5120,2013,Pepperdine,0.495
+5121,2013,Wake Forest,0.494
+5122,2013,Campbell,0.494
+5123,2013,WI Green Bay,0.493
+5124,2013,St Francis PA,0.493
+5125,2013,Pittsburgh,0.493
+5126,2013,Missouri St,0.492
+5127,2013,Pacific,0.491
+5128,2013,William & Mary,0.491
+5129,2013,FL Atlantic,0.491
+5130,2013,Indiana St,0.49
+5131,2013,Santa Clara,0.49
+5132,2013,UMBC,0.49
+5133,2013,Georgia,0.49
+5134,2013,Rider,0.488
+5135,2013,E Washington,0.487
+5136,2013,TX Southern,0.487
+5137,2013,F Dickinson,0.486
+5138,2013,CS Bakersfield,0.486
+5139,2013,Northwestern,0.485
+5140,2013,Iona,0.485
+5141,2013,Samford,0.485
+5142,2013,New Mexico,0.485
+5143,2013,Delaware,0.484
+5144,2013,Cal Baptist,0.484
+5145,2013,Seattle,0.484
+5146,2013,Weber St,0.482
+5147,2013,Lamar,0.482
+5148,2013,Coastal Car,0.482
+5149,2013,Canisius,0.481
+5150,2013,Norfolk St,0.479
+5151,2013,Siena,0.479
+5152,2013,Long Beach St,0.479
+5153,2013,New Orleans,0.475
+5154,2013,Navy,0.474
+5155,2013,Oakland,0.472
+5156,2013,FL Gulf Coast,0.472
+5157,2013,Boise St,0.469
+5158,2013,NC A&T,0.468
+5159,2013,IPFW,0.468
+5160,2013,Hawaii,0.468
+5161,2013,IL Chicago,0.468
+5162,2013,Monmouth NJ,0.467
+5163,2013,SE Louisiana,0.467
+5164,2013,Presbyterian,0.467
+5165,2013,Morehead St,0.467
+5166,2013,Vanderbilt,0.466
+5167,2013,Boston Univ,0.466
+5168,2013,High Point,0.466
+5169,2013,Air Force,0.466
+5170,2013,Robert Morris,0.465
+5171,2013,Valparaiso,0.464
+5172,2013,Southern Utah,0.464
+5173,2013,Colorado St,0.464
+5174,2013,E Kentucky,0.463
+5175,2013,St Francis NY,0.462
+5176,2013,Arkansas St,0.461
+5177,2013,Rice,0.461
+5178,2013,Drexel,0.46
+5179,2013,Hampton,0.46
+5180,2013,Charleston So,0.46
+5181,2013,Detroit,0.46
+5182,2013,Quinnipiac,0.459
+5183,2013,Montana St,0.459
+5184,2013,Citadel,0.458
+5185,2013,American Univ,0.458
+5186,2013,Army,0.458
+5187,2013,IUPUI,0.458
+5188,2013,MTSU,0.458
+5189,2013,Richmond,0.457
+5190,2013,Missouri KC,0.457
+5191,2013,Brooklyn,0.457
+5192,2013,Troy,0.456
+5193,2013,MA Lowell,0.455
+5194,2013,Mercer,0.455
+5195,2013,Sacred Heart,0.455
+5196,2013,Chattanooga,0.454
+5197,2013,South Alabama,0.454
+5198,2013,California,0.452
+5199,2013,Portland St,0.452
+5200,2013,James Madison,0.452
+5201,2013,Columbia,0.452
+5202,2013,CS Sacramento,0.451
+5203,2013,Washington St,0.451
+5204,2013,UNC Wilmington,0.45
+5205,2013,G Washington,0.449
+5206,2013,Dartmouth,0.448
+5207,2013,La Salle,0.448
+5208,2013,Wagner,0.448
+5209,2013,Massachusetts,0.445
+5210,2013,South Dakota,0.445
+5211,2013,E Illinois,0.444
+5212,2013,East Carolina,0.444
+5213,2013,Evansville,0.444
+5214,2013,Lafayette,0.444
+5215,2013,Appalachian St,0.443
+5216,2013,Idaho St,0.442
+5217,2013,Elon,0.441
+5218,2013,Loyola MD,0.441
+5219,2013,NC Central,0.441
+5220,2013,Grambling,0.439
+5221,2013,TAM C. Christi,0.439
+5222,2013,CS Northridge,0.438
+5223,2013,Cent Arkansas,0.436
+5224,2013,VMI,0.436
+5225,2013,North Alabama,0.436
+5226,2013,Ark Little Rock,0.436
+5227,2013,W Michigan,0.435
+5228,2013,Marist,0.435
+5229,2013,Central Conn,0.434
+5230,2013,UC Davis,0.434
+5231,2013,Albany NY,0.434
+5232,2013,Ark Pine Bluff,0.432
+5233,2013,W Carolina,0.431
+5234,2013,TN Martin,0.43
+5235,2013,Florida A&M,0.43
+5236,2013,SF Austin,0.43
+5237,2013,Youngstown St,0.429
+5238,2013,Mt St Mary's,0.429
+5239,2013,Towson,0.429
+5240,2013,North Dakota,0.429
+5241,2013,Tulane,0.429
+5242,2013,Northern Arizona,0.429
+5243,2013,Howard,0.427
+5244,2013,Oral Roberts,0.427
+5245,2013,Houston Bap,0.427
+5246,2013,Charlotte,0.426
+5247,2013,SE Missouri St,0.424
+5248,2013,Jacksonville,0.423
+5249,2013,Alabama St,0.422
+5250,2013,Niagara,0.422
+5251,2013,Binghamton,0.422
+5252,2013,Tennessee St,0.421
+5253,2013,Fordham,0.421
+5254,2013,Nicholls St,0.421
+5255,2013,Cleveland St,0.42
+5256,2013,Longwood,0.419
+5257,2013,Manhattan,0.419
+5258,2013,Tennessee Tech,0.414
+5259,2013,Bryant,0.413
+5260,2013,WI Milwaukee,0.412
+5261,2013,Denver,0.411
+5262,2013,St Peter's,0.41
+5263,2013,Jackson St,0.41
+5264,2013,Portland,0.408
+5265,2013,Bethune-Cookman,0.408
+5266,2013,Edwardsville,0.406
+5267,2013,UC Riverside,0.406
+5268,2013,Coppin St,0.406
+5269,2013,Wyoming,0.404
+5270,2013,Fairfield,0.403
+5271,2013,UTEP,0.4
+5272,2013,Northwestern LA,0.4
+5273,2013,Savannah St,0.4
+5274,2013,McNeese St,0.398
+5275,2013,Kennesaw,0.394
+5276,2013,W Illinois,0.392
+5277,2013,Maine,0.389
+5278,2013,Chicago St,0.386
+5279,2013,San Jose St,0.38
+5280,2013,Cal Poly SLO,0.374
+5281,2013,Stetson,0.373
+5282,2013,S Carolina St,0.373
+5283,2013,Morgan St,0.371
+5284,2013,Southern Univ,0.371
+5285,2013,Idaho,0.369
+5286,2013,Incarnate Word,0.369
+5287,2013,UNC Asheville,0.366
+5288,2013,Alcorn St,0.365
+5289,2013,MD E Shore,0.364
+5290,2013,New Hampshire,0.36
+5291,2013,MS Valley St,0.356
+5292,2013,Delaware St,0.349
+5293,2013,SC Upstate,0.347
+5294,2013,Alabama A&M,0.345
+5295,2014,Duke,0.67
+5296,2014,Kansas,0.657
+5297,2014,Virginia,0.655
+5298,2014,North Carolina,0.653
+5299,2014,Houston,0.648
+5300,2014,Michigan St,0.647
+5301,2014,Tennessee,0.645
+5302,2014,Gonzaga,0.644
+5303,2014,Kentucky,0.643
+5304,2014,Buffalo,0.641
+5305,2014,Michigan,0.635
+5306,2014,Florida St,0.634
+5307,2014,Cincinnati,0.628
+5308,2014,LSU,0.626
+5309,2014,Purdue,0.62
+5310,2014,Villanova,0.62
+5311,2014,Kansas St,0.62
+5312,2014,Auburn,0.619
+5313,2014,Texas Tech,0.619
+5314,2014,Nevada,0.615
+5315,2014,Wofford,0.613
+5316,2014,Washington,0.609
+5317,2014,VA Commonwealth,0.609
+5318,2014,Mississippi St,0.608
+5319,2014,UCF,0.605
+5320,2014,Wisconsin,0.605
+5321,2014,Virginia Tech,0.605
+5322,2014,Utah St,0.604
+5323,2014,Maryland,0.602
+5324,2014,UNC Greensboro,0.6
+5325,2014,Iowa St,0.6
+5326,2014,Marquette,0.599
+5327,2014,Louisville,0.593
+5328,2014,Temple,0.588
+5329,2014,St Mary's CA,0.587
+5330,2014,Murray St,0.582
+5331,2014,Syracuse,0.581
+5332,2014,New Mexico St,0.581
+5333,2014,Oklahoma,0.58
+5334,2014,Seton Hall,0.58
+5335,2014,Toledo,0.579
+5336,2014,Belmont,0.579
+5337,2014,Arizona St,0.578
+5338,2014,Minnesota,0.577
+5339,2014,Yale,0.577
+5340,2014,Oregon,0.575
+5341,2014,Georgia St,0.575
+5342,2014,Northeastern,0.574
+5343,2014,Davidson,0.571
+5344,2014,Hofstra,0.57
+5345,2014,Harvard,0.569
+5346,2014,TCU,0.569
+5347,2014,Memphis,0.568
+5348,2014,St John's,0.567
+5349,2014,Iowa,0.567
+5350,2014,Alabama,0.566
+5351,2014,Furman,0.566
+5352,2014,Baylor,0.565
+5353,2014,Florida,0.565
+5354,2014,Utah Valley,0.564
+5355,2014,Clemson,0.563
+5356,2014,Creighton,0.562
+5357,2014,Old Dominion,0.562
+5358,2014,UC Irvine,0.561
+5359,2014,Vermont,0.561
+5360,2014,Mississippi,0.561
+5361,2014,BYU,0.56
+5362,2014,Tennessee St,0.559
+5363,2014,Texas,0.559
+5364,2014,Lipscomb,0.557
+5365,2014,Drake,0.557
+5366,2014,Wichita St,0.557
+5367,2014,Ohio St,0.555
+5368,2014,Dayton,0.553
+5369,2014,Montana,0.551
+5370,2014,San Diego,0.551
+5371,2014,Xavier,0.551
+5372,2014,Ga Southern,0.551
+5373,2014,Colorado,0.551
+5374,2014,Bowling Green,0.551
+5375,2014,St Louis,0.551
+5376,2014,WKU,0.55
+5377,2014,Kent,0.55
+5378,2014,Liberty,0.549
+5379,2014,San Diego St,0.548
+5380,2014,Col Charleston,0.547
+5381,2014,San Francisco,0.547
+5382,2014,Colgate,0.547
+5383,2014,Providence,0.547
+5384,2014,Bucknell,0.545
+5385,2014,Georgetown,0.545
+5386,2014,Nebraska,0.545
+5387,2014,Southern Miss,0.543
+5388,2014,N Kentucky,0.542
+5389,2014,Penn St,0.542
+5390,2014,Butler,0.542
+5391,2014,NC State,0.542
+5392,2014,Indiana,0.541
+5393,2014,South Carolina,0.539
+5394,2014,Marshall,0.539
+5395,2014,Radford,0.538
+5396,2014,Arkansas,0.538
+5397,2014,Fresno St,0.537
+5398,2014,Louisiana Tech,0.537
+5399,2014,UCLA,0.536
+5400,2014,Oregon St,0.536
+5401,2014,Tulsa,0.535
+5402,2014,Lehigh,0.535
+5403,2014,West Virginia,0.534
+5404,2014,Penn,0.533
+5405,2014,Utah,0.532
+5406,2014,Stony Brook,0.532
+5407,2014,C Michigan,0.532
+5408,2014,Rhode Island,0.532
+5409,2014,Texas St,0.531
+5410,2014,Austin Peay,0.531
+5411,2014,Princeton,0.531
+5412,2014,Arizona,0.529
+5413,2014,Brown,0.529
+5414,2014,Oklahoma St,0.529
+5415,2014,Loyola MD,0.528
+5416,2014,Grand Canyon,0.528
+5417,2014,Jacksonville St,0.528
+5418,2014,St Bonaventure,0.526
+5419,2014,Texas A&M,0.525
+5420,2014,Abilene Chr,0.525
+5421,2014,NE Omaha,0.525
+5422,2014,S Dakota St,0.523
+5423,2014,Missouri,0.523
+5424,2014,Miami FL,0.522
+5425,2014,Loyola-Chicago,0.522
+5426,2014,S Illinois,0.52
+5427,2014,Gardner Webb,0.518
+5428,2014,NJIT,0.517
+5429,2014,South Florida,0.516
+5430,2014,E Michigan,0.515
+5431,2014,Connecticut,0.515
+5432,2014,SMU,0.514
+5433,2014,UT San Antonio,0.514
+5434,2014,Prairie View,0.513
+5435,2014,TX-Pan Am,0.513
+5436,2014,Stanford,0.512
+5437,2014,Sam Houston St,0.512
+5438,2014,Rutgers,0.512
+5439,2014,Lafayette,0.512
+5440,2014,UAB,0.511
+5441,2014,Wright St,0.511
+5442,2014,Northern Iowa,0.511
+5443,2014,Ohio,0.511
+5444,2014,Miami OH,0.509
+5445,2014,UT Arlington,0.509
+5446,2014,George Mason,0.508
+5447,2014,Akron,0.507
+5448,2014,Georgia Tech,0.506
+5449,2014,USC,0.505
+5450,2014,N Colorado,0.505
+5451,2014,Santa Barbara,0.504
+5452,2014,Bradley,0.504
+5453,2014,North Texas,0.503
+5454,2014,Cornell,0.503
+5455,2014,Florida Intl,0.503
+5456,2014,Winthrop,0.501
+5457,2014,N Illinois,0.501
+5458,2014,Hartford,0.5
+5459,2014,Boston College,0.5
+5460,2014,Duquesne,0.499
+5461,2014,DePaul,0.499
+5462,2014,Holy Cross,0.498
+5463,2014,North Florida,0.497
+5464,2014,UNLV,0.497
+5465,2014,Notre Dame,0.496
+5466,2014,ULM,0.496
+5467,2014,N Dakota St,0.495
+5468,2014,St Joseph's PA,0.495
+5469,2014,CS Fullerton,0.495
+5470,2014,Ball St,0.495
+5471,2014,Illinois,0.495
+5472,2014,Illinois St,0.495
+5473,2014,Pepperdine,0.495
+5474,2014,Wake Forest,0.494
+5475,2014,Campbell,0.494
+5476,2014,WI Green Bay,0.493
+5477,2014,St Francis PA,0.493
+5478,2014,Pittsburgh,0.493
+5479,2014,Missouri St,0.492
+5480,2014,Pacific,0.491
+5481,2014,William & Mary,0.491
+5482,2014,FL Atlantic,0.491
+5483,2014,Indiana St,0.49
+5484,2014,Santa Clara,0.49
+5485,2014,UMBC,0.49
+5486,2014,Georgia,0.49
+5487,2014,Rider,0.488
+5488,2014,E Washington,0.487
+5489,2014,TX Southern,0.487
+5490,2014,F Dickinson,0.486
+5491,2014,CS Bakersfield,0.486
+5492,2014,Northwestern,0.485
+5493,2014,Iona,0.485
+5494,2014,Samford,0.485
+5495,2014,New Mexico,0.485
+5496,2014,Delaware,0.484
+5497,2014,Cal Baptist,0.484
+5498,2014,Seattle,0.484
+5499,2014,Weber St,0.482
+5500,2014,Lamar,0.482
+5501,2014,Coastal Car,0.482
+5502,2014,Canisius,0.481
+5503,2014,Norfolk St,0.479
+5504,2014,Siena,0.479
+5505,2014,Long Beach St,0.479
+5506,2014,New Orleans,0.475
+5507,2014,Navy,0.474
+5508,2014,Oakland,0.472
+5509,2014,FL Gulf Coast,0.472
+5510,2014,Boise St,0.469
+5511,2014,NC A&T,0.468
+5512,2014,IPFW,0.468
+5513,2014,Hawaii,0.468
+5514,2014,IL Chicago,0.468
+5515,2014,Monmouth NJ,0.467
+5516,2014,SE Louisiana,0.467
+5517,2014,Presbyterian,0.467
+5518,2014,Morehead St,0.467
+5519,2014,Vanderbilt,0.466
+5520,2014,Boston Univ,0.466
+5521,2014,High Point,0.466
+5522,2014,Air Force,0.466
+5523,2014,Robert Morris,0.465
+5524,2014,Valparaiso,0.464
+5525,2014,Southern Utah,0.464
+5526,2014,Colorado St,0.464
+5527,2014,E Kentucky,0.463
+5528,2014,St Francis NY,0.462
+5529,2014,Arkansas St,0.461
+5530,2014,Rice,0.461
+5531,2014,Drexel,0.46
+5532,2014,Hampton,0.46
+5533,2014,Charleston So,0.46
+5534,2014,Detroit,0.46
+5535,2014,Quinnipiac,0.459
+5536,2014,Montana St,0.459
+5537,2014,Citadel,0.458
+5538,2014,American Univ,0.458
+5539,2014,Army,0.458
+5540,2014,IUPUI,0.458
+5541,2014,MTSU,0.458
+5542,2014,Richmond,0.457
+5543,2014,Missouri KC,0.457
+5544,2014,Brooklyn,0.457
+5545,2014,Troy,0.456
+5546,2014,MA Lowell,0.455
+5547,2014,Mercer,0.455
+5548,2014,Sacred Heart,0.455
+5549,2014,Chattanooga,0.454
+5550,2014,South Alabama,0.454
+5551,2014,California,0.452
+5552,2014,Portland St,0.452
+5553,2014,James Madison,0.452
+5554,2014,Columbia,0.452
+5555,2014,CS Sacramento,0.451
+5556,2014,Washington St,0.451
+5557,2014,UNC Wilmington,0.45
+5558,2014,G Washington,0.449
+5559,2014,Dartmouth,0.448
+5560,2014,La Salle,0.448
+5561,2014,Wagner,0.448
+5562,2014,Massachusetts,0.445
+5563,2014,South Dakota,0.445
+5564,2014,E Illinois,0.444
+5565,2014,East Carolina,0.444
+5566,2014,Evansville,0.444
+5567,2014,Lafayette,0.444
+5568,2014,Appalachian St,0.443
+5569,2014,Idaho St,0.442
+5570,2014,Elon,0.441
+5571,2014,Loyola MD,0.441
+5572,2014,NC Central,0.441
+5573,2014,Grambling,0.439
+5574,2014,TAM C. Christi,0.439
+5575,2014,CS Northridge,0.438
+5576,2014,Cent Arkansas,0.436
+5577,2014,VMI,0.436
+5578,2014,North Alabama,0.436
+5579,2014,Ark Little Rock,0.436
+5580,2014,W Michigan,0.435
+5581,2014,Marist,0.435
+5582,2014,Central Conn,0.434
+5583,2014,UC Davis,0.434
+5584,2014,Albany NY,0.434
+5585,2014,Ark Pine Bluff,0.432
+5586,2014,W Carolina,0.431
+5587,2014,TN Martin,0.43
+5588,2014,Florida A&M,0.43
+5589,2014,SF Austin,0.43
+5590,2014,Youngstown St,0.429
+5591,2014,Mt St Mary's,0.429
+5592,2014,Towson,0.429
+5593,2014,North Dakota,0.429
+5594,2014,Tulane,0.429
+5595,2014,Northern Arizona,0.429
+5596,2014,Howard,0.427
+5597,2014,Oral Roberts,0.427
+5598,2014,Houston Bap,0.427
+5599,2014,Charlotte,0.426
+5600,2014,SE Missouri St,0.424
+5601,2014,Jacksonville,0.423
+5602,2014,Alabama St,0.422
+5603,2014,Niagara,0.422
+5604,2014,Binghamton,0.422
+5605,2014,Tennessee St,0.421
+5606,2014,Fordham,0.421
+5607,2014,Nicholls St,0.421
+5608,2014,Cleveland St,0.42
+5609,2014,Longwood,0.419
+5610,2014,Manhattan,0.419
+5611,2014,Tennessee Tech,0.414
+5612,2014,Bryant,0.413
+5613,2014,WI Milwaukee,0.412
+5614,2014,Denver,0.411
+5615,2014,St Peter's,0.41
+5616,2014,Jackson St,0.41
+5617,2014,Portland,0.408
+5618,2014,Bethune-Cookman,0.408
+5619,2014,Edwardsville,0.406
+5620,2014,UC Riverside,0.406
+5621,2014,Coppin St,0.406
+5622,2014,Wyoming,0.404
+5623,2014,Fairfield,0.403
+5624,2014,UTEP,0.4
+5625,2014,Northwestern LA,0.4
+5626,2014,Savannah St,0.4
+5627,2014,McNeese St,0.398
+5628,2014,Kennesaw,0.394
+5629,2014,W Illinois,0.392
+5630,2014,Maine,0.389
+5631,2014,Chicago St,0.386
+5632,2014,San Jose St,0.38
+5633,2014,Cal Poly SLO,0.374
+5634,2014,Stetson,0.373
+5635,2014,S Carolina St,0.373
+5636,2014,Morgan St,0.371
+5637,2014,Southern Univ,0.371
+5638,2014,Idaho,0.369
+5639,2014,Incarnate Word,0.369
+5640,2014,UNC Asheville,0.366
+5641,2014,Alcorn St,0.365
+5642,2014,MD E Shore,0.364
+5643,2014,New Hampshire,0.36
+5644,2014,MS Valley St,0.356
+5645,2014,Delaware St,0.349
+5646,2014,SC Upstate,0.347
+5647,2014,Alabama A&M,0.345
+5648,2015,Duke,0.67
+5649,2015,Kansas,0.657
+5650,2015,Virginia,0.655
+5651,2015,North Carolina,0.653
+5652,2015,Houston,0.648
+5653,2015,Michigan St,0.647
+5654,2015,Tennessee,0.645
+5655,2015,Gonzaga,0.644
+5656,2015,Kentucky,0.643
+5657,2015,Buffalo,0.641
+5658,2015,Michigan,0.635
+5659,2015,Florida St,0.634
+5660,2015,Cincinnati,0.628
+5661,2015,LSU,0.626
+5662,2015,Purdue,0.62
+5663,2015,Villanova,0.62
+5664,2015,Kansas St,0.62
+5665,2015,Auburn,0.619
+5666,2015,Texas Tech,0.619
+5667,2015,Nevada,0.615
+5668,2015,Wofford,0.613
+5669,2015,Washington,0.609
+5670,2015,VA Commonwealth,0.609
+5671,2015,Mississippi St,0.608
+5672,2015,UCF,0.605
+5673,2015,Wisconsin,0.605
+5674,2015,Virginia Tech,0.605
+5675,2015,Utah St,0.604
+5676,2015,Maryland,0.602
+5677,2015,UNC Greensboro,0.6
+5678,2015,Iowa St,0.6
+5679,2015,Marquette,0.599
+5680,2015,Louisville,0.593
+5681,2015,Temple,0.588
+5682,2015,St Mary's CA,0.587
+5683,2015,Murray St,0.582
+5684,2015,Syracuse,0.581
+5685,2015,New Mexico St,0.581
+5686,2015,Oklahoma,0.58
+5687,2015,Seton Hall,0.58
+5688,2015,Toledo,0.579
+5689,2015,Belmont,0.579
+5690,2015,Arizona St,0.578
+5691,2015,Minnesota,0.577
+5692,2015,Yale,0.577
+5693,2015,Oregon,0.575
+5694,2015,Georgia St,0.575
+5695,2015,Northeastern,0.574
+5696,2015,Davidson,0.571
+5697,2015,Hofstra,0.57
+5698,2015,Harvard,0.569
+5699,2015,TCU,0.569
+5700,2015,Memphis,0.568
+5701,2015,St John's,0.567
+5702,2015,Iowa,0.567
+5703,2015,Alabama,0.566
+5704,2015,Furman,0.566
+5705,2015,Baylor,0.565
+5706,2015,Florida,0.565
+5707,2015,Utah Valley,0.564
+5708,2015,Clemson,0.563
+5709,2015,Creighton,0.562
+5710,2015,Old Dominion,0.562
+5711,2015,UC Irvine,0.561
+5712,2015,Vermont,0.561
+5713,2015,Mississippi,0.561
+5714,2015,BYU,0.56
+5715,2015,Tennessee St,0.559
+5716,2015,Texas,0.559
+5717,2015,Lipscomb,0.557
+5718,2015,Drake,0.557
+5719,2015,Wichita St,0.557
+5720,2015,Ohio St,0.555
+5721,2015,Dayton,0.553
+5722,2015,Montana,0.551
+5723,2015,San Diego,0.551
+5724,2015,Xavier,0.551
+5725,2015,Ga Southern,0.551
+5726,2015,Colorado,0.551
+5727,2015,Bowling Green,0.551
+5728,2015,St Louis,0.551
+5729,2015,WKU,0.55
+5730,2015,Kent,0.55
+5731,2015,Liberty,0.549
+5732,2015,San Diego St,0.548
+5733,2015,Col Charleston,0.547
+5734,2015,San Francisco,0.547
+5735,2015,Colgate,0.547
+5736,2015,Providence,0.547
+5737,2015,Bucknell,0.545
+5738,2015,Georgetown,0.545
+5739,2015,Nebraska,0.545
+5740,2015,Southern Miss,0.543
+5741,2015,N Kentucky,0.542
+5742,2015,Penn St,0.542
+5743,2015,Butler,0.542
+5744,2015,NC State,0.542
+5745,2015,Indiana,0.541
+5746,2015,South Carolina,0.539
+5747,2015,Marshall,0.539
+5748,2015,Radford,0.538
+5749,2015,Arkansas,0.538
+5750,2015,Fresno St,0.537
+5751,2015,Louisiana Tech,0.537
+5752,2015,UCLA,0.536
+5753,2015,Oregon St,0.536
+5754,2015,Tulsa,0.535
+5755,2015,Lehigh,0.535
+5756,2015,West Virginia,0.534
+5757,2015,Penn,0.533
+5758,2015,Utah,0.532
+5759,2015,Stony Brook,0.532
+5760,2015,C Michigan,0.532
+5761,2015,Rhode Island,0.532
+5762,2015,Texas St,0.531
+5763,2015,Austin Peay,0.531
+5764,2015,Princeton,0.531
+5765,2015,Arizona,0.529
+5766,2015,Brown,0.529
+5767,2015,Oklahoma St,0.529
+5768,2015,Loyola MD,0.528
+5769,2015,Grand Canyon,0.528
+5770,2015,Jacksonville St,0.528
+5771,2015,St Bonaventure,0.526
+5772,2015,Texas A&M,0.525
+5773,2015,Abilene Chr,0.525
+5774,2015,NE Omaha,0.525
+5775,2015,S Dakota St,0.523
+5776,2015,Missouri,0.523
+5777,2015,Miami FL,0.522
+5778,2015,Loyola-Chicago,0.522
+5779,2015,S Illinois,0.52
+5780,2015,Gardner Webb,0.518
+5781,2015,NJIT,0.517
+5782,2015,South Florida,0.516
+5783,2015,E Michigan,0.515
+5784,2015,Connecticut,0.515
+5785,2015,SMU,0.514
+5786,2015,UT San Antonio,0.514
+5787,2015,Prairie View,0.513
+5788,2015,TX-Pan Am,0.513
+5789,2015,Stanford,0.512
+5790,2015,Sam Houston St,0.512
+5791,2015,Rutgers,0.512
+5792,2015,Lafayette,0.512
+5793,2015,UAB,0.511
+5794,2015,Wright St,0.511
+5795,2015,Northern Iowa,0.511
+5796,2015,Ohio,0.511
+5797,2015,Miami OH,0.509
+5798,2015,UT Arlington,0.509
+5799,2015,George Mason,0.508
+5800,2015,Akron,0.507
+5801,2015,Georgia Tech,0.506
+5802,2015,USC,0.505
+5803,2015,N Colorado,0.505
+5804,2015,Santa Barbara,0.504
+5805,2015,Bradley,0.504
+5806,2015,North Texas,0.503
+5807,2015,Cornell,0.503
+5808,2015,Florida Intl,0.503
+5809,2015,Winthrop,0.501
+5810,2015,N Illinois,0.501
+5811,2015,Hartford,0.5
+5812,2015,Boston College,0.5
+5813,2015,Duquesne,0.499
+5814,2015,DePaul,0.499
+5815,2015,Holy Cross,0.498
+5816,2015,North Florida,0.497
+5817,2015,UNLV,0.497
+5818,2015,Notre Dame,0.496
+5819,2015,ULM,0.496
+5820,2015,N Dakota St,0.495
+5821,2015,St Joseph's PA,0.495
+5822,2015,CS Fullerton,0.495
+5823,2015,Ball St,0.495
+5824,2015,Illinois,0.495
+5825,2015,Illinois St,0.495
+5826,2015,Pepperdine,0.495
+5827,2015,Wake Forest,0.494
+5828,2015,Campbell,0.494
+5829,2015,WI Green Bay,0.493
+5830,2015,St Francis PA,0.493
+5831,2015,Pittsburgh,0.493
+5832,2015,Missouri St,0.492
+5833,2015,Pacific,0.491
+5834,2015,William & Mary,0.491
+5835,2015,FL Atlantic,0.491
+5836,2015,Indiana St,0.49
+5837,2015,Santa Clara,0.49
+5838,2015,UMBC,0.49
+5839,2015,Georgia,0.49
+5840,2015,Rider,0.488
+5841,2015,E Washington,0.487
+5842,2015,TX Southern,0.487
+5843,2015,F Dickinson,0.486
+5844,2015,CS Bakersfield,0.486
+5845,2015,Northwestern,0.485
+5846,2015,Iona,0.485
+5847,2015,Samford,0.485
+5848,2015,New Mexico,0.485
+5849,2015,Delaware,0.484
+5850,2015,Cal Baptist,0.484
+5851,2015,Seattle,0.484
+5852,2015,Weber St,0.482
+5853,2015,Lamar,0.482
+5854,2015,Coastal Car,0.482
+5855,2015,Canisius,0.481
+5856,2015,Norfolk St,0.479
+5857,2015,Siena,0.479
+5858,2015,Long Beach St,0.479
+5859,2015,New Orleans,0.475
+5860,2015,Navy,0.474
+5861,2015,Oakland,0.472
+5862,2015,FL Gulf Coast,0.472
+5863,2015,Boise St,0.469
+5864,2015,NC A&T,0.468
+5865,2015,IPFW,0.468
+5866,2015,Hawaii,0.468
+5867,2015,IL Chicago,0.468
+5868,2015,Monmouth NJ,0.467
+5869,2015,SE Louisiana,0.467
+5870,2015,Presbyterian,0.467
+5871,2015,Morehead St,0.467
+5872,2015,Vanderbilt,0.466
+5873,2015,Boston Univ,0.466
+5874,2015,High Point,0.466
+5875,2015,Air Force,0.466
+5876,2015,Robert Morris,0.465
+5877,2015,Valparaiso,0.464
+5878,2015,Southern Utah,0.464
+5879,2015,Colorado St,0.464
+5880,2015,E Kentucky,0.463
+5881,2015,St Francis NY,0.462
+5882,2015,Arkansas St,0.461
+5883,2015,Rice,0.461
+5884,2015,Drexel,0.46
+5885,2015,Hampton,0.46
+5886,2015,Charleston So,0.46
+5887,2015,Detroit,0.46
+5888,2015,Quinnipiac,0.459
+5889,2015,Montana St,0.459
+5890,2015,Citadel,0.458
+5891,2015,American Univ,0.458
+5892,2015,Army,0.458
+5893,2015,IUPUI,0.458
+5894,2015,MTSU,0.458
+5895,2015,Richmond,0.457
+5896,2015,Missouri KC,0.457
+5897,2015,Brooklyn,0.457
+5898,2015,Troy,0.456
+5899,2015,MA Lowell,0.455
+5900,2015,Mercer,0.455
+5901,2015,Sacred Heart,0.455
+5902,2015,Chattanooga,0.454
+5903,2015,South Alabama,0.454
+5904,2015,California,0.452
+5905,2015,Portland St,0.452
+5906,2015,James Madison,0.452
+5907,2015,Columbia,0.452
+5908,2015,CS Sacramento,0.451
+5909,2015,Washington St,0.451
+5910,2015,UNC Wilmington,0.45
+5911,2015,G Washington,0.449
+5912,2015,Dartmouth,0.448
+5913,2015,La Salle,0.448
+5914,2015,Wagner,0.448
+5915,2015,Massachusetts,0.445
+5916,2015,South Dakota,0.445
+5917,2015,E Illinois,0.444
+5918,2015,East Carolina,0.444
+5919,2015,Evansville,0.444
+5920,2015,Lafayette,0.444
+5921,2015,Appalachian St,0.443
+5922,2015,Idaho St,0.442
+5923,2015,Elon,0.441
+5924,2015,Loyola MD,0.441
+5925,2015,NC Central,0.441
+5926,2015,Grambling,0.439
+5927,2015,TAM C. Christi,0.439
+5928,2015,CS Northridge,0.438
+5929,2015,Cent Arkansas,0.436
+5930,2015,VMI,0.436
+5931,2015,North Alabama,0.436
+5932,2015,Ark Little Rock,0.436
+5933,2015,W Michigan,0.435
+5934,2015,Marist,0.435
+5935,2015,Central Conn,0.434
+5936,2015,UC Davis,0.434
+5937,2015,Albany NY,0.434
+5938,2015,Ark Pine Bluff,0.432
+5939,2015,W Carolina,0.431
+5940,2015,TN Martin,0.43
+5941,2015,Florida A&M,0.43
+5942,2015,SF Austin,0.43
+5943,2015,Youngstown St,0.429
+5944,2015,Mt St Mary's,0.429
+5945,2015,Towson,0.429
+5946,2015,North Dakota,0.429
+5947,2015,Tulane,0.429
+5948,2015,Northern Arizona,0.429
+5949,2015,Howard,0.427
+5950,2015,Oral Roberts,0.427
+5951,2015,Houston Bap,0.427
+5952,2015,Charlotte,0.426
+5953,2015,SE Missouri St,0.424
+5954,2015,Jacksonville,0.423
+5955,2015,Alabama St,0.422
+5956,2015,Niagara,0.422
+5957,2015,Binghamton,0.422
+5958,2015,Tennessee St,0.421
+5959,2015,Fordham,0.421
+5960,2015,Nicholls St,0.421
+5961,2015,Cleveland St,0.42
+5962,2015,Longwood,0.419
+5963,2015,Manhattan,0.419
+5964,2015,Tennessee Tech,0.414
+5965,2015,Bryant,0.413
+5966,2015,WI Milwaukee,0.412
+5967,2015,Denver,0.411
+5968,2015,St Peter's,0.41
+5969,2015,Jackson St,0.41
+5970,2015,Portland,0.408
+5971,2015,Bethune-Cookman,0.408
+5972,2015,Edwardsville,0.406
+5973,2015,UC Riverside,0.406
+5974,2015,Coppin St,0.406
+5975,2015,Wyoming,0.404
+5976,2015,Fairfield,0.403
+5977,2015,UTEP,0.4
+5978,2015,Northwestern LA,0.4
+5979,2015,Savannah St,0.4
+5980,2015,McNeese St,0.398
+5981,2015,Kennesaw,0.394
+5982,2015,W Illinois,0.392
+5983,2015,Maine,0.389
+5984,2015,Chicago St,0.386
+5985,2015,San Jose St,0.38
+5986,2015,Cal Poly SLO,0.374
+5987,2015,Stetson,0.373
+5988,2015,S Carolina St,0.373
+5989,2015,Morgan St,0.371
+5990,2015,Southern Univ,0.371
+5991,2015,Idaho,0.369
+5992,2015,Incarnate Word,0.369
+5993,2015,UNC Asheville,0.366
+5994,2015,Alcorn St,0.365
+5995,2015,MD E Shore,0.364
+5996,2015,New Hampshire,0.36
+5997,2015,MS Valley St,0.356
+5998,2015,Delaware St,0.349
+5999,2015,SC Upstate,0.347
+6000,2015,Alabama A&M,0.345
+6001,2016,Duke,0.67
+6002,2016,Kansas,0.657
+6003,2016,Virginia,0.655
+6004,2016,North Carolina,0.653
+6005,2016,Houston,0.648
+6006,2016,Michigan St,0.647
+6007,2016,Tennessee,0.645
+6008,2016,Gonzaga,0.644
+6009,2016,Kentucky,0.643
+6010,2016,Buffalo,0.641
+6011,2016,Michigan,0.635
+6012,2016,Florida St,0.634
+6013,2016,Cincinnati,0.628
+6014,2016,LSU,0.626
+6015,2016,Purdue,0.62
+6016,2016,Villanova,0.62
+6017,2016,Kansas St,0.62
+6018,2016,Auburn,0.619
+6019,2016,Texas Tech,0.619
+6020,2016,Nevada,0.615
+6021,2016,Wofford,0.613
+6022,2016,Washington,0.609
+6023,2016,VA Commonwealth,0.609
+6024,2016,Mississippi St,0.608
+6025,2016,UCF,0.605
+6026,2016,Wisconsin,0.605
+6027,2016,Virginia Tech,0.605
+6028,2016,Utah St,0.604
+6029,2016,Maryland,0.602
+6030,2016,UNC Greensboro,0.6
+6031,2016,Iowa St,0.6
+6032,2016,Marquette,0.599
+6033,2016,Louisville,0.593
+6034,2016,Temple,0.588
+6035,2016,St Mary's CA,0.587
+6036,2016,Murray St,0.582
+6037,2016,Syracuse,0.581
+6038,2016,New Mexico St,0.581
+6039,2016,Oklahoma,0.58
+6040,2016,Seton Hall,0.58
+6041,2016,Toledo,0.579
+6042,2016,Belmont,0.579
+6043,2016,Arizona St,0.578
+6044,2016,Minnesota,0.577
+6045,2016,Yale,0.577
+6046,2016,Oregon,0.575
+6047,2016,Georgia St,0.575
+6048,2016,Northeastern,0.574
+6049,2016,Davidson,0.571
+6050,2016,Hofstra,0.57
+6051,2016,Harvard,0.569
+6052,2016,TCU,0.569
+6053,2016,Memphis,0.568
+6054,2016,St John's,0.567
+6055,2016,Iowa,0.567
+6056,2016,Alabama,0.566
+6057,2016,Furman,0.566
+6058,2016,Baylor,0.565
+6059,2016,Florida,0.565
+6060,2016,Utah Valley,0.564
+6061,2016,Clemson,0.563
+6062,2016,Creighton,0.562
+6063,2016,Old Dominion,0.562
+6064,2016,UC Irvine,0.561
+6065,2016,Vermont,0.561
+6066,2016,Mississippi,0.561
+6067,2016,BYU,0.56
+6068,2016,Tennessee St,0.559
+6069,2016,Texas,0.559
+6070,2016,Lipscomb,0.557
+6071,2016,Drake,0.557
+6072,2016,Wichita St,0.557
+6073,2016,Ohio St,0.555
+6074,2016,Dayton,0.553
+6075,2016,Montana,0.551
+6076,2016,San Diego,0.551
+6077,2016,Xavier,0.551
+6078,2016,Ga Southern,0.551
+6079,2016,Colorado,0.551
+6080,2016,Bowling Green,0.551
+6081,2016,St Louis,0.551
+6082,2016,WKU,0.55
+6083,2016,Kent,0.55
+6084,2016,Liberty,0.549
+6085,2016,San Diego St,0.548
+6086,2016,Col Charleston,0.547
+6087,2016,San Francisco,0.547
+6088,2016,Colgate,0.547
+6089,2016,Providence,0.547
+6090,2016,Bucknell,0.545
+6091,2016,Georgetown,0.545
+6092,2016,Nebraska,0.545
+6093,2016,Southern Miss,0.543
+6094,2016,N Kentucky,0.542
+6095,2016,Penn St,0.542
+6096,2016,Butler,0.542
+6097,2016,NC State,0.542
+6098,2016,Indiana,0.541
+6099,2016,South Carolina,0.539
+6100,2016,Marshall,0.539
+6101,2016,Radford,0.538
+6102,2016,Arkansas,0.538
+6103,2016,Fresno St,0.537
+6104,2016,Louisiana Tech,0.537
+6105,2016,UCLA,0.536
+6106,2016,Oregon St,0.536
+6107,2016,Tulsa,0.535
+6108,2016,Lehigh,0.535
+6109,2016,West Virginia,0.534
+6110,2016,Penn,0.533
+6111,2016,Utah,0.532
+6112,2016,Stony Brook,0.532
+6113,2016,C Michigan,0.532
+6114,2016,Rhode Island,0.532
+6115,2016,Texas St,0.531
+6116,2016,Austin Peay,0.531
+6117,2016,Princeton,0.531
+6118,2016,Arizona,0.529
+6119,2016,Brown,0.529
+6120,2016,Oklahoma St,0.529
+6121,2016,Loyola MD,0.528
+6122,2016,Grand Canyon,0.528
+6123,2016,Jacksonville St,0.528
+6124,2016,St Bonaventure,0.526
+6125,2016,Texas A&M,0.525
+6126,2016,Abilene Chr,0.525
+6127,2016,NE Omaha,0.525
+6128,2016,S Dakota St,0.523
+6129,2016,Missouri,0.523
+6130,2016,Miami FL,0.522
+6131,2016,Loyola-Chicago,0.522
+6132,2016,S Illinois,0.52
+6133,2016,Gardner Webb,0.518
+6134,2016,NJIT,0.517
+6135,2016,South Florida,0.516
+6136,2016,E Michigan,0.515
+6137,2016,Connecticut,0.515
+6138,2016,SMU,0.514
+6139,2016,UT San Antonio,0.514
+6140,2016,Prairie View,0.513
+6141,2016,TX-Pan Am,0.513
+6142,2016,Stanford,0.512
+6143,2016,Sam Houston St,0.512
+6144,2016,Rutgers,0.512
+6145,2016,Lafayette,0.512
+6146,2016,UAB,0.511
+6147,2016,Wright St,0.511
+6148,2016,Northern Iowa,0.511
+6149,2016,Ohio,0.511
+6150,2016,Miami OH,0.509
+6151,2016,UT Arlington,0.509
+6152,2016,George Mason,0.508
+6153,2016,Akron,0.507
+6154,2016,Georgia Tech,0.506
+6155,2016,USC,0.505
+6156,2016,N Colorado,0.505
+6157,2016,Santa Barbara,0.504
+6158,2016,Bradley,0.504
+6159,2016,North Texas,0.503
+6160,2016,Cornell,0.503
+6161,2016,Florida Intl,0.503
+6162,2016,Winthrop,0.501
+6163,2016,N Illinois,0.501
+6164,2016,Hartford,0.5
+6165,2016,Boston College,0.5
+6166,2016,Duquesne,0.499
+6167,2016,DePaul,0.499
+6168,2016,Holy Cross,0.498
+6169,2016,North Florida,0.497
+6170,2016,UNLV,0.497
+6171,2016,Notre Dame,0.496
+6172,2016,ULM,0.496
+6173,2016,N Dakota St,0.495
+6174,2016,St Joseph's PA,0.495
+6175,2016,CS Fullerton,0.495
+6176,2016,Ball St,0.495
+6177,2016,Illinois,0.495
+6178,2016,Illinois St,0.495
+6179,2016,Pepperdine,0.495
+6180,2016,Wake Forest,0.494
+6181,2016,Campbell,0.494
+6182,2016,WI Green Bay,0.493
+6183,2016,St Francis PA,0.493
+6184,2016,Pittsburgh,0.493
+6185,2016,Missouri St,0.492
+6186,2016,Pacific,0.491
+6187,2016,William & Mary,0.491
+6188,2016,FL Atlantic,0.491
+6189,2016,Indiana St,0.49
+6190,2016,Santa Clara,0.49
+6191,2016,UMBC,0.49
+6192,2016,Georgia,0.49
+6193,2016,Rider,0.488
+6194,2016,E Washington,0.487
+6195,2016,TX Southern,0.487
+6196,2016,F Dickinson,0.486
+6197,2016,CS Bakersfield,0.486
+6198,2016,Northwestern,0.485
+6199,2016,Iona,0.485
+6200,2016,Samford,0.485
+6201,2016,New Mexico,0.485
+6202,2016,Delaware,0.484
+6203,2016,Cal Baptist,0.484
+6204,2016,Seattle,0.484
+6205,2016,Weber St,0.482
+6206,2016,Lamar,0.482
+6207,2016,Coastal Car,0.482
+6208,2016,Canisius,0.481
+6209,2016,Norfolk St,0.479
+6210,2016,Siena,0.479
+6211,2016,Long Beach St,0.479
+6212,2016,New Orleans,0.475
+6213,2016,Navy,0.474
+6214,2016,Oakland,0.472
+6215,2016,FL Gulf Coast,0.472
+6216,2016,Boise St,0.469
+6217,2016,NC A&T,0.468
+6218,2016,IPFW,0.468
+6219,2016,Hawaii,0.468
+6220,2016,IL Chicago,0.468
+6221,2016,Monmouth NJ,0.467
+6222,2016,SE Louisiana,0.467
+6223,2016,Presbyterian,0.467
+6224,2016,Morehead St,0.467
+6225,2016,Vanderbilt,0.466
+6226,2016,Boston Univ,0.466
+6227,2016,High Point,0.466
+6228,2016,Air Force,0.466
+6229,2016,Robert Morris,0.465
+6230,2016,Valparaiso,0.464
+6231,2016,Southern Utah,0.464
+6232,2016,Colorado St,0.464
+6233,2016,E Kentucky,0.463
+6234,2016,St Francis NY,0.462
+6235,2016,Arkansas St,0.461
+6236,2016,Rice,0.461
+6237,2016,Drexel,0.46
+6238,2016,Hampton,0.46
+6239,2016,Charleston So,0.46
+6240,2016,Detroit,0.46
+6241,2016,Quinnipiac,0.459
+6242,2016,Montana St,0.459
+6243,2016,Citadel,0.458
+6244,2016,American Univ,0.458
+6245,2016,Army,0.458
+6246,2016,IUPUI,0.458
+6247,2016,MTSU,0.458
+6248,2016,Richmond,0.457
+6249,2016,Missouri KC,0.457
+6250,2016,Brooklyn,0.457
+6251,2016,Troy,0.456
+6252,2016,MA Lowell,0.455
+6253,2016,Mercer,0.455
+6254,2016,Sacred Heart,0.455
+6255,2016,Chattanooga,0.454
+6256,2016,South Alabama,0.454
+6257,2016,California,0.452
+6258,2016,Portland St,0.452
+6259,2016,James Madison,0.452
+6260,2016,Columbia,0.452
+6261,2016,CS Sacramento,0.451
+6262,2016,Washington St,0.451
+6263,2016,UNC Wilmington,0.45
+6264,2016,G Washington,0.449
+6265,2016,Dartmouth,0.448
+6266,2016,La Salle,0.448
+6267,2016,Wagner,0.448
+6268,2016,Massachusetts,0.445
+6269,2016,South Dakota,0.445
+6270,2016,E Illinois,0.444
+6271,2016,East Carolina,0.444
+6272,2016,Evansville,0.444
+6273,2016,Lafayette,0.444
+6274,2016,Appalachian St,0.443
+6275,2016,Idaho St,0.442
+6276,2016,Elon,0.441
+6277,2016,Loyola MD,0.441
+6278,2016,NC Central,0.441
+6279,2016,Grambling,0.439
+6280,2016,TAM C. Christi,0.439
+6281,2016,CS Northridge,0.438
+6282,2016,Cent Arkansas,0.436
+6283,2016,VMI,0.436
+6284,2016,North Alabama,0.436
+6285,2016,Ark Little Rock,0.436
+6286,2016,W Michigan,0.435
+6287,2016,Marist,0.435
+6288,2016,Central Conn,0.434
+6289,2016,UC Davis,0.434
+6290,2016,Albany NY,0.434
+6291,2016,Ark Pine Bluff,0.432
+6292,2016,W Carolina,0.431
+6293,2016,TN Martin,0.43
+6294,2016,Florida A&M,0.43
+6295,2016,SF Austin,0.43
+6296,2016,Youngstown St,0.429
+6297,2016,Mt St Mary's,0.429
+6298,2016,Towson,0.429
+6299,2016,North Dakota,0.429
+6300,2016,Tulane,0.429
+6301,2016,Northern Arizona,0.429
+6302,2016,Howard,0.427
+6303,2016,Oral Roberts,0.427
+6304,2016,Houston Bap,0.427
+6305,2016,Charlotte,0.426
+6306,2016,SE Missouri St,0.424
+6307,2016,Jacksonville,0.423
+6308,2016,Alabama St,0.422
+6309,2016,Niagara,0.422
+6310,2016,Binghamton,0.422
+6311,2016,Tennessee St,0.421
+6312,2016,Fordham,0.421
+6313,2016,Nicholls St,0.421
+6314,2016,Cleveland St,0.42
+6315,2016,Longwood,0.419
+6316,2016,Manhattan,0.419
+6317,2016,Tennessee Tech,0.414
+6318,2016,Bryant,0.413
+6319,2016,WI Milwaukee,0.412
+6320,2016,Denver,0.411
+6321,2016,St Peter's,0.41
+6322,2016,Jackson St,0.41
+6323,2016,Portland,0.408
+6324,2016,Bethune-Cookman,0.408
+6325,2016,Edwardsville,0.406
+6326,2016,UC Riverside,0.406
+6327,2016,Coppin St,0.406
+6328,2016,Wyoming,0.404
+6329,2016,Fairfield,0.403
+6330,2016,UTEP,0.4
+6331,2016,Northwestern LA,0.4
+6332,2016,Savannah St,0.4
+6333,2016,McNeese St,0.398
+6334,2016,Kennesaw,0.394
+6335,2016,W Illinois,0.392
+6336,2016,Maine,0.389
+6337,2016,Chicago St,0.386
+6338,2016,San Jose St,0.38
+6339,2016,Cal Poly SLO,0.374
+6340,2016,Stetson,0.373
+6341,2016,S Carolina St,0.373
+6342,2016,Morgan St,0.371
+6343,2016,Southern Univ,0.371
+6344,2016,Idaho,0.369
+6345,2016,Incarnate Word,0.369
+6346,2016,UNC Asheville,0.366
+6347,2016,Alcorn St,0.365
+6348,2016,MD E Shore,0.364
+6349,2016,New Hampshire,0.36
+6350,2016,MS Valley St,0.356
+6351,2016,Delaware St,0.349
+6352,2016,SC Upstate,0.347
+6353,2016,Alabama A&M,0.345
+6354,2017,Duke,0.67
+6355,2017,Kansas,0.657
+6356,2017,Virginia,0.655
+6357,2017,North Carolina,0.653
+6358,2017,Houston,0.648
+6359,2017,Michigan St,0.647
+6360,2017,Tennessee,0.645
+6361,2017,Gonzaga,0.644
+6362,2017,Kentucky,0.643
+6363,2017,Buffalo,0.641
+6364,2017,Michigan,0.635
+6365,2017,Florida St,0.634
+6366,2017,Cincinnati,0.628
+6367,2017,LSU,0.626
+6368,2017,Purdue,0.62
+6369,2017,Villanova,0.62
+6370,2017,Kansas St,0.62
+6371,2017,Auburn,0.619
+6372,2017,Texas Tech,0.619
+6373,2017,Nevada,0.615
+6374,2017,Wofford,0.613
+6375,2017,Washington,0.609
+6376,2017,VA Commonwealth,0.609
+6377,2017,Mississippi St,0.608
+6378,2017,UCF,0.605
+6379,2017,Wisconsin,0.605
+6380,2017,Virginia Tech,0.605
+6381,2017,Utah St,0.604
+6382,2017,Maryland,0.602
+6383,2017,UNC Greensboro,0.6
+6384,2017,Iowa St,0.6
+6385,2017,Marquette,0.599
+6386,2017,Louisville,0.593
+6387,2017,Temple,0.588
+6388,2017,St Mary's CA,0.587
+6389,2017,Murray St,0.582
+6390,2017,Syracuse,0.581
+6391,2017,New Mexico St,0.581
+6392,2017,Oklahoma,0.58
+6393,2017,Seton Hall,0.58
+6394,2017,Toledo,0.579
+6395,2017,Belmont,0.579
+6396,2017,Arizona St,0.578
+6397,2017,Minnesota,0.577
+6398,2017,Yale,0.577
+6399,2017,Oregon,0.575
+6400,2017,Georgia St,0.575
+6401,2017,Northeastern,0.574
+6402,2017,Davidson,0.571
+6403,2017,Hofstra,0.57
+6404,2017,Harvard,0.569
+6405,2017,TCU,0.569
+6406,2017,Memphis,0.568
+6407,2017,St John's,0.567
+6408,2017,Iowa,0.567
+6409,2017,Alabama,0.566
+6410,2017,Furman,0.566
+6411,2017,Baylor,0.565
+6412,2017,Florida,0.565
+6413,2017,Utah Valley,0.564
+6414,2017,Clemson,0.563
+6415,2017,Creighton,0.562
+6416,2017,Old Dominion,0.562
+6417,2017,UC Irvine,0.561
+6418,2017,Vermont,0.561
+6419,2017,Mississippi,0.561
+6420,2017,BYU,0.56
+6421,2017,Tennessee St,0.559
+6422,2017,Texas,0.559
+6423,2017,Lipscomb,0.557
+6424,2017,Drake,0.557
+6425,2017,Wichita St,0.557
+6426,2017,Ohio St,0.555
+6427,2017,Dayton,0.553
+6428,2017,Montana,0.551
+6429,2017,San Diego,0.551
+6430,2017,Xavier,0.551
+6431,2017,Ga Southern,0.551
+6432,2017,Colorado,0.551
+6433,2017,Bowling Green,0.551
+6434,2017,St Louis,0.551
+6435,2017,WKU,0.55
+6436,2017,Kent,0.55
+6437,2017,Liberty,0.549
+6438,2017,San Diego St,0.548
+6439,2017,Col Charleston,0.547
+6440,2017,San Francisco,0.547
+6441,2017,Colgate,0.547
+6442,2017,Providence,0.547
+6443,2017,Bucknell,0.545
+6444,2017,Georgetown,0.545
+6445,2017,Nebraska,0.545
+6446,2017,Southern Miss,0.543
+6447,2017,N Kentucky,0.542
+6448,2017,Penn St,0.542
+6449,2017,Butler,0.542
+6450,2017,NC State,0.542
+6451,2017,Indiana,0.541
+6452,2017,South Carolina,0.539
+6453,2017,Marshall,0.539
+6454,2017,Radford,0.538
+6455,2017,Arkansas,0.538
+6456,2017,Fresno St,0.537
+6457,2017,Louisiana Tech,0.537
+6458,2017,UCLA,0.536
+6459,2017,Oregon St,0.536
+6460,2017,Tulsa,0.535
+6461,2017,Lehigh,0.535
+6462,2017,West Virginia,0.534
+6463,2017,Penn,0.533
+6464,2017,Utah,0.532
+6465,2017,Stony Brook,0.532
+6466,2017,C Michigan,0.532
+6467,2017,Rhode Island,0.532
+6468,2017,Texas St,0.531
+6469,2017,Austin Peay,0.531
+6470,2017,Princeton,0.531
+6471,2017,Arizona,0.529
+6472,2017,Brown,0.529
+6473,2017,Oklahoma St,0.529
+6474,2017,Loyola MD,0.528
+6475,2017,Grand Canyon,0.528
+6476,2017,Jacksonville St,0.528
+6477,2017,St Bonaventure,0.526
+6478,2017,Texas A&M,0.525
+6479,2017,Abilene Chr,0.525
+6480,2017,NE Omaha,0.525
+6481,2017,S Dakota St,0.523
+6482,2017,Missouri,0.523
+6483,2017,Miami FL,0.522
+6484,2017,Loyola-Chicago,0.522
+6485,2017,S Illinois,0.52
+6486,2017,Gardner Webb,0.518
+6487,2017,NJIT,0.517
+6488,2017,South Florida,0.516
+6489,2017,E Michigan,0.515
+6490,2017,Connecticut,0.515
+6491,2017,SMU,0.514
+6492,2017,UT San Antonio,0.514
+6493,2017,Prairie View,0.513
+6494,2017,TX-Pan Am,0.513
+6495,2017,Stanford,0.512
+6496,2017,Sam Houston St,0.512
+6497,2017,Rutgers,0.512
+6498,2017,Lafayette,0.512
+6499,2017,UAB,0.511
+6500,2017,Wright St,0.511
+6501,2017,Northern Iowa,0.511
+6502,2017,Ohio,0.511
+6503,2017,Miami OH,0.509
+6504,2017,UT Arlington,0.509
+6505,2017,George Mason,0.508
+6506,2017,Akron,0.507
+6507,2017,Georgia Tech,0.506
+6508,2017,USC,0.505
+6509,2017,N Colorado,0.505
+6510,2017,Santa Barbara,0.504
+6511,2017,Bradley,0.504
+6512,2017,North Texas,0.503
+6513,2017,Cornell,0.503
+6514,2017,Florida Intl,0.503
+6515,2017,Winthrop,0.501
+6516,2017,N Illinois,0.501
+6517,2017,Hartford,0.5
+6518,2017,Boston College,0.5
+6519,2017,Duquesne,0.499
+6520,2017,DePaul,0.499
+6521,2017,Holy Cross,0.498
+6522,2017,North Florida,0.497
+6523,2017,UNLV,0.497
+6524,2017,Notre Dame,0.496
+6525,2017,ULM,0.496
+6526,2017,N Dakota St,0.495
+6527,2017,St Joseph's PA,0.495
+6528,2017,CS Fullerton,0.495
+6529,2017,Ball St,0.495
+6530,2017,Illinois,0.495
+6531,2017,Illinois St,0.495
+6532,2017,Pepperdine,0.495
+6533,2017,Wake Forest,0.494
+6534,2017,Campbell,0.494
+6535,2017,WI Green Bay,0.493
+6536,2017,St Francis PA,0.493
+6537,2017,Pittsburgh,0.493
+6538,2017,Missouri St,0.492
+6539,2017,Pacific,0.491
+6540,2017,William & Mary,0.491
+6541,2017,FL Atlantic,0.491
+6542,2017,Indiana St,0.49
+6543,2017,Santa Clara,0.49
+6544,2017,UMBC,0.49
+6545,2017,Georgia,0.49
+6546,2017,Rider,0.488
+6547,2017,E Washington,0.487
+6548,2017,TX Southern,0.487
+6549,2017,F Dickinson,0.486
+6550,2017,CS Bakersfield,0.486
+6551,2017,Northwestern,0.485
+6552,2017,Iona,0.485
+6553,2017,Samford,0.485
+6554,2017,New Mexico,0.485
+6555,2017,Delaware,0.484
+6556,2017,Cal Baptist,0.484
+6557,2017,Seattle,0.484
+6558,2017,Weber St,0.482
+6559,2017,Lamar,0.482
+6560,2017,Coastal Car,0.482
+6561,2017,Canisius,0.481
+6562,2017,Norfolk St,0.479
+6563,2017,Siena,0.479
+6564,2017,Long Beach St,0.479
+6565,2017,New Orleans,0.475
+6566,2017,Navy,0.474
+6567,2017,Oakland,0.472
+6568,2017,FL Gulf Coast,0.472
+6569,2017,Boise St,0.469
+6570,2017,NC A&T,0.468
+6571,2017,IPFW,0.468
+6572,2017,Hawaii,0.468
+6573,2017,IL Chicago,0.468
+6574,2017,Monmouth NJ,0.467
+6575,2017,SE Louisiana,0.467
+6576,2017,Presbyterian,0.467
+6577,2017,Morehead St,0.467
+6578,2017,Vanderbilt,0.466
+6579,2017,Boston Univ,0.466
+6580,2017,High Point,0.466
+6581,2017,Air Force,0.466
+6582,2017,Robert Morris,0.465
+6583,2017,Valparaiso,0.464
+6584,2017,Southern Utah,0.464
+6585,2017,Colorado St,0.464
+6586,2017,E Kentucky,0.463
+6587,2017,St Francis NY,0.462
+6588,2017,Arkansas St,0.461
+6589,2017,Rice,0.461
+6590,2017,Drexel,0.46
+6591,2017,Hampton,0.46
+6592,2017,Charleston So,0.46
+6593,2017,Detroit,0.46
+6594,2017,Quinnipiac,0.459
+6595,2017,Montana St,0.459
+6596,2017,Citadel,0.458
+6597,2017,American Univ,0.458
+6598,2017,Army,0.458
+6599,2017,IUPUI,0.458
+6600,2017,MTSU,0.458
+6601,2017,Richmond,0.457
+6602,2017,Missouri KC,0.457
+6603,2017,Brooklyn,0.457
+6604,2017,Troy,0.456
+6605,2017,MA Lowell,0.455
+6606,2017,Mercer,0.455
+6607,2017,Sacred Heart,0.455
+6608,2017,Chattanooga,0.454
+6609,2017,South Alabama,0.454
+6610,2017,California,0.452
+6611,2017,Portland St,0.452
+6612,2017,James Madison,0.452
+6613,2017,Columbia,0.452
+6614,2017,CS Sacramento,0.451
+6615,2017,Washington St,0.451
+6616,2017,UNC Wilmington,0.45
+6617,2017,G Washington,0.449
+6618,2017,Dartmouth,0.448
+6619,2017,La Salle,0.448
+6620,2017,Wagner,0.448
+6621,2017,Massachusetts,0.445
+6622,2017,South Dakota,0.445
+6623,2017,E Illinois,0.444
+6624,2017,East Carolina,0.444
+6625,2017,Evansville,0.444
+6626,2017,Lafayette,0.444
+6627,2017,Appalachian St,0.443
+6628,2017,Idaho St,0.442
+6629,2017,Elon,0.441
+6630,2017,Loyola MD,0.441
+6631,2017,NC Central,0.441
+6632,2017,Grambling,0.439
+6633,2017,TAM C. Christi,0.439
+6634,2017,CS Northridge,0.438
+6635,2017,Cent Arkansas,0.436
+6636,2017,VMI,0.436
+6637,2017,North Alabama,0.436
+6638,2017,Ark Little Rock,0.436
+6639,2017,W Michigan,0.435
+6640,2017,Marist,0.435
+6641,2017,Central Conn,0.434
+6642,2017,UC Davis,0.434
+6643,2017,Albany NY,0.434
+6644,2017,Ark Pine Bluff,0.432
+6645,2017,W Carolina,0.431
+6646,2017,TN Martin,0.43
+6647,2017,Florida A&M,0.43
+6648,2017,SF Austin,0.43
+6649,2017,Youngstown St,0.429
+6650,2017,Mt St Mary's,0.429
+6651,2017,Towson,0.429
+6652,2017,North Dakota,0.429
+6653,2017,Tulane,0.429
+6654,2017,Northern Arizona,0.429
+6655,2017,Howard,0.427
+6656,2017,Oral Roberts,0.427
+6657,2017,Houston Bap,0.427
+6658,2017,Charlotte,0.426
+6659,2017,SE Missouri St,0.424
+6660,2017,Jacksonville,0.423
+6661,2017,Alabama St,0.422
+6662,2017,Niagara,0.422
+6663,2017,Binghamton,0.422
+6664,2017,Tennessee St,0.421
+6665,2017,Fordham,0.421
+6666,2017,Nicholls St,0.421
+6667,2017,Cleveland St,0.42
+6668,2017,Longwood,0.419
+6669,2017,Manhattan,0.419
+6670,2017,Tennessee Tech,0.414
+6671,2017,Bryant,0.413
+6672,2017,WI Milwaukee,0.412
+6673,2017,Denver,0.411
+6674,2017,St Peter's,0.41
+6675,2017,Jackson St,0.41
+6676,2017,Portland,0.408
+6677,2017,Bethune-Cookman,0.408
+6678,2017,Edwardsville,0.406
+6679,2017,UC Riverside,0.406
+6680,2017,Coppin St,0.406
+6681,2017,Wyoming,0.404
+6682,2017,Fairfield,0.403
+6683,2017,UTEP,0.4
+6684,2017,Northwestern LA,0.4
+6685,2017,Savannah St,0.4
+6686,2017,McNeese St,0.398
+6687,2017,Kennesaw,0.394
+6688,2017,W Illinois,0.392
+6689,2017,Maine,0.389
+6690,2017,Chicago St,0.386
+6691,2017,San Jose St,0.38
+6692,2017,Cal Poly SLO,0.374
+6693,2017,Stetson,0.373
+6694,2017,S Carolina St,0.373
+6695,2017,Morgan St,0.371
+6696,2017,Southern Univ,0.371
+6697,2017,Idaho,0.369
+6698,2017,Incarnate Word,0.369
+6699,2017,UNC Asheville,0.366
+6700,2017,Alcorn St,0.365
+6701,2017,MD E Shore,0.364
+6702,2017,New Hampshire,0.36
+6703,2017,MS Valley St,0.356
+6704,2017,Delaware St,0.349
+6705,2017,SC Upstate,0.347
+6706,2017,Alabama A&M,0.345
+6707,2018,Duke,0.67
+6708,2018,Kansas,0.657
+6709,2018,Virginia,0.655
+6710,2018,North Carolina,0.653
+6711,2018,Houston,0.648
+6712,2018,Michigan St,0.647
+6713,2018,Tennessee,0.645
+6714,2018,Gonzaga,0.644
+6715,2018,Kentucky,0.643
+6716,2018,Buffalo,0.641
+6717,2018,Michigan,0.635
+6718,2018,Florida St,0.634
+6719,2018,Cincinnati,0.628
+6720,2018,LSU,0.626
+6721,2018,Purdue,0.62
+6722,2018,Villanova,0.62
+6723,2018,Kansas St,0.62
+6724,2018,Auburn,0.619
+6725,2018,Texas Tech,0.619
+6726,2018,Nevada,0.615
+6727,2018,Wofford,0.613
+6728,2018,Washington,0.609
+6729,2018,VA Commonwealth,0.609
+6730,2018,Mississippi St,0.608
+6731,2018,UCF,0.605
+6732,2018,Wisconsin,0.605
+6733,2018,Virginia Tech,0.605
+6734,2018,Utah St,0.604
+6735,2018,Maryland,0.602
+6736,2018,UNC Greensboro,0.6
+6737,2018,Iowa St,0.6
+6738,2018,Marquette,0.599
+6739,2018,Louisville,0.593
+6740,2018,Temple,0.588
+6741,2018,St Mary's CA,0.587
+6742,2018,Murray St,0.582
+6743,2018,Syracuse,0.581
+6744,2018,New Mexico St,0.581
+6745,2018,Oklahoma,0.58
+6746,2018,Seton Hall,0.58
+6747,2018,Toledo,0.579
+6748,2018,Belmont,0.579
+6749,2018,Arizona St,0.578
+6750,2018,Minnesota,0.577
+6751,2018,Yale,0.577
+6752,2018,Oregon,0.575
+6753,2018,Georgia St,0.575
+6754,2018,Northeastern,0.574
+6755,2018,Davidson,0.571
+6756,2018,Hofstra,0.57
+6757,2018,Harvard,0.569
+6758,2018,TCU,0.569
+6759,2018,Memphis,0.568
+6760,2018,St John's,0.567
+6761,2018,Iowa,0.567
+6762,2018,Alabama,0.566
+6763,2018,Furman,0.566
+6764,2018,Baylor,0.565
+6765,2018,Florida,0.565
+6766,2018,Utah Valley,0.564
+6767,2018,Clemson,0.563
+6768,2018,Creighton,0.562
+6769,2018,Old Dominion,0.562
+6770,2018,UC Irvine,0.561
+6771,2018,Vermont,0.561
+6772,2018,Mississippi,0.561
+6773,2018,BYU,0.56
+6774,2018,Tennessee St,0.559
+6775,2018,Texas,0.559
+6776,2018,Lipscomb,0.557
+6777,2018,Drake,0.557
+6778,2018,Wichita St,0.557
+6779,2018,Ohio St,0.555
+6780,2018,Dayton,0.553
+6781,2018,Montana,0.551
+6782,2018,San Diego,0.551
+6783,2018,Xavier,0.551
+6784,2018,Ga Southern,0.551
+6785,2018,Colorado,0.551
+6786,2018,Bowling Green,0.551
+6787,2018,St Louis,0.551
+6788,2018,WKU,0.55
+6789,2018,Kent,0.55
+6790,2018,Liberty,0.549
+6791,2018,San Diego St,0.548
+6792,2018,Col Charleston,0.547
+6793,2018,San Francisco,0.547
+6794,2018,Colgate,0.547
+6795,2018,Providence,0.547
+6796,2018,Bucknell,0.545
+6797,2018,Georgetown,0.545
+6798,2018,Nebraska,0.545
+6799,2018,Southern Miss,0.543
+6800,2018,N Kentucky,0.542
+6801,2018,Penn St,0.542
+6802,2018,Butler,0.542
+6803,2018,NC State,0.542
+6804,2018,Indiana,0.541
+6805,2018,South Carolina,0.539
+6806,2018,Marshall,0.539
+6807,2018,Radford,0.538
+6808,2018,Arkansas,0.538
+6809,2018,Fresno St,0.537
+6810,2018,Louisiana Tech,0.537
+6811,2018,UCLA,0.536
+6812,2018,Oregon St,0.536
+6813,2018,Tulsa,0.535
+6814,2018,Lehigh,0.535
+6815,2018,West Virginia,0.534
+6816,2018,Penn,0.533
+6817,2018,Utah,0.532
+6818,2018,Stony Brook,0.532
+6819,2018,C Michigan,0.532
+6820,2018,Rhode Island,0.532
+6821,2018,Texas St,0.531
+6822,2018,Austin Peay,0.531
+6823,2018,Princeton,0.531
+6824,2018,Arizona,0.529
+6825,2018,Brown,0.529
+6826,2018,Oklahoma St,0.529
+6827,2018,Loyola MD,0.528
+6828,2018,Grand Canyon,0.528
+6829,2018,Jacksonville St,0.528
+6830,2018,St Bonaventure,0.526
+6831,2018,Texas A&M,0.525
+6832,2018,Abilene Chr,0.525
+6833,2018,NE Omaha,0.525
+6834,2018,S Dakota St,0.523
+6835,2018,Missouri,0.523
+6836,2018,Miami FL,0.522
+6837,2018,Loyola-Chicago,0.522
+6838,2018,S Illinois,0.52
+6839,2018,Gardner Webb,0.518
+6840,2018,NJIT,0.517
+6841,2018,South Florida,0.516
+6842,2018,E Michigan,0.515
+6843,2018,Connecticut,0.515
+6844,2018,SMU,0.514
+6845,2018,UT San Antonio,0.514
+6846,2018,Prairie View,0.513
+6847,2018,TX-Pan Am,0.513
+6848,2018,Stanford,0.512
+6849,2018,Sam Houston St,0.512
+6850,2018,Rutgers,0.512
+6851,2018,Lafayette,0.512
+6852,2018,UAB,0.511
+6853,2018,Wright St,0.511
+6854,2018,Northern Iowa,0.511
+6855,2018,Ohio,0.511
+6856,2018,Miami OH,0.509
+6857,2018,UT Arlington,0.509
+6858,2018,George Mason,0.508
+6859,2018,Akron,0.507
+6860,2018,Georgia Tech,0.506
+6861,2018,USC,0.505
+6862,2018,N Colorado,0.505
+6863,2018,Santa Barbara,0.504
+6864,2018,Bradley,0.504
+6865,2018,North Texas,0.503
+6866,2018,Cornell,0.503
+6867,2018,Florida Intl,0.503
+6868,2018,Winthrop,0.501
+6869,2018,N Illinois,0.501
+6870,2018,Hartford,0.5
+6871,2018,Boston College,0.5
+6872,2018,Duquesne,0.499
+6873,2018,DePaul,0.499
+6874,2018,Holy Cross,0.498
+6875,2018,North Florida,0.497
+6876,2018,UNLV,0.497
+6877,2018,Notre Dame,0.496
+6878,2018,ULM,0.496
+6879,2018,N Dakota St,0.495
+6880,2018,St Joseph's PA,0.495
+6881,2018,CS Fullerton,0.495
+6882,2018,Ball St,0.495
+6883,2018,Illinois,0.495
+6884,2018,Illinois St,0.495
+6885,2018,Pepperdine,0.495
+6886,2018,Wake Forest,0.494
+6887,2018,Campbell,0.494
+6888,2018,WI Green Bay,0.493
+6889,2018,St Francis PA,0.493
+6890,2018,Pittsburgh,0.493
+6891,2018,Missouri St,0.492
+6892,2018,Pacific,0.491
+6893,2018,William & Mary,0.491
+6894,2018,FL Atlantic,0.491
+6895,2018,Indiana St,0.49
+6896,2018,Santa Clara,0.49
+6897,2018,UMBC,0.49
+6898,2018,Georgia,0.49
+6899,2018,Rider,0.488
+6900,2018,E Washington,0.487
+6901,2018,TX Southern,0.487
+6902,2018,F Dickinson,0.486
+6903,2018,CS Bakersfield,0.486
+6904,2018,Northwestern,0.485
+6905,2018,Iona,0.485
+6906,2018,Samford,0.485
+6907,2018,New Mexico,0.485
+6908,2018,Delaware,0.484
+6909,2018,Cal Baptist,0.484
+6910,2018,Seattle,0.484
+6911,2018,Weber St,0.482
+6912,2018,Lamar,0.482
+6913,2018,Coastal Car,0.482
+6914,2018,Canisius,0.481
+6915,2018,Norfolk St,0.479
+6916,2018,Siena,0.479
+6917,2018,Long Beach St,0.479
+6918,2018,New Orleans,0.475
+6919,2018,Navy,0.474
+6920,2018,Oakland,0.472
+6921,2018,FL Gulf Coast,0.472
+6922,2018,Boise St,0.469
+6923,2018,NC A&T,0.468
+6924,2018,IPFW,0.468
+6925,2018,Hawaii,0.468
+6926,2018,IL Chicago,0.468
+6927,2018,Monmouth NJ,0.467
+6928,2018,SE Louisiana,0.467
+6929,2018,Presbyterian,0.467
+6930,2018,Morehead St,0.467
+6931,2018,Vanderbilt,0.466
+6932,2018,Boston Univ,0.466
+6933,2018,High Point,0.466
+6934,2018,Air Force,0.466
+6935,2018,Robert Morris,0.465
+6936,2018,Valparaiso,0.464
+6937,2018,Southern Utah,0.464
+6938,2018,Colorado St,0.464
+6939,2018,E Kentucky,0.463
+6940,2018,St Francis NY,0.462
+6941,2018,Arkansas St,0.461
+6942,2018,Rice,0.461
+6943,2018,Drexel,0.46
+6944,2018,Hampton,0.46
+6945,2018,Charleston So,0.46
+6946,2018,Detroit,0.46
+6947,2018,Quinnipiac,0.459
+6948,2018,Montana St,0.459
+6949,2018,Citadel,0.458
+6950,2018,American Univ,0.458
+6951,2018,Army,0.458
+6952,2018,IUPUI,0.458
+6953,2018,MTSU,0.458
+6954,2018,Richmond,0.457
+6955,2018,Missouri KC,0.457
+6956,2018,Brooklyn,0.457
+6957,2018,Troy,0.456
+6958,2018,MA Lowell,0.455
+6959,2018,Mercer,0.455
+6960,2018,Sacred Heart,0.455
+6961,2018,Chattanooga,0.454
+6962,2018,South Alabama,0.454
+6963,2018,California,0.452
+6964,2018,Portland St,0.452
+6965,2018,James Madison,0.452
+6966,2018,Columbia,0.452
+6967,2018,CS Sacramento,0.451
+6968,2018,Washington St,0.451
+6969,2018,UNC Wilmington,0.45
+6970,2018,G Washington,0.449
+6971,2018,Dartmouth,0.448
+6972,2018,La Salle,0.448
+6973,2018,Wagner,0.448
+6974,2018,Massachusetts,0.445
+6975,2018,South Dakota,0.445
+6976,2018,E Illinois,0.444
+6977,2018,East Carolina,0.444
+6978,2018,Evansville,0.444
+6979,2018,Lafayette,0.444
+6980,2018,Appalachian St,0.443
+6981,2018,Idaho St,0.442
+6982,2018,Elon,0.441
+6983,2018,Loyola MD,0.441
+6984,2018,NC Central,0.441
+6985,2018,Grambling,0.439
+6986,2018,TAM C. Christi,0.439
+6987,2018,CS Northridge,0.438
+6988,2018,Cent Arkansas,0.436
+6989,2018,VMI,0.436
+6990,2018,North Alabama,0.436
+6991,2018,Ark Little Rock,0.436
+6992,2018,W Michigan,0.435
+6993,2018,Marist,0.435
+6994,2018,Central Conn,0.434
+6995,2018,UC Davis,0.434
+6996,2018,Albany NY,0.434
+6997,2018,Ark Pine Bluff,0.432
+6998,2018,W Carolina,0.431
+6999,2018,TN Martin,0.43
+7000,2018,Florida A&M,0.43
+7001,2018,SF Austin,0.43
+7002,2018,Youngstown St,0.429
+7003,2018,Mt St Mary's,0.429
+7004,2018,Towson,0.429
+7005,2018,North Dakota,0.429
+7006,2018,Tulane,0.429
+7007,2018,Northern Arizona,0.429
+7008,2018,Howard,0.427
+7009,2018,Oral Roberts,0.427
+7010,2018,Houston Bap,0.427
+7011,2018,Charlotte,0.426
+7012,2018,SE Missouri St,0.424
+7013,2018,Jacksonville,0.423
+7014,2018,Alabama St,0.422
+7015,2018,Niagara,0.422
+7016,2018,Binghamton,0.422
+7017,2018,Tennessee St,0.421
+7018,2018,Fordham,0.421
+7019,2018,Nicholls St,0.421
+7020,2018,Cleveland St,0.42
+7021,2018,Longwood,0.419
+7022,2018,Manhattan,0.419
+7023,2018,Tennessee Tech,0.414
+7024,2018,Bryant,0.413
+7025,2018,WI Milwaukee,0.412
+7026,2018,Denver,0.411
+7027,2018,St Peter's,0.41
+7028,2018,Jackson St,0.41
+7029,2018,Portland,0.408
+7030,2018,Bethune-Cookman,0.408
+7031,2018,Edwardsville,0.406
+7032,2018,UC Riverside,0.406
+7033,2018,Coppin St,0.406
+7034,2018,Wyoming,0.404
+7035,2018,Fairfield,0.403
+7036,2018,UTEP,0.4
+7037,2018,Northwestern LA,0.4
+7038,2018,Savannah St,0.4
+7039,2018,McNeese St,0.398
+7040,2018,Kennesaw,0.394
+7041,2018,W Illinois,0.392
+7042,2018,Maine,0.389
+7043,2018,Chicago St,0.386
+7044,2018,San Jose St,0.38
+7045,2018,Cal Poly SLO,0.374
+7046,2018,Stetson,0.373
+7047,2018,S Carolina St,0.373
+7048,2018,Morgan St,0.371
+7049,2018,Southern Univ,0.371
+7050,2018,Idaho,0.369
+7051,2018,Incarnate Word,0.369
+7052,2018,UNC Asheville,0.366
+7053,2018,Alcorn St,0.365
+7054,2018,MD E Shore,0.364
+7055,2018,New Hampshire,0.36
+7056,2018,MS Valley St,0.356
+7057,2018,Delaware St,0.349
+7058,2018,SC Upstate,0.347
+7059,2018,Alabama A&M,0.345
