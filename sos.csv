@@ -1,0 +1,6722 @@
+,Season,TeamName,SOS
+0,2000,Stanford,7.12
+1,2000,Duke,8.88
+2,2000,Michigan St,9.91
+3,2000,Cincinnati,8.5
+4,2000,Florida,8.51
+5,2000,Temple,6.94
+6,2000,Texas,9.61
+7,2000,Oklahoma St,6.59
+8,2000,Tulsa,2.42
+9,2000,Illinois,9.6
+10,2000,Indiana,10.22
+11,2000,Oklahoma,6.63
+12,2000,Iowa St,7.14
+13,2000,Arizona,9.7
+14,2000,Tennessee,8.12
+15,2000,LSU,5.78
+16,2000,Kentucky,12.71
+17,2000,Kansas,9.79
+18,2000,Maryland,9.44
+19,2000,Syracuse,6.2
+20,2000,Ohio State,6.55
+21,2000,North Carolina,11.8
+22,2000,Connecticut,7.58
+23,2000,Purdue,9.56
+24,2000,Wisconsin,12.5
+25,2000,Gonzaga,4.64
+26,2000,UCLA,10.11
+27,2000,Louisville,8.76
+28,2000,Oregon,8.53
+29,2000,DePaul,7.83
+30,2000,St John's,6.96
+31,2000,Wake Forest,8.95
+32,2000,USC,8.77
+33,2000,Auburn,8.2
+34,2000,Pepperdine,3.35
+35,2000,NC State,7.49
+36,2000,Vanderbilt,7.54
+37,2000,Missouri,8.22
+38,2000,Arkansas,7.76
+39,2000,Virginia,6.22
+40,2000,Butler,0.01
+41,2000,Utah,4.36
+42,2000,Arizona St,8.75
+43,2000,Miami FL,5.39
+44,2000,Charlotte,8.6
+45,2000,Kent,2.21
+46,2000,Seton Hall,5.11
+47,2000,Penn St,8.82
+48,2000,South Carolina,8.78
+49,2000,Dayton,3.46
+50,2000,UNLV,2.52
+51,2000,California,8.62
+52,2000,Notre Dame,6.38
+53,2000,BYU,3.54
+54,2000,St Bonaventure,5.29
+55,2000,Xavier,3.42
+56,2000,Fresno St,3.58
+57,2000,St Louis,8.39
+58,2000,Iowa,11.83
+59,2000,Utah St,1.89
+60,2000,Long Beach St,-0.87
+61,2000,South Florida,3.92
+62,2000,Colorado,6.33
+63,2000,Creighton,1.64
+64,2000,Colorado St,3.48
+65,2000,New Mexico,4.18
+66,2000,Mississippi,6.52
+67,2000,Ball St,3.17
+68,2000,Massachusetts,5.05
+69,2000,SMU,1.39
+70,2000,S Illinois,4.28
+71,2000,Villanova,6.74
+72,2000,Missouri St,4.07
+73,2000,Ohio,3.53
+74,2000,Alabama,7.62
+75,2000,San Diego,0.45
+76,2000,Marquette,6.83
+77,2000,Mississippi St,5.29
+78,2000,Wyoming,2.84
+79,2000,Minnesota,9.62
+80,2000,Oregon St,8.74
+81,2000,Georgetown,5.78
+82,2000,Rutgers,4.4
+83,2000,Indiana St,3.22
+84,2000,Memphis,5.64
+85,2000,New Mexico St,2
+86,2000,Georgia Tech,7
+87,2000,San Francisco,0.67
+88,2000,UTEP,3.23
+89,2000,TCU,2.81
+90,2000,Tulane,3.54
+91,2000,Southern Miss,4.2
+92,2000,St Joseph's  PA,5.72
+93,2000,Michigan,9.27
+94,2000,Bradley,3.88
+95,2000,Hofstra,-6.03
+96,2000,Georgia,8.71
+97,2000,Hawaii,2.23
+98,2000,Marshall,-0.16
+99,2000,Miami OH,3.6
+100,2000,Toledo,2.56
+101,2000,G Washington,5.41
+102,2000,Florida St,10
+103,2000,SE Missouri St,-2.48
+104,2000,Northern Arizona,1.37
+105,2000,Boston College,5.07
+106,2000,CS Northridge,0.41
+107,2000,Penn,-2.89
+108,2000,Pittsburgh,4.41
+109,2000,Santa Clara,3.52
+110,2000,West Virginia,5
+111,2000,Detroit,0.14
+112,2000,Akron,1.32
+113,2000,Murray St,-2.39
+114,2000,Alabama-Birmingham,4.94
+115,2000,Bowling Green,0.79
+116,2000,Texas Tech,5.69
+117,2000,Samford,-5.8
+118,2000,Cleveland St,-0.16
+119,2000,Princeton,-2.93
+120,2000,Virginia Tech,2.45
+121,2000,Evansville,0.98
+122,2000,Appalachian St,-3.75
+123,2000,Washington,9.98
+124,2000,Richmond,-1.55
+125,2000,UNC Wilmington,-0.24
+126,2000,Montana,0.47
+127,2000,Louisiana,-1.58
+128,2000,Navy,-8.17
+129,2000,E Washington,1.48
+130,2000,Baylor,4.59
+131,2000,WI Milwaukee,1.67
+132,2000,Weber St,0.46
+133,2000,Houston,6.44
+134,2000,Clemson,7.39
+135,2000,Louisiana Tech,-4.09
+136,2000,E Illinois,-1.99
+137,2000,Fordham,2.82
+138,2000,E Michigan,1.87
+139,2000,Siena,-4.62
+140,2000,Nebraska,6.83
+141,2000,Providence,5.29
+142,2000,UC Santa Barbara,0.16
+143,2000,Col Charleston ,-7.04
+144,2000,George Mason,-2.37
+145,2000,Kansas St,8.32
+146,2000,N Illinois,1.56
+147,2000,San Jose St,3.79
+148,2000,Austin Peay,-3.29
+149,2000,Northern Iowa,2.51
+150,2000,WI Green Bay,1.84
+151,2000,Wichita St,1.92
+152,2000,Boise St,0.51
+153,2000,Central Conn,-9.55
+154,2000,Lafayette,-8.07
+155,2000,South Alabama,-3.15
+156,2000,La Salle,3.1
+157,2000,Tennessee Tech,-3.64
+158,2000,Delaware,-7.75
+159,2000,Portland St,-0.09
+160,2000,Florida Intl,-2.07
+161,2000,Sam Houston St,-5.44
+162,2000,Drake,0.71
+163,2000,Winthrop,-7.41
+164,2000,Iona,-4.13
+165,2000,Washington St,7.66
+166,2000,ULM,-5.85
+167,2000,Illinois St,2.72
+168,2000,MTSU,-2.4
+169,2000,James Madison,-4.55
+170,2000,Davidson,-2.69
+171,2000,Georgia St,-6.1
+172,2000,Valparaiso,-3.71
+173,2000,Idaho,1.53
+174,2000,Maine,-10.06
+175,2000,Southern Utah,-3.99
+176,2000,Fairfield,-2.44
+177,2000,Pacific,-0.6
+178,2000,W Michigan,1.87
+179,2000,UC Irvine,-0.77
+180,2000,Old Dominion,-1.9
+181,2000,IL Chicago,0.52
+182,2000,Portland,1.92
+183,2000,Texas A&M,5.47
+184,2000,Manhattan,-6.94
+185,2000,Montana St,0.73
+186,2000,WKU,-1.45
+187,2000,Missouri KC,-5.08
+188,2000,Nevada,1.5
+189,2000,Loyola-Chicago,-0.73
+190,2000,UT San Antonio,-4.59
+191,2000,Duquesne,2.5
+192,2000,C Michigan,2.79
+193,2000,UT Arlington,-5.86
+194,2000,Arkansas St,-0.48
+195,2000,Oakland,-1.32
+196,2000,New Orleans,-3.06
+197,2000,Northwestern,8.14
+198,2000,VA Commonwealth,-1.8
+199,2000,Air Force,2.58
+200,2000,Wright St,-0.15
+201,2000,Idaho State,1.18
+202,2000,Bucknell,-6.76
+203,2000,William & Mary,-0.92
+204,2000,Cal Poly SLO,-0.11
+205,2000,Robert Morris,-7.8
+206,2000,East Carolina,-2.6
+207,2000,Troy,-8.61
+208,2000,Radford,-7.92
+209,2000,Oral Roberts,-4.23
+210,2000,St Francis NY,-7.98
+211,2000,American Univ,-3.42
+212,2000,Lamar,-3.84
+213,2000,Marist,-6.54
+214,2000,Furman,-5.15
+215,2000,UCF,-4.85
+216,2000,Niagara,-5.38
+217,2000,Rider,-6.7
+218,2000,Jacksonville St,-8.45
+219,2000,CS Sacramento,0.55
+220,2000,Saint Mary's CA,2.19
+221,2000,Texas St,-5.52
+222,2000,Wofford,-2.89
+223,2000,UNC Greensboro ,-6.15
+224,2000,Morehead St,-3.15
+225,2000,F Dickinson,-7.97
+226,2000,Northwestern LA,-6.06
+227,2000,Ga Southern,-5.45
+228,2000,Chattanooga,-4.64
+229,2000,Youngstown St,-3.66
+230,2000,TN Martin,-0.02
+231,2000,UTRGV,-0.19
+232,2000,UMBC,-7.36
+233,2000,Hampton,-11.61
+234,2000,Rhode Island,5.73
+235,2000,ETSU,-4.97
+236,2000,Bethune-Cookman,-9.63
+237,2000,Canisius,-3.81
+238,2000,Wagner,-9.72
+239,2000,San Diego St,4.54
+240,2000,CS Fullerton,-1.21
+241,2000,Rice,3.26
+242,2000,W Illinois,-2.68
+243,2000,Vermont,-8.25
+244,2000,Centenary,-1.61
+245,2000,Alcorn St,-11.6
+246,2000,IUPUI,-3.13
+247,2000,Drexel,-7.13
+248,2000,Nicholls St,-4.5
+249,2000,Quinnipiac,-9.2
+250,2000,Monmouth NJ,-7.51
+251,2000,Towson,-9.1
+252,2000,S Carolina St,-9.38
+253,2000,W Carolina,-4.94
+254,2000,Chicago St,-3.05
+255,2000,Coppin St,-9.36
+256,2000,Mercer,-5.77
+257,2000,North Texas,2.07
+258,2000,Jacksonville,-7.95
+259,2000,Belmont,-1.39
+260,2000,Colgate,-7.85
+261,2000,Holy Cross,-7.96
+262,2000,UNC Asheville,-3.66
+263,2000,St Francis PA,-8.14
+264,2000,Coastal Car,-6.64
+265,2000,Columbia,-8.25
+266,2000,NC A&T,-12.15
+267,2000,Stetson,-8.23
+268,2000,Elon,-6.37
+269,2000,Ark Little Rock,-2.77
+270,2000,Denver,-1.14
+271,2000,Jackson St,-10.38
+272,2000,Liberty,-8.41
+273,2000,Alabama A&M,-12.07
+274,2000,TX Southern,-13.45
+275,2000,Harvard,-9.75
+276,2000,SF Austin,-4.97
+277,2000,SE Louisiana,-5.16
+278,2000,Campbell,-6.08
+279,2000,Tennessee St,-2.23
+280,2000,Cornell,-9.13
+281,2000,Buffalo,1.46
+282,2000,Southern Univ,-14.41
+283,2000,Boston Univ,-6.51
+284,2000,St Peter's,-5.31
+285,2000,E Kentucky,-1.7
+286,2000,Northeastern,-8.41
+287,2000,Hartford,-7.42
+288,2000,Dartmouth,-8.49
+289,2000,VMI,-2.7
+290,2000,Mt St Mary's,-6.18
+291,2000,Brown,-8.95
+292,2000,McNeese St,-4.43
+293,2000,High Point,-6.07
+294,2000,Lehigh,-6.25
+295,2000,Loyola MD,-5.94
+296,2000,Albany NY,-9.59
+297,2000,Citadel,-5.67
+298,2000,Yale,-8.47
+299,2000,Norfolk St,-11.37
+300,2000,Long Island,-7.94
+301,2000,Loy Marymount,3.24
+302,2000,Alabama St,-12.35
+303,2000,MS Valley St,-8.51
+304,2000,Stony Brook,-2.39
+305,2000,MD E Shore,-10.9
+306,2000,Delaware St,-11.26
+307,2000,Charleston So,-7.1
+308,2000,Army,-6.43
+309,2000,Florida A&M,-9.43
+310,2000,Morgan St,-8.97
+311,2000,Prairie View,-11.14
+312,2000,Sacred Heart,-6.77
+313,2000,FL Atlantic,-3.26
+314,2000,Ark Pine Bluff,-10.05
+315,2000,New Hampshire,-6.09
+316,2000,Howard,-6.65
+317,2000,Grambling,-9.16
+318,2001,Duke,11.98
+319,2001,Arizona,12.56
+320,2001,Stanford,9.86
+321,2001,Michigan St,9.54
+322,2001,Maryland,10.99
+323,2001,Illinois,11.38
+324,2001,Florida,7.51
+325,2001,Wake Forest,10.5
+326,2001,Kentucky,11.06
+327,2001,Kansas,9.03
+328,2001,North Carolina,11.77
+329,2001,Virginia,8.72
+330,2001,Boston College,5.18
+331,2001,Indiana,11.05
+332,2001,UCLA,12.06
+333,2001,Arkansas,6.16
+334,2001,USC,10.83
+335,2001,Temple,9.77
+336,2001,Cincinnati,7.84
+337,2001,Iowa St,4.87
+338,2001,Ohio State,8.17
+339,2001,Fresno St,5.14
+340,2001,Oklahoma,5.48
+341,2001,Tennessee,10.28
+342,2001,Mississippi,9.2
+343,2001,Wisconsin,12.08
+344,2001,California,9.08
+345,2001,Purdue,9.23
+346,2001,Georgia Tech,11.78
+347,2001,Notre Dame,5.68
+348,2001,Texas,8.89
+349,2001,Charlotte,7.91
+350,2001,Iowa,10.7
+351,2001,Alabama,6.27
+352,2001,Providence,5.44
+353,2001,Tulsa,5.12
+354,2001,Memphis,7.09
+355,2001,Mississippi St,8.69
+356,2001,St Joseph's  PA,4.45
+357,2001,Georgia,12.71
+358,2001,Gonzaga,0.32
+359,2001,Butler,3.98
+360,2001,Penn St,10.54
+361,2001,Creighton,3
+362,2001,NC State,10.8
+363,2001,Xavier,4.59
+364,2001,Georgetown,1.58
+365,2001,TCU,1.79
+366,2001,Auburn,7.14
+367,2001,Syracuse,5.82
+368,2001,Colorado,5.65
+369,2001,Arizona St,8.99
+370,2001,Southern Miss,4.5
+371,2001,BYU,3.47
+372,2001,Oklahoma St,4.7
+373,2001,Missouri,9.19
+374,2001,LSU,7.58
+375,2001,South Florida,5.49
+376,2001,Utah,6.14
+377,2001,Connecticut,5.43
+378,2001,St Louis,5.9
+379,2001,South Carolina,9.03
+380,2001,Utah St,-1.5
+381,2001,Pepperdine,1.77
+382,2001,Dayton,6.14
+383,2001,Minnesota,9.47
+384,2001,Richmond,-0.09
+385,2001,St John's,8.27
+386,2001,Wyoming,3.86
+387,2001,Oregon,7.9
+388,2001,Kent,1.44
+389,2001,WKU,-1.65
+390,2001,Vanderbilt,8.93
+391,2001,G Washington,6.3
+392,2001,Villanova,6.45
+393,2001,Nebraska,7.28
+394,2001,Massachusetts,8.05
+395,2001,SMU,3.95
+396,2001,Detroit,2.44
+397,2001,UTEP,3.04
+398,2001,St Bonaventure,4.54
+399,2001,Miami FL,4.92
+400,2001,Baylor,2.6
+401,2001,Pittsburgh,5.19
+402,2001,Toledo,1.44
+403,2001,New Mexico,5.27
+404,2001,Indiana St,2.5
+405,2001,Hawaii,7.25
+406,2001,Marquette,6.61
+407,2001,Alabama-Birmingham,4.08
+408,2001,Seton Hall,6.03
+409,2001,Illinois St,0.56
+410,2001,CS Northridge,0.24
+411,2001,Colorado St,2.33
+412,2001,Marshall,0.81
+413,2001,DePaul,8.02
+414,2001,Georgia St,-3.72
+415,2001,George Mason,-0.35
+416,2001,Hofstra,-5.47
+417,2001,Ohio,1.51
+418,2001,Rutgers,5.23
+419,2001,Miami OH,2.54
+420,2001,UNLV,5.04
+421,2001,San Diego,0.27
+422,2001,Oregon St,8.8
+423,2001,San Jose St,5.56
+424,2001,Kansas St,8.4
+425,2001,Washington St,7.04
+426,2001,West Virginia,3.95
+427,2001,Northwestern,7.88
+428,2001,Valparaiso,-2.8
+429,2001,Michigan,11.39
+430,2001,Florida St,10.99
+431,2001,Bradley,1.75
+432,2001,Ball St,0.3
+433,2001,Southern Utah,-3.42
+434,2001,Santa Clara,2.84
+435,2001,WI Milwaukee,2.16
+436,2001,Louisville,8.67
+437,2001,Clemson,8.31
+438,2001,UNC Wilmington,-0.57
+439,2001,S Illinois,2.28
+440,2001,Rice,3.71
+441,2001,San Diego St,2.71
+442,2001,La Salle,4.79
+443,2001,UC Irvine,-2.58
+444,2001,Cleveland St,1.56
+445,2001,Bowling Green,1.4
+446,2001,Delaware,-6.04
+447,2001,South Alabama,-0.91
+448,2001,Col Charleston ,-4.56
+449,2001,Wright St,-1.09
+450,2001,New Mexico St,-2.57
+451,2001,E Illinois,-2.46
+452,2001,C Michigan,0.02
+453,2001,Drake,-0.21
+454,2001,Nevada,4.09
+455,2001,Siena,-3.27
+456,2001,Pacific,-1.07
+457,2001,Fordham,5.32
+458,2001,Louisiana,-0.46
+459,2001,Missouri St,2.19
+460,2001,Iona,-4.09
+461,2001,VA Commonwealth,-0.27
+462,2001,Texas Tech,5.49
+463,2001,E Washington,-0.76
+464,2001,IL Chicago,3.55
+465,2001,Washington,10.11
+466,2001,Old Dominion,1.23
+467,2001,Holy Cross,-5.84
+468,2001,Austin Peay,-3.26
+469,2001,Tennessee Tech,-3.4
+470,2001,Boise St,-0.21
+471,2001,Ark Little Rock,-3.63
+472,2001,Manhattan,-3.89
+473,2001,Montana St,-2.92
+474,2001,Wichita St,2.11
+475,2001,Weber St,-0.8
+476,2001,Louisiana Tech,-3.87
+477,2001,Houston,4.91
+478,2001,McNeese St,-8.42
+479,2001,Missouri KC,-3.46
+480,2001,Navy,-5.67
+481,2001,Evansville,1.77
+482,2001,Murray St,-1.51
+483,2001,Marist,-3.94
+484,2001,Long Beach St,-0.1
+485,2001,New Orleans,-3.83
+486,2001,Idaho State,-1.41
+487,2001,Canisius,-4.62
+488,2001,Chattanooga,-3.81
+489,2001,WI Green Bay,2.56
+490,2001,Texas A&M,5.95
+491,2001,Northern Arizona,-3.54
+492,2001,Princeton,-1.88
+493,2001,UC Santa Barbara,-0.75
+494,2001,ETSU,-6.12
+495,2001,Akron,1.67
+496,2001,Penn,-2.73
+497,2001,Duquesne,3.96
+498,2001,Air Force,1.99
+499,2001,SE Missouri St,-5.1
+500,2001,Youngstown St,-4.12
+501,2001,Hampton,-10.6
+502,2001,Winthrop,-7.8
+503,2001,Monmouth NJ,-8.85
+504,2001,San Francisco,0.81
+505,2001,Drexel,-5.43
+506,2001,Samford,-6.14
+507,2001,Arkansas St,-2.76
+508,2001,East Carolina,-3.16
+509,2001,Wofford,-1.97
+510,2001,Rider,-4.97
+511,2001,Maine,-6.51
+512,2001,Montana,-2.06
+513,2001,Troy,-5.89
+514,2001,Niagara,-3.62
+515,2001,UNC Greensboro ,-5.85
+516,2001,James Madison,-1.85
+517,2001,Northern Iowa,2.23
+518,2001,IUPUI,-3.37
+519,2001,Boston Univ,-5.84
+520,2001,Virginia Tech,3.81
+521,2001,UMBC,-9.66
+522,2001,Portland,0.53
+523,2001,William & Mary,-2.42
+524,2001,Tulane,4.89
+525,2001,St Francis NY,-8.62
+526,2001,Jacksonville,-8.31
+527,2001,Wagner,-9.86
+528,2001,Stetson,-7.99
+529,2001,Oakland,-1.04
+530,2001,Rhode Island,4.28
+531,2001,UTRGV,-2.42
+532,2001,Fairfield,-3.51
+533,2001,Ga Southern,-5.5
+534,2001,Loyola-Chicago,0.92
+535,2001,Loy Marymount,-0.23
+536,2001,Harvard,-8.51
+537,2001,Citadel,-6
+538,2001,W Michigan,0.4
+539,2001,Denver,-1.3
+540,2001,S Carolina St,-7.8
+541,2001,Tennessee St,-3.25
+542,2001,Radford,-7.78
+543,2001,Furman,-6.02
+544,2001,Mercer,-5.53
+545,2001,Sam Houston St,-9.23
+546,2001,Cal Poly SLO,-1.33
+547,2001,Morehead St,-4.22
+548,2001,Davidson,-3.65
+549,2001,Central Conn,-10.18
+550,2001,Lafayette,-7.45
+551,2001,Alabama St,-13.61
+552,2001,Brown,-6.78
+553,2001,Buffalo,0.7
+554,2001,Florida Intl,-0.7
+555,2001,MS Valley St,-12.72
+556,2001,UT San Antonio,-7.76
+557,2001,Stony Brook,-6.81
+558,2001,UCF,-5.26
+559,2001,Yale,-5.75
+560,2001,Portland St,-1.22
+561,2001,Belmont,-5.45
+562,2001,UNC Asheville,-7.67
+563,2001,TN Martin,-3.37
+564,2001,Oral Roberts,-2.63
+565,2001,Lehigh,-8.33
+566,2001,Vermont,-5.93
+567,2001,American Univ,-2.81
+568,2001,Columbia,-7.51
+569,2001,Towson,-7.67
+570,2001,Colgate,-8.13
+571,2001,Northwestern LA,-7.82
+572,2001,E Michigan,-0.76
+573,2001,F Dickinson,-8.45
+574,2001,N Illinois,0.68
+575,2001,Northeastern,-4.13
+576,2001,MTSU,-2.11
+577,2001,Alcorn St,-10.78
+578,2001,Coppin St,-9.39
+579,2001,Appalachian St,-4.24
+580,2001,Idaho,-0.02
+581,2001,Bucknell,-6.27
+582,2001,UT Arlington,-8.86
+583,2001,Norfolk St,-7.74
+584,2001,Nicholls St,-8.68
+585,2001,W Illinois,-1.7
+586,2001,Centenary,-1.53
+587,2001,VMI,-6.41
+588,2001,CS Fullerton,-0.2
+589,2001,CS Sacramento,-1.75
+590,2001,Coastal Car,-6.62
+591,2001,Alabama A&M,-11.79
+592,2001,Loyola MD,-4.66
+593,2001,Texas St,-8.99
+594,2001,E Kentucky,-2.73
+595,2001,Liberty,-9.7
+596,2001,St Peter's,-2.04
+597,2001,SF Austin,-9.7
+598,2001,NC A&T,-10.96
+599,2001,ULM,-6.95
+600,2001,St Francis PA,-8.88
+601,2001,Dartmouth,-7.34
+602,2001,Cornell,-7.52
+603,2001,Long Island,-8.57
+604,2001,Jacksonville St,-5.72
+605,2001,New Hampshire,-4.91
+606,2001,Delaware St,-10.97
+607,2001,Chicago St,-1.29
+608,2001,W Carolina,-4.35
+609,2001,SE Louisiana,-8.58
+610,2001,Army,-7.65
+611,2001,FL Atlantic,-3.79
+612,2001,Robert Morris,-7.3
+613,2001,Charleston So,-7.06
+614,2001,Southern Univ,-14.44
+615,2001,Campbell,-7.36
+616,2001,Hartford,-5.79
+617,2001,Lamar,-8.94
+618,2001,Quinnipiac,-9.43
+619,2001,Mt St Mary's,-8.63
+620,2001,Morgan St,-10.04
+621,2001,North Texas,1.81
+622,2001,Bethune-Cookman,-10.37
+623,2001,Elon,-9.17
+624,2001,MD E Shore,-9.66
+625,2001,High Point,-7.98
+626,2001,Saint Mary's CA,3.12
+627,2001,Jackson St,-10.35
+628,2001,Albany NY,-8.67
+629,2001,Sacred Heart,-7.85
+630,2001,Grambling,-10.18
+631,2001,Howard,-10.37
+632,2001,TX Southern,-10.92
+633,2001,Florida A&M,-10.22
+634,2001,Prairie View,-11.11
+635,2001,Ark Pine Bluff,-8.23
+636,2002,Duke,9.16
+637,2002,Cincinnati,6.58
+638,2002,Kansas,9.35
+639,2002,Maryland,9.38
+640,2002,Florida,8.37
+641,2002,Oklahoma,7.7
+642,2002,Oregon,6.93
+643,2002,Illinois,9.94
+644,2002,Indiana,12.08
+645,2002,Kentucky,11.99
+646,2002,Marquette,4.77
+647,2002,Stanford,9.03
+648,2002,Alabama,7.67
+649,2002,Arizona,12.49
+650,2002,USC,8.31
+651,2002,South Carolina,9.79
+652,2002,Ohio State,7.26
+653,2002,Connecticut,7.43
+654,2002,NC State,8.17
+655,2002,Notre Dame,6.17
+656,2002,Memphis,4.72
+657,2002,Wake Forest,10.28
+658,2002,Michigan St,9.6
+659,2002,Texas Tech,7.22
+660,2002,Pittsburgh,4.55
+661,2002,Georgia,9.24
+662,2002,Mississippi St,7.33
+663,2002,Oklahoma St,6.8
+664,2002,Texas,9.98
+665,2002,Missouri,6.81
+666,2002,Gonzaga,0.74
+667,2002,Xavier,4.09
+668,2002,Kent,2.1
+669,2002,Charlotte,8.68
+670,2002,Mississippi,6.85
+671,2002,Virginia,7.9
+672,2002,Georgetown,4.22
+673,2002,UCLA,10.77
+674,2002,California,7.45
+675,2002,Miami FL,5.52
+676,2002,Minnesota,7.05
+677,2002,Dayton,3.38
+678,2002,Tulsa,2.3
+679,2002,Iowa,7.9
+680,2002,Arkansas,10.13
+681,2002,Louisville,7.35
+682,2002,Syracuse,5.9
+683,2002,Tennessee,10.93
+684,2002,Butler,-0.4
+685,2002,Villanova,6.18
+686,2002,Utah,5.18
+687,2002,Temple,7.61
+688,2002,WKU,-0.28
+689,2002,LSU,5.82
+690,2002,Wisconsin,9.22
+691,2002,Hawaii,1.15
+692,2002,Arizona St,6.79
+693,2002,S Illinois,1.67
+694,2002,Valparaiso,-1.24
+695,2002,BYU,5.35
+696,2002,Boston College,5.91
+697,2002,Ball St,3.29
+698,2002,Wyoming,2.72
+699,2002,Pepperdine,3.36
+700,2002,Georgia Tech,8.66
+701,2002,Creighton,1.38
+702,2002,Purdue,8.57
+703,2002,Penn,-1.51
+704,2002,South Florida,4.95
+705,2002,St John's,6.3
+706,2002,UNLV,4.88
+707,2002,San Diego St,6.02
+708,2002,Bowling Green,1.46
+709,2002,Louisiana Tech,2.52
+710,2002,St Joseph's  PA,3.33
+711,2002,Auburn,7.96
+712,2002,St Louis,6.34
+713,2002,Fresno St,5.2
+714,2002,Vanderbilt,7.58
+715,2002,New Mexico,3.86
+716,2002,Baylor,5.08
+717,2002,Providence,4.54
+718,2002,Colorado,4.99
+719,2002,UNC Wilmington,-0.09
+720,2002,St Bonaventure,3.63
+721,2002,Seton Hall,6.65
+722,2002,Utah St,-1.7
+723,2002,Northwestern,5.09
+724,2002,Alabama-Birmingham,2.96
+725,2002,UC Santa Barbara,-0.05
+726,2002,Richmond,4.21
+727,2002,Col Charleston ,-3.13
+728,2002,Rutgers,2.91
+729,2002,Tennessee Tech,-3.08
+730,2002,San Diego,1.56
+731,2002,Houston,5.45
+732,2002,TCU,4.22
+733,2002,Nebraska,6.08
+734,2002,Washington,10.1
+735,2002,Florida St,9.13
+736,2002,WI Milwaukee,0.78
+737,2002,SMU,3.58
+738,2002,Oregon St,7.92
+739,2002,Iowa St,4.89
+740,2002,North Carolina,10.52
+741,2002,Kansas St,6.77
+742,2002,New Mexico St,-0.19
+743,2002,Clemson,5.16
+744,2002,Michigan,8.17
+745,2002,UC Irvine,-0.19
+746,2002,Tulane,6.67
+747,2002,ETSU,-1.57
+748,2002,Colorado St,4.28
+749,2002,Oral Roberts,-3.27
+750,2002,Ohio,-0.19
+751,2002,Pacific,-1.3
+752,2002,Massachusetts,4.45
+753,2002,Nevada,1.87
+754,2002,Ark Little Rock,-2.52
+755,2002,Manhattan,-5.39
+756,2002,Missouri St,0.02
+757,2002,Virginia Tech,3.99
+758,2002,Detroit,1.04
+759,2002,Louisiana,0.15
+760,2002,Arkansas St,-1.98
+761,2002,Marist,-5.2
+762,2002,IL Chicago,1.42
+763,2002,UNC Greensboro ,-2.35
+764,2002,Chattanooga,0.56
+765,2002,Miami OH,3.68
+766,2002,VA Commonwealth,-2.38
+767,2002,Wright St,-1.6
+768,2002,Montana St,-1.94
+769,2002,George Mason,-2.3
+770,2002,Wichita St,0.15
+771,2002,La Salle,2.64
+772,2002,Ga Southern,-0.8
+773,2002,Illinois St,1.51
+774,2002,W Michigan,-0.42
+775,2002,Murray St,-1.94
+776,2002,Davidson,0.71
+777,2002,DePaul,6.21
+778,2002,Oakland,-0.57
+779,2002,Loyola-Chicago,-0.54
+780,2002,Weber St,-1.94
+781,2002,Princeton,-0.41
+782,2002,San Francisco,1.11
+783,2002,Yale,-5.32
+784,2002,Hampton,-8.9
+785,2002,Citadel,-2.25
+786,2002,McNeese St,-5.8
+787,2002,Georgia St,-4.43
+788,2002,East Carolina,6.63
+789,2002,Missouri KC,-1.8
+790,2002,Southern Miss,3.53
+791,2002,North Texas,1.14
+792,2002,Toledo,0.93
+793,2002,Air Force,3.23
+794,2002,Central Conn,-9.29
+795,2002,UCF,-6.38
+796,2002,Northern Iowa,0.9
+797,2002,Cal Poly SLO,-1.48
+798,2002,UTRGV,-2.24
+799,2002,West Virginia,5.89
+800,2002,Marshall,1.22
+801,2002,Rider,-5.95
+802,2002,Delaware,-1.4
+803,2002,Old Dominion,-2.18
+804,2002,Furman,-1.24
+805,2002,Holy Cross,-5.1
+806,2002,Boise St,2.09
+807,2002,Penn St,7.11
+808,2002,UTEP,3.12
+809,2002,IUPUI,-0.31
+810,2002,E Washington,-1.32
+811,2002,Drake,-0.54
+812,2002,G Washington,3.5
+813,2002,Cleveland St,-1.47
+814,2002,Long Beach St,0.91
+815,2002,Siena,-3.71
+816,2002,Buffalo,-0.48
+817,2002,Drexel,-2.41
+818,2002,CS Northridge,0.41
+819,2002,Rice,1.3
+820,2002,Texas A&M,6.91
+821,2002,Washington St,6.94
+822,2002,Troy,-6.19
+823,2002,James Madison,-3.35
+824,2002,Morehead St,-3.13
+825,2002,N Illinois,-0.86
+826,2002,UT San Antonio,-7.84
+827,2002,Jacksonville,-5.26
+828,2002,MTSU,-0.79
+829,2002,Brown,-5.89
+830,2002,Bradley,0.73
+831,2002,C Michigan,1.33
+832,2002,Niagara,-4.68
+833,2002,Radford,-6.13
+834,2002,Vermont,-10.81
+835,2002,Samford,-4.08
+836,2002,FL Atlantic,-5.33
+837,2002,New Orleans,-1.33
+838,2002,Austin Peay,-1.02
+839,2002,Montana,-1.71
+840,2002,Fordham,3.47
+841,2002,WI Green Bay,-0.73
+842,2002,Wagner,-9.24
+843,2002,Indiana St,1.72
+844,2002,Santa Clara,0.38
+845,2002,Saint Mary's CA,0.66
+846,2002,Boston Univ,-7.81
+847,2002,Southern Utah,-1.45
+848,2002,Duquesne,3.43
+849,2002,Akron,0.36
+850,2002,Sam Houston St,-6.39
+851,2002,American Univ,-6.2
+852,2002,Florida Intl,-0.5
+853,2002,ULM,-4.43
+854,2002,Northern Arizona,-3.04
+855,2002,Rhode Island,3.66
+856,2002,Iona,-4.25
+857,2002,Fairfield,-4.28
+858,2002,San Jose St,1.53
+859,2002,Colgate,-7.15
+860,2002,Hofstra,-1.39
+861,2002,Centenary,-1.48
+862,2002,William & Mary,-1.16
+863,2002,Columbia,-3.72
+864,2002,Lafayette,-6.15
+865,2002,Winthrop,-8.21
+866,2002,Harvard,-6.1
+867,2002,Monmouth NJ,-7.32
+868,2002,Wofford,1.13
+869,2002,Belmont,-3.39
+870,2002,UC Riverside,-0.62
+871,2002,Howard,-9.23
+872,2002,Portland,1.03
+873,2002,South Alabama,-0.25
+874,2002,W Illinois,-3.07
+875,2002,Loy Marymount,-0.1
+876,2002,Appalachian St,-0.65
+877,2002,TN Martin,-2.62
+878,2002,W Carolina,-3.01
+879,2002,Portland St,-1.03
+880,2002,E Illinois,-1.71
+881,2002,UMBC,-11.62
+882,2002,Canisius,-4.83
+883,2002,Denver,-1.6
+884,2002,Tennessee St,-2.73
+885,2002,St Francis NY,-10.83
+886,2002,Evansville,0.68
+887,2002,Navy,-5.51
+888,2002,Texas St,-6.55
+889,2002,VMI,0.3
+890,2002,Jacksonville St,-6.43
+891,2002,Lamar,-7.9
+892,2002,Delaware St,-10.54
+893,2002,Northwestern LA,-5.56
+894,2002,Quinnipiac,-9.85
+895,2002,Idaho,-1.24
+896,2002,Idaho State,-4.06
+897,2002,Bucknell,-7.07
+898,2002,SF Austin,-8.32
+899,2002,UT Arlington,-6.51
+900,2002,SE Missouri St,-3.08
+901,2002,UNC Asheville,-6.68
+902,2002,S Carolina St,-7.01
+903,2002,Alcorn St,-14.18
+904,2002,Alabama A&M,-15.81
+905,2002,CS Fullerton,-1.06
+906,2002,Northeastern,-8.34
+907,2002,Stetson,-3.79
+908,2002,CS Sacramento,-5.34
+909,2002,Hartford,-8.2
+910,2002,Youngstown St,-0.16
+911,2002,Maine,-9.55
+912,2002,NC A&T,-7.17
+913,2002,Cornell,-2.58
+914,2002,Army,-7.44
+915,2002,Alabama St,-14.15
+916,2002,Towson,-3.33
+917,2002,Elon,-7.07
+918,2002,Robert Morris,-8.44
+919,2002,Binghamton,-9.4
+920,2002,Dartmouth,-5.71
+921,2002,High Point,-6.28
+922,2002,E Kentucky,-2.34
+923,2002,Norfolk St,-7
+924,2002,Lehigh,-6.5
+925,2002,Charleston So,-6.23
+926,2002,Bethune-Cookman,-8.26
+927,2002,Mercer,-2.76
+928,2002,Florida A&M,-7.48
+929,2002,SE Louisiana,-7.38
+930,2002,New Hampshire,-7.33
+931,2002,St Francis PA,-7.84
+932,2002,E Michigan,-0.7
+933,2002,Sacred Heart,-9.84
+934,2002,MS Valley St,-12.75
+935,2002,Campbell,-5.2
+936,2002,MD E Shore,-9.08
+937,2002,Jackson St,-10.81
+938,2002,Coastal Car,-6.92
+939,2002,St Peter's,-4.14
+940,2002,Albany NY,-8.85
+941,2002,Loyola MD,-6.18
+942,2002,Stony Brook,-8.03
+943,2002,Coppin St,-7.83
+944,2002,Morgan St,-7.69
+945,2002,F Dickinson,-10.28
+946,2002,Grambling,-9.92
+947,2002,Chicago St,0.51
+948,2002,TX Southern,-11.52
+949,2002,Southern Univ,-12.56
+950,2002,Liberty,-7.26
+951,2002,Long Island,-7.69
+952,2002,Mt St Mary's,-8.88
+953,2002,Prairie View,-11.06
+954,2002,Nicholls St,-4.4
+955,2002,Morris Brown,-1.84
+956,2002,Ark Pine Bluff,-8.7
+957,2003,Kansas,10.53
+958,2003,Arizona,8.95
+959,2003,Kentucky,9.33
+960,2003,Pittsburgh,5.79
+961,2003,Maryland,7.56
+962,2003,Duke,8.38
+963,2003,Illinois,6.76
+964,2003,Louisville,6.84
+965,2003,Syracuse,9.02
+966,2003,Texas,9.27
+967,2003,Oklahoma,8.53
+968,2003,Florida,7.76
+969,2003,Mississippi St,8
+970,2003,Wisconsin,6.51
+971,2003,Notre Dame,9.43
+972,2003,Georgia,11.3
+973,2003,Wake Forest,6.96
+974,2003,Marquette,7.28
+975,2003,Michigan St,9.72
+976,2003,LSU,6.83
+977,2003,Xavier,4.61
+978,2003,Purdue,9.42
+979,2003,Connecticut,7.63
+980,2003,Creighton,1.03
+981,2003,Arizona St,9.27
+982,2003,Missouri,10.15
+983,2003,Texas Tech,8.29
+984,2003,Oklahoma St,8.46
+985,2003,St Joseph's  PA,3.71
+986,2003,Oregon,6.11
+987,2003,BYU,5.29
+988,2003,Alabama,9.4
+989,2003,Stanford,8.37
+990,2003,Memphis,5.27
+991,2003,Cincinnati,7.45
+992,2003,Georgetown,6.27
+993,2003,Colorado,8.01
+994,2003,Auburn,8.34
+995,2003,Indiana,9.81
+996,2003,Gonzaga,3.8
+997,2003,Georgia Tech,7.94
+998,2003,California,7.58
+999,2003,NC State,7.57
+1000,2003,Providence,7.82
+1001,2003,North Carolina,10.31
+1002,2003,Dayton,5.17
+1003,2003,Utah,5.25
+1004,2003,Tulsa,2.29
+1005,2003,Boston College,7.23
+1006,2003,Kansas St,7.37
+1007,2003,Tennessee,7.88
+1008,2003,Iowa St,6.05
+1009,2003,St John's,7.35
+1010,2003,Seton Hall,8.2
+1011,2003,Michigan,7.89
+1012,2003,Mississippi,6.25
+1013,2003,Butler,2.23
+1014,2003,Minnesota,6.72
+1015,2003,Villanova,7.56
+1016,2003,UNLV,4.67
+1017,2003,Florida St,7.75
+1018,2003,DePaul,6.49
+1019,2003,S Illinois,2.37
+1020,2003,UNC Wilmington,-2.8
+1021,2003,Iowa,5.83
+1022,2003,Penn,-1.45
+1023,2003,Ohio State,8.49
+1024,2003,Louisiana,1.24
+1025,2003,WI Milwaukee,0.81
+1026,2003,WKU,1.4
+1027,2003,Alabama-Birmingham,3.89
+1028,2003,Virginia,8.64
+1029,2003,South Carolina,8.96
+1030,2003,USC,7.28
+1031,2003,Temple,6.66
+1032,2003,C Michigan,1.79
+1033,2003,St Louis,6.88
+1034,2003,W Michigan,0.76
+1035,2003,UCLA,9.74
+1036,2003,Richmond,3.5
+1037,2003,IL Chicago,-0.12
+1038,2003,Vanderbilt,9.36
+1039,2003,Missouri St,0.92
+1040,2003,Miami FL,4.91
+1041,2003,Baylor,5.44
+1042,2003,Tulane,2.84
+1043,2003,Nevada,2.06
+1044,2003,Texas A&M,7.23
+1045,2003,Detroit,-0.1
+1046,2003,Manhattan,-1.99
+1047,2003,St Bonaventure,4.38
+1048,2003,Wyoming,3.5
+1049,2003,Clemson,5.35
+1050,2003,Charlotte,6.94
+1051,2003,San Diego,2.74
+1052,2003,Colorado St,4.41
+1053,2003,Fresno St,0.44
+1054,2003,Holy Cross,-5.38
+1055,2003,San Diego St,4.14
+1056,2003,Rutgers,6.45
+1057,2003,Kent,0.56
+1058,2003,New Mexico St,-0.92
+1059,2003,Arkansas,9.57
+1060,2003,Washington,7.28
+1061,2003,Weber St,-2.01
+1062,2003,Hawaii,1.56
+1063,2003,South Florida,4.52
+1064,2003,Utah St,-1.43
+1065,2003,West Virginia,6.84
+1066,2003,Oregon St,5.86
+1067,2003,Valparaiso,-1.13
+1068,2003,Rhode Island,3.35
+1069,2003,Nebraska,9.21
+1070,2003,Rice,0.89
+1071,2003,UC Santa Barbara,-1.12
+1072,2003,Troy,-4.8
+1073,2003,G Washington,3.34
+1074,2003,VA Commonwealth,-3.29
+1075,2003,Siena,-1.79
+1076,2003,E Washington,-0.8
+1077,2003,Murray St,-2.8
+1078,2003,Wichita St,0.99
+1079,2003,Northwestern,5.43
+1080,2003,Virginia Tech,5.33
+1081,2003,George Mason,-1.3
+1082,2003,San Francisco,1.43
+1083,2003,UC Irvine,-1.65
+1084,2003,Saint Mary's CA,0.84
+1085,2003,Miami OH,2.87
+1086,2003,Toledo,2.13
+1087,2003,East Carolina,4.73
+1088,2003,SMU,1.76
+1089,2003,Air Force,1.46
+1090,2003,Drexel,-1.45
+1091,2003,Denver,-0.28
+1092,2003,Col Charleston ,-3.18
+1093,2003,Bradley,1.2
+1094,2003,Boston Univ,-3.42
+1095,2003,MTSU,0.92
+1096,2003,N Illinois,1.11
+1097,2003,Pepperdine,1.79
+1098,2003,Loyola-Chicago,0.97
+1099,2003,Tennessee Tech,-2.96
+1100,2003,Southern Miss,3.85
+1101,2003,South Alabama,2.16
+1102,2003,TCU,4.22
+1103,2003,Chattanooga,-3.64
+1104,2003,Princeton,-2.6
+1105,2003,Davidson,-2.25
+1106,2003,Morehead St,-4
+1107,2003,Oral Roberts,-5.73
+1108,2003,UCF,-5.84
+1109,2003,La Salle,3.16
+1110,2003,Arkansas St,-1.37
+1111,2003,Iona,-3.59
+1112,2003,Old Dominion,-2.2
+1113,2003,New Orleans,0.28
+1114,2003,Fairfield,-1.06
+1115,2003,New Mexico,4.06
+1116,2003,Ball St,2.17
+1117,2003,Evansville,2.97
+1118,2003,Marshall,-0.63
+1119,2003,Akron,-1.43
+1120,2003,Austin Peay,-1.98
+1121,2003,ETSU,-2.94
+1122,2003,Ark Little Rock,-0.91
+1123,2003,Ohio,2.41
+1124,2003,Boise St,0.07
+1125,2003,Pacific,-0.95
+1126,2003,Yale,-2.45
+1127,2003,Delaware,-1.54
+1128,2003,SF Austin,-7.98
+1129,2003,Vermont,-4.85
+1130,2003,American Univ,-5.85
+1131,2003,Louisiana Tech,2.93
+1132,2003,Washington St,6.73
+1133,2003,Sam Houston St,-6.87
+1134,2003,Appalachian St,-3.46
+1135,2003,Massachusetts,3.52
+1136,2003,Penn St,7.71
+1137,2003,Northern Iowa,1.47
+1138,2003,Bowling Green,1.95
+1139,2003,CS Northridge,-2.2
+1140,2003,Belmont,-4.05
+1141,2003,Brown,-3.6
+1142,2003,Cal Poly SLO,-1.51
+1143,2003,Oakland,-5.05
+1144,2003,IUPUI,-1.8
+1145,2003,Niagara,-2.23
+1146,2003,Montana,-0.71
+1147,2003,Houston,4.94
+1148,2003,E Illinois,-1.92
+1149,2003,Canisius,-2.34
+1150,2003,Loy Marymount,0.04
+1151,2003,Idaho State,-2.66
+1152,2003,WI Green Bay,0.68
+1153,2003,Wagner,-6.48
+1154,2003,Illinois St,2.18
+1155,2003,Northern Arizona,-3.25
+1156,2003,E Michigan,-0.91
+1157,2003,Mercer,-9.03
+1158,2003,Idaho,-2.49
+1159,2003,Drake,1.47
+1160,2003,Maine,-5.04
+1161,2003,Duquesne,2.29
+1162,2003,Texas St,-7.59
+1163,2003,Portland,1.07
+1164,2003,Santa Clara,-0.11
+1165,2003,Wright St,0.48
+1166,2003,Montana St,-2.27
+1167,2003,Binghamton,-5.13
+1168,2003,James Madison,-2.45
+1169,2003,Marist,-2.16
+1170,2003,Wofford,-1.83
+1171,2003,Northeastern,-4.81
+1172,2003,Rider,-3.6
+1173,2003,Florida Intl,-0.19
+1174,2003,Hartford,-5.5
+1175,2003,Samford,-3.86
+1176,2003,Jacksonville St,-7.23
+1177,2003,Harvard,-3.65
+1178,2003,Georgia St,-5.85
+1179,2003,UT Arlington,-6.17
+1180,2003,Lehigh,-6.62
+1181,2003,Bucknell,-4.97
+1182,2003,CS Fullerton,-3
+1183,2003,Cleveland St,0.62
+1184,2003,Indiana St,2.37
+1185,2003,McNeese St,-5.44
+1186,2003,North Texas,3.09
+1187,2003,Furman,-3.15
+1188,2003,St Peter's,-2.97
+1189,2003,Winthrop,-10.58
+1190,2003,Ga Southern,-5.61
+1191,2003,Hampton,-10.51
+1192,2003,Quinnipiac,-8.56
+1193,2003,Buffalo,-0.57
+1194,2003,TN Martin,-2.77
+1195,2003,Lafayette,-5.22
+1196,2003,Central Conn,-8.58
+1197,2003,Colgate,-6.46
+1198,2003,SE Missouri St,-3.18
+1199,2003,Monmouth NJ,-7.48
+1200,2003,Hofstra,-2.06
+1201,2003,UNC Greensboro ,-2.78
+1202,2003,Youngstown St,-0.77
+1203,2003,San Jose St,0.23
+1204,2003,St Francis NY,-8.82
+1205,2003,MS Valley St,-10.47
+1206,2003,Stony Brook,-5.89
+1207,2003,S Carolina St,-10.14
+1208,2003,Lamar,-8.11
+1209,2003,Portland St,-0.28
+1210,2003,William & Mary,-5.07
+1211,2003,UC Riverside,-0.26
+1212,2003,Southern Utah,-3.6
+1213,2003,Fordham,4.03
+1214,2003,Prairie View,-8.42
+1215,2003,TX Southern,-11.21
+1216,2003,Centenary,-3.89
+1217,2003,Missouri KC,-2.35
+1218,2003,Charleston So,-8.91
+1219,2003,St Francis PA,-8.37
+1220,2003,Delaware St,-9.57
+1221,2003,TAM C. Christi,-5.25
+1222,2003,CS Sacramento,-1.84
+1223,2003,Alabama St,-10
+1224,2003,Howard,-10.72
+1225,2003,Jacksonville,-6.12
+1226,2003,Florida A&M,-10.3
+1227,2003,Dartmouth,-5.44
+1228,2003,UTEP,0.04
+1229,2003,SE Louisiana,-5.41
+1230,2003,ULM,-6.67
+1231,2003,IPFW,-2.26
+1232,2003,E Kentucky,-5.03
+1233,2003,Coppin St,-7.39
+1234,2003,Gardner Webb,-3.36
+1235,2003,UT San Antonio,-5.3
+1236,2003,F Dickinson,-9.91
+1237,2003,Navy,-5.21
+1238,2003,W Carolina,-4.38
+1239,2003,Jackson St,-7.93
+1240,2003,Citadel,-3.9
+1241,2003,Cornell,-4.27
+1242,2003,Alcorn St,-8.36
+1243,2003,Coastal Car,-8.95
+1244,2003,FL Atlantic,-4.18
+1245,2003,Long Beach St,-0.78
+1246,2003,Robert Morris,-9.2
+1247,2003,UNC Asheville,-5.61
+1248,2003,VMI,-4.29
+1249,2003,Elon,-7.97
+1250,2003,Long Island,-7.72
+1251,2003,Norfolk St,-11.83
+1252,2003,Liberty,-10.35
+1253,2003,W Illinois,-2.97
+1254,2003,Chicago St,-2.43
+1255,2003,Mt St Mary's,-8.11
+1256,2003,Stetson,-4.84
+1257,2003,UMBC,-8
+1258,2003,UTRGV,-6.67
+1259,2003,Albany NY,-5.09
+1260,2003,Northwestern LA,-6.76
+1261,2003,Sacred Heart,-7.27
+1262,2003,High Point,-9.08
+1263,2003,Alabama A&M,-11.83
+1264,2003,Loyola MD,-3.71
+1265,2003,Grambling,-7.47
+1266,2003,New Hampshire,-5.15
+1267,2003,Columbia,-4.83
+1268,2003,Southern Univ,-13.2
+1269,2003,Towson,-3.56
+1270,2003,Bethune-Cookman,-10.93
+1271,2003,Radford,-9.24
+1272,2003,Army,-5.92
+1273,2003,Campbell,-6.51
+1274,2003,MD E Shore,-11.25
+1275,2003,Morgan St,-12.69
+1276,2003,Nicholls St,-5.51
+1277,2003,Tennessee St,-3.51
+1278,2003,Ark Pine Bluff,-4.54
+1279,2003,Morris Brown,-10.21
+1280,2003,Savannah St,-7.49
+1281,2003,NC A&T,-8.15
+1282,2004,Duke,10.86
+1283,2004,Connecticut,7.77
+1284,2004,Oklahoma St,7.23
+1285,2004,Georgia Tech,11.21
+1286,2004,St Joseph's  PA,4.97
+1287,2004,North Carolina,12.04
+1288,2004,Wisconsin,7.49
+1289,2004,Gonzaga,3.32
+1290,2004,Kentucky,8.55
+1291,2004,Cincinnati,6.28
+1292,2004,Louisville,6.97
+1293,2004,Texas,8.4
+1294,2004,NC State,10.61
+1295,2004,Wake Forest,11.03
+1296,2004,Pittsburgh,6.49
+1297,2004,Stanford,4.34
+1298,2004,Kansas,9.44
+1299,2004,Maryland,11.68
+1300,2004,Illinois,7.08
+1301,2004,Mississippi St,6.08
+1302,2004,Florida,9.19
+1303,2004,Vanderbilt,7.58
+1304,2004,Arizona,6.63
+1305,2004,Nevada,5.82
+1306,2004,Providence,8.21
+1307,2004,Texas Tech,8.21
+1308,2004,Florida St,8.3
+1309,2004,Alabama,10.2
+1310,2004,Seton Hall,7.78
+1311,2004,Xavier,5.84
+1312,2004,Memphis,5.96
+1313,2004,Syracuse,7.61
+1314,2004,South Carolina,5.33
+1315,2004,BYU,6.31
+1316,2004,Nebraska,5.08
+1317,2004,W Michigan,-0.11
+1318,2004,Charlotte,4.7
+1319,2004,Michigan St,8.38
+1320,2004,Boston College,7.17
+1321,2004,Michigan,6.16
+1322,2004,Alabama-Birmingham,5.63
+1323,2004,UTEP,3.55
+1324,2004,Utah,4.53
+1325,2004,S Illinois,2.64
+1326,2004,Notre Dame,7.38
+1327,2004,Missouri,9.04
+1328,2004,Oklahoma,6.27
+1329,2004,Auburn,5.89
+1330,2004,Richmond,5.07
+1331,2004,Villanova,8.25
+1332,2004,Purdue,5.46
+1333,2004,Colorado,7.18
+1334,2004,Washington,6.43
+1335,2004,Manhattan,-1.26
+1336,2004,Iowa St,8.06
+1337,2004,Air Force,0.08
+1338,2004,LSU,6.59
+1339,2004,Virginia,9.65
+1340,2004,DePaul,6.38
+1341,2004,G Washington,4.12
+1342,2004,Utah St,-1.43
+1343,2004,Georgia,8.17
+1344,2004,Wichita St,2.61
+1345,2004,Boise St,4.14
+1346,2004,Kansas St,4.84
+1347,2004,Iowa,6.18
+1348,2004,Oregon,6.91
+1349,2004,Rutgers,6.87
+1350,2004,Creighton,1.89
+1351,2004,Saint Mary's CA,1.79
+1352,2004,Kent,0.79
+1353,2004,St Louis,5.03
+1354,2004,Hawaii,4.23
+1355,2004,Rice,3.99
+1356,2004,UNLV,5.19
+1357,2004,Tennessee,7.18
+1358,2004,Murray St,-3.2
+1359,2004,Rhode Island,2.8
+1360,2004,Dayton,3.57
+1361,2004,Northern Iowa,3.2
+1362,2004,VA Commonwealth,-0.17
+1363,2004,Arkansas,6.28
+1364,2004,Marquette,4.12
+1365,2004,WI Milwaukee,1.26
+1366,2004,California,6.65
+1367,2004,Louisiana,0.42
+1368,2004,West Virginia,6.28
+1369,2004,IL Chicago,-0.47
+1370,2004,Clemson,11.12
+1371,2004,Pacific,0.95
+1372,2004,Penn,-2.09
+1373,2004,Fresno St,5.11
+1374,2004,Detroit,0.37
+1375,2004,Temple,5.16
+1376,2004,Wyoming,4.55
+1377,2004,Miami FL,3.27
+1378,2004,Indiana,7.94
+1379,2004,East Carolina,2.16
+1380,2004,Missouri St,2.01
+1381,2004,San Diego St,5.81
+1382,2004,New Mexico,3.76
+1383,2004,Northwestern,5.91
+1384,2004,Troy,-5.7
+1385,2004,Georgetown,3.3
+1386,2004,ETSU,-3.15
+1387,2004,Mississippi,6.36
+1388,2004,George Mason,0.37
+1389,2004,Old Dominion,0.45
+1390,2004,Minnesota,5.36
+1391,2004,Drexel,-1.22
+1392,2004,UCLA,6.82
+1393,2004,Virginia Tech,4.36
+1394,2004,Niagara,-3.14
+1395,2004,USC,6.52
+1396,2004,Washington St,5.05
+1397,2004,Arizona St,5.35
+1398,2004,Miami OH,1.6
+1399,2004,UC Santa Barbara,-0.63
+1400,2004,Buffalo,-1.19
+1401,2004,Louisiana Tech,2.55
+1402,2004,Toledo,0.97
+1403,2004,Colorado St,4.87
+1404,2004,Pepperdine,2.11
+1405,2004,UCF,-5.87
+1406,2004,Butler,-0.03
+1407,2004,Belmont,-4.68
+1408,2004,WKU,-0.1
+1409,2004,Princeton,-3.32
+1410,2004,Ohio State,5.02
+1411,2004,Oregon St,4.6
+1412,2004,UNC Wilmington,-0.46
+1413,2004,IUPUI,-2.4
+1414,2004,Austin Peay,-1.38
+1415,2004,TCU,4.98
+1416,2004,Tulsa,4.62
+1417,2004,Duquesne,2.23
+1418,2004,Col Charleston ,-3.97
+1419,2004,Boston Univ,-5.91
+1420,2004,Ball St,1.78
+1421,2004,Fairfield,-2.38
+1422,2004,E Washington,-0.34
+1423,2004,Santa Clara,2.61
+1424,2004,SMU,4.79
+1425,2004,Hofstra,0.52
+1426,2004,Missouri KC,-3.45
+1427,2004,Georgia St,-5
+1428,2004,Oral Roberts,-1.79
+1429,2004,Drake,2.15
+1430,2004,Bradley,1.92
+1431,2004,Valparaiso,0.01
+1432,2004,Akron,0
+1433,2004,Illinois St,3.11
+1434,2004,Delaware,-1.95
+1435,2004,MTSU,-1.71
+1436,2004,Idaho,0.43
+1437,2004,Portland,2.83
+1438,2004,Ark Little Rock,-3.97
+1439,2004,Oakland,-0.3
+1440,2004,St John's,7.85
+1441,2004,WI Green Bay,-0.96
+1442,2004,Ga Southern,-6.93
+1443,2004,Bowling Green,0.5
+1444,2004,Chattanooga,-2.98
+1445,2004,Texas A&M,3.03
+1446,2004,Arkansas St,-4.42
+1447,2004,Southern Miss,3
+1448,2004,Davidson,-0.99
+1449,2004,Holy Cross,-6.69
+1450,2004,Indiana St,2.02
+1451,2004,Houston,3.8
+1452,2004,Weber St,-2.15
+1453,2004,CS Northridge,-0.46
+1454,2004,La Salle,2.9
+1455,2004,San Francisco,1.85
+1456,2004,SF Austin,-9.33
+1457,2004,Wright St,-0.95
+1458,2004,Furman,-5.81
+1459,2004,Loy Marymount,0.04
+1460,2004,Marshall,2.23
+1461,2004,South Florida,4.92
+1462,2004,Massachusetts,2.59
+1463,2004,New Orleans,-0.53
+1464,2004,Denver,-1.67
+1465,2004,Centenary,-2.39
+1466,2004,St Peter's,-2.81
+1467,2004,Baylor,5.2
+1468,2004,Vermont,-6.36
+1469,2004,Penn St,5.67
+1470,2004,Liberty,-4.22
+1471,2004,Tulane,1.92
+1472,2004,Ohio,-0.19
+1473,2004,Birmingham So,-9.79
+1474,2004,UC Irvine,-0.1
+1475,2004,New Mexico St,-1.58
+1476,2004,Cal Poly SLO,-0.2
+1477,2004,UC Riverside,-0.21
+1478,2004,Evansville,3.25
+1479,2004,E Michigan,-1.14
+1480,2004,CS Fullerton,-0.81
+1481,2004,Yale,-2.51
+1482,2004,Loyola-Chicago,1.17
+1483,2004,CS Sacramento,-2.39
+1484,2004,Bucknell,-6.65
+1485,2004,N Illinois,0.08
+1486,2004,Northern Arizona,-3.12
+1487,2004,San Jose St,3.59
+1488,2004,South Alabama,-1.21
+1489,2004,MS Valley St,-12.91
+1490,2004,Montana St,-3.59
+1491,2004,American Univ,-7.04
+1492,2004,Northeastern,-6.19
+1493,2004,Siena,-2.32
+1494,2004,Monmouth NJ,-5.66
+1495,2004,Maine,-8.39
+1496,2004,SE Louisiana,-7.95
+1497,2004,Iona,-1.88
+1498,2004,Lafayette,-6.37
+1499,2004,Portland St,-3.12
+1500,2004,Brown,-4.17
+1501,2004,SE Missouri St,-3.25
+1502,2004,Rider,-4.95
+1503,2004,Morehead St,-2.9
+1504,2004,TAM C. Christi,-4.64
+1505,2004,William & Mary,-0.76
+1506,2004,Appalachian St,-1.18
+1507,2004,E Kentucky,-5.07
+1508,2004,Chicago St,0.14
+1509,2004,Montana,-0.91
+1510,2004,UT Arlington,-6.47
+1511,2004,Cornell,-5.69
+1512,2004,Canisius,-2.75
+1513,2004,North Texas,-2.92
+1514,2004,Tennessee Tech,-2.75
+1515,2004,Winthrop,-6.62
+1516,2004,Youngstown St,0.37
+1517,2004,Central Conn,-7.98
+1518,2004,S Carolina St,-10.14
+1519,2004,St Bonaventure,4.19
+1520,2004,F Dickinson,-7.65
+1521,2004,Coastal Car,-6.79
+1522,2004,W Carolina,-3.84
+1523,2004,FL Atlantic,-5.68
+1524,2004,St Francis NY,-8.76
+1525,2004,UT San Antonio,-6.11
+1526,2004,Lehigh,-8.88
+1527,2004,UNC Greensboro ,-4.1
+1528,2004,McNeese St,-4.66
+1529,2004,James Madison,-1.28
+1530,2004,Coppin St,-8.68
+1531,2004,Fordham,3.89
+1532,2004,Jacksonville St,-7.7
+1533,2004,Southern Utah,-0.61
+1534,2004,Delaware St,-7.97
+1535,2004,Mercer,-3.11
+1536,2004,TN Martin,-2.72
+1537,2004,Samford,-2.55
+1538,2004,High Point,-8.7
+1539,2004,UTRGV,-3
+1540,2004,Binghamton,-6.33
+1541,2004,Idaho State,-1.66
+1542,2004,Texas St,-7.01
+1543,2004,C Michigan,1.52
+1544,2004,Elon,-2.95
+1545,2004,Columbia,-5.3
+1546,2004,Florida A&M,-7.94
+1547,2004,Northwestern LA,-5.23
+1548,2004,Towson,-1.71
+1549,2004,Stetson,-3.87
+1550,2004,San Diego,2.51
+1551,2004,UMBC,-6.61
+1552,2004,Cleveland St,0.46
+1553,2004,Robert Morris,-7.52
+1554,2004,Hampton,-8.72
+1555,2004,Wagner,-7.13
+1556,2004,IPFW,1
+1557,2004,St Francis PA,-7.7
+1558,2004,Mt St Mary's,-6.91
+1559,2004,Colgate,-7.59
+1560,2004,Long Beach St,-0.6
+1561,2004,Radford,-7.78
+1562,2004,E Illinois,-2.64
+1563,2004,Alabama St,-10.78
+1564,2004,Lamar,-6.18
+1565,2004,Tennessee St,-1.91
+1566,2004,Gardner Webb,-4.05
+1567,2004,New Hampshire,-6.79
+1568,2004,Stony Brook,-6.48
+1569,2004,ULM,-4.01
+1570,2004,Sacred Heart,-7.66
+1571,2004,Marist,-2.69
+1572,2004,Jacksonville,-6.62
+1573,2004,Hartford,-6.15
+1574,2004,Wofford,-1.92
+1575,2004,Sam Houston St,-6.81
+1576,2004,Quinnipiac,-7.4
+1577,2004,Southern Univ,-12.78
+1578,2004,Morgan St,-10.15
+1579,2004,Jackson St,-11.09
+1580,2004,TX Southern,-12.98
+1581,2004,W Illinois,-1.15
+1582,2004,Long Island,-8.11
+1583,2004,UNC Asheville,-4
+1584,2004,Norfolk St,-11.66
+1585,2004,Lipscomb,-4.52
+1586,2004,Charleston So,-6.96
+1587,2004,Florida Intl,-1.54
+1588,2004,Albany NY,-7.47
+1589,2004,Howard,-9.87
+1590,2004,Alabama A&M,-12.29
+1591,2004,Grambling,-9.94
+1592,2004,Harvard,-4.37
+1593,2004,Loyola MD,-4.12
+1594,2004,Dartmouth,-6.17
+1595,2004,Bethune-Cookman,-10.63
+1596,2004,VMI,-5.57
+1597,2004,Citadel,-3.36
+1598,2004,Alcorn St,-11.79
+1599,2004,Nicholls St,-6.25
+1600,2004,Prairie View,-9.55
+1601,2004,MD E Shore,-10.1
+1602,2004,Campbell,-4.49
+1603,2004,Navy,-5.04
+1604,2004,Savannah St,-3.52
+1605,2004,Army,-7.72
+1606,2004,NC A&T,-7.84
+1607,2004,Ark Pine Bluff,-8.54
+1608,2005,North Carolina,10.66
+1609,2005,Illinois,8.47
+1610,2005,Duke,10.04
+1611,2005,Louisville,6.18
+1612,2005,Oklahoma St,9.68
+1613,2005,Kansas,10.85
+1614,2005,Michigan St,7.41
+1615,2005,Wake Forest,10.27
+1616,2005,Florida,7.12
+1617,2005,Oklahoma,8.84
+1618,2005,Washington,7.66
+1619,2005,Kentucky,8.1
+1620,2005,Villanova,8.43
+1621,2005,Connecticut,7.62
+1622,2005,Arizona,8.03
+1623,2005,Cincinnati,6.74
+1624,2005,Georgia Tech,9.78
+1625,2005,Wisconsin,9.61
+1626,2005,Alabama,6.81
+1627,2005,Texas Tech,9.11
+1628,2005,NC State,9.16
+1629,2005,Syracuse,6.83
+1630,2005,Texas,7.56
+1631,2005,Iowa,9.34
+1632,2005,Pittsburgh,5.73
+1633,2005,Boston College,6.41
+1634,2005,Utah,4.54
+1635,2005,Maryland,7.89
+1636,2005,Vanderbilt,7.3
+1637,2005,Gonzaga,4.37
+1638,2005,Texas A&M,5.19
+1639,2005,Ohio State,6.2
+1640,2005,Utah St,-1.47
+1641,2005,Mississippi St,6.05
+1642,2005,Arkansas,3.6
+1643,2005,Minnesota,6.96
+1644,2005,South Carolina,7.85
+1645,2005,West Virginia,7.62
+1646,2005,LSU,7.77
+1647,2005,S Illinois,5.12
+1648,2005,Iowa St,8.4
+1649,2005,Memphis,5.4
+1650,2005,Clemson,8.86
+1651,2005,New Mexico,1.51
+1652,2005,G Washington,1.05
+1653,2005,Alabama-Birmingham,4.78
+1654,2005,WI Milwaukee,1.44
+1655,2005,Indiana,10.01
+1656,2005,Creighton,3.84
+1657,2005,Northern Iowa,5.31
+1658,2005,Providence,8.87
+1659,2005,Kansas St,7.72
+1660,2005,Missouri St,4.51
+1661,2005,Georgetown,6.54
+1662,2005,Charlotte,3.97
+1663,2005,UTEP,0.91
+1664,2005,Wichita St,4.36
+1665,2005,Miami FL,7.78
+1666,2005,Nebraska,6.39
+1667,2005,Notre Dame,6.18
+1668,2005,Nevada,3.02
+1669,2005,Arizona St,5.36
+1670,2005,UCLA,7.09
+1671,2005,Stanford,8.13
+1672,2005,DePaul,4.62
+1673,2005,Pacific,1.16
+1674,2005,Air Force,2.61
+1675,2005,Tennessee,8.37
+1676,2005,Vermont,-1.95
+1677,2005,St Joseph's  PA,3.32
+1678,2005,Miami OH,3.62
+1679,2005,Virginia,10.62
+1680,2005,Missouri,9.24
+1681,2005,W Michigan,2.01
+1682,2005,Akron,1.67
+1683,2005,Xavier,1.9
+1684,2005,Florida St,8.99
+1685,2005,Saint Mary's CA,2.4
+1686,2005,Temple,4.31
+1687,2005,Marquette,4.73
+1688,2005,Oregon,6.68
+1689,2005,Washington St,7.39
+1690,2005,Rice,3.07
+1691,2005,UNLV,5.61
+1692,2005,Old Dominion,-2.59
+1693,2005,Buffalo,2.39
+1694,2005,Purdue,11.07
+1695,2005,Holy Cross,-4.21
+1696,2005,Louisiana,1.91
+1697,2005,Virginia Tech,5.79
+1698,2005,Kent,2.75
+1699,2005,Mississippi,5.72
+1700,2005,TCU,3.54
+1701,2005,Ohio,1.8
+1702,2005,Oral Roberts,-2.06
+1703,2005,Seton Hall,6.04
+1704,2005,WKU,-0.49
+1705,2005,St John's,7.42
+1706,2005,Colorado,8.5
+1707,2005,Toledo,3.18
+1708,2005,Michigan,7.12
+1709,2005,Penn,-1.98
+1710,2005,Houston,3.92
+1711,2005,Denver,-0.44
+1712,2005,USC,6.91
+1713,2005,Northwestern,7.38
+1714,2005,Ball St,3.31
+1715,2005,Hawaii,1.86
+1716,2005,Wyoming,3.91
+1717,2005,SMU,2.11
+1718,2005,Illinois St,3.34
+1719,2005,Dayton,0.38
+1720,2005,Rutgers,8.75
+1721,2005,Boston Univ,-3.86
+1722,2005,Bradley,4.55
+1723,2005,Niagara,-3.08
+1724,2005,Oregon St,4.02
+1725,2005,San Diego,2.25
+1726,2005,South Florida,2.03
+1727,2005,Hofstra,-2.53
+1728,2005,California,5.97
+1729,2005,Santa Clara,2.18
+1730,2005,Colorado St,3.88
+1731,2005,San Francisco,3.33
+1732,2005,MTSU,-1.43
+1733,2005,Drake,4.57
+1734,2005,Bucknell,-2.19
+1735,2005,Auburn,6.6
+1736,2005,VA Commonwealth,-1.52
+1737,2005,Bowling Green,1.76
+1738,2005,Drexel,-1.91
+1739,2005,CS Northridge,-0.98
+1740,2005,Pepperdine,1.51
+1741,2005,Davidson,-1.08
+1742,2005,Detroit,1.01
+1743,2005,N Illinois,2.06
+1744,2005,Fresno St,0.31
+1745,2005,IL Chicago,1.09
+1746,2005,Louisiana Tech,1.24
+1747,2005,San Diego St,5.61
+1748,2005,BYU,6.69
+1749,2005,George Mason,-2.83
+1750,2005,Evansville,2.91
+1751,2005,Portland,0.54
+1752,2005,Tulsa,1.66
+1753,2005,St Louis,5.04
+1754,2005,Butler,-0.85
+1755,2005,Indiana St,4.44
+1756,2005,Northeastern,-2.97
+1757,2005,Richmond,3.06
+1758,2005,Winthrop,-6.65
+1759,2005,CS Fullerton,-0.83
+1760,2005,Murray St,-3.47
+1761,2005,Massachusetts,1.51
+1762,2005,TAM C. Christi,-5.48
+1763,2005,Wright St,0.35
+1764,2005,Ark Little Rock,0.9
+1765,2005,IUPUI,-2.12
+1766,2005,Col Charleston ,-4.98
+1767,2005,Princeton,-1.9
+1768,2005,SE Louisiana,-5.22
+1769,2005,Manhattan,-2.41
+1770,2005,Arkansas St,-1.86
+1771,2005,Loy Marymount,2.87
+1772,2005,Georgia,6.46
+1773,2005,Chattanooga,-3.59
+1774,2005,UNC Wilmington,-3.13
+1775,2005,Northwestern LA,-2.47
+1776,2005,Loyola-Chicago,0.99
+1777,2005,Fordham,-0.34
+1778,2005,Penn St,7.31
+1779,2005,Rider,-4.33
+1780,2005,WI Green Bay,-0.09
+1781,2005,Sam Houston St,-3.87
+1782,2005,Fairfield,-3.23
+1783,2005,Lamar,-4.39
+1784,2005,Ga Southern,-5.32
+1785,2005,E Michigan,0.78
+1786,2005,East Carolina,5.7
+1787,2005,Albany NY,-5.31
+1788,2005,Oakland,0.86
+1789,2005,E Kentucky,-5.18
+1790,2005,Baylor,4.1
+1791,2005,UC Irvine,-1.8
+1792,2005,Tennessee Tech,-5.01
+1793,2005,St Peter's,-4.26
+1794,2005,Boise St,0.61
+1795,2005,SE Missouri St,-3.78
+1796,2005,Iona,-3.43
+1797,2005,American Univ,-4.3
+1798,2005,New Orleans,0.1
+1799,2005,Valparaiso,-0.19
+1800,2005,Missouri KC,-2.68
+1801,2005,Marshall,3.61
+1802,2005,Montana,-3.49
+1803,2005,Appalachian St,-4.04
+1804,2005,Austin Peay,-1.97
+1805,2005,Florida Intl,0.34
+1806,2005,Furman,-3.72
+1807,2005,F Dickinson,-6.91
+1808,2005,UC Santa Barbara,-0.4
+1809,2005,North Texas,-0.99
+1810,2005,UT San Antonio,-3.93
+1811,2005,La Salle,1.16
+1812,2005,Binghamton,-2.57
+1813,2005,Tennessee St,-1.25
+1814,2005,Portland St,-8.19
+1815,2005,Cleveland St,0.52
+1816,2005,Southern Miss,1.52
+1817,2005,UCF,-7.78
+1818,2005,Samford,-5.42
+1819,2005,S Carolina St,-10.93
+1820,2005,Yale,-2.82
+1821,2005,Delaware,-2.47
+1822,2005,Rhode Island,0.52
+1823,2005,W Illinois,-1.58
+1824,2005,South Alabama,0.09
+1825,2005,Gardner Webb,-8.1
+1826,2005,Long Beach St,-0.13
+1827,2005,Wofford,-3.76
+1828,2005,Monmouth NJ,-7.03
+1829,2005,Duquesne,0.9
+1830,2005,Northern Arizona,-5.38
+1831,2005,Delaware St,-6.89
+1832,2005,Harvard,-4.47
+1833,2005,Lehigh,-6.77
+1834,2005,Montana St,-4.77
+1835,2005,Tulane,0.55
+1836,2005,Idaho,-1.54
+1837,2005,Marist,-4.3
+1838,2005,Maine,-4.21
+1839,2005,Belmont,-7.32
+1840,2005,UNC Greensboro ,-2.97
+1841,2005,Birmingham So,-8.24
+1842,2005,Brown,-5.54
+1843,2005,C Michigan,2.92
+1844,2005,Chicago St,-1.29
+1845,2005,Weber St,-5.62
+1846,2005,Cornell,-5.46
+1847,2005,High Point,-7.39
+1848,2005,San Jose St,2.41
+1849,2005,E Illinois,-3.08
+1850,2005,Georgia St,-5.66
+1851,2005,Central Conn,-7.23
+1852,2005,McNeese St,-4.28
+1853,2005,Coppin St,-6.16
+1854,2005,UC Riverside,-1.27
+1855,2005,Mercer,-9.77
+1856,2005,Columbia,-6.56
+1857,2005,Stony Brook,-4.66
+1858,2005,E Washington,-2.35
+1859,2005,Colgate,-4.97
+1860,2005,St Francis NY,-8.66
+1861,2005,Canisius,-4.52
+1862,2005,FL Atlantic,-7.13
+1863,2005,New Mexico St,0.75
+1864,2005,Hampton,-10.96
+1865,2005,UTRGV,-1.61
+1866,2005,Southern Utah,-4.07
+1867,2005,UT Arlington,-4.24
+1868,2005,St Francis PA,-7.55
+1869,2005,Texas St,-5.52
+1870,2005,ETSU,-3.3
+1871,2005,Wagner,-6.94
+1872,2005,Robert Morris,-7.13
+1873,2005,New Hampshire,-3.95
+1874,2005,SF Austin,-7.54
+1875,2005,Troy,-6.42
+1876,2005,MS Valley St,-11.95
+1877,2005,Elon,-2.79
+1878,2005,UNC Asheville,-4.37
+1879,2005,Dartmouth,-4.12
+1880,2005,Norfolk St,-11.71
+1881,2005,CS Sacramento,-5.08
+1882,2005,Siena,-2.47
+1883,2005,Towson,-3.43
+1884,2005,IPFW,-1.78
+1885,2005,Lafayette,-2.91
+1886,2005,UMBC,-5.48
+1887,2005,Coastal Car,-6.63
+1888,2005,Alabama A&M,-12.86
+1889,2005,William & Mary,-2.13
+1890,2005,Lipscomb,-10.49
+1891,2005,Long Island,-7.92
+1892,2005,Navy,-7.08
+1893,2005,Charleston So,-6.53
+1894,2005,Cal Poly SLO,-0.55
+1895,2005,Liberty,-6.01
+1896,2005,Jacksonville St,-4.93
+1897,2005,W Carolina,-2.54
+1898,2005,Radford,-7.81
+1899,2005,Stetson,-6.23
+1900,2005,Morgan St,-10.92
+1901,2005,ULM,-4.81
+1902,2005,Citadel,-6.65
+1903,2005,Jacksonville,-9.5
+1904,2005,Loyola MD,-4.41
+1905,2005,Morehead St,-4.54
+1906,2005,James Madison,-2.22
+1907,2005,Youngstown St,-0.72
+1908,2005,Quinnipiac,-7.47
+1909,2005,Idaho State,-5.89
+1910,2005,Alabama St,-11.66
+1911,2005,Florida A&M,-9.24
+1912,2005,Hartford,-4.23
+1913,2005,TN Martin,-3.38
+1914,2005,Southern Univ,-13.38
+1915,2005,Jackson St,-10.75
+1916,2005,St Bonaventure,0.38
+1917,2005,Mt St Mary's,-8.24
+1918,2005,Bethune-Cookman,-11.67
+1919,2005,Nicholls St,-5.64
+1920,2005,Sacred Heart,-7.37
+1921,2005,Centenary,-1.84
+1922,2005,TX Southern,-13.23
+1923,2005,NC A&T,-7.67
+1924,2005,Grambling,-12.75
+1925,2005,VMI,-8.15
+1926,2005,Army,-5.39
+1927,2005,Howard,-9.83
+1928,2005,Ark Pine Bluff,-10.29
+1929,2005,Campbell,-6.58
+1930,2005,Alcorn St,-11.31
+1931,2005,Prairie View,-9.88
+1932,2005,Savannah St,-7.93
+1933,2005,MD E Shore,-10.03
+1934,2006,Texas,6.99
+1935,2006,Duke,8.77
+1936,2006,Connecticut,6.57
+1937,2006,Florida,5.49
+1938,2006,Kansas,7.6
+1939,2006,Villanova,9.23
+1940,2006,Memphis,4.24
+1941,2006,North Carolina,7.77
+1942,2006,Washington,5.96
+1943,2006,LSU,8.77
+1944,2006,UCLA,8.27
+1945,2006,Illinois,6.29
+1946,2006,Pittsburgh,7.01
+1947,2006,Ohio State,5.9
+1948,2006,Arizona,10.09
+1949,2006,Arkansas,6.17
+1950,2006,Tennessee,7.76
+1951,2006,West Virginia,8.54
+1952,2006,Iowa,6.8
+1953,2006,Georgetown,6.92
+1954,2006,Boston College,6.1
+1955,2006,South Carolina,8.14
+1956,2006,Texas A&M,4.77
+1957,2006,Wisconsin,7.24
+1958,2006,Kentucky,8.88
+1959,2006,Missouri St,5.19
+1960,2006,Cincinnati,8.41
+1961,2006,NC State,5.63
+1962,2006,Florida St,4.86
+1963,2006,Notre Dame,6.68
+1964,2006,Gonzaga,5.02
+1965,2006,California,8.84
+1966,2006,Michigan St,7.27
+1967,2006,Michigan,7.04
+1968,2006,George Mason,2.77
+1969,2006,Indiana,7.36
+1970,2006,Oklahoma,6.79
+1971,2006,Bradley,5.38
+1972,2006,Syracuse,8.16
+1973,2006,Northern Iowa,5.13
+1974,2006,Wichita St,4.72
+1975,2006,Marquette,8.16
+1976,2006,Louisville,6.5
+1977,2006,Oklahoma St,6.67
+1978,2006,Colorado,4.57
+1979,2006,Alabama,8.08
+1980,2006,Maryland,6.73
+1981,2006,Vanderbilt,7.53
+1982,2006,Oregon,6.85
+1983,2006,Clemson,4.97
+1984,2006,Air Force,2.49
+1985,2006,Nevada,2.26
+1986,2006,Creighton,4.88
+1987,2006,Xavier,1.99
+1988,2006,San Diego St,3.65
+1989,2006,Miami FL,7
+1990,2006,Alabama-Birmingham,1.57
+1991,2006,G Washington,-0.33
+1992,2006,St Joseph's  PA,5.12
+1993,2006,Stanford,8.21
+1994,2006,Iowa St,7.3
+1995,2006,Kansas St,6.35
+1996,2006,S Illinois,4.62
+1997,2006,UNC Wilmington,0.57
+1998,2006,Washington St,7.79
+1999,2006,Temple,5.19
+2000,2006,Virginia Tech,4.67
+2001,2006,Wake Forest,6.89
+2002,2006,Rutgers,5.16
+2003,2006,Providence,7.68
+2004,2006,Utah St,1.79
+2005,2006,Minnesota,7.29
+2006,2006,WI Milwaukee,1.47
+2007,2006,Old Dominion,1.45
+2008,2006,UNLV,4.51
+2009,2006,USC,5.99
+2010,2006,Houston,1.97
+2011,2006,Bucknell,-2.29
+2012,2006,BYU,3.19
+2013,2006,Pacific,-1.57
+2014,2006,Iona,-0.78
+2015,2006,Seton Hall,6.11
+2016,2006,Virginia,7.71
+2017,2006,Hofstra,0.93
+2018,2006,DePaul,8.74
+2019,2006,Nebraska,6.74
+2020,2006,Texas Tech,6.56
+2021,2006,Winthrop,-4.93
+2022,2006,Kent,0
+2023,2006,Butler,0.44
+2024,2006,Penn,-2.31
+2025,2006,UTEP,0.38
+2026,2006,Hawaii,2.29
+2027,2006,Georgia Tech,5.7
+2028,2006,WKU,-0.35
+2029,2006,St John's,5.64
+2030,2006,New Mexico,2.98
+2031,2006,Mississippi St,5.66
+2032,2006,Georgia,5.65
+2033,2006,Akron,0.13
+2034,2006,Saint Mary's CA,2.28
+2035,2006,Auburn,7.06
+2036,2006,South Alabama,-2.18
+2037,2006,Montana,-0.96
+2038,2006,Charlotte,1.97
+2039,2006,VA Commonwealth,-0.53
+2040,2006,Penn St,4.98
+2041,2006,Arizona St,7.18
+2042,2006,Louisiana Tech,2.55
+2043,2006,Murray St,-5.07
+2044,2006,La Salle,0.25
+2045,2006,Northwestern LA,-1.38
+2046,2006,Colorado St,4.27
+2047,2006,Northwestern,6.44
+2048,2006,Miami OH,1.15
+2049,2006,Ohio,-0.5
+2050,2006,Massachusetts,2.63
+2051,2006,Drexel,1.17
+2052,2006,San Diego,-0.31
+2053,2006,Utah,3.39
+2054,2006,Oral Roberts,-2.35
+2055,2006,St Louis,3
+2056,2006,Northeastern,-0.3
+2057,2006,Toledo,-2.14
+2058,2006,Dayton,2.04
+2059,2006,TAM C. Christi,-5.7
+2060,2006,N Illinois,-0.03
+2061,2006,Drake,5.48
+2062,2006,UC Irvine,-1.87
+2063,2006,Baylor,11.65
+2064,2006,New Mexico St,2.97
+2065,2006,Holy Cross,-3.7
+2066,2006,Marist,-2.25
+2067,2006,Wyoming,3.82
+2068,2006,Missouri,6.13
+2069,2006,Davidson,-3.04
+2070,2006,Fresno St,1.59
+2071,2006,Mississippi,4.35
+2072,2006,Fordham,1.24
+2073,2006,Oregon St,6.31
+2074,2006,Loy Marymount,3.68
+2075,2006,Siena,-0.67
+2076,2006,Manhattan,0
+2077,2006,Boise St,1.09
+2078,2006,Purdue,6.61
+2079,2006,Rhode Island,1.84
+2080,2006,San Francisco,2.61
+2081,2006,South Florida,4.65
+2082,2006,Buffalo,-1.22
+2083,2006,Loyola-Chicago,-1.08
+2084,2006,Illinois St,3.71
+2085,2006,Santa Clara,2.58
+2086,2006,Albany NY,-4.25
+2087,2006,Long Beach St,-1.66
+2088,2006,E Washington,-0.02
+2089,2006,Indiana St,4.19
+2090,2006,SMU,-2.78
+2091,2006,Denver,-1.42
+2092,2006,Louisiana,0.59
+2093,2006,Northern Arizona,-1.35
+2094,2006,IL Chicago,-0.18
+2095,2006,CS Sacramento,-1.19
+2096,2006,St Peter's,-0.98
+2097,2006,MTSU,-1.17
+2098,2006,Samford,-4.92
+2099,2006,UC Santa Barbara,-1.34
+2100,2006,Evansville,3.54
+2101,2006,Central Conn,-6.76
+2102,2006,CS Fullerton,-3.07
+2103,2006,UCF,-0.69
+2104,2006,Troy,-3.09
+2105,2006,Detroit,0.07
+2106,2006,Portland St,-1.21
+2107,2006,Valparaiso,-4.05
+2108,2006,SE Louisiana,-4.2
+2109,2006,Monmouth NJ,-4.05
+2110,2006,IUPUI,-5.13
+2111,2006,Pepperdine,4.02
+2112,2006,Ga Southern,-5.8
+2113,2006,F Dickinson,-5.28
+2114,2006,San Jose St,2.23
+2115,2006,Sam Houston St,-3.36
+2116,2006,Lamar,-4.88
+2117,2006,Niagara,-0.87
+2118,2006,Ball St,-0.6
+2119,2006,Belmont,-6.72
+2120,2006,Wright St,-1.4
+2121,2006,SF Austin,-7.22
+2122,2006,WI Green Bay,0.11
+2123,2006,UT Arlington,-2.46
+2124,2006,Portland,1.17
+2125,2006,Lehigh,-4.96
+2126,2006,Rice,0.5
+2127,2006,North Texas,-1.88
+2128,2006,TCU,3.5
+2129,2006,Col Charleston ,-5.83
+2130,2006,Loyola MD,-2.85
+2131,2006,Vermont,-4.07
+2132,2006,Boston Univ,-3.77
+2133,2006,Idaho State,-1.22
+2134,2006,Montana St,-2.17
+2135,2006,Tulsa,-0.07
+2136,2006,Ark Little Rock,-3.14
+2137,2006,Binghamton,-5.52
+2138,2006,Lipscomb,-8.78
+2139,2006,Marshall,-1.56
+2140,2006,Richmond,1.36
+2141,2006,Delaware,-0.54
+2142,2006,Tulane,-0.67
+2143,2006,Tennessee Tech,-4.6
+2144,2006,Arkansas St,-1.45
+2145,2006,Georgia St,0.59
+2146,2006,W Michigan,0.23
+2147,2006,William & Mary,-0.41
+2148,2006,Austin Peay,-6.29
+2149,2006,St Bonaventure,-0.37
+2150,2006,UT San Antonio,-3.38
+2151,2006,Coastal Car,-7.09
+2152,2006,Birmingham So,-8.12
+2153,2006,Jacksonville St,-5.82
+2154,2006,Tennessee St,-5.36
+2155,2006,Southern Univ,-6.69
+2156,2006,Cal Poly SLO,-0.56
+2157,2006,Canisius,-1.8
+2158,2006,Delaware St,-6.22
+2159,2006,Weber St,-1.1
+2160,2006,Fairfield,-0.05
+2161,2006,New Orleans,0.21
+2162,2006,McNeese St,-3.64
+2163,2006,Cornell,-5.19
+2164,2006,Rider,-0.6
+2165,2006,Hartford,-6.61
+2166,2006,Princeton,-3.58
+2167,2006,Chicago St,-2.13
+2168,2006,ETSU,-9.14
+2169,2006,Yale,-5.71
+2170,2006,E Michigan,-1.43
+2171,2006,Harvard,-5.4
+2172,2006,Wagner,-6.35
+2173,2006,Mt St Mary's,-5.58
+2174,2006,Elon,-3.45
+2175,2006,Chattanooga,-5.22
+2176,2006,Furman,-6.38
+2177,2006,Southern Utah,-4.09
+2178,2006,Youngstown St,-2.33
+2179,2006,Appalachian St,-4.79
+2180,2006,Towson,-2.38
+2181,2006,Radford,-6.91
+2182,2006,East Carolina,-1.27
+2183,2006,TN Martin,-5.06
+2184,2006,Sacred Heart,-5.97
+2185,2006,Bowling Green,0.38
+2186,2006,Southern Miss,1.91
+2187,2006,Wofford,-2.98
+2188,2006,Robert Morris,-6.27
+2189,2006,Quinnipiac,-5.83
+2190,2006,Cleveland St,-0.08
+2191,2006,High Point,-6.4
+2192,2006,W Carolina,-4.62
+2193,2006,St Francis NY,-5.06
+2194,2006,UMBC,-5.24
+2195,2006,American Univ,-4.32
+2196,2006,CS Northridge,-1.46
+2197,2006,E Kentucky,-4.97
+2198,2006,Oakland,-3.71
+2199,2006,Alabama A&M,-10.43
+2200,2006,Florida Intl,-0.07
+2201,2006,Missouri KC,-4.87
+2202,2006,FL Atlantic,-8.43
+2203,2006,Hampton,-12.56
+2204,2006,New Hampshire,-4.93
+2205,2006,Duquesne,1.09
+2206,2006,Idaho,3.28
+2207,2006,Long Island,-6.75
+2208,2006,ULM,-1.11
+2209,2006,Gardner Webb,-6.71
+2210,2006,UNC Greensboro ,-4.72
+2211,2006,Charleston So,-6.6
+2212,2006,Colgate,-5.61
+2213,2006,Coppin St,-6.07
+2214,2006,Jackson St,-8.84
+2215,2006,Columbia,-6.32
+2216,2006,Purdue-IPFW,-0.07
+2217,2006,Brown,-6.66
+2218,2006,Lafayette,-4.3
+2219,2006,Norfolk St,-8.63
+2220,2006,Stetson,-8.37
+2221,2006,W Illinois,-3.1
+2222,2006,S Carolina St,-8.59
+2223,2006,Campbell,-8.11
+2224,2006,C Michigan,-1.01
+2225,2006,Ark Pine Bluff,-10.81
+2226,2006,Navy,-6.16
+2227,2006,Dartmouth,-5.43
+2228,2006,James Madison,0.93
+2229,2006,Alabama St,-8.58
+2230,2006,Maine,-6.75
+2231,2006,Florida A&M,-8.06
+2232,2006,Bethune-Cookman,-10.49
+2233,2006,Stony Brook,-3.02
+2234,2006,UC Riverside,-0.75
+2235,2006,SE Missouri St,-6.06
+2236,2006,UNC Asheville,-4
+2237,2006,Grambling,-10.58
+2238,2006,E Illinois,-5.85
+2239,2006,Nicholls St,-3.82
+2240,2006,Texas St,-3.2
+2241,2006,Alcorn St,-8.03
+2242,2006,Centenary,-3.78
+2243,2006,Howard,-10.37
+2244,2006,VMI,-6.72
+2245,2006,St Francis PA,-5.05
+2246,2006,UTRGV,0.11
+2247,2006,MS Valley St,-8.99
+2248,2006,Liberty,-4.42
+2249,2006,TX Southern,-6.37
+2250,2006,NC A&T,-8.62
+2251,2006,Mercer,-10.12
+2252,2006,Jacksonville,-5.73
+2253,2006,Army,-5.69
+2254,2006,Morehead St,-5.43
+2255,2006,MD E Shore,-10.16
+2256,2006,Citadel,-7.76
+2257,2006,Prairie View,-9.19
+2258,2006,Morgan St,-7.75
+2259,2006,Savannah St,-4.26
+2260,2007,North Carolina,9.3
+2261,2007,Florida,7.34
+2262,2007,Kansas,6.86
+2263,2007,Ohio State,9.03
+2264,2007,Texas A&M,5.13
+2265,2007,UCLA,9.84
+2266,2007,Memphis,3.91
+2267,2007,Georgetown,9.48
+2268,2007,Wisconsin,6.95
+2269,2007,Maryland,7.59
+2270,2007,Duke,10.49
+2271,2007,Georgia Tech,9.36
+2272,2007,Kentucky,11.41
+2273,2007,Pittsburgh,8.53
+2274,2007,Notre Dame,4.97
+2275,2007,Indiana,8.35
+2276,2007,Michigan St,8.45
+2277,2007,Arizona,10.76
+2278,2007,Villanova,9.16
+2279,2007,Louisville,7.69
+2280,2007,Oregon,6.3
+2281,2007,Texas,6.12
+2282,2007,Clemson,7.82
+2283,2007,Mississippi St,6.91
+2284,2007,Air Force,3.34
+2285,2007,Tennessee,9.15
+2286,2007,Purdue,8.89
+2287,2007,West Virginia,5.43
+2288,2007,Virginia Tech,8.26
+2289,2007,Butler,3.94
+2290,2007,Illinois,7.09
+2291,2007,Xavier,3.39
+2292,2007,Florida St,8.63
+2293,2007,Marquette,6.95
+2294,2007,Syracuse,6.47
+2295,2007,Missouri St,5.93
+2296,2007,USC,7.87
+2297,2007,Arkansas,8.75
+2298,2007,Boston College,9.21
+2299,2007,S Illinois,7.53
+2300,2007,Georgia,8.38
+2301,2007,Washington St,6
+2302,2007,Connecticut,6.09
+2303,2007,Oklahoma,7.23
+2304,2007,UNLV,5.37
+2305,2007,Virginia,7.96
+2306,2007,Vanderbilt,7.79
+2307,2007,LSU,7.44
+2308,2007,Creighton,6.24
+2309,2007,DePaul,8.53
+2310,2007,Gonzaga,3.77
+2311,2007,BYU,3.95
+2312,2007,Stanford,9.06
+2313,2007,Akron,-1.9
+2314,2007,Bradley,7.22
+2315,2007,Alabama,6.24
+2316,2007,Missouri,5.03
+2317,2007,Michigan,6.79
+2318,2007,Nevada,1.09
+2319,2007,Kansas St,5.53
+2320,2007,Wichita St,6.36
+2321,2007,Washington,6.5
+2322,2007,Mississippi,6.38
+2323,2007,Providence,6.69
+2324,2007,Texas Tech,7.16
+2325,2007,Oklahoma St,6.34
+2326,2007,VA Commonwealth,0.2
+2327,2007,Massachusetts,0.97
+2328,2007,Winthrop,-1.2
+2329,2007,Iowa,6.35
+2330,2007,California,8.67
+2331,2007,NC State,8.36
+2332,2007,Davidson,-2.26
+2333,2007,Northern Iowa,6.05
+2334,2007,Old Dominion,0.44
+2335,2007,San Diego St,3.9
+2336,2007,Hawaii,1.09
+2337,2007,Nebraska,5.35
+2338,2007,Auburn,7.47
+2339,2007,Santa Clara,1.58
+2340,2007,Wake Forest,9.31
+2341,2007,Seton Hall,5.37
+2342,2007,Houston,3.12
+2343,2007,Illinois St,4.63
+2344,2007,G Washington,0.64
+2345,2007,Miami FL,7.15
+2346,2007,Drexel,0.52
+2347,2007,Baylor,3.88
+2348,2007,Kent,1.28
+2349,2007,Evansville,4.55
+2350,2007,St Joseph's  PA,2.23
+2351,2007,New Mexico St,0.01
+2352,2007,Northwestern,7.82
+2353,2007,Miami OH,2.78
+2354,2007,UCF,-1.48
+2355,2007,Appalachian St,-1.19
+2356,2007,Oral Roberts,-1.04
+2357,2007,St John's,6.85
+2358,2007,Fresno St,-0.14
+2359,2007,Tulsa,-0.11
+2360,2007,Loyola-Chicago,0.78
+2361,2007,UTEP,0.24
+2362,2007,Saint Mary's CA,1.03
+2363,2007,George Mason,-0.05
+2364,2007,Penn,-1.64
+2365,2007,Colorado St,3.71
+2366,2007,Alabama-Birmingham,3.83
+2367,2007,Cincinnati,6.97
+2368,2007,Utah St,1.19
+2369,2007,South Carolina,7.86
+2370,2007,Drake,4.58
+2371,2007,Southern Miss,0.17
+2372,2007,Holy Cross,-3.06
+2373,2007,Arizona St,7.95
+2374,2007,Penn St,5.79
+2375,2007,New Mexico,2.89
+2376,2007,St Louis,2.91
+2377,2007,TAM C. Christi,-4.8
+2378,2007,Boise St,0
+2379,2007,Temple,1.91
+2380,2007,Bucknell,-3.03
+2381,2007,Dayton,1.97
+2382,2007,Toledo,1.83
+2383,2007,Hofstra,-0.6
+2384,2007,South Florida,4.37
+2385,2007,Ohio,0.22
+2386,2007,Wyoming,3.52
+2387,2007,Long Beach St,-2.07
+2388,2007,Indiana St,6.84
+2389,2007,W Michigan,2.04
+2390,2007,Utah,5.06
+2391,2007,Wright St,-0.31
+2392,2007,Iowa St,5.19
+2393,2007,Marist,-4.29
+2394,2007,Rhode Island,2.32
+2395,2007,Fordham,-0.1
+2396,2007,WKU,-3.71
+2397,2007,Minnesota,8.05
+2398,2007,Col Charleston ,-3.06
+2399,2007,Tulane,0.63
+2400,2007,Oakland,-0.41
+2401,2007,Vermont,-5.15
+2402,2007,Charlotte,1.38
+2403,2007,Belmont,-4.71
+2404,2007,SMU,0.73
+2405,2007,IL Chicago,1.09
+2406,2007,WI Green Bay,-0.86
+2407,2007,Oregon St,6.23
+2408,2007,UC Santa Barbara,-3.47
+2409,2007,Sam Houston St,-5.35
+2410,2007,Siena,-4.72
+2411,2007,Towson,-0.56
+2412,2007,Valparaiso,-1.3
+2413,2007,San Francisco,0.95
+2414,2007,High Point,-4.99
+2415,2007,TCU,2.11
+2416,2007,Albany NY,-4.75
+2417,2007,San Diego,-1.15
+2418,2007,Rice,1.43
+2419,2007,Marshall,2.33
+2420,2007,CS Fullerton,-5.3
+2421,2007,Detroit,1.01
+2422,2007,South Alabama,-4.18
+2423,2007,Rutgers,5.86
+2424,2007,Cal Poly SLO,-3.83
+2425,2007,ETSU,-5.44
+2426,2007,Lipscomb,-4.62
+2427,2007,Tennessee Tech,-4.85
+2428,2007,American Univ,-4.38
+2429,2007,UNC Greensboro ,-3.69
+2430,2007,Youngstown St,1.19
+2431,2007,North Texas,-6.59
+2432,2007,Northern Arizona,-3.28
+2433,2007,Niagara,-4.7
+2434,2007,Austin Peay,-5.09
+2435,2007,Northwestern LA,-4.05
+2436,2007,Central Conn,-6.48
+2437,2007,IUPUI,-3.39
+2438,2007,Loyola MD,-5.44
+2439,2007,UC Irvine,-1.43
+2440,2007,William & Mary,-2.53
+2441,2007,Yale,-3.67
+2442,2007,Buffalo,-0.15
+2443,2007,Northeastern,0.3
+2444,2007,Weber St,-3.33
+2445,2007,Colorado,7.33
+2446,2007,E Washington,-2.94
+2447,2007,E Kentucky,-5.28
+2448,2007,Idaho State,-1.17
+2449,2007,Southern Utah,-4.41
+2450,2007,Sacred Heart,-6.04
+2451,2007,Ball St,1.03
+2452,2007,Fairfield,-2
+2453,2007,Boston Univ,-4.65
+2454,2007,Cornell,-5.4
+2455,2007,Louisiana Tech,0.64
+2456,2007,Furman,-2.68
+2457,2007,Pacific,-0.87
+2458,2007,WI Milwaukee,2.34
+2459,2007,C Michigan,-0.6
+2460,2007,Montana,-3.53
+2461,2007,Bowling Green,-1.08
+2462,2007,SF Austin,-6.38
+2463,2007,Robert Morris,-8.07
+2464,2007,La Salle,-1.87
+2465,2007,Duquesne,0.5
+2466,2007,Loy Marymount,1.8
+2467,2007,Pepperdine,0.23
+2468,2007,MTSU,-3.96
+2469,2007,Chattanooga,-2.18
+2470,2007,Portland St,-4.57
+2471,2007,CS Northridge,-1.88
+2472,2007,Liberty,-3.25
+2473,2007,Missouri KC,-1.8
+2474,2007,Columbia,-5.27
+2475,2007,UNC Wilmington,0.01
+2476,2007,Arkansas St,-5.63
+2477,2007,Chicago St,1.3
+2478,2007,Cleveland St,1.31
+2479,2007,Murray St,-5.92
+2480,2007,N Illinois,-0.85
+2481,2007,Delaware St,-6.58
+2482,2007,Samford,-4.78
+2483,2007,E Michigan,-0.63
+2484,2007,Ga Southern,-2.71
+2485,2007,Brown,-4.21
+2486,2007,Coastal Car,-5.66
+2487,2007,San Jose St,2.21
+2488,2007,Richmond,0.72
+2489,2007,Navy,-3.77
+2490,2007,Lehigh,-3.99
+2491,2007,New Orleans,-5.62
+2492,2007,Lamar,-3.54
+2493,2007,Binghamton,-6.96
+2494,2007,Manhattan,-4.78
+2495,2007,Georgia St,-0.14
+2496,2007,Canisius,-5.16
+2497,2007,Rider,-4.88
+2498,2007,Troy,-5.25
+2499,2007,Princeton,-5.7
+2500,2007,Portland,0.81
+2501,2007,VMI,-5.44
+2502,2007,Hartford,-5.44
+2503,2007,Mt St Mary's,-5.65
+2504,2007,SE Louisiana,-5.98
+2505,2007,Jacksonville,-4.01
+2506,2007,UNC Asheville,-2.23
+2507,2007,Monmouth NJ,-5.96
+2508,2007,Army,-4.52
+2509,2007,Centenary,-2.62
+2510,2007,UTRGV,-5.53
+2511,2007,Quinnipiac,-7.62
+2512,2007,W Carolina,-1.66
+2513,2007,UMBC,-4.92
+2514,2007,Wofford,-2.49
+2515,2007,ULM,-6.01
+2516,2007,Harvard,-4.56
+2517,2007,F Dickinson,-6.67
+2518,2007,Florida A&M,-7.49
+2519,2007,Ark Little Rock,-5.56
+2520,2007,Hampton,-8.9
+2521,2007,Morehead St,-7.51
+2522,2007,James Madison,-1.11
+2523,2007,FL Atlantic,-4.34
+2524,2007,Colgate,-4.3
+2525,2007,Stony Brook,-5.55
+2526,2007,East Carolina,1.15
+2527,2007,IPFW,-0.71
+2528,2007,Maine,-5.25
+2529,2007,Campbell,-5.42
+2530,2007,Louisiana,-4.85
+2531,2007,Elon,-1.48
+2532,2007,McNeese St,-4.66
+2533,2007,Delaware,-2.06
+2534,2007,St Francis NY,-5.54
+2535,2007,Radford,-4.25
+2536,2007,NC A&T,-10.09
+2537,2007,Montana St,-4.23
+2538,2007,Tennessee St,-5.69
+2539,2007,UT Arlington,-6.42
+2540,2007,Morgan St,-9.65
+2541,2007,Jackson St,-9.94
+2542,2007,New Hampshire,-6.1
+2543,2007,Nicholls St,-1.89
+2544,2007,Wagner,-7.56
+2545,2007,St Bonaventure,-1.47
+2546,2007,Idaho,1.44
+2547,2007,S Carolina St,-9.91
+2548,2007,Jacksonville St,-7.3
+2549,2007,Florida Intl,-5.77
+2550,2007,E Illinois,-7.12
+2551,2007,Dartmouth,-4.75
+2552,2007,Gardner Webb,-0.95
+2553,2007,Mercer,-5.82
+2554,2007,MS Valley St,-10.87
+2555,2007,St Francis PA,-6.74
+2556,2007,SE Missouri St,-5.78
+2557,2007,St Peter's,-5.82
+2558,2007,Long Island,-7.88
+2559,2007,Stetson,-3.86
+2560,2007,TN Martin,-6.55
+2561,2007,Lafayette,-2.38
+2562,2007,CS Sacramento,-2.68
+2563,2007,Citadel,-0.81
+2564,2007,W Illinois,-4.88
+2565,2007,Charleston So,-3.04
+2566,2007,UC Riverside,-3.08
+2567,2007,Coppin St,-5.17
+2568,2007,Iona,-3.97
+2569,2007,UT San Antonio,-4.07
+2570,2007,Savannah St,-2.51
+2571,2007,Norfolk St,-8.21
+2572,2007,Ark Pine Bluff,-10.86
+2573,2007,Texas St,-6.11
+2574,2007,Southern Univ,-10.04
+2575,2007,Howard,-10.61
+2576,2007,Alabama St,-11.54
+2577,2007,Denver,-5.89
+2578,2007,TX Southern,-11.7
+2579,2007,Grambling,-13.28
+2580,2007,Bethune-Cookman,-9.53
+2581,2007,Alcorn St,-13.23
+2582,2007,MD E Shore,-9.04
+2583,2007,Alabama A&M,-12.38
+2584,2007,Prairie View,-10.4
+2585,2008,Kansas,8.2
+2586,2008,North Carolina,8.12
+2587,2008,Memphis,5.76
+2588,2008,UCLA,7.71
+2589,2008,Duke,9.28
+2590,2008,Wisconsin,6.73
+2591,2008,Louisville,8
+2592,2008,Georgetown,7.23
+2593,2008,Marquette,8.09
+2594,2008,Tennessee,7.84
+2595,2008,Texas,8.59
+2596,2008,Clemson,9.08
+2597,2008,West Virginia,7.16
+2598,2008,Xavier,5.47
+2599,2008,Washington St,6.35
+2600,2008,Michigan St,7.68
+2601,2008,Stanford,6.95
+2602,2008,Texas A&M,7.46
+2603,2008,Notre Dame,7.03
+2604,2008,Kansas St,7.79
+2605,2008,Indiana,6.08
+2606,2008,Pittsburgh,7.84
+2607,2008,Connecticut,6.76
+2608,2008,Gonzaga,2.15
+2609,2008,Arizona,10.22
+2610,2008,Drake,4.15
+2611,2008,Davidson,1.66
+2612,2008,USC,8.59
+2613,2008,Ohio State,7.97
+2614,2008,Mississippi St,5.74
+2615,2008,Purdue,5.9
+2616,2008,Butler,2.64
+2617,2008,Syracuse,7.96
+2618,2008,New Mexico,1.72
+2619,2008,Arkansas,6.73
+2620,2008,Miami FL,7.13
+2621,2008,Florida,4.98
+2622,2008,Mississippi,5.88
+2623,2008,Virginia Tech,6.54
+2624,2008,Oklahoma,7.85
+2625,2008,BYU,1.33
+2626,2008,Missouri,6.87
+2627,2008,Oregon,7.65
+2628,2008,Baylor,5.75
+2629,2008,Saint Mary's CA,0.36
+2630,2008,Nebraska,6.34
+2631,2008,Villanova,7.69
+2632,2008,Illinois,8.46
+2633,2008,Vanderbilt,5.54
+2634,2008,Georgia Tech,9.57
+2635,2008,Florida St,7.31
+2636,2008,Arizona St,6.28
+2637,2008,Minnesota,6.5
+2638,2008,UNLV,4.02
+2639,2008,Maryland,7.28
+2640,2008,St Joseph's  PA,3.98
+2641,2008,Massachusetts,3.77
+2642,2008,Oklahoma St,7.67
+2643,2008,California,8.45
+2644,2008,WKU,0.24
+2645,2008,Wake Forest,8.83
+2646,2008,Kentucky,7.09
+2647,2008,Washington,8
+2648,2008,Duquesne,1.85
+2649,2008,S Illinois,5.88
+2650,2008,Illinois St,3.44
+2651,2008,Rhode Island,2.29
+2652,2008,Houston,-0.16
+2653,2008,Providence,7.86
+2654,2008,Alabama-Birmingham,2.09
+2655,2008,Temple,4.57
+2656,2008,Alabama,5.7
+2657,2008,Creighton,4.45
+2658,2008,Dayton,4.06
+2659,2008,South Alabama,-1.21
+2660,2008,Virginia,5.63
+2661,2008,Kent,0.41
+2662,2008,Texas Tech,7.62
+2663,2008,Utah,3.89
+2664,2008,South Carolina,6.11
+2665,2008,Tulsa,2.97
+2666,2008,Georgia,7.03
+2667,2008,VA Commonwealth,-2.06
+2668,2008,Charlotte,4.34
+2669,2008,Boston College,7.75
+2670,2008,Akron,0.33
+2671,2008,Bradley,4.25
+2672,2008,George Mason,-0.75
+2673,2008,Miami OH,3.82
+2674,2008,Oral Roberts,-0.26
+2675,2008,Missouri St,3.43
+2676,2008,CS Fullerton,-3.06
+2677,2008,UCF,3.16
+2678,2008,New Mexico St,-1.31
+2679,2008,NC State,9.06
+2680,2008,San Diego St,2.15
+2681,2008,South Florida,6.57
+2682,2008,IUPUI,-2.41
+2683,2008,LSU,5.66
+2684,2008,Cincinnati,8.51
+2685,2008,Seton Hall,5.47
+2686,2008,UTEP,1.54
+2687,2008,Penn St,6.12
+2688,2008,DePaul,8.73
+2689,2008,Northern Iowa,3.61
+2690,2008,Siena,-1.62
+2691,2008,Colorado,6.76
+2692,2008,Iowa St,7.97
+2693,2008,Ohio,1.3
+2694,2008,Nevada,-0.11
+2695,2008,Southern Miss,1.81
+2696,2008,Winthrop,-1.45
+2697,2008,San Diego,1.45
+2698,2008,Cleveland St,1.69
+2699,2008,W Michigan,-0.51
+2700,2008,Michigan,7.99
+2701,2008,IL Chicago,0.64
+2702,2008,St John's,7.3
+2703,2008,Iowa,5.23
+2704,2008,Old Dominion,0.28
+2705,2008,Wright St,0.48
+2706,2008,Valparaiso,1.29
+2707,2008,Auburn,4.7
+2708,2008,Marshall,2.17
+2709,2008,UNC Greensboro ,-1.41
+2710,2008,Rider,-3.72
+2711,2008,Portland St,-3.01
+2712,2008,Utah St,-2.58
+2713,2008,Boise St,-2.07
+2714,2008,North Texas,-2.72
+2715,2008,Indiana St,4.11
+2716,2008,SF Austin,-6.17
+2717,2008,CS Northridge,-2.81
+2718,2008,UC Santa Barbara,-3.16
+2719,2008,Wichita St,2.85
+2720,2008,Cornell,-4.74
+2721,2008,Air Force,0.19
+2722,2008,Tulane,2.15
+2723,2008,St Louis,3.05
+2724,2008,Richmond,2.55
+2725,2008,Pacific,-4.22
+2726,2008,UMBC,-4.53
+2727,2008,WI Green Bay,1.53
+2728,2008,Ga Southern,-2.17
+2729,2008,Robert Morris,-6.57
+2730,2008,Belmont,-3.44
+2731,2008,Fordham,4.32
+2732,2008,Niagara,-3.61
+2733,2008,Oakland,-0.81
+2734,2008,La Salle,2.08
+2735,2008,Sam Houston St,-5.25
+2736,2008,Brown,-4.65
+2737,2008,Marist,-1.83
+2738,2008,Appalachian St,-2.77
+2739,2008,Northern Arizona,-3.81
+2740,2008,Santa Clara,-0.98
+2741,2008,TCU,-0.37
+2742,2008,WI Milwaukee,2.19
+2743,2008,UC Irvine,-2.41
+2744,2008,Chattanooga,-1.12
+2745,2008,Northwestern,6.15
+2746,2008,Northeastern,-1.1
+2747,2008,Rutgers,7.07
+2748,2008,G Washington,3.15
+2749,2008,American Univ,-4
+2750,2008,UNC Wilmington,-2.42
+2751,2008,Austin Peay,-5.24
+2752,2008,Col Charleston ,-2.31
+2753,2008,Lamar,-4.1
+2754,2008,UNC Asheville,-4.41
+2755,2008,Holy Cross,-3.6
+2756,2008,MTSU,-0.23
+2757,2008,Loyola MD,-3.2
+2758,2008,UT Arlington,-4.62
+2759,2008,Fresno St,-0.91
+2760,2008,New Orleans,-3.56
+2761,2008,E Michigan,-1.82
+2762,2008,C Michigan,0.19
+2763,2008,Ark Little Rock,-4.26
+2764,2008,Mt St Mary's,-5.12
+2765,2008,Louisiana,-2.1
+2766,2008,Buffalo,0.61
+2767,2008,Weber St,-3.5
+2768,2008,Wyoming,1.86
+2769,2008,Gardner Webb,-3.66
+2770,2008,Albany NY,-5.92
+2771,2008,William & Mary,-1.38
+2772,2008,Loyola-Chicago,0.55
+2773,2008,Vermont,-5.77
+2774,2008,Montana,-4
+2775,2008,ETSU,-1.89
+2776,2008,Morgan St,-8.6
+2777,2008,East Carolina,2.84
+2778,2008,Murray St,-6.97
+2779,2008,Lafayette,-4.68
+2780,2008,Evansville,2.07
+2781,2008,Elon,-1.91
+2782,2008,Lipscomb,-4.88
+2783,2008,Bowling Green,-0.63
+2784,2008,High Point,-6.41
+2785,2008,James Madison,-4.09
+2786,2008,IPFW,0.96
+2787,2008,Central Conn,-6.68
+2788,2008,Hawaii,-2.42
+2789,2008,St Bonaventure,1.08
+2790,2008,Hampton,-8.03
+2791,2008,Toledo,1.55
+2792,2008,Ball St,0.5
+2793,2008,Colgate,-5.06
+2794,2008,FL Atlantic,-2.38
+2795,2008,Fairfield,-2.51
+2796,2008,Youngstown St,1.74
+2797,2008,Wofford,-1.42
+2798,2008,SE Louisiana,-5.53
+2799,2008,Delaware,-2.43
+2800,2008,Navy,-7.68
+2801,2008,Sacred Heart,-6.3
+2802,2008,Hofstra,-3
+2803,2008,Long Island,-6.72
+2804,2008,Liberty,-5.96
+2805,2008,Denver,-2.22
+2806,2008,Oregon St,7.34
+2807,2008,Southern Utah,-2.02
+2808,2008,Detroit,1
+2809,2008,Yale,-3.88
+2810,2008,Boston Univ,-4.91
+2811,2008,Iona,-3.27
+2812,2008,Montana St,-4.85
+2813,2008,Binghamton,-6
+2814,2008,Bucknell,-3.88
+2815,2008,Tennessee St,-5.65
+2816,2008,Missouri KC,-0.37
+2817,2008,Wagner,-7.62
+2818,2008,San Francisco,-0.95
+2819,2008,Troy,-1.99
+2820,2008,N Colorado,-4.71
+2821,2008,Colorado St,2.8
+2822,2008,Florida Intl,0.22
+2823,2008,Towson,-2.83
+2824,2008,E Washington,-2.06
+2825,2008,Georgia St,-2.97
+2826,2008,Drexel,-1.85
+2827,2008,Alabama St,-12.7
+2828,2008,Lehigh,-5.82
+2829,2008,Arkansas St,-2.02
+2830,2008,Tennessee Tech,-6.87
+2831,2008,Manhattan,-4.61
+2832,2008,Pepperdine,-0.06
+2833,2008,Quinnipiac,-7.08
+2834,2008,Jacksonville,-3.61
+2835,2008,W Carolina,-1.2
+2836,2008,TN Martin,-6.37
+2837,2008,ULM,-0.39
+2838,2008,SMU,0.92
+2839,2008,Columbia,-5.79
+2840,2008,Army,-5.04
+2841,2008,Portland,-1.24
+2842,2008,Hartford,-5.28
+2843,2008,Nicholls St,-1.13
+2844,2008,San Jose St,-1.66
+2845,2008,TAM C. Christi,-2.82
+2846,2008,N Illinois,0.38
+2847,2008,McNeese St,-3.59
+2848,2008,Cal Poly SLO,-2.08
+2849,2008,VMI,-7.32
+2850,2008,E Kentucky,-6.34
+2851,2008,Texas St,-5.35
+2852,2008,Mercer,-5.68
+2853,2008,New Hampshire,-6.11
+2854,2008,St Peter's,-4.11
+2855,2008,Rice,2.78
+2856,2008,Penn,-3.75
+2857,2008,UT San Antonio,-2.95
+2858,2008,W Illinois,-1.67
+2859,2008,UTRGV,-6.94
+2860,2008,Chicago St,1.47
+2861,2008,UC Riverside,-2.02
+2862,2008,Idaho,-1.04
+2863,2008,Harvard,-4.86
+2864,2008,Centenary,-1.71
+2865,2008,Northwestern LA,-2.7
+2866,2008,Morehead St,-6.31
+2867,2008,Princeton,-4.05
+2868,2008,Stetson,-5.67
+2869,2008,Delaware St,-6.88
+2870,2008,Coastal Car,-5.44
+2871,2008,Campbell,-6.62
+2872,2008,Samford,-7.19
+2873,2008,Idaho State,-2.14
+2874,2008,Stony Brook,-6.5
+2875,2008,St Francis NY,-6.29
+2876,2008,Furman,-2.39
+2877,2008,Long Beach St,-2.92
+2878,2008,Monmouth NJ,-5.22
+2879,2008,F Dickinson,-5.12
+2880,2008,St Francis PA,-5.27
+2881,2008,Norfolk St,-11.97
+2882,2008,SE Missouri St,-6.99
+2883,2008,Canisius,-3.14
+2884,2008,Coppin St,-6.2
+2885,2008,Dartmouth,-7.19
+2886,2008,NC A&T,-6.48
+2887,2008,E Illinois,-7.97
+2888,2008,Radford,-3.15
+2889,2008,UC Davis,-2.68
+2890,2008,Charleston So,-4.63
+2891,2008,MS Valley St,-9.5
+2892,2008,Jacksonville St,-8.59
+2893,2008,Louisiana Tech,-4.35
+2894,2008,Florida A&M,-7.18
+2895,2008,S Carolina St,-9.23
+2896,2008,Bethune-Cookman,-10.89
+2897,2008,Southern Univ,-11.16
+2898,2008,Alabama A&M,-12.97
+2899,2008,Jackson St,-10.78
+2900,2008,Savannah St,-2.76
+2901,2008,Maine,-4.89
+2902,2008,Loy Marymount,-0.05
+2903,2008,Citadel,-1.14
+2904,2008,CS Sacramento,-1.9
+2905,2008,Ark Pine Bluff,-12.56
+2906,2008,Longwood,-4.92
+2907,2008,TX Southern,-9.03
+2908,2008,Prairie View,-9.7
+2909,2008,Howard,-7.73
+2910,2008,Alcorn St,-11.47
+2911,2008,Grambling,-12.41
+2912,2008,MD E Shore,-7.82
+2913,2009,North Carolina,8.35
+2914,2009,Connecticut,8.57
+2915,2009,Pittsburgh,8.61
+2916,2009,Memphis,4.63
+2917,2009,Louisville,8.41
+2918,2009,Duke,9.07
+2919,2009,Missouri,6.72
+2920,2009,UCLA,7.19
+2921,2009,West Virginia,8.34
+2922,2009,Oklahoma,6.88
+2923,2009,Kansas,7.9
+2924,2009,Gonzaga,3.55
+2925,2009,Michigan St,9.37
+2926,2009,Villanova,8.72
+2927,2009,Syracuse,9.48
+2928,2009,Washington,8.19
+2929,2009,Arizona St,7.82
+2930,2009,Purdue,7.17
+2931,2009,Wake Forest,7.36
+2932,2009,Clemson,6.59
+2933,2009,BYU,4.15
+2934,2009,Marquette,7.87
+2935,2009,Texas,8.09
+2936,2009,Xavier,4.65
+2937,2009,Georgetown,8.97
+2938,2009,Illinois,6.73
+2939,2009,USC,9.15
+2940,2009,Oklahoma St,7.44
+2941,2009,Tennessee,7.71
+2942,2009,California,7.21
+2943,2009,Florida,3.88
+2944,2009,Kentucky,4.82
+2945,2009,Utah,5.72
+2946,2009,Baylor,7.93
+2947,2009,Ohio State,8.23
+2948,2009,Wisconsin,8.43
+2949,2009,Notre Dame,8.7
+2950,2009,Kansas St,5.24
+2951,2009,Michigan,9.74
+2952,2009,Arizona,8.8
+2953,2009,LSU,3.27
+2954,2009,Miami FL,9.04
+2955,2009,San Diego St,4.74
+2956,2009,Florida St,7.91
+2957,2009,New Mexico,3.6
+2958,2009,Minnesota,7.19
+2959,2009,Washington St,7.5
+2960,2009,Maryland,8.99
+2961,2009,Stanford,6.91
+2962,2009,Texas A&M,6.13
+2963,2009,Boston College,7.23
+2964,2009,Butler,2.07
+2965,2009,Alabama-Birmingham,3.67
+2966,2009,Auburn,3.56
+2967,2009,Saint Mary's CA,1.49
+2968,2009,Penn St,5.71
+2969,2009,Utah St,0.07
+2970,2009,Mississippi St,4.62
+2971,2009,Temple,3.9
+2972,2009,Nebraska,4.82
+2973,2009,Virginia Tech,6.88
+2974,2009,South Carolina,4.2
+2975,2009,Creighton,0.92
+2976,2009,UNLV,4.34
+2977,2009,Northwestern,6.93
+2978,2009,Tulsa,4.84
+2979,2009,NC State,6.74
+2980,2009,Davidson,-3.33
+2981,2009,Houston,1.29
+2982,2009,Vanderbilt,3.81
+2983,2009,Siena,0.99
+2984,2009,Rhode Island,1.21
+2985,2009,Cincinnati,6.77
+2986,2009,Illinois St,1.52
+2987,2009,Providence,7.23
+2988,2009,VA Commonwealth,-0.65
+2989,2009,Seton Hall,6.47
+2990,2009,Dayton,1.76
+2991,2009,Cleveland St,2.12
+2992,2009,UTEP,3.21
+2993,2009,Iowa,6.84
+2994,2009,Niagara,-2.25
+2995,2009,N Dakota St,-2.72
+2996,2009,Duquesne,2.48
+2997,2009,Virginia,8.34
+2998,2009,Mississippi,5.41
+2999,2009,WI Green Bay,0.73
+3000,2009,Northern Iowa,2.24
+3001,2009,Georgia Tech,7.32
+3002,2009,Alabama,3.99
+3003,2009,Texas Tech,8.04
+3004,2009,Vermont,-4.27
+3005,2009,Nevada,1.4
+3006,2009,St John's,6.83
+3007,2009,Oregon St,7.55
+3008,2009,St Joseph's  PA,2.21
+3009,2009,Arkansas,3.89
+3010,2009,George Mason,-1.98
+3011,2009,Oral Roberts,-0.05
+3012,2009,WKU,-1.23
+3013,2009,Iowa St,5.68
+3014,2009,La Salle,1.12
+3015,2009,Akron,-2.01
+3016,2009,ETSU,-1.87
+3017,2009,Wright St,0.23
+3018,2009,Miami OH,0.46
+3019,2009,Portland,-0.05
+3020,2009,Old Dominion,-2.23
+3021,2009,Cornell,-4.01
+3022,2009,CS Northridge,-0.14
+3023,2009,South Florida,8.18
+3024,2009,Richmond,1.08
+3025,2009,Bradley,1.95
+3026,2009,New Mexico St,0.28
+3027,2009,TCU,3.96
+3028,2009,Pacific,-1.59
+3029,2009,Wichita St,2.08
+3030,2009,Northeastern,-0.24
+3031,2009,Evansville,2.29
+3032,2009,Oakland,-1.6
+3033,2009,UCF,1.26
+3034,2009,Jacksonville,-0.05
+3035,2009,Southern Miss,3.81
+3036,2009,Oregon,10.28
+3037,2009,Buffalo,-0.9
+3038,2009,Drake,1.41
+3039,2009,Portland St,-3.16
+3040,2009,Weber St,-2.39
+3041,2009,SF Austin,-3.21
+3042,2009,Rutgers,6.6
+3043,2009,St Louis,0.99
+3044,2009,IL Chicago,0.02
+3045,2009,Charlotte,2.47
+3046,2009,Wyoming,3.53
+3047,2009,Kent,-0.97
+3048,2009,Massachusetts,3.54
+3049,2009,Belmont,-1.37
+3050,2009,S Illinois,3.19
+3051,2009,Marshall,2.73
+3052,2009,Bowling Green,-1.75
+3053,2009,TN Martin,-4.9
+3054,2009,American Univ,-5.49
+3055,2009,Colorado,5.04
+3056,2009,Murray St,-3.95
+3057,2009,San Diego,1.57
+3058,2009,Sam Houston St,-2.59
+3059,2009,WI Milwaukee,0.8
+3060,2009,Santa Clara,0.41
+3061,2009,Idaho,-0.15
+3062,2009,Ark Little Rock,-3.72
+3063,2009,Robert Morris,-5.23
+3064,2009,Drexel,-1.28
+3065,2009,Boise St,0.54
+3066,2009,James Madison,-2.91
+3067,2009,North Texas,-2.77
+3068,2009,Colorado St,3.88
+3069,2009,DePaul,6.88
+3070,2009,Tulane,0.9
+3071,2009,MTSU,-2.78
+3072,2009,Col Charleston ,-5.87
+3073,2009,Mt St Mary's,-5.78
+3074,2009,Ohio,-1.4
+3075,2009,Long Beach St,-0.27
+3076,2009,UC Santa Barbara,-1.1
+3077,2009,Georgia,5.5
+3078,2009,Missouri St,1.9
+3079,2009,Indiana,8.98
+3080,2009,G Washington,0.31
+3081,2009,Fairfield,-0.44
+3082,2009,Morgan St,-6.53
+3083,2009,UT Arlington,-3.37
+3084,2009,Louisiana Tech,-1.98
+3085,2009,Hawaii,-1.34
+3086,2009,St Bonaventure,-1.12
+3087,2009,Lipscomb,-3.49
+3088,2009,Boston Univ,-4.91
+3089,2009,South Alabama,-3.75
+3090,2009,Rider,-2.98
+3091,2009,San Jose St,0.44
+3092,2009,E Kentucky,-5.45
+3093,2009,IUPUI,-2.51
+3094,2009,Montana,-3.53
+3095,2009,Air Force,2.37
+3096,2009,East Carolina,1.26
+3097,2009,Nicholls St,-4.08
+3098,2009,Morehead St,-3.61
+3099,2009,Idaho State,0.17
+3100,2009,Iona,-2.37
+3101,2009,Binghamton,-5.62
+3102,2009,SMU,3.62
+3103,2009,VMI,-7.49
+3104,2009,Indiana St,2.04
+3105,2009,Hofstra,-2.9
+3106,2009,TAM C. Christi,-1.46
+3107,2009,Holy Cross,-5.91
+3108,2009,Troy,-4.22
+3109,2009,Manhattan,-3.4
+3110,2009,Fresno St,0.96
+3111,2009,UC Davis,-3.4
+3112,2009,Austin Peay,-3.69
+3113,2009,CS Fullerton,-1.26
+3114,2009,Sacred Heart,-6.85
+3115,2009,Valparaiso,2.22
+3116,2009,Citadel,-5.98
+3117,2009,Radford,-4.37
+3118,2009,N Colorado,-3.64
+3119,2009,Denver,-4.97
+3120,2009,UT San Antonio,-4.17
+3121,2009,Texas St,-3.93
+3122,2009,Stony Brook,-6.49
+3123,2009,Delaware,-2.64
+3124,2009,Lamar,-1.04
+3125,2009,Rice,3.18
+3126,2009,UC Riverside,-3.76
+3127,2009,Youngstown St,-0.11
+3128,2009,Navy,-7.68
+3129,2009,Liberty,-5.49
+3130,2009,Arkansas St,-4.31
+3131,2009,IPFW,-0.64
+3132,2009,Southern Utah,-2.12
+3133,2009,McNeese St,-3.99
+3134,2009,Ball St,-3.02
+3135,2009,Loyola-Chicago,-0.67
+3136,2009,Loyola MD,-0.65
+3137,2009,W Michigan,-3.19
+3138,2009,UC Irvine,-1.8
+3139,2009,S Dakota St,-1.45
+3140,2009,San Francisco,0.3
+3141,2009,Chicago St,-4.51
+3142,2009,William & Mary,-2.79
+3143,2009,Alabama St,-11.2
+3144,2009,Georgia St,-1.83
+3145,2009,Northern Arizona,-1.7
+3146,2009,SE Louisiana,-2.89
+3147,2009,Chattanooga,-3.13
+3148,2009,Louisiana,-2.23
+3149,2009,Montana St,-2.45
+3150,2009,Canisius,-1.68
+3151,2009,Albany NY,-4.11
+3152,2009,Tennessee Tech,-4.68
+3153,2009,Stetson,1.17
+3154,2009,Long Island,-8.63
+3155,2009,Wofford,-5.45
+3156,2009,C Michigan,-4.15
+3157,2009,Mercer,0.12
+3158,2009,E Washington,-1.81
+3159,2009,W Carolina,-5.13
+3160,2009,Marist,-1.85
+3161,2009,Yale,-5.17
+3162,2009,Towson,-1.27
+3163,2009,Harvard,-6.05
+3164,2009,Florida Intl,-1.52
+3165,2009,Penn,-3.33
+3166,2009,Princeton,-7.66
+3167,2009,Campbell,-3.42
+3168,2009,Detroit,0.65
+3169,2009,Jacksonville St,-4.78
+3170,2009,Samford,-6.38
+3171,2009,Lehigh,-8.28
+3172,2009,Cal Poly SLO,-1.32
+3173,2009,Gardner Webb,-5.04
+3174,2009,St Peter's,-3.43
+3175,2009,Appalachian St,-5.44
+3176,2009,Centenary,-1.56
+3177,2009,UMBC,-4.16
+3178,2009,Quinnipiac,-8.57
+3179,2009,E Illinois,-5.47
+3180,2009,New Hampshire,-5.57
+3181,2009,Jackson St,-8.22
+3182,2009,Coppin St,-4.59
+3183,2009,FL Atlantic,-2.1
+3184,2009,New Orleans,-4.08
+3185,2009,Columbia,-6.46
+3186,2009,N Illinois,-5.13
+3187,2009,Army,-7.59
+3188,2009,Missouri KC,-1.25
+3189,2009,S Carolina St,-9.47
+3190,2009,Central Conn,-6.76
+3191,2009,Wagner,-8.6
+3192,2009,Toledo,-0.96
+3193,2009,Hampton,-7.58
+3194,2009,Tennessee St,-4.47
+3195,2009,W Illinois,-4.04
+3196,2009,Pepperdine,1.88
+3197,2009,Maine,-4.4
+3198,2009,UNC Asheville,-4.19
+3199,2009,Winthrop,-4.54
+3200,2009,Bucknell,-4.12
+3201,2009,E Michigan,-1.79
+3202,2009,Coastal Car,-6.98
+3203,2009,ULM,-3.2
+3204,2009,Elon,-4.62
+3205,2009,Longwood,-6.51
+3206,2009,Brown,-5.02
+3207,2009,Bethune-Cookman,-9.76
+3208,2009,Prairie View,-9.81
+3209,2009,St Francis NY,-6.66
+3210,2009,Savannah St,-1.16
+3211,2009,NC A&T,-8.37
+3212,2009,High Point,-5.89
+3213,2009,Hartford,-2.93
+3214,2009,Colgate,-6.12
+3215,2009,Dartmouth,-6.03
+3216,2009,Norfolk St,-9.49
+3217,2009,Ga Southern,-3.7
+3218,2009,UTRGV,-3.01
+3219,2009,UNC Wilmington,-0.66
+3220,2009,Charleston So,-5.46
+3221,2009,Lafayette,-6.14
+3222,2009,Fordham,1.08
+3223,2009,Delaware St,-4.78
+3224,2009,Loy Marymount,1.8
+3225,2009,Monmouth NJ,-5.91
+3226,2009,Ark Pine Bluff,-7.48
+3227,2009,St Francis PA,-6.24
+3228,2009,UNC Greensboro ,-4.33
+3229,2009,Furman,-4.62
+3230,2009,TX Southern,-7.46
+3231,2009,Howard,-6.58
+3232,2009,Florida A&M,-5.72
+3233,2009,F Dickinson,-5.18
+3234,2009,Southern Univ,-11.5
+3235,2009,CS Sacramento,-2.29
+3236,2009,MS Valley St,-7.22
+3237,2009,Northwestern LA,-3.34
+3238,2009,SE Missouri St,-3.75
+3239,2009,Alabama A&M,-11.63
+3240,2009,MD E Shore,-8.8
+3241,2009,Grambling,-10.1
+3242,2009,Alcorn St,-10.26
+3243,2010,Duke,9.21
+3244,2010,Kansas,8.25
+3245,2010,Syracuse,7.21
+3246,2010,Kentucky,6.82
+3247,2010,Kansas St,10.28
+3248,2010,Ohio State,7.37
+3249,2010,West Virginia,10.26
+3250,2010,BYU,3
+3251,2010,Texas,7.38
+3252,2010,Baylor,8.03
+3253,2010,Wisconsin,7.66
+3254,2010,Maryland,7.95
+3255,2010,Purdue,8.81
+3256,2010,Missouri,6.36
+3257,2010,California,8.26
+3258,2010,Georgetown,9.56
+3259,2010,Villanova,7.75
+3260,2010,Xavier,5.94
+3261,2010,Tennessee,7.75
+3262,2010,Clemson,7.9
+3263,2010,Minnesota,7.32
+3264,2010,Washington,7.49
+3265,2010,Michigan St,8.17
+3266,2010,Texas A&M,9.8
+3267,2010,Vanderbilt,7.86
+3268,2010,Marquette,8.23
+3269,2010,Florida St,6.79
+3270,2010,Butler,5.08
+3271,2010,Pittsburgh,7.39
+3272,2010,Georgia Tech,9.02
+3273,2010,Louisville,7.99
+3274,2010,Arizona St,5.83
+3275,2010,Utah St,1.23
+3276,2010,Mississippi,5.77
+3277,2010,Saint Mary's CA,2.2
+3278,2010,Dayton,5.61
+3279,2010,Notre Dame,6.22
+3280,2010,UTEP,1.96
+3281,2010,UNLV,4.82
+3282,2010,Mississippi St,4.6
+3283,2010,Connecticut,9.15
+3284,2010,New Mexico,3.84
+3285,2010,Temple,4.27
+3286,2010,Oklahoma St,6.97
+3287,2010,Gonzaga,3.83
+3288,2010,Northern Iowa,4.27
+3289,2010,Florida,7.16
+3290,2010,Memphis,3.65
+3291,2010,Virginia Tech,5.13
+3292,2010,Illinois,9.58
+3293,2010,Wake Forest,8.85
+3294,2010,Old Dominion,1.78
+3295,2010,Miami FL,7.01
+3296,2010,San Diego St,4.21
+3297,2010,Seton Hall,5.78
+3298,2010,Alabama,6.62
+3299,2010,VA Commonwealth,0.64
+3300,2010,North Carolina,9.83
+3301,2010,Michigan,9.37
+3302,2010,Richmond,3.43
+3303,2010,Cincinnati,8.45
+3304,2010,Iowa St,8.37
+3305,2010,Boston College,7.21
+3306,2010,Alabama-Birmingham,2.9
+3307,2010,St John's,8.7
+3308,2010,Rhode Island,3.33
+3309,2010,USC,6.47
+3310,2010,Virginia,6.93
+3311,2010,Cornell,-0.91
+3312,2010,South Florida,7.21
+3313,2010,Murray St,-3.89
+3314,2010,Siena,-1.17
+3315,2010,NC State,7.3
+3316,2010,Tulsa,2.84
+3317,2010,Northwestern,4.99
+3318,2010,South Carolina,7.29
+3319,2010,Wichita St,1.73
+3320,2010,Arizona,8.1
+3321,2010,Texas Tech,8.47
+3322,2010,Marshall,1.57
+3323,2010,Missouri St,1.4
+3324,2010,Georgia,8.04
+3325,2010,Providence,8.24
+3326,2010,Colorado,7.7
+3327,2010,Wright St,0.16
+3328,2010,Houston,3.48
+3329,2010,Nebraska,6.66
+3330,2010,Penn St,6.32
+3331,2010,Nevada,2.56
+3332,2010,Northeastern,2.21
+3333,2010,Portland,2.04
+3334,2010,Oklahoma,7.79
+3335,2010,Arkansas,5.09
+3336,2010,Illinois St,1.16
+3337,2010,Stanford,6.5
+3338,2010,UCLA,7.86
+3339,2010,Auburn,4.68
+3340,2010,St Louis,2.55
+3341,2010,Washington St,4.65
+3342,2010,Kent,0.74
+3343,2010,Ohio,-0.03
+3344,2010,Wofford,-2.57
+3345,2010,Utah,4.16
+3346,2010,Southern Miss,2.25
+3347,2010,Oregon,5.96
+3348,2010,Charlotte,3
+3349,2010,Montana,-2.35
+3350,2010,Oregon St,5.79
+3351,2010,Bradley,4.11
+3352,2010,Sam Houston St,-3.37
+3353,2010,Weber St,-1.04
+3354,2010,Creighton,3.15
+3355,2010,Morehead St,-3.07
+3356,2010,S Illinois,1.27
+3357,2010,G Washington,0.96
+3358,2010,Pacific,-1.19
+3359,2010,Louisiana Tech,-0.4
+3360,2010,Akron,-1.5
+3361,2010,William & Mary,1.63
+3362,2010,SMU,3.78
+3363,2010,WKU,-2.18
+3364,2010,Iona,-1.85
+3365,2010,Iowa,8.09
+3366,2010,New Mexico St,1.66
+3367,2010,N Colorado,-4.26
+3368,2010,Appalachian St,-2.76
+3369,2010,Hofstra,-0.02
+3370,2010,IUPUI,-4.08
+3371,2010,DePaul,7.58
+3372,2010,Harvard,-3.91
+3373,2010,Colorado St,3.61
+3374,2010,Detroit,-1.59
+3375,2010,Belmont,-3.41
+3376,2010,Rutgers,5.91
+3377,2010,St Bonaventure,1.96
+3378,2010,WI Milwaukee,0.52
+3379,2010,Indiana St,2.4
+3380,2010,LSU,5.93
+3381,2010,Duquesne,1.95
+3382,2010,Indiana,9.37
+3383,2010,Boston Univ,-3.23
+3384,2010,Cleveland St,2.12
+3385,2010,Miami OH,1.43
+3386,2010,Drake,3.34
+3387,2010,W Michigan,-1.17
+3388,2010,Fairfield,-3.33
+3389,2010,WI Green Bay,0.75
+3390,2010,Niagara,-2.5
+3391,2010,Fresno St,1.31
+3392,2010,Princeton,-5.56
+3393,2010,UCF,2.19
+3394,2010,Drexel,0.19
+3395,2010,UC Santa Barbara,-1.09
+3396,2010,Idaho,0.48
+3397,2010,TCU,4.15
+3398,2010,La Salle,2.46
+3399,2010,Long Beach St,1.55
+3400,2010,George Mason,0.06
+3401,2010,Oakland,-2.96
+3402,2010,Coastal Car,-10.14
+3403,2010,Col Charleston ,-2.46
+3404,2010,ETSU,-1.47
+3405,2010,Oral Roberts,-3.85
+3406,2010,Boise St,0.68
+3407,2010,Morgan St,-6.15
+3408,2010,W Carolina,-2.91
+3409,2010,Vermont,-6.69
+3410,2010,Loy Marymount,1.32
+3411,2010,Jacksonville,-2.3
+3412,2010,Massachusetts,3.4
+3413,2010,MTSU,-3.33
+3414,2010,Buffalo,-2.27
+3415,2010,TAM C. Christi,-2.83
+3416,2010,San Jose St,0.83
+3417,2010,E Kentucky,-5.16
+3418,2010,Lipscomb,-3.07
+3419,2010,St Joseph's  PA,3.97
+3420,2010,Davidson,-1.26
+3421,2010,SF Austin,-6.9
+3422,2010,North Texas,-4.72
+3423,2010,San Diego,1.98
+3424,2010,St Peter's,-4.57
+3425,2010,Denver,-4.89
+3426,2010,CS Fullerton,-1.55
+3427,2010,UT San Antonio,-5.44
+3428,2010,Valparaiso,0.34
+3429,2010,Troy,-2.31
+3430,2010,Campbell,-4.96
+3431,2010,Montana St,-2.45
+3432,2010,Tulane,1.5
+3433,2010,Lehigh,-7.79
+3434,2010,Citadel,-2.94
+3435,2010,E Michigan,-3.59
+3436,2010,San Francisco,2.82
+3437,2010,Portland St,-1.21
+3438,2010,Quinnipiac,-9.37
+3439,2010,C Michigan,-3.58
+3440,2010,Stony Brook,-7.64
+3441,2010,Rider,-1.68
+3442,2010,Robert Morris,-6.15
+3443,2010,Georgia St,-1.48
+3444,2010,Austin Peay,-1.68
+3445,2010,SE Louisiana,-6.21
+3446,2010,Arkansas St,-4.39
+3447,2010,UNC Wilmington,0.94
+3448,2010,Mt St Mary's,-6.28
+3449,2010,FL Atlantic,-3.3
+3450,2010,Wyoming,3.63
+3451,2010,Evansville,1.82
+3452,2010,Manhattan,-2.97
+3453,2010,Bowling Green,-0.94
+3454,2010,Louisiana,-4.74
+3455,2010,Ball St,-1.48
+3456,2010,Loyola-Chicago,0.56
+3457,2010,Air Force,3.13
+3458,2010,Hawaii,0.33
+3459,2010,James Madison,-1.52
+3460,2010,E Illinois,-5
+3461,2010,Mercer,-1.2
+3462,2010,Canisius,-4.09
+3463,2010,Loyola MD,-4.09
+3464,2010,Rice,1.15
+3465,2010,CS Northridge,-1.06
+3466,2010,Santa Clara,1.66
+3467,2010,East Carolina,4.42
+3468,2010,S Dakota St,-5.05
+3469,2010,UC Davis,-3.01
+3470,2010,Youngstown St,0.4
+3471,2010,Radford,-6.9
+3472,2010,Maine,-6.26
+3473,2010,Hampton,-8.36
+3474,2010,UC Riverside,-2.61
+3475,2010,Furman,-4.83
+3476,2010,Samford,-2.54
+3477,2010,Texas St,-3.3
+3478,2010,UC Irvine,-3.75
+3479,2010,Northern Arizona,-2.35
+3480,2010,IL Chicago,0.94
+3481,2010,N Illinois,-2.05
+3482,2010,South Alabama,-3.82
+3483,2010,Delaware,1.37
+3484,2010,Bucknell,-6.84
+3485,2010,Lafayette,-8.99
+3486,2010,Cal Poly SLO,-2.31
+3487,2010,Holy Cross,-5.57
+3488,2010,UT Arlington,-3.97
+3489,2010,Jacksonville St,-4.22
+3490,2010,UNC Greensboro ,0.63
+3491,2010,Ark Pine Bluff,-7.68
+3492,2010,Pepperdine,0.94
+3493,2010,Towson,-0.75
+3494,2010,N Dakota St,-5.76
+3495,2010,Chattanooga,-3.68
+3496,2010,Winthrop,-7.31
+3497,2010,Delaware St,-7.6
+3498,2010,Army,-7.96
+3499,2010,S Carolina St,-8.65
+3500,2010,IPFW,-4.73
+3501,2010,North Florida,-2.11
+3502,2010,New Hampshire,-6.29
+3503,2010,Tennessee St,-2.69
+3504,2010,Tennessee Tech,-2.51
+3505,2010,Yale,-5.6
+3506,2010,Ark Little Rock,-2.23
+3507,2010,Kennesaw State,-3.69
+3508,2010,Idaho State,0.13
+3509,2010,Elon,-3.04
+3510,2010,Binghamton,-4.31
+3511,2010,Brown,-3.82
+3512,2010,ULM,-5.3
+3513,2010,Nicholls St,-2.61
+3514,2010,Lamar,-4.22
+3515,2010,TX Southern,-11.38
+3516,2010,Monmouth NJ,-7.82
+3517,2010,Colgate,-6.52
+3518,2010,Sacred Heart,-8.72
+3519,2010,American Univ,-6.89
+3520,2010,Long Island,-8.25
+3521,2010,Columbia,-6.04
+3522,2010,McNeese St,-4.34
+3523,2010,W Illinois,-5.84
+3524,2010,Norfolk St,-6.42
+3525,2010,E Washington,-1.91
+3526,2010,Albany NY,-5.53
+3527,2010,Navy,-7.91
+3528,2010,NC A&T,-5.66
+3529,2010,CS Sacramento,-2.65
+3530,2010,Ga Southern,-1.67
+3531,2010,Florida Intl,-2.74
+3532,2010,Savannah St,-5.75
+3533,2010,Bethune-Cookman,-8.4
+3534,2010,Fordham,2.08
+3535,2010,Jackson St,-10.66
+3536,2010,Liberty,-7.25
+3537,2010,Charleston So,-8.12
+3538,2010,Penn,-3.31
+3539,2010,New Orleans,-4.5
+3540,2010,Hartford,-6.04
+3541,2010,St Francis NY,-8.42
+3542,2010,Missouri KC,-4.75
+3543,2010,UNC Asheville,-6.47
+3544,2010,Toledo,-0.77
+3545,2010,Alabama St,-12.02
+3546,2010,SE Missouri St,-3.06
+3547,2010,High Point,-9.3
+3548,2010,Central Conn,-9.68
+3549,2010,Longwood,-3.74
+3550,2010,Coppin St,-6.81
+3551,2010,Northwestern LA,-4.7
+3552,2010,F Dickinson,-6.42
+3553,2010,Prairie View,-12.11
+3554,2010,St Francis PA,-7.08
+3555,2010,MD E Shore,-7.38
+3556,2010,Utah Valley,-9.25
+3557,2010,UMBC,-6.19
+3558,2010,Centenary,-5.08
+3559,2010,Marist,-2.85
+3560,2010,UTRGV,-4.47
+3561,2010,Southern Utah,-4.75
+3562,2010,TN Martin,-2.06
+3563,2010,Stetson,-2.14
+3564,2010,Wagner,-8.78
+3565,2010,Dartmouth,-5.46
+3566,2010,Florida A&M,-6.41
+3567,2010,Howard,-7.27
+3568,2010,NJIT,-8.24
+3569,2010,MS Valley St,-9.88
+3570,2010,VMI,-7.21
+3571,2010,Alabama A&M,-13.71
+3572,2010,Gardner Webb,-5.61
+3573,2010,Chicago St,-7.61
+3574,2010,Grambling,-12.75
+3575,2010,Southern Univ,-10.96
+3576,2010,Alcorn St,-9
+3577,2011,Ohio State,8.38
+3578,2011,Duke,8.32
+3579,2011,Kansas,7.62
+3580,2011,Pittsburgh,7.85
+3581,2011,Texas,7.96
+3582,2011,Kentucky,8.91
+3583,2011,Washington,7.74
+3584,2011,Purdue,8.69
+3585,2011,North Carolina,10.15
+3586,2011,Syracuse,8.79
+3587,2011,Wisconsin,9.42
+3588,2011,BYU,5.76
+3589,2011,Louisville,8.2
+3590,2011,Notre Dame,8.43
+3591,2011,San Diego St,6.36
+3592,2011,Connecticut,10.44
+3593,2011,Illinois,11.11
+3594,2011,Arizona,7.99
+3595,2011,Florida,7.57
+3596,2011,West Virginia,11.03
+3597,2011,Cincinnati,6.1
+3598,2011,Vanderbilt,6.86
+3599,2011,Villanova,8.23
+3600,2011,Maryland,5.76
+3601,2011,Marquette,8.51
+3602,2011,Missouri,6.5
+3603,2011,UNLV,6
+3604,2011,Georgetown,10.39
+3605,2011,Kansas St,8.41
+3606,2011,Michigan,10.68
+3607,2011,Gonzaga,4.01
+3608,2011,Virginia Tech,6.29
+3609,2011,Clemson,6.58
+3610,2011,Michigan St,11.67
+3611,2011,Florida St,6.45
+3612,2011,Utah St,0.5
+3613,2011,St John's,10.01
+3614,2011,Belmont,-4.42
+3615,2011,Saint Mary's CA,1.95
+3616,2011,Texas A&M,5.94
+3617,2011,Wichita St,1.79
+3618,2011,Temple,4.23
+3619,2011,Washington St,6.81
+3620,2011,Penn St,11.45
+3621,2011,Xavier,4.41
+3622,2011,Minnesota,9.79
+3623,2011,New Mexico,4.9
+3624,2011,Alabama,4.27
+3625,2011,UCLA,7.93
+3626,2011,George Mason,1.37
+3627,2011,Northwestern,7.54
+3628,2011,Butler,5.02
+3629,2011,USC,7.97
+3630,2011,Colorado,5.61
+3631,2011,Richmond,2.79
+3632,2011,Tennessee,8.73
+3633,2011,Seton Hall,9.33
+3634,2011,Nebraska,4.67
+3635,2011,Miami FL,6.42
+3636,2011,Georgia,6.13
+3637,2011,Duquesne,1.49
+3638,2011,Baylor,4.8
+3639,2011,Boston College,7.31
+3640,2011,California,9.17
+3641,2011,Indiana,7.65
+3642,2011,Old Dominion,1.76
+3643,2011,Iowa St,4.55
+3644,2011,UTEP,2.47
+3645,2011,Mississippi,3.92
+3646,2011,VA Commonwealth,3.78
+3647,2011,Alabama-Birmingham,2.78
+3648,2011,Oklahoma St,6.94
+3649,2011,Southern Miss,1.9
+3650,2011,Oakland,0.1
+3651,2011,Missouri St,1.35
+3652,2011,Iowa,8.79
+3653,2011,Rutgers,7.22
+3654,2011,Cleveland St,1.74
+3655,2011,Colorado St,5.26
+3656,2011,NC State,6.8
+3657,2011,Iona,-2.26
+3658,2011,Oregon,6.92
+3659,2011,Memphis,3.14
+3660,2011,Providence,6.44
+3661,2011,Georgia Tech,5.68
+3662,2011,Stanford,5.17
+3663,2011,Marshall,1.94
+3664,2011,Arkansas,2.34
+3665,2011,UCF,1.97
+3666,2011,Col Charleston ,-1.05
+3667,2011,Tulsa,3.25
+3668,2011,Virginia,6.55
+3669,2011,Boise St,0.01
+3670,2011,Harvard,-1.19
+3671,2011,Creighton,1.41
+3672,2011,Dayton,3.2
+3673,2011,Portland,2.2
+3674,2011,Northern Iowa,2.04
+3675,2011,Wofford,-1.21
+3676,2011,Arizona St,7.2
+3677,2011,South Florida,8.89
+3678,2011,Valparaiso,1.69
+3679,2011,South Carolina,5.6
+3680,2011,Drexel,-0.01
+3681,2011,Texas Tech,6.18
+3682,2011,Long Beach St,1.69
+3683,2011,Oklahoma,6.42
+3684,2011,Princeton,-1.61
+3685,2011,Kent,0.04
+3686,2011,Indiana St,2.9
+3687,2011,Mississippi St,3.77
+3688,2011,Rhode Island,1.9
+3689,2011,Wright St,1.45
+3690,2011,S Dakota St,-4.04
+3691,2011,Santa Clara,1.25
+3692,2011,Fairfield,-3.91
+3693,2011,James Madison,-0.03
+3694,2011,Buffalo,-2.22
+3695,2011,St Louis,3.06
+3696,2011,Morehead St,-3.13
+3697,2011,Air Force,3.31
+3698,2011,Utah,6.56
+3699,2011,Bucknell,-3.87
+3700,2011,Coastal Car,-5.15
+3701,2011,Long Island,-5.77
+3702,2011,Montana,-2.47
+3703,2011,Akron,-1.02
+3704,2011,New Mexico St,2.66
+3705,2011,ETSU,-2.12
+3706,2011,Detroit,0.91
+3707,2011,San Francisco,3.06
+3708,2011,Loyola-Chicago,-1.1
+3709,2011,East Carolina,2.99
+3710,2011,Rice,2.67
+3711,2011,Rider,-2.67
+3712,2011,Oregon St,5.03
+3713,2011,WI Milwaukee,2.51
+3714,2011,N Colorado,-2.24
+3715,2011,St Bonaventure,1.73
+3716,2011,UC Santa Barbara,0.12
+3717,2011,SMU,-0.39
+3718,2011,TCU,3.93
+3719,2011,Oral Roberts,-1.17
+3720,2011,Pacific,-0.88
+3721,2011,Northern Arizona,-3.72
+3722,2011,Ohio,-1.01
+3723,2011,Hawaii,-0.87
+3724,2011,Murray St,-4.85
+3725,2011,IUPUI,-0.84
+3726,2011,Nevada,1.88
+3727,2011,Idaho,-0.64
+3728,2011,Vermont,-5.33
+3729,2011,Hofstra,0.13
+3730,2011,La Salle,1.7
+3731,2011,G Washington,0.36
+3732,2011,Austin Peay,-3.77
+3733,2011,WI Green Bay,2.18
+3734,2011,Fresno St,0.58
+3735,2011,St Peter's,-1.08
+3736,2011,Tulane,-0.68
+3737,2011,Evansville,1.8
+3738,2011,Furman,-3.65
+3739,2011,Davidson,-2.17
+3740,2011,UNC Asheville,-2.89
+3741,2011,Ball St,-3.4
+3742,2011,W Michigan,-2.52
+3743,2011,Massachusetts,1.93
+3744,2011,Robert Morris,-2.61
+3745,2011,Lipscomb,-2.65
+3746,2011,DePaul,7.53
+3747,2011,Jacksonville,-3.68
+3748,2011,North Texas,-5.07
+3749,2011,Bradley,1.67
+3750,2011,N Dakota St,-3.5
+3751,2011,San Jose St,-0.08
+3752,2011,Miami OH,3.04
+3753,2011,Weber St,-1.74
+3754,2011,St Joseph's  PA,3.46
+3755,2011,Cal Poly SLO,-2.39
+3756,2011,Central Conn,-5.97
+3757,2011,Quinnipiac,-6.39
+3758,2011,LSU,2.26
+3759,2011,IPFW,-5.17
+3760,2011,Sam Houston St,-3.9
+3761,2011,FL Atlantic,-2.61
+3762,2011,S Illinois,1.48
+3763,2011,Auburn,2.4
+3764,2011,Boston Univ,-3.85
+3765,2011,Charlotte,1.89
+3766,2011,Drake,0.76
+3767,2011,Northeastern,1.17
+3768,2011,Houston,0.55
+3769,2011,MTSU,-4.45
+3770,2011,Loy Marymount,0.27
+3771,2011,Yale,-2.72
+3772,2011,Canisius,-3.55
+3773,2011,Penn,-1.64
+3774,2011,American Univ,-5.64
+3775,2011,Wyoming,3.53
+3776,2011,Loyola MD,-3.68
+3777,2011,SF Austin,-7.73
+3778,2011,Illinois St,-0.66
+3779,2011,Arkansas St,-3.31
+3780,2011,UNC Wilmington,-0.44
+3781,2011,W Carolina,-2.86
+3782,2011,Cornell,-1.6
+3783,2011,UC Irvine,-2.36
+3784,2011,Delaware,-0.11
+3785,2011,WKU,-3.15
+3786,2011,Siena,-1.71
+3787,2011,Pepperdine,1.43
+3788,2011,Denver,-3.48
+3789,2011,Lehigh,-5.69
+3790,2011,Mercer,-2.17
+3791,2011,Georgia St,-1.92
+3792,2011,VMI,-5.45
+3793,2011,Ark Little Rock,-2.97
+3794,2011,William & Mary,0.49
+3795,2011,Wake Forest,5.51
+3796,2011,McNeese St,-4.39
+3797,2011,Appalachian St,-2.95
+3798,2011,Charleston So,-4.57
+3799,2011,Maine,-5.84
+3800,2011,Hampton,-8.77
+3801,2011,Columbia,-4.81
+3802,2011,CS Northridge,-1.55
+3803,2011,Winthrop,-3.2
+3804,2011,Louisiana,-4.19
+3805,2011,St Francis NY,-5.85
+3806,2011,Liberty,-4.86
+3807,2011,Tennessee Tech,-5.77
+3808,2011,UC Davis,-1.9
+3809,2011,Nicholls St,-4.52
+3810,2011,UT San Antonio,-4.93
+3811,2011,Bowling Green,-2.03
+3812,2011,Louisiana Tech,-0.99
+3813,2011,North Florida,0.31
+3814,2011,IL Chicago,1.98
+3815,2011,Holy Cross,-4.55
+3816,2011,Youngstown St,0.93
+3817,2011,Elon,-3.32
+3818,2011,Wagner,-3.67
+3819,2011,Campbell,-4.27
+3820,2011,Lamar,-5.96
+3821,2011,Stony Brook,-6.2
+3822,2011,Montana St,-3.22
+3823,2011,Albany NY,-5.96
+3824,2011,Tennessee St,-4.73
+3825,2011,Lafayette,-4.19
+3826,2011,Brown,-4.12
+3827,2011,E Kentucky,-6.48
+3828,2011,UT Arlington,-5.47
+3829,2011,Texas St,-5.89
+3830,2011,CS Fullerton,-2.81
+3831,2011,Presbyterian,-2.85
+3832,2011,Portland St,-4.47
+3833,2011,Utah Valley,-9.97
+3834,2011,Southern Utah,-3.44
+3835,2011,C Michigan,-2.41
+3836,2011,Morgan St,-7.72
+3837,2011,N Illinois,-2.26
+3838,2011,Towson,-0.52
+3839,2011,UC Riverside,-1.4
+3840,2011,E Washington,-2.22
+3841,2011,San Diego,3.18
+3842,2011,Coppin St,-7.66
+3843,2011,Fordham,1.01
+3844,2011,Northwestern LA,-7.02
+3845,2011,Missouri KC,-4.46
+3846,2011,SE Louisiana,-5.4
+3847,2011,Savannah St,-2.44
+3848,2011,E Michigan,-3.11
+3849,2011,Gardner Webb,-2.72
+3850,2011,Mt St Mary's,-3.47
+3851,2011,Seattle,-2.36
+3852,2011,Florida Intl,-4.23
+3853,2011,Sacred Heart,-6.12
+3854,2011,Chattanooga,-2.67
+3855,2011,Troy,-2.05
+3856,2011,Monmouth NJ,-4.4
+3857,2011,South Dakota,-10.48
+3858,2011,South Alabama,-4.34
+3859,2011,Citadel,-2.84
+3860,2011,UNC Greensboro ,-0.37
+3861,2011,Hartford,-5.55
+3862,2011,New Hampshire,-6.32
+3863,2011,TX Southern,-9.02
+3864,2011,FL Gulf Coast,-3.11
+3865,2011,Jackson St,-10.86
+3866,2011,Navy,-5.56
+3867,2011,Army,-6.58
+3868,2011,Stetson,-2.86
+3869,2011,Idaho State,-1.87
+3870,2011,Bethune-Cookman,-8.04
+3871,2011,Jacksonville St,-5.41
+3872,2011,Samford,-4.22
+3873,2011,E Illinois,-4.89
+3874,2011,CS Bakersfield ,-2.16
+3875,2011,St Francis PA,-3.84
+3876,2011,Manhattan,-2.01
+3877,2011,North Dakota,-8.7
+3878,2011,Niagara,-3.02
+3879,2011,NC A&T,-6.26
+3880,2011,Delaware St,-6.39
+3881,2011,Norfolk St,-7.45
+3882,2011,SE Missouri St,-5.4
+3883,2011,TAM C. Christi,-2.09
+3884,2011,SC Upstate,-0.94
+3885,2011,TN Martin,-5
+3886,2011,High Point,-4.47
+3887,2011,Bryant,-3.12
+3888,2011,NC Central,-8.03
+3889,2011,NJIT,-9.64
+3890,2011,F Dickinson,-5
+3891,2011,Alabama St,-10.31
+3892,2011,Marist,-1.46
+3893,2011,Binghamton,-5.35
+3894,2011,MS Valley St,-7.48
+3895,2011,CS Sacramento,-4.05
+3896,2011,Kennesaw State,-3.29
+3897,2011,ULM,-3.96
+3898,2011,Toledo,-0.88
+3899,2011,Dartmouth,-3.39
+3900,2011,W Illinois,-4.43
+3901,2011,Alabama A&M,-11.75
+3902,2011,Colgate,-5.03
+3903,2011,Ga Southern,-3.13
+3904,2011,Longwood,-3.62
+3905,2011,UTRGV,-6.41
+3906,2011,S Carolina St,-8.57
+3907,2011,Radford,-2.52
+3908,2011,Florida A&M,-8.71
+3909,2011,Houston Bap,-8.72
+3910,2011,Grambling,-10.45
+3911,2011,UMBC,-4.27
+3912,2011,Howard,-7.3
+3913,2011,Cent Arkansas,-5.39
+3914,2011,MD E Shore,-7.42
+3915,2011,Prairie View,-8.77
+3916,2011,Ark Pine Bluff,-8.03
+3917,2011,Edwardsville,-3.67
+3918,2011,Alcorn St,-8.02
+3919,2011,Centenary,-2.85
+3920,2011,Southern Univ,-9.47
+3921,2011,Chicago St,-4.88
+3922,2012,Kentucky,7.93
+3923,2012,Ohio State,9.07
+3924,2012,Kansas,9.93
+3925,2012,North Carolina,7.07
+3926,2012,Michigan St,9.82
+3927,2012,Syracuse,8.02
+3928,2012,Missouri,5.68
+3929,2012,Wisconsin,8.24
+3930,2012,Indiana,7.8
+3931,2012,Florida,7.33
+3932,2012,Wichita St,3.8
+3933,2012,Duke,8.4
+3934,2012,Marquette,7.5
+3935,2012,Memphis,5.26
+3936,2012,Georgetown,7.69
+3937,2012,Baylor,8.03
+3938,2012,Louisville,9.02
+3939,2012,Vanderbilt,8.04
+3940,2012,New Mexico,3.34
+3941,2012,St Louis,4.06
+3942,2012,Florida St,7.62
+3943,2012,Kansas St,7.53
+3944,2012,Texas,8.12
+3945,2012,Purdue,8.05
+3946,2012,Gonzaga,3.25
+3947,2012,California,4.53
+3948,2012,Alabama,7.18
+3949,2012,UNLV,4.37
+3950,2012,Iowa St,7.32
+3951,2012,Michigan,8.98
+3952,2012,Cincinnati,6.28
+3953,2012,Creighton,3.41
+3954,2012,Stanford,3.99
+3955,2012,Virginia,4.23
+3956,2012,Connecticut,8.07
+3957,2012,West Virginia,7.53
+3958,2012,NC State,6.8
+3959,2012,Belmont,-1.22
+3960,2012,Saint Mary's CA,0.78
+3961,2012,BYU,1.55
+3962,2012,Notre Dame,6.47
+3963,2012,Arizona,4.62
+3964,2012,Washington,5.27
+3965,2012,Miami FL,6.17
+3966,2012,Minnesota,7.89
+3967,2012,UCLA,5.28
+3968,2012,Temple,4.94
+3969,2012,Seton Hall,5.7
+3970,2012,Oregon,4.72
+3971,2012,Xavier,6.22
+3972,2012,Long Beach St,0.87
+3973,2012,Tennessee,6.58
+3974,2012,Pittsburgh,5.89
+3975,2012,Illinois,7.99
+3976,2012,South Florida,7.29
+3977,2012,Mississippi St,4.86
+3978,2012,San Diego St,3.79
+3979,2012,Virginia Tech,6.21
+3980,2012,Northwestern,7.84
+3981,2012,Oregon St,3.38
+3982,2012,VA Commonwealth,0.63
+3983,2012,Murray St,-2.6
+3984,2012,New Mexico St,0.08
+3985,2012,MTSU,-0.13
+3986,2012,La Salle,1.83
+3987,2012,Dayton,4.3
+3988,2012,Iona,-1.82
+3989,2012,St Joseph's  PA,4.25
+3990,2012,St Bonaventure,2.84
+3991,2012,Colorado,5.73
+3992,2012,Villanova,7.64
+3993,2012,Harvard,-1.56
+3994,2012,Southern Miss,3.61
+3995,2012,Massachusetts,2.97
+3996,2012,Drexel,-1.8
+3997,2012,S Dakota St,-1.87
+3998,2012,Clemson,3.41
+3999,2012,Oklahoma,6.67
+4000,2012,Davidson,-1.68
+4001,2012,Ohio,0.17
+4002,2012,Iowa,6.53
+4003,2012,Oklahoma St,8.95
+4004,2012,Marshall,4.94
+4005,2012,Northern Iowa,4.74
+4006,2012,Wyoming,1.43
+4007,2012,LSU,5.51
+4008,2012,Colorado St,5.23
+4009,2012,Mississippi,5.8
+4010,2012,Akron,0.72
+4011,2012,Illinois St,2.64
+4012,2012,Washington St,4.06
+4013,2012,Missouri St,3.92
+4014,2012,Denver,-1.47
+4015,2012,Georgia,7.95
+4016,2012,Tulsa,2.85
+4017,2012,Arkansas,3.63
+4018,2012,Georgia St,-2.99
+4019,2012,Texas A&M,6.54
+4020,2012,Rutgers,5.76
+4021,2012,Cleveland St,0.12
+4022,2012,Oral Roberts,-1.5
+4023,2012,Richmond,2.9
+4024,2012,Montana,-3.39
+4025,2012,Nevada,-0.37
+4026,2012,UCF,2.98
+4027,2012,Lehigh,-5.14
+4028,2012,Providence,4.56
+4029,2012,Buffalo,0.15
+4030,2012,Duquesne,3.96
+4031,2012,Old Dominion,0.36
+4032,2012,UC Santa Barbara,-1.38
+4033,2012,Maryland,5.98
+4034,2012,George Mason,-1.67
+4035,2012,Mercer,-1.44
+4036,2012,Penn St,7.75
+4037,2012,Wagner,-5.5
+4038,2012,Bucknell,-3.08
+4039,2012,Boise St,3.14
+4040,2012,Nebraska,8.25
+4041,2012,Utah St,-0.37
+4042,2012,Evansville,3.56
+4043,2012,UT Arlington,-5.09
+4044,2012,UNC Asheville,-2.72
+4045,2012,Fairfield,-1.34
+4046,2012,UTEP,2.85
+4047,2012,Butler,1.14
+4048,2012,Kent,-0.95
+4049,2012,South Carolina,6.27
+4050,2012,St John's,6.98
+4051,2012,Alabama-Birmingham,3.64
+4052,2012,Princeton,-1
+4053,2012,Auburn,3.84
+4054,2012,Drake,2.96
+4055,2012,East Carolina,2.53
+4056,2012,Lamar,-3.77
+4057,2012,Detroit,-0.01
+4058,2012,Loy Marymount,1.17
+4059,2012,Indiana St,3.08
+4060,2012,DePaul,4.57
+4061,2012,San Francisco,-0.17
+4062,2012,Georgia Tech,4.13
+4063,2012,TCU,3.44
+4064,2012,Weber St,-3.65
+4065,2012,Manhattan,-4.13
+4066,2012,Rice,1.1
+4067,2012,Bowling Green,0.07
+4068,2012,Penn,-0.1
+4069,2012,Charlotte,2.86
+4070,2012,Vermont,-5.19
+4071,2012,Idaho,-0.43
+4072,2012,Robert Morris,-4.3
+4073,2012,Valparaiso,0.02
+4074,2012,WI Milwaukee,0.06
+4075,2012,Loyola MD,-2.72
+4076,2012,Oakland,-0.54
+4077,2012,Houston,0.21
+4078,2012,N Dakota St,-2.5
+4079,2012,Tulane,-1.61
+4080,2012,Col Charleston ,-2.54
+4081,2012,SC Upstate,-1.6
+4082,2012,North Texas,-2.56
+4083,2012,ETSU,-1.78
+4084,2012,Air Force,2.14
+4085,2012,Stony Brook,-6.22
+4086,2012,USC,6.58
+4087,2012,Cal Poly SLO,-3.78
+4088,2012,G Washington,4.15
+4089,2012,Wake Forest,4.19
+4090,2012,Fresno St,0.77
+4091,2012,Arizona St,4.31
+4092,2012,CS Fullerton,-5.32
+4093,2012,SMU,1.34
+4094,2012,Long Island,-5.1
+4095,2012,Yale,-2.63
+4096,2012,SF Austin,-5.67
+4097,2012,Delaware,-2.18
+4098,2012,Youngstown St,-1.65
+4099,2012,W Michigan,0.17
+4100,2012,UT San Antonio,-4.4
+4101,2012,Ark Little Rock,0.03
+4102,2012,Quinnipiac,-5.8
+4103,2012,Miami OH,1.93
+4104,2012,Charleston So,-4.33
+4105,2012,WI Green Bay,1.04
+4106,2012,FL Gulf Coast,-1.96
+4107,2012,FL Atlantic,0.77
+4108,2012,Texas Tech,6.1
+4109,2012,Coastal Car,-4.56
+4110,2012,Louisiana Tech,-1.19
+4111,2012,WKU,0.51
+4112,2012,Hawaii,-0.52
+4113,2012,South Alabama,-1.98
+4114,2012,W Illinois,-1.39
+4115,2012,Columbia,-3.18
+4116,2012,Ball St,-4.45
+4117,2012,Hofstra,-1.1
+4118,2012,Tennessee St,-2.73
+4119,2012,American Univ,-5.24
+4120,2012,Arkansas St,-0.52
+4121,2012,Louisiana,-2.28
+4122,2012,Northeastern,-0.4
+4123,2012,Toledo,-3.64
+4124,2012,North Florida,-0.05
+4125,2012,S Illinois,3.12
+4126,2012,Savannah St,-5.92
+4127,2012,Wofford,-3.79
+4128,2012,Norfolk St,-5.39
+4129,2012,Boston Univ,-4.09
+4130,2012,San Diego,0.87
+4131,2012,Rhode Island,3.1
+4132,2012,Tennessee Tech,-3.06
+4133,2012,IUPUI,-1.75
+4134,2012,E Washington,-3.23
+4135,2012,Albany NY,-6.92
+4136,2012,Portland St,-4.07
+4137,2012,Cornell,-0.98
+4138,2012,Wright St,0.25
+4139,2012,Seattle,-2.76
+4140,2012,Boston College,4.89
+4141,2012,Lipscomb,-1.23
+4142,2012,Austin Peay,-0.66
+4143,2012,Jacksonville St,-5.23
+4144,2012,Morehead St,-3.83
+4145,2012,Florida Intl,-1.1
+4146,2012,Central Conn,-5.05
+4147,2012,Rider,-2.4
+4148,2012,UNC Wilmington,0.18
+4149,2012,Siena,-2.94
+4150,2012,Bradley,3.62
+4151,2012,James Madison,-2.11
+4152,2012,High Point,-4.13
+4153,2012,Holy Cross,-4.23
+4154,2012,St Francis NY,-6.75
+4155,2012,Furman,-3.9
+4156,2012,Campbell,-4.8
+4157,2012,UC Irvine,-1.24
+4158,2012,NC Central,-6.98
+4159,2012,SE Missouri St,-5.33
+4160,2012,Southern Utah,-3.18
+4161,2012,N Colorado,-2.19
+4162,2012,McNeese St,-3.76
+4163,2012,Northwestern LA,-4.15
+4164,2012,Utah Valley,-7.11
+4165,2012,W Carolina,-3.42
+4166,2012,Niagara,-2.86
+4167,2012,Ga Southern,-3.78
+4168,2012,C Michigan,-1.62
+4169,2012,Presbyterian,-4.65
+4170,2012,Santa Clara,0.96
+4171,2012,Sacred Heart,-5.56
+4172,2012,Appalachian St,-3.28
+4173,2012,Chattanooga,-3.54
+4174,2012,CS Bakersfield ,-3.65
+4175,2012,Lafayette,-4.01
+4176,2012,Jacksonville,0.1
+4177,2012,Pepperdine,-0.23
+4178,2012,Elon,-3.03
+4179,2012,Stetson,-0.66
+4180,2012,Troy,-0.85
+4181,2012,Fordham,1.92
+4182,2012,Winthrop,-3.47
+4183,2012,San Jose St,-1.19
+4184,2012,Portland,3.82
+4185,2012,E Michigan,-1.68
+4186,2012,Gardner Webb,-4.82
+4187,2012,UC Riverside,-2.22
+4188,2012,MS Valley St,-7.65
+4189,2012,Pacific,-2.61
+4190,2012,Delaware St,-6.78
+4191,2012,Marist,-3.29
+4192,2012,Morgan St,-5.54
+4193,2012,Loyola-Chicago,-1.77
+4194,2012,E Kentucky,-5.93
+4195,2012,Maine,-6.54
+4196,2012,Texas St,-5.31
+4197,2012,Samford,-2.96
+4198,2012,North Dakota,-6.33
+4199,2012,IPFW,-2.05
+4200,2012,Missouri KC,-1.75
+4201,2012,Coppin St,-5.96
+4202,2012,Sam Houston St,-3.2
+4203,2012,Bethune-Cookman,-7.05
+4204,2012,IL Chicago,-1.3
+4205,2012,Utah,5.49
+4206,2012,VMI,-5.16
+4207,2012,South Dakota,-2.88
+4208,2012,Liberty,-4.81
+4209,2012,UNC Greensboro ,-1.96
+4210,2012,CS Sacramento,-5.71
+4211,2012,Dartmouth,-3.56
+4212,2012,Hampton,-7.93
+4213,2012,New Hampshire,-7.66
+4214,2012,TX Southern,-8.68
+4215,2012,Montana St,-4.62
+4216,2012,William & Mary,-0.72
+4217,2012,Idaho State,-2.77
+4218,2012,Army,-7.16
+4219,2012,E Illinois,-6.48
+4220,2012,Mt St Mary's,-4.9
+4221,2012,Monmouth NJ,-3.18
+4222,2012,SE Louisiana,-6.44
+4223,2012,NJIT,-8.27
+4224,2012,TAM C. Christi,-3.04
+4225,2012,NC A&T,-5.89
+4226,2012,Brown,-3.62
+4227,2012,ULM,-0.95
+4228,2012,CS Northridge,-2.61
+4229,2012,Radford,-3.34
+4230,2012,St Francis PA,-4.42
+4231,2012,Edwardsville,-5.5
+4232,2012,St Peter's,-2.44
+4233,2012,Hartford,-6.19
+4234,2012,UTRGV,-4.44
+4235,2012,Citadel,-3.67
+4236,2012,Howard,-4.16
+4237,2012,Navy,-4.74
+4238,2012,Canisius,-4.53
+4239,2012,Colgate,-4.38
+4240,2012,Kennesaw State,-0.49
+4241,2012,Florida A&M,-6.29
+4242,2012,UC Davis,-2.63
+4243,2012,N Illinois,-1.79
+4244,2012,Alabama St,-9.96
+4245,2012,Houston Bap,-6.1
+4246,2012,Southern Univ,-11.35
+4247,2012,Towson,1.54
+4248,2012,Northern Arizona,-3.53
+4249,2012,Ark Pine Bluff,-8.34
+4250,2012,MD E Shore,-4.72
+4251,2012,Prairie View,-10.29
+4252,2012,F Dickinson,-5.06
+4253,2012,TN Martin,-3.15
+4254,2012,Cent Arkansas,-4.83
+4255,2012,Jackson St,-7
+4256,2012,Bryant,-4.27
+4257,2012,Nicholls St,-3.94
+4258,2012,Chicago St,-3.13
+4259,2012,Alabama A&M,-10.79
+4260,2012,Alcorn St,-10.61
+4261,2012,UMBC,-6.02
+4262,2012,Binghamton,-6.24
+4263,2012,Longwood,-5.99
+4264,2012,S Carolina St,-6.11
+4265,2012,Grambling,-9.39
+4266,2013,Indiana,8.38
+4267,2013,Louisville,9.13
+4268,2013,Florida,6.83
+4269,2013,Duke,9.54
+4270,2013,Michigan,10.05
+4271,2013,Kansas,7.54
+4272,2013,Gonzaga,4.18
+4273,2013,Syracuse,8.57
+4274,2013,Ohio State,9.32
+4275,2013,Pittsburgh,5.63
+4276,2013,Wisconsin,9.73
+4277,2013,Michigan St,10.55
+4278,2013,Arizona,7.47
+4279,2013,Miami FL,7.88
+4280,2013,VA Commonwealth,4.47
+4281,2013,Minnesota,10.31
+4282,2013,Creighton,5.16
+4283,2013,Georgetown,7.59
+4284,2013,Oklahoma St,6.73
+4285,2013,Missouri,6
+4286,2013,Baylor,7.13
+4287,2013,Wichita St,6.09
+4288,2013,North Carolina,8.01
+4289,2013,Saint Mary's CA,3.31
+4290,2013,Iowa St,6.13
+4291,2013,Cincinnati,6.93
+4292,2013,Mississippi,4.14
+4293,2013,St Louis,4.28
+4294,2013,NC State,7.17
+4295,2013,Iowa,6.93
+4296,2013,Marquette,8.58
+4297,2013,Kentucky,5.78
+4298,2013,Oregon,5.77
+4299,2013,Notre Dame,7.22
+4300,2013,Colorado St,5.89
+4301,2013,Kansas St,6.53
+4302,2013,New Mexico,6.63
+4303,2013,Illinois,10.08
+4304,2013,San Diego St,6.19
+4305,2013,UNLV,5.71
+4306,2013,Virginia,4.23
+4307,2013,UCLA,7.82
+4308,2013,Memphis,2.7
+4309,2013,Colorado,7.95
+4310,2013,Connecticut,7.42
+4311,2013,Oklahoma,7.09
+4312,2013,Stanford,7.37
+4313,2013,Maryland,4.66
+4314,2013,MTSU,-1.52
+4315,2013,Butler,6.08
+4316,2013,Villanova,8.53
+4317,2013,BYU,3.75
+4318,2013,California,7.77
+4319,2013,Belmont,-0.96
+4320,2013,La Salle,4.46
+4321,2013,Arkansas,4.97
+4322,2013,Alabama,5.93
+4323,2013,Illinois St,3.72
+4324,2013,Temple,5.2
+4325,2013,Boise St,5.27
+4326,2013,Dayton,4.27
+4327,2013,Providence,6.55
+4328,2013,Denver,0.26
+4329,2013,Purdue,7.87
+4330,2013,Tennessee,6.03
+4331,2013,Southern Miss,1.49
+4332,2013,Arizona St,4.6
+4333,2013,Northern Iowa,5.23
+4334,2013,Akron,0.18
+4335,2013,Washington,7.22
+4336,2013,Xavier,4.96
+4337,2013,St Joseph's  PA,4.03
+4338,2013,Davidson,-3.45
+4339,2013,Valparaiso,-1.13
+4340,2013,Bucknell,-1.96
+4341,2013,Ohio,-1.06
+4342,2013,Richmond,3.43
+4343,2013,Texas,6.55
+4344,2013,Detroit,1.62
+4345,2013,Washington St,5.26
+4346,2013,Georgia Tech,4.67
+4347,2013,Santa Clara,1.72
+4348,2013,Texas A&M,4.86
+4349,2013,USC,8.25
+4350,2013,Vanderbilt,6.03
+4351,2013,Boston College,7.03
+4352,2013,Oregon St,4.29
+4353,2013,Rutgers,6.77
+4354,2013,Weber St,-5.61
+4355,2013,Clemson,4.44
+4356,2013,LSU,4.01
+4357,2013,Massachusetts,4.55
+4358,2013,St John's,7.16
+4359,2013,Florida St,7.23
+4360,2013,Stony Brook,-4.12
+4361,2013,Seton Hall,5.96
+4362,2013,Louisiana Tech,-2.06
+4363,2013,Wyoming,4.61
+4364,2013,Northwestern,8.3
+4365,2013,Georgia,6.09
+4366,2013,Evansville,2.91
+4367,2013,N Dakota St,-4.01
+4368,2013,New Mexico St,0.7
+4369,2013,Indiana St,5.64
+4370,2013,Utah,6.68
+4371,2013,UTEP,2.38
+4372,2013,West Virginia,6.54
+4373,2013,Nebraska,9.59
+4374,2013,South Florida,7.7
+4375,2013,SF Austin,-6.64
+4376,2013,G Washington,3.49
+4377,2013,Air Force,4.28
+4378,2013,Iona,-0.02
+4379,2013,Harvard,0.16
+4380,2013,Lehigh,-3.01
+4381,2013,Utah St,-0.68
+4382,2013,UCF,0.96
+4383,2013,St Bonaventure,2.71
+4384,2013,Drake,5.14
+4385,2013,Wake Forest,6.15
+4386,2013,Fresno St,6.56
+4387,2013,Princeton,-1.65
+4388,2013,Penn St,9.46
+4389,2013,FL Gulf Coast,-2.07
+4390,2013,Charlotte,2.75
+4391,2013,East Carolina,0.81
+4392,2013,San Francisco,2.83
+4393,2013,Kent,-0.83
+4394,2013,Canisius,-0.99
+4395,2013,S Dakota St,-3.27
+4396,2013,Wright St,-1.15
+4397,2013,George Mason,-0.17
+4398,2013,Pacific,1.05
+4399,2013,Tulane,-1.8
+4400,2013,Virginia Tech,6.27
+4401,2013,DePaul,5.61
+4402,2013,WI Green Bay,-0.27
+4403,2013,E Kentucky,-3.92
+4404,2013,Loyola MD,-2.1
+4405,2013,Bradley,1.97
+4406,2013,Murray St,-2.89
+4407,2013,Arkansas St,-4.36
+4408,2013,Mercer,-4.08
+4409,2013,Niagara,-1.15
+4410,2013,UT Arlington,-0.9
+4411,2013,Nevada,5.35
+4412,2013,W Michigan,-1.43
+4413,2013,Northwestern LA,-3.77
+4414,2013,Alabama-Birmingham,1.51
+4415,2013,Robert Morris,-4.9
+4416,2013,Auburn,4.18
+4417,2013,Col Charleston ,-3.86
+4418,2013,UC Irvine,-0.66
+4419,2013,Vermont,-4.46
+4420,2013,Oral Roberts,-3
+4421,2013,Houston,-3.77
+4422,2013,Cal Poly SLO,-0.62
+4423,2013,Fairfield,-2
+4424,2013,San Diego,2.6
+4425,2013,SMU,-1.33
+4426,2013,Boston Univ,-3.93
+4427,2013,Rhode Island,4.95
+4428,2013,WKU,-1.14
+4429,2013,South Carolina,2.11
+4430,2013,Delaware,-0.81
+4431,2013,S Illinois,2.28
+4432,2013,Albany NY,-4.53
+4433,2013,Loyola-Chicago,-2.3
+4434,2013,Tulsa,0.95
+4435,2013,Drexel,-0.98
+4436,2013,Montana,-4.21
+4437,2013,Long Beach St,1.92
+4438,2013,Rider,-1.66
+4439,2013,Northeastern,-1.93
+4440,2013,Army,-4.52
+4441,2013,Hawaii,-2.37
+4442,2013,James Madison,-2.28
+4443,2013,IL Chicago,-0.69
+4444,2013,W Illinois,-5.42
+4445,2013,Towson,-2.59
+4446,2013,Buffalo,-0.35
+4447,2013,Manhattan,-0.38
+4448,2013,Georgia St,-2.4
+4449,2013,Charleston So,-5.62
+4450,2013,Bryant,-4.72
+4451,2013,Florida Intl,-2.11
+4452,2013,TX Southern,-7.25
+4453,2013,Youngstown St,-0.81
+4454,2013,Tennessee St,-1.3
+4455,2013,Idaho,0.33
+4456,2013,NC Central,-7.05
+4457,2013,Toledo,-3.04
+4458,2013,Southern Univ,-10.31
+4459,2013,Missouri St,4.65
+4460,2013,South Alabama,-2.96
+4461,2013,CS Fullerton,-3.03
+4462,2013,Lafayette,-2.36
+4463,2013,Loy Marymount,2.86
+4464,2013,Texas Tech,4.31
+4465,2013,Long Island,-5.8
+4466,2013,Gardner Webb,-5.93
+4467,2013,Wagner,-5.07
+4468,2013,Columbia,-3.48
+4469,2013,Bowling Green,-1.75
+4470,2013,UC Davis,-2.57
+4471,2013,Elon,-5.19
+4472,2013,SC Upstate,-4.79
+4473,2013,Marshall,0.93
+4474,2013,UNC Asheville,-3.98
+4475,2013,Pepperdine,1.06
+4476,2013,CS Northridge,-1.93
+4477,2013,Yale,-0.81
+4478,2013,William & Mary,-3.45
+4479,2013,UC Santa Barbara,0.4
+4480,2013,TCU,4.41
+4481,2013,Ark Little Rock,-2.23
+4482,2013,Oakland,-1.61
+4483,2013,Jacksonville St,-4.29
+4484,2013,Seattle,-1.05
+4485,2013,Duquesne,3.5
+4486,2013,Mississippi St,4.34
+4487,2013,High Point,-7.25
+4488,2013,Quinnipiac,-4.91
+4489,2013,Louisiana,-2.23
+4490,2013,Morehead St,-1.81
+4491,2013,Morgan St,-7.51
+4492,2013,Savannah St,-4.73
+4493,2013,SE Missouri St,-6.06
+4494,2013,Coastal Car,-5.22
+4495,2013,Norfolk St,-6.56
+4496,2013,Portland,3.28
+4497,2013,Hartford,-4.71
+4498,2013,Mt St Mary's,-4.1
+4499,2013,FL Atlantic,-2.49
+4500,2013,St Francis NY,-4.75
+4501,2013,C Michigan,-1.21
+4502,2013,Holy Cross,-2.97
+4503,2013,E Michigan,-1.25
+4504,2013,Brown,-3.03
+4505,2013,Marist,-1.63
+4506,2013,Texas St,-0.9
+4507,2013,North Texas,-2.73
+4508,2013,CS Bakersfield ,-2.17
+4509,2013,Sam Houston St,-5.16
+4510,2013,Stetson,-4.45
+4511,2013,W Carolina,-4.42
+4512,2013,UT San Antonio,-1
+4513,2013,Miami OH,-0.26
+4514,2013,Ball St,-3.15
+4515,2013,Wofford,-4.65
+4516,2013,Fordham,4.59
+4517,2013,NC A&T,-6.3
+4518,2013,Penn,-1.48
+4519,2013,IPFW,-5.32
+4520,2013,Cornell,-2.37
+4521,2013,Cleveland St,-0.16
+4522,2013,North Florida,-3.22
+4523,2013,South Dakota,-2.92
+4524,2013,Old Dominion,-1.55
+4525,2013,N Colorado,-5.19
+4526,2013,N Kentucky,-5.42
+4527,2013,Appalachian St,-5.77
+4528,2013,Central Conn,-4.04
+4529,2013,New Hampshire,-4.19
+4530,2013,NJIT,-9.01
+4531,2013,North Dakota,-5.34
+4532,2013,American Univ,-2.53
+4533,2013,Winthrop,-4.43
+4534,2013,Colgate,-2.58
+4535,2013,Troy,-4.01
+4536,2013,E Illinois,-5.09
+4537,2013,St Peter's,-2.92
+4538,2013,Liberty,-5.8
+4539,2013,Dartmouth,-3.17
+4540,2013,Hampton,-7.84
+4541,2013,San Jose St,-0.92
+4542,2013,CS Sacramento,-6.77
+4543,2013,UNC Greensboro ,-5.31
+4544,2013,Bethune-Cookman,-6.44
+4545,2013,Maine,-4.12
+4546,2013,Ga Southern,-5.02
+4547,2013,Tennessee Tech,-3.31
+4548,2013,Sacred Heart,-3.69
+4549,2013,Samford,-4.38
+4550,2013,UNC Wilmington,-2.27
+4551,2013,Campbell,-5.55
+4552,2013,Siena,-1.87
+4553,2013,WI Milwaukee,-0.26
+4554,2013,Chattanooga,-4.97
+4555,2013,Jacksonville,-4.74
+4556,2013,Nicholls St,-4.97
+4557,2013,SE Louisiana,-3.76
+4558,2013,Hofstra,-1.92
+4559,2013,E Washington,-5.48
+4560,2013,Portland St,-5.54
+4561,2013,Cent Arkansas,-6.12
+4562,2013,Radford,-7.32
+4563,2013,Montana St,-6.69
+4564,2013,Rice,0.01
+4565,2013,Delaware St,-5.9
+4566,2013,Edwardsville,-4.67
+4567,2013,Navy,-4.44
+4568,2013,Utah Valley,-7.02
+4569,2013,VMI,-7.11
+4570,2013,McNeese St,-4.63
+4571,2013,UC Riverside,-1.71
+4572,2013,Lipscomb,-3.45
+4573,2013,TAM C. Christi,-3.65
+4574,2013,Chicago St,-4.91
+4575,2013,N Illinois,-2.2
+4576,2013,Monmouth NJ,-4.19
+4577,2013,Northern Arizona,-3.55
+4578,2013,Southern Utah,-5
+4579,2013,Ark Pine Bluff,-8.2
+4580,2013,Austin Peay,-4.31
+4581,2013,UMBC,-3.7
+4582,2013,Coppin St,-4.2
+4583,2013,Idaho State,-4.85
+4584,2013,ETSU,-2.25
+4585,2013,UTRGV,-8.18
+4586,2013,Missouri KC,-2.74
+4587,2013,ULM,-1.45
+4588,2013,Alcorn St,-7.11
+4589,2013,Howard,-5.35
+4590,2013,Jackson St,-9.52
+4591,2013,St Francis PA,-4.37
+4592,2013,Houston Bap,-8.03
+4593,2013,NE Omaha,-3.9
+4594,2013,Kennesaw State,-4.76
+4595,2013,Prairie View,-10.1
+4596,2013,IUPUI,-2.79
+4597,2013,Florida A&M,-6.21
+4598,2013,TN Martin,-4.19
+4599,2013,Citadel,-5.45
+4600,2013,Furman,-5.29
+4601,2013,Presbyterian,-4.71
+4602,2013,Alabama St,-9.01
+4603,2013,F Dickinson,-4.65
+4604,2013,S Carolina St,-5.1
+4605,2013,Alabama A&M,-9.82
+4606,2013,Binghamton,-3.7
+4607,2013,MS Valley St,-8.28
+4608,2013,Longwood,-5.1
+4609,2013,MD E Shore,-5.11
+4610,2013,Lamar,-3.26
+4611,2013,New Orleans,-6.12
+4612,2013,Grambling,-9.17
+4613,2014,Louisville,4.8
+4614,2014,Arizona,9.04
+4615,2014,Florida,8.54
+4616,2014,Kansas,11.4
+4617,2014,Wisconsin,10.19
+4618,2014,Duke,8.48
+4619,2014,Michigan St,9.38
+4620,2014,Oklahoma St,8.34
+4621,2014,Villanova,7.5
+4622,2014,Iowa,7.43
+4623,2014,Iowa St,9.88
+4624,2014,Michigan,9.65
+4625,2014,UCLA,7.62
+4626,2014,Virginia,7.86
+4627,2014,Kentucky,9.9
+4628,2014,Creighton,7.17
+4629,2014,Ohio State,8.12
+4630,2014,Pittsburgh,7.54
+4631,2014,Tennessee,7.84
+4632,2014,Connecticut,8.63
+4633,2014,Wichita St,1.74
+4634,2014,Syracuse,7.25
+4635,2014,Baylor,10.11
+4636,2014,Oregon,8.05
+4637,2014,Gonzaga,5.36
+4638,2014,Cincinnati,5.28
+4639,2014,North Carolina,8.42
+4640,2014,San Diego St,4.86
+4641,2014,Oklahoma,8.97
+4642,2014,VA Commonwealth,4.78
+4643,2014,Arkansas,5.57
+4644,2014,SMU,4.97
+4645,2014,Stanford,9
+4646,2014,Arizona St,7.41
+4647,2014,Memphis,7.14
+4648,2014,New Mexico,4.84
+4649,2014,Texas,9.15
+4650,2014,Utah,6.21
+4651,2014,Florida St,8.13
+4652,2014,Louisiana Tech,-1.2
+4653,2014,Kansas St,8.47
+4654,2014,Xavier,8.14
+4655,2014,West Virginia,8.02
+4656,2014,Minnesota,8.34
+4657,2014,St John's,6.56
+4658,2014,BYU,5.72
+4659,2014,St Louis,4.24
+4660,2014,Providence,7.85
+4661,2014,Maryland,8.08
+4662,2014,Indiana,6.64
+4663,2014,Clemson,5.97
+4664,2014,Georgetown,8.27
+4665,2014,Colorado,8.8
+4666,2014,Harvard,-0.47
+4667,2014,California,7.44
+4668,2014,Massachusetts,6
+4669,2014,G Washington,4.42
+4670,2014,Dayton,5.34
+4671,2014,Illinois,8.28
+4672,2014,Nebraska,8.5
+4673,2014,Marquette,6.61
+4674,2014,Missouri,6.86
+4675,2014,LSU,6.61
+4676,2014,Saint Mary's CA,4.29
+4677,2014,St Joseph's  PA,5.08
+4678,2014,NC State,7.44
+4679,2014,Boise St,3.86
+4680,2014,Texas Tech,8.61
+4681,2014,UNLV,2.76
+4682,2014,Alabama,8.88
+4683,2014,Purdue,7.62
+4684,2014,Notre Dame,6.78
+4685,2014,Georgia,5.78
+4686,2014,Mississippi,5.36
+4687,2014,Penn St,7.06
+4688,2014,Miami FL,5.63
+4689,2014,Seton Hall,5.56
+4690,2014,WI Green Bay,0.11
+4691,2014,Butler,6.98
+4692,2014,Southern Miss,-0.08
+4693,2014,N Dakota St,-0.02
+4694,2014,Washington,6.45
+4695,2014,Tulsa,1.17
+4696,2014,New Mexico St,-2.58
+4697,2014,Georgia St,-2.56
+4698,2014,Manhattan,-0.9
+4699,2014,Oregon St,5.87
+4700,2014,Iona,-0.1
+4701,2014,San Francisco,4.28
+4702,2014,St Bonaventure,2.64
+4703,2014,Richmond,4.3
+4704,2014,Vanderbilt,6.49
+4705,2014,Texas A&M,3.62
+4706,2014,Wake Forest,6.73
+4707,2014,South Carolina,6.96
+4708,2014,Mercer,-3.42
+4709,2014,Northern Iowa,2.85
+4710,2014,Georgia Tech,5.24
+4711,2014,Auburn,5.47
+4712,2014,SF Austin,-6.76
+4713,2014,MTSU,-0.78
+4714,2014,Portland,1.73
+4715,2014,Utah St,3.09
+4716,2014,Northwestern,8.57
+4717,2014,Vermont,-4.57
+4718,2014,Wyoming,2.34
+4719,2014,UTEP,0.05
+4720,2014,Cleveland St,-0.52
+4721,2014,UC Irvine,-0.65
+4722,2014,UC Santa Barbara,-0.13
+4723,2014,La Salle,4.75
+4724,2014,NC Central,-8.03
+4725,2014,Fresno St,3.75
+4726,2014,Buffalo,-2.13
+4727,2014,Hawaii,-1.68
+4728,2014,Toledo,-1.46
+4729,2014,Belmont,-1.88
+4730,2014,Colorado St,2.16
+4731,2014,Indiana St,1.19
+4732,2014,Boston College,8.62
+4733,2014,Princeton,-2.4
+4734,2014,Louisiana,-0.28
+4735,2014,Rhode Island,3.26
+4736,2014,Delaware,-1.1
+4737,2014,Ohio,-1.17
+4738,2014,Temple,6.88
+4739,2014,Houston,4.62
+4740,2014,USC,8.02
+4741,2014,UCF,5.14
+4742,2014,Columbia,-1.92
+4743,2014,San Diego,1.97
+4744,2014,George Mason,4.58
+4745,2014,Nevada,3.48
+4746,2014,Virginia Tech,5.99
+4747,2014,E Michigan,0.67
+4748,2014,Boston Univ,-2.4
+4749,2014,Pacific,3.25
+4750,2014,W Michigan,-1.45
+4751,2014,DePaul,7.47
+4752,2014,Long Beach St,2.71
+4753,2014,Washington St,7.24
+4754,2014,Canisius,-1.95
+4755,2014,Drexel,-0.24
+4756,2014,Akron,-0.48
+4757,2014,Illinois St,1.77
+4758,2014,Murray St,-3.58
+4759,2014,Santa Clara,3.01
+4760,2014,Denver,-0.42
+4761,2014,Davidson,-3.73
+4762,2014,Missouri St,1.22
+4763,2014,Pepperdine,2.6
+4764,2014,Alabama-Birmingham,-0.77
+4765,2014,American Univ,-3.25
+4766,2014,Duquesne,1.03
+4767,2014,E Kentucky,-4.34
+4768,2014,Towson,-3.06
+4769,2014,Valparaiso,-0.24
+4770,2014,Wright St,-2.8
+4771,2014,Quinnipiac,-2.41
+4772,2014,S Dakota St,-1.93
+4773,2014,IPFW,-3.87
+4774,2014,Rutgers,5.8
+4775,2014,Arkansas St,-3.18
+4776,2014,S Illinois,0.23
+4777,2014,Loy Marymount,4.03
+4778,2014,South Florida,4.6
+4779,2014,Charlotte,-0.5
+4780,2014,Drake,1.03
+4781,2014,Mississippi St,2.75
+4782,2014,Siena,-0.15
+4783,2014,Weber St,-4.23
+4784,2014,Old Dominion,-0.81
+4785,2014,NE Omaha,-2.78
+4786,2014,Bucknell,-3.14
+4787,2014,TCU,7.9
+4788,2014,Cal Poly SLO,1.69
+4789,2014,Brown,-4.04
+4790,2014,WKU,-1.34
+4791,2014,William & Mary,-2.29
+4792,2014,WI Milwaukee,-0.44
+4793,2014,Holy Cross,-3.28
+4794,2014,Yale,-1.28
+4795,2014,Stony Brook,-6.47
+4796,2014,Kent,-1.94
+4797,2014,Morehead St,-3.1
+4798,2014,FL Gulf Coast,-5.76
+4799,2014,Col Charleston ,-1.89
+4800,2014,SC Upstate,-4.61
+4801,2014,Oakland,2.78
+4802,2014,Youngstown St,-1.26
+4803,2014,Colgate,-4.08
+4804,2014,Bradley,-0.31
+4805,2014,Oral Roberts,-4.43
+4806,2014,Northeastern,-0.3
+4807,2014,Evansville,1.2
+4808,2014,Fordham,3.14
+4809,2014,Detroit,-0.25
+4810,2014,Albany NY,-5.22
+4811,2014,Bowling Green,-0.2
+4812,2014,Robert Morris,-3.79
+4813,2014,N Illinois,-1.28
+4814,2014,Northwestern LA,-4.66
+4815,2014,Wagner,-6.73
+4816,2014,Elon,-4.5
+4817,2014,Air Force,1.71
+4818,2014,East Carolina,-2.41
+4819,2014,Southern Univ,-7.95
+4820,2014,Bryant,-4.89
+4821,2014,Wofford,-5.95
+4822,2014,N Colorado,-6.09
+4823,2014,Rider,-1.69
+4824,2014,Miami OH,0.13
+4825,2014,Marshall,-1.32
+4826,2014,Utah Valley,-3.65
+4827,2014,Sam Houston St,-7.6
+4828,2014,Montana,-5.23
+4829,2014,St Francis NY,-5.9
+4830,2014,North Texas,-1.53
+4831,2014,Loyola-Chicago,-1.14
+4832,2014,Dartmouth,-3.24
+4833,2014,CS Bakersfield ,-4.31
+4834,2014,CS Northridge,-3.29
+4835,2014,UT Arlington,-0.92
+4836,2014,Marist,-1.27
+4837,2014,CS Fullerton,-1.12
+4838,2014,South Alabama,-0.51
+4839,2014,FL Atlantic,-0.42
+4840,2014,Hampton,-7.91
+4841,2014,Coastal Car,-6.31
+4842,2014,ULM,0.02
+4843,2014,Charleston So,-5.75
+4844,2014,E Washington,-4.15
+4845,2014,Ark Little Rock,-1.09
+4846,2014,Florida Intl,-1.58
+4847,2014,SE Missouri St,-6.59
+4848,2014,VMI,-6.33
+4849,2014,Morgan St,-5.03
+4850,2014,Seattle,-4.11
+4851,2014,St Peter's,-3.27
+4852,2014,ETSU,-6.08
+4853,2014,Army,-4.66
+4854,2014,Troy,-2.9
+4855,2014,Mt St Mary's,-4.44
+4856,2014,Grand Canyon,-3.51
+4857,2014,TAM C. Christi,-6.69
+4858,2014,Idaho,-3.72
+4859,2014,Idaho State,-4.72
+4860,2014,Winthrop,-6.56
+4861,2014,Lehigh,-3.83
+4862,2014,Hofstra,-1.89
+4863,2014,Penn,-0.01
+4864,2014,Northern Arizona,-4.37
+4865,2014,Hartford,-6.18
+4866,2014,W Carolina,-6.43
+4867,2014,UNC Asheville,-5.5
+4868,2014,North Dakota,-3.78
+4869,2014,Monmouth NJ,-2.9
+4870,2014,South Dakota,-0.81
+4871,2014,IL Chicago,0.63
+4872,2014,Gardner Webb,-6.9
+4873,2014,Fairfield,-0.81
+4874,2014,North Florida,-3.32
+4875,2014,W Illinois,-2.74
+4876,2014,Portland St,-5.59
+4877,2014,Lafayette,-3.38
+4878,2014,UC Riverside,-2.33
+4879,2014,James Madison,-2.2
+4880,2014,Texas St,-1.4
+4881,2014,Norfolk St,-7.17
+4882,2014,Tulane,-1.73
+4883,2014,Radford,-8.31
+4884,2014,San Jose St,3.05
+4885,2014,CS Sacramento,-5.54
+4886,2014,Tennessee Tech,-4.57
+4887,2014,Niagara,-1.34
+4888,2014,Lipscomb,-5.13
+4889,2014,High Point,-5.23
+4890,2014,TX Southern,-10.07
+4891,2014,Incarnate Word,-10.74
+4892,2014,UNC Wilmington,-0.78
+4893,2014,C Michigan,-2.72
+4894,2014,Missouri KC,-1.93
+4895,2014,Rice,-0.43
+4896,2014,Savannah St,-5.37
+4897,2014,Tennessee St,-1.99
+4898,2014,Ball St,0.65
+4899,2014,Liberty,-7.47
+4900,2014,Chicago St,-2.44
+4901,2014,Austin Peay,-5.78
+4902,2014,N Kentucky,-4.97
+4903,2014,Loyola MD,-3.23
+4904,2014,Edwardsville,-5.33
+4905,2014,UTRGV,-4.42
+4906,2014,Montana St,-5.83
+4907,2014,Chattanooga,-7.9
+4908,2014,Coppin St,-4.99
+4909,2014,UT San Antonio,-1.03
+4910,2014,F Dickinson,-4.07
+4911,2014,Ga Southern,-8.6
+4912,2014,E Illinois,-4.21
+4913,2014,UC Davis,-1.76
+4914,2014,Jackson St,-8.72
+4915,2014,Jacksonville,-4.86
+4916,2014,Navy,-5.46
+4917,2014,Jacksonville St,-5.14
+4918,2014,Florida A&M,-7.58
+4919,2014,UNC Greensboro ,-6.12
+4920,2014,NJIT,-7.48
+4921,2014,Delaware St,-6.11
+4922,2014,Alabama St,-11.4
+4923,2014,Sacred Heart,-5.97
+4924,2014,SE Louisiana,-7.67
+4925,2014,Central Conn,-6.06
+4926,2014,Nicholls St,-7.67
+4927,2014,McNeese St,-4.01
+4928,2014,St Francis PA,-5.65
+4929,2014,TN Martin,-4.82
+4930,2014,Long Island,-5.55
+4931,2014,MA Lowell,-4.53
+4932,2014,Alabama A&M,-10.58
+4933,2014,New Hampshire,-5.9
+4934,2014,Campbell,-7.33
+4935,2014,UMBC,-6.55
+4936,2014,IUPUI,-1.36
+4937,2014,Samford,-7.41
+4938,2014,New Orleans,-5.53
+4939,2014,Appalachian St,-7.13
+4940,2014,Ark Pine Bluff,-6.9
+4941,2014,Cornell,0.03
+4942,2014,Stetson,-4.97
+4943,2014,Alcorn St,-9.27
+4944,2014,Binghamton,-6.15
+4945,2014,Kennesaw State,-4.05
+4946,2014,Cent Arkansas,-5.54
+4947,2014,NC A&T,-7.4
+4948,2014,Lamar,-6.04
+4949,2014,Prairie View,-7.99
+4950,2014,Howard,-5.22
+4951,2014,Bethune-Cookman,-7.53
+4952,2014,MD E Shore,-6.61
+4953,2014,S Carolina St,-5.96
+4954,2014,Houston Bap,-5.39
+4955,2014,Furman,-7.4
+4956,2014,Maine,-4.72
+4957,2014,Citadel,-6.75
+4958,2014,Abilene Chr,-4.12
+4959,2014,Southern Utah,-3.19
+4960,2014,Longwood,-5.56
+4961,2014,Presbyterian,-7.51
+4962,2014,MS Valley St,-8.35
+4963,2014,Grambling,-9.05
+4964,2015,Kentucky,8.67
+4965,2015,Duke,9.87
+4966,2015,Wisconsin,10.29
+4967,2015,Arizona,7.41
+4968,2015,Villanova,7.55
+4969,2015,Virginia,7.81
+4970,2015,Gonzaga,5.12
+4971,2015,Utah,7.42
+4972,2015,North Carolina,11.76
+4973,2015,Ohio State,7.37
+4974,2015,Notre Dame,7.02
+4975,2015,Oklahoma,9.94
+4976,2015,Kansas,12.13
+4977,2015,Louisville,8.98
+4978,2015,Iowa St,9.15
+4979,2015,Baylor,9.33
+4980,2015,Michigan St,10
+4981,2015,Butler,8.62
+4982,2015,Texas,9.07
+4983,2015,Iowa,8.39
+4984,2015,Wichita St,3.68
+4985,2015,Georgetown,9.81
+4986,2015,Xavier,9.48
+4987,2015,West Virginia,9.29
+4988,2015,NC State,9.72
+4989,2015,Arkansas,6.79
+4990,2015,Providence,9.5
+4991,2015,BYU,5.02
+4992,2015,Maryland,7.63
+4993,2015,Florida,9.67
+4994,2015,Oklahoma St,9.63
+4995,2015,Indiana,7.2
+4996,2015,SMU,3.57
+4997,2015,Purdue,7.64
+4998,2015,VA Commonwealth,6.1
+4999,2015,Northern Iowa,2
+5000,2015,Georgia,8.6
+5001,2015,Illinois,6.93
+5002,2015,Minnesota,7.21
+5003,2015,Stanford,7.33
+5004,2015,UCLA,8.27
+5005,2015,Miami FL,7.05
+5006,2015,Davidson,3.19
+5007,2015,Syracuse,7.68
+5008,2015,Vanderbilt,6.22
+5009,2015,St John's,9.04
+5010,2015,San Diego St,4.24
+5011,2015,Oregon,7.65
+5012,2015,LSU,5.63
+5013,2015,Mississippi,7.01
+5014,2015,TCU,5.32
+5015,2015,Dayton,4.06
+5016,2015,Texas A&M,5.91
+5017,2015,Cincinnati,4.4
+5018,2015,South Carolina,8.24
+5019,2015,Alabama,8.09
+5020,2015,Boise St,1.38
+5021,2015,Michigan,9.59
+5022,2015,Arizona St,6.66
+5023,2015,Rhode Island,2.87
+5024,2015,Saint Mary's CA,3.78
+5025,2015,Richmond,3.77
+5026,2015,SF Austin,-4.2
+5027,2015,Kansas St,9.29
+5028,2015,Pittsburgh,7.36
+5029,2015,Connecticut,4.22
+5030,2015,Temple,3.52
+5031,2015,Colorado St,0.69
+5032,2015,G Washington,2.79
+5033,2015,Illinois St,2.87
+5034,2015,Seton Hall,7.56
+5035,2015,Buffalo,1.6
+5036,2015,Penn St,7.1
+5037,2015,Clemson,7.18
+5038,2015,Old Dominion,-0.15
+5039,2015,Creighton,7.05
+5040,2015,Tennessee,8.16
+5041,2015,Georgia Tech,8.45
+5042,2015,Memphis,2.9
+5043,2015,Murray St,-2.81
+5044,2015,Marquette,9.02
+5045,2015,Colorado,6.19
+5046,2015,Florida St,7.02
+5047,2015,Tulsa,2.81
+5048,2015,Boston College,7.94
+5049,2015,Valparaiso,-2
+5050,2015,Northwestern,7.2
+5051,2015,Oregon St,4.97
+5052,2015,Nebraska,7.58
+5053,2015,Louisiana Tech,-1.34
+5054,2015,WI Green Bay,-0.4
+5055,2015,Washington,4.83
+5056,2015,C Michigan,-1.1
+5057,2015,Georgia St,-2.03
+5058,2015,UNLV,3.38
+5059,2015,California,6.15
+5060,2015,San Diego,3.47
+5061,2015,UTEP,-0.51
+5062,2015,Toledo,0.62
+5063,2015,La Salle,3.91
+5064,2015,Wake Forest,7.68
+5065,2015,Harvard,-0.25
+5066,2015,St Bonaventure,1.34
+5067,2015,Pepperdine,2.8
+5068,2015,Wyoming,-0.04
+5069,2015,Hofstra,-4.46
+5070,2015,Texas Tech,7.2
+5071,2015,Iona,-2.52
+5072,2015,New Mexico St,-3.67
+5073,2015,Akron,-0.47
+5074,2015,UC Irvine,0.45
+5075,2015,Massachusetts,4.69
+5076,2015,Yale,-0.87
+5077,2015,UC Santa Barbara,0.98
+5078,2015,Evansville,-0.07
+5079,2015,S Dakota St,-3.23
+5080,2015,DePaul,7.49
+5081,2015,Auburn,8.15
+5082,2015,San Francisco,2.83
+5083,2015,Cleveland St,-0.78
+5084,2015,Portland,2.67
+5085,2015,Sam Houston St,-6.03
+5086,2015,Bowling Green,-1.25
+5087,2015,Utah St,0.28
+5088,2015,William & Mary,-1.15
+5089,2015,New Mexico,1.03
+5090,2015,Hawaii,-0.83
+5091,2015,Wofford,-2.98
+5092,2015,Mississippi St,4.72
+5093,2015,Loyola-Chicago,0.46
+5094,2015,UC Davis,-2.58
+5095,2015,USC,6.15
+5096,2015,Kent,-0.94
+5097,2015,Northeastern,-1.34
+5098,2015,E Michigan,-0.14
+5099,2015,Alabama-Birmingham,1.62
+5100,2015,Charlotte,0.35
+5101,2015,Long Beach St,4.16
+5102,2015,Virginia Tech,5.32
+5103,2015,Vermont,-5.52
+5104,2015,Missouri,9.26
+5105,2015,WKU,-0.44
+5106,2015,Louisiana,-3.61
+5107,2015,E Washington,-3.84
+5108,2015,NC Central,-8.67
+5109,2015,Belmont,-2.77
+5110,2015,W Michigan,0.19
+5111,2015,Rutgers,8.11
+5112,2015,MTSU,-0.39
+5113,2015,Washington St,6.08
+5114,2015,E Kentucky,-4.16
+5115,2015,Stony Brook,-4.03
+5116,2015,Canisius,-2.79
+5117,2015,St Joseph's  PA,2.58
+5118,2015,Albany NY,-5.18
+5119,2015,Columbia,-1.49
+5120,2015,Santa Clara,4.12
+5121,2015,Ga Southern,-4.72
+5122,2015,Indiana St,1.21
+5123,2015,Cal Poly SLO,0.43
+5124,2015,Morehead St,-3.31
+5125,2015,North Florida,-5.94
+5126,2015,Coastal Car,-6.18
+5127,2015,Oakland,1.27
+5128,2015,Manhattan,-3.34
+5129,2015,Princeton,-2.92
+5130,2015,George Mason,4.6
+5131,2015,Quinnipiac,-3.66
+5132,2015,Tulane,0.32
+5133,2015,Rider,-3.11
+5134,2015,Chattanooga,-4.06
+5135,2015,N Dakota St,-3.63
+5136,2015,Montana,-3.78
+5137,2015,N Illinois,-0.14
+5138,2015,FL Gulf Coast,-4.98
+5139,2015,Air Force,-0.71
+5140,2015,ULM,-2.88
+5141,2015,Mercer,-4.1
+5142,2015,Houston,-0.91
+5143,2015,TN Martin,-3.9
+5144,2015,St Francis NY,-6.2
+5145,2015,Fordham,2.72
+5146,2015,Monmouth NJ,-2.91
+5147,2015,Fresno St,1.3
+5148,2015,Detroit,0.13
+5149,2015,SC Upstate,-7.5
+5150,2015,High Point,-4.61
+5151,2015,UNC Wilmington,-1.92
+5152,2015,James Madison,-1.53
+5153,2015,East Carolina,1
+5154,2015,Rice,-0.79
+5155,2015,Colgate,-3.41
+5156,2015,Duquesne,1.41
+5157,2015,St Peter's,-3.92
+5158,2015,Lehigh,-3.55
+5159,2015,Robert Morris,-3.5
+5160,2015,Dartmouth,-3.32
+5161,2015,IPFW,-3.41
+5162,2015,Pacific,3.31
+5163,2015,NJIT,-4.07
+5164,2015,UT San Antonio,-2.61
+5165,2015,Lafayette,-3.12
+5166,2015,Northern Arizona,-4.13
+5167,2015,S Illinois,-0.6
+5168,2015,American Univ,-3.71
+5169,2015,Cornell,-1.92
+5170,2015,UT Arlington,-2.76
+5171,2015,Bucknell,-2.75
+5172,2015,Miami OH,0.31
+5173,2015,New Hampshire,-6.29
+5174,2015,Oral Roberts,-1.99
+5175,2015,Radford,-5.53
+5176,2015,Winthrop,-7.38
+5177,2015,Denver,-3.13
+5178,2015,Loy Marymount,5.28
+5179,2015,Ohio,0.45
+5180,2015,Bradley,1.52
+5181,2015,Charleston So,-5.23
+5182,2015,CS Sacramento,-5.45
+5183,2015,UC Riverside,-1.16
+5184,2015,Norfolk St,-6.35
+5185,2015,ETSU,-4.01
+5186,2015,WI Milwaukee,0.15
+5187,2015,South Dakota,-3.48
+5188,2015,Missouri St,1.67
+5189,2015,North Texas,-0.71
+5190,2015,South Florida,2.56
+5191,2015,Ball St,0.04
+5192,2015,SE Missouri St,-3.73
+5193,2015,Gardner Webb,-3.11
+5194,2015,Texas St,-3.36
+5195,2015,Ark Little Rock,-3.81
+5196,2015,St Louis,2.43
+5197,2015,Northwestern LA,-4.52
+5198,2015,E Illinois,-2.42
+5199,2015,TAM C. Christi,-6.43
+5200,2015,Boston Univ,-3.12
+5201,2015,St Francis PA,-4.97
+5202,2015,Drexel,-0.85
+5203,2015,UCF,0.78
+5204,2015,Idaho,-4.79
+5205,2015,W Carolina,-3.56
+5206,2015,Seattle,-4.69
+5207,2015,Elon,-2.69
+5208,2015,TX Southern,-6.09
+5209,2015,Nevada,1.08
+5210,2015,Drake,2.22
+5211,2015,Mt St Mary's,-4.4
+5212,2015,Incarnate Word,-6.47
+5213,2015,Holy Cross,-3.82
+5214,2015,Bryant,-4.93
+5215,2015,CS Bakersfield ,-5.8
+5216,2015,Wright St,-1.14
+5217,2015,Marshall,-0.22
+5218,2015,Tennessee Tech,-3.99
+5219,2015,Army,-4.98
+5220,2015,MD E Shore,-6.94
+5221,2015,CS Northridge,0.39
+5222,2015,Grand Canyon,-5.45
+5223,2015,N Colorado,-6.21
+5224,2015,N Kentucky,-4.49
+5225,2015,Siena,-2.9
+5226,2015,Towson,-3.8
+5227,2015,NE Omaha,-5.14
+5228,2015,UNC Asheville,-5.65
+5229,2015,Brown,-1.99
+5230,2015,Col Charleston ,-1.26
+5231,2015,Edwardsville,-4.54
+5232,2015,Weber St,-3.5
+5233,2015,Sacred Heart,-5.97
+5234,2015,Youngstown St,-1.73
+5235,2015,Portland St,-4.86
+5236,2015,Delaware,-1.69
+5237,2015,Florida Intl,-3.23
+5238,2015,FL Atlantic,-2.06
+5239,2015,IL Chicago,-0.36
+5240,2015,Navy,-3.61
+5241,2015,UNC Greensboro ,-4.36
+5242,2015,Missouri KC,-5.07
+5243,2015,Hampton,-7.08
+5244,2015,IUPUI,-1.93
+5245,2015,Penn,-1.36
+5246,2015,CS Fullerton,-1.06
+5247,2015,Hartford,-5.16
+5248,2015,Fairfield,-2.31
+5249,2015,Troy,-5.09
+5250,2015,Alabama St,-12.71
+5251,2015,Long Island,-5.32
+5252,2015,Niagara,-1.8
+5253,2015,Samford,-5.57
+5254,2015,South Alabama,-3.04
+5255,2015,Lamar,-5.29
+5256,2015,Appalachian St,-3.18
+5257,2015,VMI,-3.92
+5258,2015,Howard,-7.86
+5259,2015,Southern Univ,-8.23
+5260,2015,Southern Miss,-0.06
+5261,2015,McNeese St,-5.42
+5262,2015,Arkansas St,-3.81
+5263,2015,Furman,-3.46
+5264,2015,Marist,-2.93
+5265,2015,Loyola MD,-3.38
+5266,2015,Delaware St,-6.75
+5267,2015,Lipscomb,-5.15
+5268,2015,Prairie View,-8.2
+5269,2015,SE Louisiana,-6.14
+5270,2015,Campbell,-5.3
+5271,2015,MA Lowell,-4.32
+5272,2015,Wagner,-4.99
+5273,2015,Idaho State,-5.45
+5274,2015,New Orleans,-6.36
+5275,2015,Southern Utah,-5.48
+5276,2015,North Dakota,-3.73
+5277,2015,F Dickinson,-4.54
+5278,2015,Jackson St,-9.52
+5279,2015,Austin Peay,-2.81
+5280,2015,Jacksonville St,-4.52
+5281,2015,Utah Valley,-4.87
+5282,2015,Citadel,-4.68
+5283,2015,Montana St,-3.5
+5284,2015,Longwood,-5.53
+5285,2015,Houston Bap,-5.63
+5286,2015,Binghamton,-3.49
+5287,2015,W Illinois,-2.93
+5288,2015,UTRGV,-4.68
+5289,2015,Chicago St,-2.48
+5290,2015,Tennessee St,-2.38
+5291,2015,Bethune-Cookman,-10.45
+5292,2015,Ark Pine Bluff,-8.61
+5293,2015,Nicholls St,-5.3
+5294,2015,Liberty,-6.44
+5295,2015,UMBC,-5.14
+5296,2015,Morgan St,-6.48
+5297,2015,San Jose St,1.92
+5298,2015,Stetson,-6.68
+5299,2015,Presbyterian,-4.51
+5300,2015,Central Conn,-5.62
+5301,2015,Jacksonville,-6.46
+5302,2015,NC A&T,-8.02
+5303,2015,Alabama A&M,-9.62
+5304,2015,Abilene Chr,-6.34
+5305,2015,Kennesaw State,-5.1
+5306,2015,S Carolina St,-7.46
+5307,2015,Maine,-3.4
+5308,2015,Coppin St,-4.78
+5309,2015,Savannah St,-6.27
+5310,2015,Alcorn St,-9.95
+5311,2015,Cent Arkansas,-5.94
+5312,2015,MS Valley St,-7.78
+5313,2015,Florida A&M,-8.52
+5314,2015,Grambling,-8
+5315,2016,Villanova,9.71
+5316,2016,Kansas,11.22
+5317,2016,North Carolina,10.69
+5318,2016,Michigan St,6.94
+5319,2016,Virginia,11.12
+5320,2016,West Virginia,9.78
+5321,2016,Louisville,7.74
+5322,2016,Kentucky,8.84
+5323,2016,Purdue,7.46
+5324,2016,Oklahoma,11.14
+5325,2016,Indiana,6.9
+5326,2016,Duke,10.59
+5327,2016,Arizona,7.23
+5328,2016,Xavier,8.43
+5329,2016,Miami FL,10.69
+5330,2016,Texas A&M,8.45
+5331,2016,SMU,4.56
+5332,2016,Oregon,8.64
+5333,2016,Wichita St,4.24
+5334,2016,Vanderbilt,8.68
+5335,2016,Iowa,8.71
+5336,2016,Iowa St,10.16
+5337,2016,Gonzaga,4.23
+5338,2016,Maryland,8.31
+5339,2016,Butler,7.55
+5340,2016,Baylor,9.76
+5341,2016,Connecticut,6.28
+5342,2016,Utah,8.79
+5343,2016,Pittsburgh,8.75
+5344,2016,California,7.87
+5345,2016,Cincinnati,5.25
+5346,2016,Texas,11.71
+5347,2016,Florida,9.19
+5348,2016,Seton Hall,8.28
+5349,2016,Syracuse,9.75
+5350,2016,Notre Dame,9.57
+5351,2016,VA Commonwealth,4.35
+5352,2016,Michigan,7.92
+5353,2016,Creighton,6.44
+5354,2016,Saint Mary's CA,1.24
+5355,2016,USC,7.64
+5356,2016,Wisconsin,9.4
+5357,2016,Georgia Tech,9.95
+5358,2016,Texas Tech,10.25
+5359,2016,BYU,2.36
+5360,2016,Kansas St,9.79
+5361,2016,Florida St,8.16
+5362,2016,St Joseph's  PA,4.93
+5363,2016,Colorado,7.64
+5364,2016,Clemson,6.87
+5365,2016,South Carolina,5.83
+5366,2016,Providence,8.46
+5367,2016,San Diego St,4.33
+5368,2016,G Washington,4.24
+5369,2016,Dayton,4.76
+5370,2016,Washington,8.12
+5371,2016,Valparaiso,0.02
+5372,2016,UCLA,9.69
+5373,2016,Oregon St,9.26
+5374,2016,Georgetown,8.49
+5375,2016,Houston,2.17
+5376,2016,Arkansas,6.76
+5377,2016,Northwestern,4.12
+5378,2016,Virginia Tech,7.53
+5379,2016,Memphis,3.58
+5380,2016,NC State,9.04
+5381,2016,Tulsa,5.76
+5382,2016,Georgia,8.47
+5383,2016,Ohio State,7.08
+5384,2016,SF Austin,-5.47
+5385,2016,Yale,-1.03
+5386,2016,Hawaii,-1.04
+5387,2016,Nebraska,5.57
+5388,2016,LSU,7
+5389,2016,Northern Iowa,4.44
+5390,2016,Arizona St,8.96
+5391,2016,Mississippi St,6.02
+5392,2016,Oklahoma St,8.81
+5393,2016,Evansville,-0.39
+5394,2016,Stanford,10.41
+5395,2016,Rhode Island,3.29
+5396,2016,Mississippi,4.81
+5397,2016,Tennessee,7.86
+5398,2016,Temple,6.57
+5399,2016,Marquette,5.57
+5400,2016,Richmond,4.56
+5401,2016,Boise St,3.13
+5402,2016,Princeton,-1.72
+5403,2016,Alabama,8.62
+5404,2016,Ark Little Rock,-1.76
+5405,2016,St Bonaventure,1.87
+5406,2016,Oakland,-1.61
+5407,2016,UNC Wilmington,0.35
+5408,2016,James Madison,0.5
+5409,2016,Davidson,5.14
+5410,2016,William & Mary,1.3
+5411,2016,Akron,-1.24
+5412,2016,Wake Forest,10.53
+5413,2016,UNLV,3.17
+5414,2016,S Dakota St,-1.22
+5415,2016,UC Irvine,0.77
+5416,2016,Monmouth NJ,-1.85
+5417,2016,Fresno St,2.24
+5418,2016,New Mexico,2.58
+5419,2016,Hofstra,0.77
+5420,2016,UT Arlington,-3.42
+5421,2016,Old Dominion,-2.31
+5422,2016,Illinois,7.03
+5423,2016,Long Beach St,4.57
+5424,2016,TCU,8.62
+5425,2016,UC Santa Barbara,1.44
+5426,2016,Stony Brook,-5.28
+5427,2016,Iona,-1.78
+5428,2016,New Mexico St,-3.54
+5429,2016,Alabama-Birmingham,-3.07
+5430,2016,Columbia,-2.55
+5431,2016,Illinois St,2.59
+5432,2016,Chattanooga,-3.46
+5433,2016,Penn St,6.95
+5434,2016,Toledo,-2.36
+5435,2016,WI Milwaukee,-2.02
+5436,2016,Nevada,1.79
+5437,2016,S Illinois,-1.3
+5438,2016,Utah St,2.06
+5439,2016,MTSU,-0.7
+5440,2016,Louisiana,-1.94
+5441,2016,CS Bakersfield ,-5.15
+5442,2016,Missouri,6.88
+5443,2016,Col Charleston ,0.04
+5444,2016,Pepperdine,1.68
+5445,2016,Colorado St,1.53
+5446,2016,Ohio,-1.18
+5447,2016,Fordham,-0.09
+5448,2016,Siena,-3.19
+5449,2016,Northeastern,1.35
+5450,2016,Grand Canyon,-5.6
+5451,2016,Duquesne,1.35
+5452,2016,Buffalo,0.9
+5453,2016,Belmont,-2.1
+5454,2016,WI Green Bay,-0.67
+5455,2016,UNC Asheville,-3.25
+5456,2016,Morehead St,-1.65
+5457,2016,Albany NY,-7.57
+5458,2016,Minnesota,6.86
+5459,2016,DePaul,8.34
+5460,2016,Marshall,-0.3
+5461,2016,Massachusetts,2.96
+5462,2016,Washington St,7.97
+5463,2016,UCF,3.01
+5464,2016,Weber St,-5.13
+5465,2016,Wright St,-1.76
+5466,2016,Auburn,7.54
+5467,2016,Ball St,-2.98
+5468,2016,Wyoming,2.19
+5469,2016,Indiana St,2.2
+5470,2016,IPFW,-1.66
+5471,2016,Towson,-1.57
+5472,2016,Louisiana Tech,-4.4
+5473,2016,E Michigan,1.24
+5474,2016,ULM,-1.46
+5475,2016,NE Omaha,-2.04
+5476,2016,East Carolina,3.22
+5477,2016,N Illinois,-1.2
+5478,2016,High Point,-4.24
+5479,2016,C Michigan,-1.3
+5480,2016,Elon,0.66
+5481,2016,Loyola-Chicago,1.11
+5482,2016,Montana,-4.29
+5483,2016,FL Gulf Coast,-3.82
+5484,2016,Tulane,3.79
+5485,2016,N Dakota St,-2.99
+5486,2016,Harvard,-0.25
+5487,2016,WKU,-0.89
+5488,2016,North Florida,-3.92
+5489,2016,Winthrop,-5.7
+5490,2016,ETSU,-2.29
+5491,2016,Vermont,-4.73
+5492,2016,Kent,-1.47
+5493,2016,Murray St,-3.06
+5494,2016,Boston College,7.67
+5495,2016,George Mason,3.62
+5496,2016,Tennessee St,-5.3
+5497,2016,Coastal Car,-4.22
+5498,2016,St John's,7.94
+5499,2016,W Michigan,0.06
+5500,2016,Bucknell,-5.89
+5501,2016,Portland,0.56
+5502,2016,Detroit,-0.82
+5503,2016,Oral Roberts,0.59
+5504,2016,St Louis,3.49
+5505,2016,Georgia St,-2.19
+5506,2016,Furman,-4.2
+5507,2016,South Florida,5.24
+5508,2016,San Francisco,-0.68
+5509,2016,Mercer,-4.55
+5510,2016,Charlotte,-1.72
+5511,2016,TAM C. Christi,-5.44
+5512,2016,Tennessee Tech,-3.66
+5513,2016,Denver,-3.24
+5514,2016,Cal Poly SLO,0.9
+5515,2016,Missouri St,2.58
+5516,2016,E Kentucky,-3.86
+5517,2016,Pacific,2.35
+5518,2016,Loy Marymount,0.87
+5519,2016,North Dakota,-4.91
+5520,2016,Wofford,-2.35
+5521,2016,UTEP,-4.93
+5522,2016,Fairfield,-3.14
+5523,2016,NJIT,-4.56
+5524,2016,Lehigh,-5.2
+5525,2016,E Washington,-6.03
+5526,2016,TX Southern,-6.94
+5527,2016,Santa Clara,1.86
+5528,2016,Wagner,-9.52
+5529,2016,W Carolina,-1.53
+5530,2016,Navy,-7.05
+5531,2016,Rider,-3.6
+5532,2016,St Peter's,-4.3
+5533,2016,Drake,0.92
+5534,2016,Radford,-3.45
+5535,2016,Idaho,-5.88
+5536,2016,Florida Intl,-4.81
+5537,2016,Texas St,-4.29
+5538,2016,Drexel,1.88
+5539,2016,Air Force,0.66
+5540,2016,TN Martin,-4.72
+5541,2016,Dartmouth,-3.29
+5542,2016,South Dakota,-0.88
+5543,2016,UC Davis,-1.26
+5544,2016,Canisius,-3.77
+5545,2016,Ga Southern,-3.14
+5546,2016,UC Riverside,-3.08
+5547,2016,San Jose St,1.35
+5548,2016,IUPUI,0.11
+5549,2016,Bowling Green,-1.85
+5550,2016,Miami OH,-0.25
+5551,2016,Samford,-4.49
+5552,2016,UNC Greensboro ,-3.23
+5553,2016,Austin Peay,-2.98
+5554,2016,Sam Houston St,-6.5
+5555,2016,La Salle,4.65
+5556,2016,Penn,-2.15
+5557,2016,W Illinois,-1.32
+5558,2016,Missouri KC,-2.24
+5559,2016,Boston Univ,-6.37
+5560,2016,CS Northridge,-0.85
+5561,2016,N Kentucky,-0.69
+5562,2016,Montana St,-5.35
+5563,2016,Gardner Webb,-3.96
+5564,2016,Rutgers,6.43
+5565,2016,CS Fullerton,-0.76
+5566,2016,Army,-8.13
+5567,2016,Arkansas St,-2.37
+5568,2016,Manhattan,-3.12
+5569,2016,Norfolk St,-6.73
+5570,2016,Southern Univ,-9.37
+5571,2016,San Diego,1.42
+5572,2016,New Hampshire,-7.05
+5573,2016,Appalachian St,-1.1
+5574,2016,Brown,-2.82
+5575,2016,Portland St,-5.94
+5576,2016,South Alabama,-2.02
+5577,2016,E Illinois,-3.52
+5578,2016,Kennesaw State,-1.61
+5579,2016,Colgate,-6.06
+5580,2016,Delaware,0.85
+5581,2016,CS Sacramento,-5.32
+5582,2016,Jackson St,-9.54
+5583,2016,Hampton,-8.45
+5584,2016,Rice,-2.7
+5585,2016,Lipscomb,-3.81
+5586,2016,Cleveland St,0.09
+5587,2016,Incarnate Word,-6.2
+5588,2016,Troy,-2.07
+5589,2016,Jacksonville,-6.09
+5590,2016,Cornell,-1.04
+5591,2016,Utah Valley,-3.58
+5592,2016,Seattle,-5.02
+5593,2016,Idaho State,-6.69
+5594,2016,North Texas,-3.23
+5595,2016,Mt St Mary's,-7.99
+5596,2016,S Carolina St,-8.24
+5597,2016,Jacksonville St,-3.95
+5598,2016,FL Atlantic,-1.72
+5599,2016,Quinnipiac,-4.98
+5600,2016,Houston Bap,-5.26
+5601,2016,Liberty,-3.73
+5602,2016,Southern Miss,-3.66
+5603,2016,Edwardsville,-2.6
+5604,2016,Stetson,-4.35
+5605,2016,Youngstown St,-0.86
+5606,2016,F Dickinson,-8.31
+5607,2016,Loyola MD,-5.24
+5608,2016,Bradley,3.7
+5609,2016,Charleston So,-2.59
+5610,2016,Campbell,-6.67
+5611,2016,Holy Cross,-6.11
+5612,2016,St Francis NY,-9.24
+5613,2016,Niagara,-3.86
+5614,2016,Longwood,-5.15
+5615,2016,Marist,-4.52
+5616,2016,Long Island,-11.01
+5617,2016,N Colorado,-4.01
+5618,2016,Morgan St,-7.97
+5619,2016,St Francis PA,-9.06
+5620,2016,VMI,-3.15
+5621,2016,NC Central,-10.03
+5622,2016,Sacred Heart,-9.05
+5623,2016,Alabama St,-9.35
+5624,2016,Presbyterian,-4.98
+5625,2016,Alabama A&M,-10.75
+5626,2016,Robert Morris,-7.75
+5627,2016,MA Lowell,-6.17
+5628,2016,SE Louisiana,-7.55
+5629,2016,SC Upstate,-4.39
+5630,2016,Abilene Chr,-7.53
+5631,2016,Binghamton,-6.35
+5632,2016,American Univ,-6.08
+5633,2016,New Orleans,-8.17
+5634,2016,MD E Shore,-6.17
+5635,2016,Hartford,-5.69
+5636,2016,Bethune-Cookman,-9.18
+5637,2016,Howard,-8.33
+5638,2016,IL Chicago,-0.81
+5639,2016,Lamar,-8.77
+5640,2016,Lafayette,-6
+5641,2016,Cent Arkansas,-6.81
+5642,2016,McNeese St,-6.74
+5643,2016,UMBC,-6.87
+5644,2016,Savannah St,-8.59
+5645,2016,Northwestern LA,-5.66
+5646,2016,Coppin St,-6.06
+5647,2016,Citadel,-4.75
+5648,2016,Alcorn St,-9.94
+5649,2016,SE Missouri St,-3.43
+5650,2016,UT San Antonio,-3.36
+5651,2016,Nicholls St,-5.23
+5652,2016,NC A&T,-8.49
+5653,2016,Southern Utah,-4.22
+5654,2016,Maine,-6.49
+5655,2016,Prairie View,-6.82
+5656,2016,Chicago St,-1.38
+5657,2016,UTRGV,-4.25
+5658,2016,Northern Arizona,-2.83
+5659,2016,Bryant,-6.71
+5660,2016,Ark Pine Bluff,-5.52
+5661,2016,Grambling,-8.48
+5662,2016,MS Valley St,-8.11
+5663,2016,Delaware St,-6.85
+5664,2016,Florida A&M,-10.67
+5665,2016,Central Conn,-9.24
+5666,2017,Gonzaga,4.13
+5667,2017,North Carolina,11.76
+5668,2017,West Virginia,9.67
+5669,2017,Kentucky,10.49
+5670,2017,Villanova,9.28
+5671,2017,Kansas,12.23
+5672,2017,Louisville,11.15
+5673,2017,Florida,11.01
+5674,2017,Duke,10.91
+5675,2017,Wichita St,2.96
+5676,2017,Oregon,8.38
+5677,2017,UCLA,6.39
+5678,2017,Virginia,10.93
+5679,2017,Iowa St,11.94
+5680,2017,Purdue,8.79
+5681,2017,Baylor,11.87
+5682,2017,Wisconsin,9.4
+5683,2017,Oklahoma St,12.22
+5684,2017,Florida St,8.87
+5685,2017,Michigan,10.17
+5686,2017,SMU,4.45
+5687,2017,Cincinnati,5.49
+5688,2017,Arizona,7.63
+5689,2017,Notre Dame,9.78
+5690,2017,Butler,10.23
+5691,2017,South Carolina,10.16
+5692,2017,Creighton,8.95
+5693,2017,Saint Mary's CA,2.19
+5694,2017,TCU,10.95
+5695,2017,Marquette,8.6
+5696,2017,Kansas St,10.48
+5697,2017,Xavier,11.51
+5698,2017,Indiana,8.16
+5699,2017,Minnesota,8.82
+5700,2017,Miami FL,9.57
+5701,2017,Wake Forest,9.8
+5702,2017,Texas Tech,7.86
+5703,2017,Arkansas,8.6
+5704,2017,Northwestern,8.43
+5705,2017,Syracuse,8.47
+5706,2017,Vanderbilt,10.72
+5707,2017,Michigan St,10.5
+5708,2017,Clemson,9.98
+5709,2017,Dayton,4.27
+5710,2017,Rhode Island,4.62
+5711,2017,Maryland,8.29
+5712,2017,Virginia Tech,8.38
+5713,2017,Utah,4.32
+5714,2017,Houston,3.42
+5715,2017,Seton Hall,9.25
+5716,2017,VA Commonwealth,3.77
+5717,2017,USC,6.4
+5718,2017,Oklahoma,12.62
+5719,2017,Alabama,7.47
+5720,2017,Tennessee,10.18
+5721,2017,Providence,7.84
+5722,2017,Georgetown,9.31
+5723,2017,Georgia,10.28
+5724,2017,California,6.34
+5725,2017,Texas,12.75
+5726,2017,Illinois,9.25
+5727,2017,Nevada,2.03
+5728,2017,Texas A&M,7.97
+5729,2017,Ohio State,7.28
+5730,2017,Illinois St,2.71
+5731,2017,Iowa,7.54
+5732,2017,MTSU,-0.48
+5733,2017,Mississippi,7.99
+5734,2017,UCF,3.69
+5735,2017,Pittsburgh,11.06
+5736,2017,Colorado,6
+5737,2017,BYU,1.87
+5738,2017,Auburn,7.33
+5739,2017,UNC Wilmington,-0.55
+5740,2017,Penn St,8.9
+5741,2017,Georgia Tech,8.21
+5742,2017,ETSU,-2.11
+5743,2017,Connecticut,6.61
+5744,2017,Mississippi St,5.9
+5745,2017,San Diego St,1.47
+5746,2017,Vermont,-3.27
+5747,2017,Princeton,-1.84
+5748,2017,Memphis,3.19
+5749,2017,Nebraska,10.74
+5750,2017,Davidson,4.26
+5751,2017,St John's,8.39
+5752,2017,Stanford,8.59
+5753,2017,NC State,8.09
+5754,2017,Colorado St,2.17
+5755,2017,St Bonaventure,1.48
+5756,2017,UT Arlington,-0.87
+5757,2017,Bucknell,-2.48
+5758,2017,Boise St,2.72
+5759,2017,Richmond,3.28
+5760,2017,Louisiana Tech,-4.35
+5761,2017,Loyola-Chicago,1.02
+5762,2017,Monmouth NJ,-2.62
+5763,2017,Temple,5.09
+5764,2017,New Mexico St,-3.82
+5765,2017,Fresno St,2.31
+5766,2017,Belmont,-1.69
+5767,2017,Oakland,-3
+5768,2017,Arizona St,7.11
+5769,2017,Col Charleston ,-0.19
+5770,2017,Valparaiso,-1.59
+5771,2017,Ohio,-2.56
+5772,2017,San Francisco,0.42
+5773,2017,Rutgers,6.22
+5774,2017,Akron,-1.21
+5775,2017,CS Bakersfield ,-1.94
+5776,2017,New Mexico,2.07
+5777,2017,George Mason,1.28
+5778,2017,Missouri,6.73
+5779,2017,Utah St,2.46
+5780,2017,Missouri St,1.18
+5781,2017,Wyoming,0.55
+5782,2017,Santa Clara,2.03
+5783,2017,Tulsa,5.29
+5784,2017,G Washington,2.11
+5785,2017,Harvard,-2.24
+5786,2017,FL Gulf Coast,-3.42
+5787,2017,Boston College,8.08
+5788,2017,Washington,6.82
+5789,2017,DePaul,7.78
+5790,2017,Old Dominion,-1.35
+5791,2017,La Salle,2.94
+5792,2017,Towson,-1.28
+5793,2017,Massachusetts,1.66
+5794,2017,St Peter's,-3.6
+5795,2017,Lehigh,-3.3
+5796,2017,Furman,-3.75
+5797,2017,Evansville,2.42
+5798,2017,Winthrop,-6.12
+5799,2017,Northern Iowa,5.22
+5800,2017,Toledo,-0.9
+5801,2017,Chattanooga,-2.08
+5802,2017,S Illinois,2.65
+5803,2017,Iona,-2.47
+5804,2017,Buffalo,-1.01
+5805,2017,Kent,-1.63
+5806,2017,Arkansas St,-2.1
+5807,2017,UNC Asheville,-5.61
+5808,2017,LSU,8.69
+5809,2017,Rice,-4.16
+5810,2017,IPFW,-3.19
+5811,2017,Elon,-1.39
+5812,2017,Yale,-2.19
+5813,2017,Marshall,-1.05
+5814,2017,UC Irvine,-2.7
+5815,2017,St Joseph's  PA,3.69
+5816,2017,Washington St,6.87
+5817,2017,UNC Greensboro ,-2.63
+5818,2017,William & Mary,-0.73
+5819,2017,Albany NY,-4.69
+5820,2017,Grand Canyon,-4.22
+5821,2017,N Kentucky,-2.84
+5822,2017,E Michigan,0.16
+5823,2017,Georgia St,-2.17
+5824,2017,South Dakota,-2.08
+5825,2017,Loy Marymount,1.6
+5826,2017,Troy,-3.36
+5827,2017,East Carolina,1.33
+5828,2017,Louisiana,-3.28
+5829,2017,Penn,-1.5
+5830,2017,Wofford,-1.08
+5831,2017,Northeastern,-0.91
+5832,2017,W Michigan,-0.55
+5833,2017,Indiana St,3.18
+5834,2017,Wright St,-2.42
+5835,2017,Mercer,-0.92
+5836,2017,Alabama-Birmingham,-1.83
+5837,2017,Utah Valley,-2.44
+5838,2017,N Dakota St,-2.63
+5839,2017,Ball St,-3.57
+5840,2017,Lipscomb,-4.45
+5841,2017,Tennessee St,-2.96
+5842,2017,North Dakota,-5.45
+5843,2017,Samford,-3.7
+5844,2017,Fordham,1.36
+5845,2017,Siena,-2.23
+5846,2017,Texas St,-4.29
+5847,2017,NE Omaha,-1.11
+5848,2017,S Dakota St,-0.66
+5849,2017,Weber St,-5.13
+5850,2017,Hofstra,-1.9
+5851,2017,Boston Univ,-3.66
+5852,2017,Montana,-4.02
+5853,2017,E Washington,-4.43
+5854,2017,WI Green Bay,-2.83
+5855,2017,Canisius,-3.5
+5856,2017,Bradley,2.94
+5857,2017,San Jose St,1.74
+5858,2017,Jacksonville St,-3.24
+5859,2017,TAM C. Christi,-5.79
+5860,2017,Denver,-4.19
+5861,2017,Air Force,1
+5862,2017,Duquesne,0.69
+5863,2017,Murray St,-4.41
+5864,2017,Gardner Webb,-5.71
+5865,2017,UTEP,-2.51
+5866,2017,NC Central,-12.12
+5867,2017,N Illinois,-2.05
+5868,2017,New Hampshire,-4.46
+5869,2017,Morehead St,-1.85
+5870,2017,Ga Southern,-2.83
+5871,2017,UNLV,2.59
+5872,2017,UMBC,-5.87
+5873,2017,Coastal Car,-1.48
+5874,2017,Tulane,4.25
+5875,2017,New Orleans,-5.34
+5876,2017,Navy,-3.92
+5877,2017,IUPUI,-1.62
+5878,2017,Mt St Mary's,-3.51
+5879,2017,Pacific,2.09
+5880,2017,Oregon St,5.89
+5881,2017,TN Martin,-4.34
+5882,2017,Drake,1.91
+5883,2017,Stony Brook,-5.05
+5884,2017,Fairfield,-3.85
+5885,2017,Missouri KC,-1.06
+5886,2017,UC Davis,-4.68
+5887,2017,Charlotte,-0.93
+5888,2017,Holy Cross,-3.51
+5889,2017,Idaho,-5.89
+5890,2017,Rider,-5.28
+5891,2017,E Illinois,-5.05
+5892,2017,Liberty,-6.16
+5893,2017,Oral Roberts,1.24
+5894,2017,James Madison,-1.83
+5895,2017,Columbia,-3.13
+5896,2017,C Michigan,-2.63
+5897,2017,San Diego,0.92
+5898,2017,WKU,-2.89
+5899,2017,Portland,2.32
+5900,2017,Army,-4.1
+5901,2017,SE Missouri St,-4.28
+5902,2017,IL Chicago,-3.63
+5903,2017,Long Beach St,-0.6
+5904,2017,Bowling Green,-2
+5905,2017,Ark Little Rock,-3.8
+5906,2017,St Louis,1.85
+5907,2017,Montana St,-5.88
+5908,2017,Hawaii,-4.92
+5909,2017,Loyola MD,-3.6
+5910,2017,TX Southern,-7.81
+5911,2017,South Alabama,-2.9
+5912,2017,Cleveland St,-1.53
+5913,2017,SF Austin,-5.75
+5914,2017,Portland St,-6.63
+5915,2017,Wagner,-7.89
+5916,2017,South Florida,2.39
+5917,2017,Houston Bap,-4.44
+5918,2017,Lamar,-7.93
+5919,2017,SE Louisiana,-8.13
+5920,2017,WI Milwaukee,-2.17
+5921,2017,UT San Antonio,-3.03
+5922,2017,Drexel,-2.56
+5923,2017,CS Fullerton,-6.85
+5924,2017,Sam Houston St,-6.35
+5925,2017,Tennessee Tech,-4.17
+5926,2017,SC Upstate,-5.23
+5927,2017,North Florida,-1.65
+5928,2017,Long Island,-8.51
+5929,2017,ULM,-2.56
+5930,2017,FL Atlantic,-1.98
+5931,2017,Florida Intl,-3.27
+5932,2017,St Francis PA,-7.65
+5933,2017,Miami OH,-2.1
+5934,2017,CS Northridge,-4.13
+5935,2017,Niagara,-4.37
+5936,2017,Seattle,-3.95
+5937,2017,Cornell,-1.55
+5938,2017,Kennesaw State,-5.97
+5939,2017,Colgate,-3.6
+5940,2017,Brown,-4.08
+5941,2017,Robert Morris,-5.13
+5942,2017,E Kentucky,-2.44
+5943,2017,Appalachian St,-1.6
+5944,2017,High Point,-6.28
+5945,2017,N Colorado,-4.2
+5946,2017,F Dickinson,-5.31
+5947,2017,Manhattan,-2.61
+5948,2017,Campbell,-7.59
+5949,2017,Bryant,-5.43
+5950,2017,Youngstown St,-2.56
+5951,2017,Quinnipiac,-3.22
+5952,2017,Delaware,-1.42
+5953,2017,Pepperdine,1.87
+5954,2017,NJIT,-4.22
+5955,2017,MA Lowell,-6.4
+5956,2017,Jacksonville,-8.45
+5957,2017,American Univ,-3.5
+5958,2017,CS Sacramento,-5.58
+5959,2017,Cal Poly SLO,-4.22
+5960,2017,Detroit,-1.62
+5961,2017,Sacred Heart,-7.52
+5962,2017,Austin Peay,-2.32
+5963,2017,W Illinois,-2.38
+5964,2017,North Texas,-3.32
+5965,2017,Dartmouth,-3.45
+5966,2017,Radford,-4.58
+5967,2017,UC Riverside,-3.87
+5968,2017,UTRGV,-3.68
+5969,2017,Abilene Chr,-7.1
+5970,2017,Binghamton,-5.79
+5971,2017,Northwestern LA,-6.07
+5972,2017,Norfolk St,-8.57
+5973,2017,Incarnate Word,-5.62
+5974,2017,Edwardsville,-3.29
+5975,2017,Charleston So,-6.21
+5976,2017,Alcorn St,-10.95
+5977,2017,Marist,-2.74
+5978,2017,Citadel,-2.93
+5979,2017,Cent Arkansas,-3.76
+5980,2017,Hampton,-9.92
+5981,2017,Southern Miss,-2.78
+5982,2017,UC Santa Barbara,-2
+5983,2017,MD E Shore,-7.61
+5984,2017,VMI,-1.8
+5985,2017,Northern Arizona,-5.95
+5986,2017,Stetson,-5.45
+5987,2017,McNeese St,-4.12
+5988,2017,Southern Univ,-11.68
+5989,2017,Prairie View,-8.48
+5990,2017,Nicholls St,-5.23
+5991,2017,Lafayette,-3.5
+5992,2017,Morgan St,-11.2
+5993,2017,Idaho State,-3.37
+5994,2017,W Carolina,-0.7
+5995,2017,Jackson St,-11.55
+5996,2017,Southern Utah,-5.39
+5997,2017,Hartford,-5.56
+5998,2017,Savannah St,-8.44
+5999,2017,Maine,-4.01
+6000,2017,Chicago St,-0.19
+6001,2017,Howard,-7.97
+6002,2017,Grambling,-11.89
+6003,2017,Central Conn,-7.68
+6004,2017,S Carolina St,-6.61
+6005,2017,Delaware St,-9.37
+6006,2017,St Francis NY,-6.54
+6007,2017,Bethune-Cookman,-11.21
+6008,2017,Alabama St,-10.75
+6009,2017,MS Valley St,-7.11
+6010,2017,Florida A&M,-11.85
+6011,2017,Longwood,-6.16
+6012,2017,Coppin St,-8.01
+6013,2017,Ark Pine Bluff,-10.28
+6014,2017,NC A&T,-9.61
+6015,2017,Presbyterian,-5.95
+6016,2017,Alabama A&M,-11.09
+6017,2018,Villanova,10.24
+6018,2018,Duke,9.71
+6019,2018,Purdue,8.74
+6020,2018,Michigan St,7.1
+6021,2018,Virginia,9.07
+6022,2018,Kansas,11.87
+6023,2018,Cincinnati,3.53
+6024,2018,North Carolina,11.78
+6025,2018,West Virginia,9.36
+6026,2018,Texas Tech,9.6
+6027,2018,Xavier,9.45
+6028,2018,Michigan,9.41
+6029,2018,Gonzaga,2.59
+6030,2018,Tennessee,10.12
+6031,2018,Ohio State,9.03
+6032,2018,Kentucky,10.73
+6033,2018,Clemson,9.25
+6034,2018,Butler,10.55
+6035,2018,Florida,10.08
+6036,2018,Wichita St,5.46
+6037,2018,TCU,9.68
+6038,2018,Creighton,8.1
+6039,2018,Houston,4.16
+6040,2018,Auburn,7.29
+6041,2018,Penn St,7.79
+6042,2018,Florida St,8.5
+6043,2018,Arizona,6.84
+6044,2018,Seton Hall,10.11
+6045,2018,Texas A&M,10.62
+6046,2018,Arkansas,9.85
+6047,2018,Baylor,9.17
+6048,2018,Nevada,4.93
+6049,2018,Arizona St,6.56
+6050,2018,Virginia Tech,6.72
+6051,2018,Louisville,9.08
+6052,2018,Texas,10.67
+6053,2018,Missouri,9.19
+6054,2018,Oklahoma,10.56
+6055,2018,Maryland,7.94
+6056,2018,Notre Dame,7.94
+6057,2018,NC State,6.7
+6058,2018,Syracuse,10.02
+6059,2018,Saint Mary's CA,0.33
+6060,2018,Kansas St,8.74
+6061,2018,Miami FL,6.96
+6062,2018,USC,6.29
+6063,2018,Marquette,9.7
+6064,2018,Oklahoma St,9.12
+6065,2018,Alabama,10.64
+6066,2018,San Diego St,3.91
+6067,2018,UCLA,6.86
+6068,2018,Rhode Island,4.61
+6069,2018,Mississippi St,6.82
+6070,2018,Utah,6.4
+6071,2018,Boise St,3.05
+6072,2018,Providence,10.23
+6073,2018,WKU,3.65
+6074,2018,Davidson,2.57
+6075,2018,Nebraska,7.32
+6076,2018,LSU,8.03
+6077,2018,Oregon,4.84
+6078,2018,Loyola-Chicago,1.81
+6079,2018,Wisconsin,9.5
+6080,2018,MTSU,2.83
+6081,2018,St John's,10.69
+6082,2018,Georgia,8.87
+6083,2018,Indiana,8.25
+6084,2018,Northwestern,8.37
+6085,2018,South Carolina,9.23
+6086,2018,Old Dominion,-1.27
+6087,2018,SMU,3.66
+6088,2018,New Mexico St,-1.1
+6089,2018,Boston College,7.2
+6090,2018,St Bonaventure,2.61
+6091,2018,Vanderbilt,10.14
+6092,2018,Illinois,7.53
+6093,2018,Fresno St,1.84
+6094,2018,Iowa,7.13
+6095,2018,Stanford,7.14
+6096,2018,BYU,1.53
+6097,2018,Buffalo,0.25
+6098,2018,Wake Forest,8.79
+6099,2018,Washington,6.06
+6100,2018,Louisiana,-2.54
+6101,2018,Oregon St,4.57
+6102,2018,Temple,7.79
+6103,2018,UNLV,1.87
+6104,2018,Georgetown,5.29
+6105,2018,Minnesota,6.91
+6106,2018,Iowa St,9.49
+6107,2018,Murray St,-3.53
+6108,2018,Mississippi,9.16
+6109,2018,S Dakota St,-0.38
+6110,2018,DePaul,8.45
+6111,2018,Montana,-2.25
+6112,2018,South Dakota,-2.6
+6113,2018,Colorado,7
+6114,2018,New Mexico,3.3
+6115,2018,Belmont,-2.88
+6116,2018,Rutgers,6.83
+6117,2018,Georgia Tech,7.47
+6118,2018,Utah Valley,-1.76
+6119,2018,Tulsa,2.38
+6120,2018,Alabama-Birmingham,-0.65
+6121,2018,Vermont,-3.17
+6122,2018,N Kentucky,-4.07
+6123,2018,UCF,3.75
+6124,2018,UNC Greensboro ,-3.87
+6125,2018,Bucknell,-3.46
+6126,2018,Furman,-3.64
+6127,2018,Wyoming,3.54
+6128,2018,Marshall,0.44
+6129,2018,Northern Iowa,3.87
+6130,2018,St Joseph's  PA,1.9
+6131,2018,Grand Canyon,-4.81
+6132,2018,ETSU,-4.09
+6133,2018,Northeastern,-1.61
+6134,2018,N Colorado,-2.27
+6135,2018,VA Commonwealth,2.42
+6136,2018,Georgia St,-2.78
+6137,2018,Missouri St,0.45
+6138,2018,San Diego,0.49
+6139,2018,SF Austin,-6.46
+6140,2018,Toledo,-1.75
+6141,2018,St Louis,2.92
+6142,2018,Utah St,2.65
+6143,2018,Penn,-3.17
+6144,2018,UT Arlington,-1.43
+6145,2018,UC Santa Barbara,-3.36
+6146,2018,Bradley,0.36
+6147,2018,FL Gulf Coast,-5.44
+6148,2018,Col Charleston ,-3.29
+6149,2018,Memphis,2.16
+6150,2018,La Salle,2.54
+6151,2018,Dayton,2.7
+6152,2018,Indiana St,2.43
+6153,2018,S Illinois,0.65
+6154,2018,Louisiana Tech,-0.12
+6155,2018,Tulane,2.08
+6156,2018,North Texas,-0.4
+6157,2018,San Francisco,1.63
+6158,2018,Connecticut,6.05
+6159,2018,Illinois St,3.67
+6160,2018,Rider,-2.62
+6161,2018,UC Davis,-1.84
+6162,2018,Idaho,-3.94
+6163,2018,Iona,-2.19
+6164,2018,Evansville,1.35
+6165,2018,Washington St,5.22
+6166,2018,Valparaiso,0.93
+6167,2018,Wright St,-3.64
+6168,2018,Canisius,-4.8
+6169,2018,Albany NY,-5.41
+6170,2018,Weber St,-2.88
+6171,2018,E Washington,-1.55
+6172,2018,Portland St,-1.05
+6173,2018,Towson,-3.14
+6174,2018,Richmond,3.61
+6175,2018,UC Irvine,-0.33
+6176,2018,E Michigan,-2.81
+6177,2018,Harvard,-1.7
+6178,2018,Jacksonville St,-4.87
+6179,2018,Drake,0.59
+6180,2018,Hofstra,-1.6
+6181,2018,Ga Southern,-3.28
+6182,2018,Pacific,1.8
+6183,2018,G Washington,2.13
+6184,2018,Mercer,-3.5
+6185,2018,CS Fullerton,-1.02
+6186,2018,Wofford,-2.45
+6187,2018,Duquesne,-3.33
+6188,2018,Ball St,-1.99
+6189,2018,UT San Antonio,-0.93
+6190,2018,William & Mary,-1.32
+6191,2018,C Michigan,-3.24
+6192,2018,Purdue-IPFW,-3.24
+6193,2018,Troy,-2.11
+6194,2018,Winthrop,-5.84
+6195,2018,Massachusetts,1.1
+6196,2018,Oakland,-3.76
+6197,2018,N Dakota St,-1.58
+6198,2018,Pittsburgh,8.47
+6199,2018,UMBC,-3.84
+6200,2018,Lipscomb,-3.8
+6201,2018,W Michigan,-1.99
+6202,2018,Hawaii,-2.5
+6203,2018,Seattle,-3.09
+6204,2018,Monmouth NJ,-1.24
+6205,2018,Princeton,-1.97
+6206,2018,Ohio,-1.65
+6207,2018,Radford,-4.08
+6208,2018,Liberty,-6.23
+6209,2018,IL Chicago,-4.21
+6210,2018,George Mason,0.83
+6211,2018,Wagner,-6.9
+6212,2018,Austin Peay,-2.49
+6213,2018,California,6.06
+6214,2018,Nicholls St,-5.86
+6215,2018,Miami OH,-1.15
+6216,2018,Kent,-1.75
+6217,2018,Long Beach St,0.89
+6218,2018,Colorado St,3.79
+6219,2018,Coastal Car,-2.4
+6220,2018,UNC Asheville,-3.57
+6221,2018,WI Milwaukee,-4.25
+6222,2018,Yale,-2.83
+6223,2018,Southern Miss,1.31
+6224,2018,Florida Intl,-1.99
+6225,2018,Air Force,1.72
+6226,2018,Loy Marymount,1.09
+6227,2018,Appalachian St,-2.65
+6228,2018,Niagara,-4.21
+6229,2018,Colgate,-5.73
+6230,2018,Fairfield,-3.68
+6231,2018,Manhattan,-4.15
+6232,2018,Stony Brook,-2.28
+6233,2018,Sam Houston St,-4.8
+6234,2018,Lamar,-7.22
+6235,2018,Denver,-2.54
+6236,2018,St Peter's,-4.36
+6237,2018,UTEP,-0.2
+6238,2018,Tennessee St,-2.98
+6239,2018,FL Atlantic,-0.14
+6240,2018,South Alabama,-2.87
+6241,2018,James Madison,-2.15
+6242,2018,Hartford,-5.26
+6243,2018,Columbia,-3.02
+6244,2018,Campbell,-6.68
+6245,2018,Idaho State,-3.7
+6246,2018,Cent Arkansas,-5.97
+6247,2018,Tennessee Tech,-3.54
+6248,2018,Texas St,-3.44
+6249,2018,St Francis PA,-6.71
+6250,2018,ULM,-3.31
+6251,2018,Bowling Green,-2.88
+6252,2018,SE Louisiana,-6.2
+6253,2018,Lehigh,-5.66
+6254,2018,Pepperdine,1.82
+6255,2018,CS Bakersfield ,-0.73
+6256,2018,Portland,2.43
+6257,2018,Oral Roberts,1.05
+6258,2018,N Illinois,-1.71
+6259,2018,Fordham,1.26
+6260,2018,High Point,-6.37
+6261,2018,Akron,-1.92
+6262,2018,Elon,-1.69
+6263,2018,Delaware,-2.96
+6264,2018,Navy,-7.22
+6265,2018,Santa Clara,0.61
+6266,2018,Drexel,-2.48
+6267,2018,NJIT,-5.53
+6268,2018,South Florida,0.05
+6269,2018,UNC Wilmington,-1.15
+6270,2018,TX Southern,-5.53
+6271,2018,North Dakota,-0.2
+6272,2018,Southern Utah,-0.88
+6273,2018,UTRGV,-2.84
+6274,2018,Brown,-4.67
+6275,2018,Robert Morris,-6.11
+6276,2018,SE Missouri St,-4.88
+6277,2018,Charleston So,-6.15
+6278,2018,Mt St Mary's,-8.05
+6279,2018,E Illinois,-3.4
+6280,2018,Boston Univ,-5.84
+6281,2018,New Hampshire,-4.32
+6282,2018,UC Riverside,-1.53
+6283,2018,WI Green Bay,-4.08
+6284,2018,Long Island,-8.19
+6285,2018,Army,-7.17
+6286,2018,Rice,-0.04
+6287,2018,Montana St,-3.53
+6288,2018,East Carolina,-0.22
+6289,2018,San Jose St,2.91
+6290,2018,Cornell,-3.24
+6291,2018,Hampton,-9.57
+6292,2018,CS Sacramento,-0.74
+6293,2018,New Orleans,-5.78
+6294,2018,Abilene Chr,-6.82
+6295,2018,Quinnipiac,-4.44
+6296,2018,MA Lowell,-5.78
+6297,2018,Arkansas St,-3.02
+6298,2018,Gardner Webb,-3.79
+6299,2018,Lafayette,-6.04
+6300,2018,IUPUI,-3.53
+6301,2018,NE Omaha,0.33
+6302,2018,Holy Cross,-5.83
+6303,2018,Charlotte,0.27
+6304,2018,Prairie View,-7.71
+6305,2018,Missouri KC,-1.02
+6306,2018,Binghamton,-6.36
+6307,2018,Dartmouth,-4
+6308,2018,F Dickinson,-5.66
+6309,2018,Ark Little Rock,-2.21
+6310,2018,Siena,-2.99
+6311,2018,TN Martin,-4.96
+6312,2018,E Kentucky,-3.68
+6313,2018,Morehead St,-1.91
+6314,2018,Cleveland St,-3.64
+6315,2018,W Illinois,-2.28
+6316,2018,Chattanooga,-4.05
+6317,2018,Samford,-3.37
+6318,2018,Kennesaw State,-4.31
+6319,2018,Sacred Heart,-6.98
+6320,2018,North Florida,-1.74
+6321,2018,Cal Poly SLO,-1.83
+6322,2018,Central Conn,-7.59
+6323,2018,W Carolina,-1.63
+6324,2018,McNeese St,-6.1
+6325,2018,Bethune-Cookman,-12.48
+6326,2018,St Francis NY,-7.32
+6327,2018,TAM C. Christi,-6.56
+6328,2018,Stetson,-6.46
+6329,2018,Edwardsville,-3.36
+6330,2018,Detroit,-2.07
+6331,2018,Marist,-3.57
+6332,2018,NC A&T,-11.2
+6333,2018,Loyola MD,-5.25
+6334,2018,Grambling,-10.3
+6335,2018,Norfolk St,-10.18
+6336,2018,NC Central,-12.31
+6337,2018,Jacksonville,-6.12
+6338,2018,CS Northridge,-3.55
+6339,2018,Citadel,-2.94
+6340,2018,Youngstown St,-2.56
+6341,2018,Presbyterian,-5.53
+6342,2018,Southern Univ,-9.57
+6343,2018,American Univ,-6.17
+6344,2018,Maine,-3.28
+6345,2018,Northern Arizona,-1.03
+6346,2018,Ark Pine Bluff,-9.36
+6347,2018,Savannah St,-5.06
+6348,2018,VMI,-4.25
+6349,2018,Morgan St,-11.97
+6350,2018,Houston Bap,-3.96
+6351,2018,Howard,-9.75
+6352,2018,SC Upstate,-4.35
+6353,2018,Jackson St,-10.49
+6354,2018,Incarnate Word,-5.04
+6355,2018,Alcorn St,-8.6
+6356,2018,Longwood,-4.31
+6357,2018,Alabama St,-8.62
+6358,2018,Bryant,-5.43
+6359,2018,Florida A&M,-8.34
+6360,2018,S Carolina St,-8.78
+6361,2018,Coppin St,-7.25
+6362,2018,Northwestern LA,-4.18
+6363,2018,MS Valley St,-8.13
+6364,2018,Chicago St,1.17
+6365,2018,Alabama A&M,-8.04
+6366,2018,Delaware St,-9.32
+6367,2018,MD E Shore,-7.57
+6368,2019,Duke,12.4
+6369,2019,Gonzaga,4.44
+6370,2019,Virginia,9.84
+6371,2019,Michigan St,12.27
+6372,2019,North Carolina,12.16
+6373,2019,Michigan,10.83
+6374,2019,Tennessee,10.32
+6375,2019,Kentucky,10.46
+6376,2019,Texas Tech,7.6
+6377,2019,Purdue,11.93
+6378,2019,Auburn,10.07
+6379,2019,Virginia Tech,7.94
+6380,2019,Wisconsin,11.41
+6381,2019,Louisville,11.72
+6382,2019,Florida St,10.58
+6383,2019,Houston,3.85
+6384,2019,Iowa St,9.02
+6385,2019,Kansas,12.78
+6386,2019,LSU,8.9
+6387,2019,Mississippi St,9.54
+6388,2019,Maryland,10.43
+6389,2019,Nevada,2.58
+6390,2019,Marquette,7.48
+6391,2019,NC State,6.87
+6392,2019,Buffalo,2.17
+6393,2019,Nebraska,11.74
+6394,2019,Kansas St,9.2
+6395,2019,Florida,11.12
+6396,2019,Texas,11.56
+6397,2019,Villanova,7.94
+6398,2019,Clemson,9.61
+6399,2019,Indiana,10.66
+6400,2019,Oklahoma,11.76
+6401,2019,Syracuse,10.58
+6402,2019,Cincinnati,5.1
+6403,2019,Iowa,9.78
+6404,2019,Ohio State,10.99
+6405,2019,Wofford,0.14
+6406,2019,TCU,9.46
+6407,2019,Mississippi,8.23
+6408,2019,Penn St,12.02
+6409,2019,Saint Mary's CA,4.38
+6410,2019,Baylor,8.37
+6411,2019,Oregon,5.25
+6412,2019,Minnesota,11.16
+6413,2019,Utah St,0.8
+6414,2019,Creighton,8.91
+6415,2019,VA Commonwealth,2.68
+6416,2019,UCF,4.64
+6417,2019,Arkansas,8.99
+6418,2019,Washington,6.41
+6419,2019,Seton Hall,8.85
+6420,2019,Memphis,4.73
+6421,2019,Arizona St,5.71
+6422,2019,Northwestern,9.65
+6423,2019,Alabama,9.79
+6424,2019,New Mexico St,-2.74
+6425,2019,Colorado,3.65
+6426,2019,Miami FL,9.32
+6427,2019,Dayton,3.16
+6428,2019,Butler,8.49
+6429,2019,Xavier,8.39
+6430,2019,Illinois,12.05
+6431,2019,Rutgers,10.3
+6432,2019,Fresno St,1
+6433,2019,Belmont,-3.19
+6434,2019,Missouri,9.47
+6435,2019,Toledo,0.69
+6436,2019,Murray St,-4.38
+6437,2019,Providence,7.22
+6438,2019,Lipscomb,-2.63
+6439,2019,San Francisco,1.34
+6440,2019,St John's,5.99
+6441,2019,South Carolina,9.98
+6442,2019,Notre Dame,8.85
+6443,2019,Pittsburgh,7.31
+6444,2019,Arizona,6.36
+6445,2019,USC,4.92
+6446,2019,Temple,4.84
+6447,2019,Oklahoma St,11.45
+6448,2019,Furman,-1.49
+6449,2019,Oregon St,4.36
+6450,2019,Georgetown,5.91
+6451,2019,Texas A&M,8.91
+6452,2019,Georgia Tech,8.73
+6453,2019,UCLA,6.87
+6454,2019,West Virginia,10.94
+6455,2019,DePaul,5.05
+6456,2019,Wichita St,5.28
+6457,2019,Connecticut,4.21
+6458,2019,Davidson,2.2
+6459,2019,Boston College,8.41
+6460,2019,BYU,3.54
+6461,2019,San Diego,3.82
+6462,2019,Utah,5.16
+6463,2019,Stanford,5.26
+6464,2019,S Dakota St,-4.6
+6465,2019,ETSU,-1.5
+6466,2019,UC Irvine,-3
+6467,2019,SMU,3.98
+6468,2019,Georgia,8.43
+6469,2019,San Diego St,2.78
+6470,2019,Yale,-1.72
+6471,2019,South Florida,1.22
+6472,2019,St Louis,1.99
+6473,2019,Akron,1.42
+6474,2019,Hofstra,-4.16
+6475,2019,Vermont,-4.69
+6476,2019,Northeastern,-0.95
+6477,2019,Liberty,-5.12
+6478,2019,UNC Greensboro ,-0.91
+6479,2019,Tulsa,3.77
+6480,2019,Bowling Green,1.15
+6481,2019,N Kentucky,-3.22
+6482,2019,Grand Canyon,-1.45
+6483,2019,Loyola-Chicago,0.06
+6484,2019,Ga Southern,0.34
+6485,2019,Old Dominion,-1.48
+6486,2019,Southern Miss,-0.36
+6487,2019,Vanderbilt,8.12
+6488,2019,Boise St,1.33
+6489,2019,Ball St,1.54
+6490,2019,St Bonaventure,0.52
+6491,2019,Utah Valley,-2.23
+6492,2019,WKU,1.27
+6493,2019,C Michigan,-0.24
+6494,2019,Wright St,-0.85
+6495,2019,Drake,-0.23
+6496,2019,Georgia St,0.35
+6497,2019,Loy Marymount,1.19
+6498,2019,Rhode Island,1.45
+6499,2019,N Illinois,1.42
+6500,2019,Col Charleston ,-2.6
+6501,2019,Penn,-0.59
+6502,2019,Texas St,-2.69
+6503,2019,Kent,0.88
+6504,2019,UNLV,0.76
+6505,2019,Wake Forest,9.09
+6506,2019,Jacksonville St,-5.42
+6507,2019,S Illinois,0.01
+6508,2019,Montana,-5.84
+6509,2019,Harvard,0.17
+6510,2019,Louisiana Tech,-1.99
+6511,2019,Radford,-2.02
+6512,2019,Pepperdine,0.82
+6513,2019,Miami OH,2.62
+6514,2019,George Mason,0.29
+6515,2019,ULM,-1.77
+6516,2019,UT San Antonio,0.39
+6517,2019,Colgate,-4.41
+6518,2019,Samford,-1.72
+6519,2019,Alabama-Birmingham,-1.25
+6520,2019,E Michigan,4.83
+6521,2019,Bucknell,-2.77
+6522,2019,Duquesne,-0.44
+6523,2019,Austin Peay,-4.37
+6524,2019,Colorado St,1.71
+6525,2019,North Texas,-3.21
+6526,2019,Brown,-3.49
+6527,2019,St Joseph's  PA,1.89
+6528,2019,New Mexico,1.92
+6529,2019,UT Arlington,1.1
+6530,2019,Bradley,-1.47
+6531,2019,Missouri St,-0.85
+6532,2019,FL Atlantic,-1.44
+6533,2019,Seattle,-3.66
+6534,2019,Hawaii,-3.37
+6535,2019,Marshall,0.02
+6536,2019,Coastal Car,-2
+6537,2019,Richmond,-0.61
+6538,2019,UTRGV,-1.04
+6539,2019,Abilene Chr,-8.13
+6540,2019,Northern Iowa,0.85
+6541,2019,UC Santa Barbara,-5.36
+6542,2019,Ohio,3.4
+6543,2019,Washington St,2.2
+6544,2019,Santa Clara,1.09
+6545,2019,Illinois St,0.46
+6546,2019,Louisiana,-1.29
+6547,2019,Stony Brook,-6.71
+6548,2019,Lehigh,-4.29
+6549,2019,Oakland,-1.4
+6550,2019,Pacific,2.23
+6551,2019,NE Omaha,-3.27
+6552,2019,Charleston So,-4.31
+6553,2019,Mercer,0.13
+6554,2019,Indiana St,0.76
+6555,2019,IUPUI,-3.05
+6556,2019,CS Fullerton,-0.81
+6557,2019,Massachusetts,0.04
+6558,2019,Winthrop,-3.79
+6559,2019,Sam Houston St,-6.16
+6560,2019,Gardner Webb,-5.4
+6561,2019,California,5.49
+6562,2019,IL Chicago,-1.97
+6563,2019,Valparaiso,-0.78
+6564,2019,NJIT,-4.73
+6565,2019,Princeton,-0.71
+6566,2019,Purdue-IPFW,-3.44
+6567,2019,WI Green Bay,-0.01
+6568,2019,La Salle,1.58
+6569,2019,North Florida,-0.59
+6570,2019,Presbyterian,-5.5
+6571,2019,Appalachian St,0.24
+6572,2019,Hartford,-4.62
+6573,2019,Evansville,0.26
+6574,2019,Campbell,-4.52
+6575,2019,Florida Intl,-1.3
+6576,2019,Cal Baptist,-4.07
+6577,2019,Air Force,0.58
+6578,2019,N Dakota St,-2.5
+6579,2019,N Colorado,-6.8
+6580,2019,American Univ,-7.05
+6581,2019,South Alabama,-2.5
+6582,2019,Hampton,-5.35
+6583,2019,Weber St,-6.03
+6584,2019,Long Beach St,-0.23
+6585,2019,William & Mary,-1.78
+6586,2019,Ark Little Rock,-1.85
+6587,2019,CS Bakersfield ,-2.08
+6588,2019,Fordham,-2.15
+6589,2019,Rider,-6.4
+6590,2019,FL Gulf Coast,-1.31
+6591,2019,Columbia,-1.97
+6592,2019,Iona,-6.26
+6593,2019,South Dakota,-2.89
+6594,2019,Dartmouth,-2.86
+6595,2019,East Carolina,1.18
+6596,2019,UMBC,-5.65
+6597,2019,F Dickinson,-8.04
+6598,2019,Lamar,-7
+6599,2019,MTSU,1.79
+6600,2019,High Point,-4.53
+6601,2019,Troy,-0.75
+6602,2019,W Michigan,1.85
+6603,2019,Cornell,-1.9
+6604,2019,UC Davis,-1.24
+6605,2019,Detroit,-0.29
+6606,2019,Missouri KC,-1.2
+6607,2019,Holy Cross,-3.85
+6608,2019,CS Northridge,-3.18
+6609,2019,Rice,-1.84
+6610,2019,G Washington,1.45
+6611,2019,Boston Univ,-5.2
+6612,2019,TX Southern,-7.51
+6613,2019,Quinnipiac,-7.88
+6614,2019,Drexel,-2.59
+6615,2019,E Washington,-4.21
+6616,2019,Arkansas St,-0.97
+6617,2019,Tulane,3.49
+6618,2019,E Kentucky,-2.4
+6619,2019,Prairie View,-9.21
+6620,2019,SE Louisiana,-6.05
+6621,2019,Army,-4.51
+6622,2019,Chattanooga,-0.39
+6623,2019,Sacred Heart,-7.74
+6624,2019,Delaware,-4.46
+6625,2019,Youngstown St,-1.95
+6626,2019,Citadel,0.24
+6627,2019,Morehead St,-1.75
+6628,2019,UNC Wilmington,-1.65
+6629,2019,Siena,-6.38
+6630,2019,Montana St,-5.74
+6631,2019,Cleveland St,-1.43
+6632,2019,UTEP,-1.4
+6633,2019,MA Lowell,-6.73
+6634,2019,Towson,-3.22
+6635,2019,Charlotte,-0.67
+6636,2019,Jacksonville,-4.62
+6637,2019,James Madison,-3.76
+6638,2019,St Francis PA,-5.77
+6639,2019,New Orleans,-6.23
+6640,2019,North Dakota,-3.33
+6641,2019,Norfolk St,-9.8
+6642,2019,Canisius,-4.67
+6643,2019,Long Island,-8.77
+6644,2019,TAM C. Christi,-5.31
+6645,2019,CS Sacramento,-6.76
+6646,2019,WI Milwaukee,-2.4
+6647,2019,W Carolina,0.69
+6648,2019,Loyola MD,-4.42
+6649,2019,Portland St,-5.79
+6650,2019,Houston Bap,-5.18
+6651,2019,Robert Morris,-7.45
+6652,2019,Albany NY,-6.53
+6653,2019,Oral Roberts,-1.82
+6654,2019,Marist,-7.4
+6655,2019,Wyoming,0.5
+6656,2019,Southern Utah,-6.47
+6657,2019,St Francis NY,-8.29
+6658,2019,Longwood,-7.45
+6659,2019,W Illinois,-5.01
+6660,2019,Grambling,-9.59
+6661,2019,Navy,-3.86
+6662,2019,Fairfield,-7.04
+6663,2019,VMI,0.36
+6664,2019,Monmouth NJ,-4.72
+6665,2019,Portland,0.72
+6666,2019,Northern Arizona,-6.19
+6667,2019,SF Austin,-5.63
+6668,2019,TN Martin,-4.22
+6669,2019,North Alabama,-1.55
+6670,2019,UC Riverside,-2.94
+6671,2019,Lafayette,-4.77
+6672,2019,Cent Arkansas,-4.46
+6673,2019,NC A&T,-9.74
+6674,2019,Elon,-3.15
+6675,2019,Niagara,-7.65
+6676,2019,SE Missouri St,-4.29
+6677,2019,Tennessee St,-3.06
+6678,2019,NC Central,-11.4
+6679,2019,Nicholls St,-6.69
+6680,2019,Denver,-2.82
+6681,2019,E Illinois,-4.96
+6682,2019,Bethune-Cookman,-9.6
+6683,2019,St Peter's,-6.25
+6684,2019,Howard,-9.79
+6685,2019,Wagner,-7.26
+6686,2019,Manhattan,-7.22
+6687,2019,Idaho State,-4.79
+6688,2019,Florida A&M,-8.06
+6689,2019,Central Conn,-6.38
+6690,2019,Binghamton,-4.49
+6691,2019,Cal Poly SLO,-3.31
+6692,2019,McNeese St,-5.86
+6693,2019,Mt St Mary's,-5.66
+6694,2019,Edwardsville,-4.96
+6695,2019,Ark Pine Bluff,-8.25
+6696,2019,Tennessee Tech,-2.84
+6697,2019,Jackson St,-9.35
+6698,2019,Bryant,-7.34
+6699,2019,Maine,-3.99
+6700,2019,Stetson,-3.46
+6701,2019,SC Upstate,-4.3
+6702,2019,Alabama St,-7.93
+6703,2019,Morgan St,-10.49
+6704,2019,San Jose St,0.88
+6705,2019,Kennesaw State,-0.97
+6706,2019,S Carolina St,-8.21
+6707,2019,Southern Univ,-7.38
+6708,2019,Northwestern LA,-5.82
+6709,2019,New Hampshire,-5.85
+6710,2019,Incarnate Word,-4.87
+6711,2019,Idaho,-6.16
+6712,2019,Coppin St,-6.97
+6713,2019,Alabama A&M,-8.44
+6714,2019,UNC Asheville,-2.41
+6715,2019,Savannah St,-8.96
+6716,2019,Alcorn St,-9.04
+6717,2019,MS Valley St,-6.98
+6718,2019,MD E Shore,-7.77
+6719,2019,Chicago St,1.07
+6720,2019,Delaware St,-10.11
